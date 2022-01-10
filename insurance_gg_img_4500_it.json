@@ -1,0 +1,69 @@
+{
+  "english": "insurance",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bảo hiểm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bảo hiểm nhà cháy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bảo hiểm sanh mạng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bảo hiểm tai nạn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự bảo hiểm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự bảo kê",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiền bảo hiểm",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium.",
+      "definitions_ex_en": "many new borrowers take out insurance against unemployment or sickness",
+      "definitions_ex_vn": "Nhiều người vay mới lấy ra bảo hiểm chống thất nghiệp hoặc bệnh tật",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a thing providing protection against a possible eventuality.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808388562_63fe485528_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808388562_11ed8001d3_o.png",
+      "id_image": "insurance_1354971"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808388542_83370447c9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808388542_2ba66fa57d_o.png",
+      "id_image": "insurance_1429187"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809343521_0495917c1c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809343521_ee4ddf1743_o.png",
+      "id_image": "insurance_1429188"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808388462_49944ae953_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808388462_217c2b5ce1_o.png",
+      "id_image": "insurance_1688687"
+    }
+  ]
+}

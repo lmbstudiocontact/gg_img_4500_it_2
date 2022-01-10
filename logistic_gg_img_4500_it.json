@@ -1,0 +1,39 @@
+{
+  "english": "logistic",
+  "list_translation_mean": [
+    {
+      "translate_mean": "luận lý học",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "relating to logistics.",
+      "definitions_ex_en": "logistic problems",
+      "definitions_ex_vn": "vấn đề hậu cần",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809336811_5954cc6a29_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809336811_43b12ab5f9_o.png",
+      "id_image": "logistic_2104179"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810073815_b9730c2744_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810073815_5f9cd4d2b8_o.png",
+      "id_image": "logistic_4705101"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809692069_06d6f243d1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809692069_18433194be_o.png",
+      "id_image": "logistic_4705104"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809692029_a030f64d64_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809692029_d7370035be_o.png",
+      "id_image": "logistic_5673289"
+    }
+  ]
+}

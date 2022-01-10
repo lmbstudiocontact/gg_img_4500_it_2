@@ -1,0 +1,40 @@
+{
+  "english": "milestone",
+  "list_translation_mean": [
+    {
+      "translate_mean": "trụ đá chỉ dặm anh",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a stone set up beside a road to mark the distance in miles to a particular place.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an action or event marking a significant change or stage in development.",
+      "definitions_ex_en": "the speech is being hailed as a milestone in race relations",
+      "definitions_ex_vn": "Bài phát biểu đang được ca ngợi là một cột mốc quan trọng trong mối quan hệ chủng tộc",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809458653_852be419d6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809458653_a09f9de802_o.png",
+      "id_image": "milestone_2910923"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809343876_0c0e3a2e6c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809343876_4d7df2bb76_o.png",
+      "id_image": "milestone_5521113"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809343861_4742708479_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809343861_0cd1a6e79b_o.png",
+      "id_image": "milestone_5521174"
+    }
+  ]
+}

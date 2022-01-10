@@ -1,0 +1,55 @@
+{
+  "english": "method",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cách thức",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "làm việc có thứ tự",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phép",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phương pháp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phương thức",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a particular form of procedure for accomplishing or approaching something, especially a systematic or established one.",
+      "definitions_ex_en": "a method for software maintenance",
+      "definitions_ex_vn": "Một phương pháp bảo trì phần mềm",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808390012_61ac495627_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808390012_5e36ea0a8e_o.png",
+      "id_image": "method_1605552"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810082530_f5bbb43a32_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810082530_4635d5464e_o.png",
+      "id_image": "method_4215258"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809700164_d8b674521e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809700164_4b7f908399_o.png",
+      "id_image": "method_6040674"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808389937_8a3bf8b894_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808389937_971ba10622_o.png",
+      "id_image": "method_6326801"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "english": "nativity",
+  "list_translation_mean": [
+    {
+      "translate_mean": "lá số tử vi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lúc sanh đẻ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nơi sanh đẻ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ngày sanh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sanh nhựt",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the occasion of a person's birth.",
+      "definitions_ex_en": "the place of my nativity",
+      "definitions_ex_vn": "Nơi của Chúa nọ của tôi",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810064470_65b3c6bc66_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810064470_9f3d7eba46_o.png",
+      "id_image": "nativity_6369900"
+    }
+  ]
+}

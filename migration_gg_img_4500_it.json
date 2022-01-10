@@ -1,0 +1,35 @@
+{
+  "english": "migration",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự chim đi nơi khác",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "seasonal movement of animals from one region to another.",
+      "definitions_ex_en": "this butterfly's annual migration across North America",
+      "definitions_ex_vn": "Di cư hàng năm của con bướm này trên khắp Bắc Mỹ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "movement from one part of something to another.",
+      "definitions_ex_en": "there is virtually no cell migration in plants",
+      "definitions_ex_vn": "Hầu như không có di chuyển tế bào trong thực vật",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809344031_602f276b89_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809344031_1abafff034_o.png",
+      "id_image": "migration_3755352"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808388937_c325ef789c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808388937_a417188954_o.png",
+      "id_image": "migration_4819468"
+    }
+  ]
+}

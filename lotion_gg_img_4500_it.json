@@ -1,0 +1,47 @@
+{
+  "english": "lotion",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chất thuốc chống khô da",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự rửa vết thương",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thuốc trị bịnh khô da",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a thick, smooth liquid preparation designed to be applied to the skin for medicinal or cosmetic purposes.",
+      "definitions_ex_en": "itching can be relieved with calamine lotion or antihistamine tablets",
+      "definitions_ex_vn": "Ngứa có thể được giải tỏa với kem dưỡng da calamine hoặc thuốc kháng histamine",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809690049_5a6aa88c95_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809690049_6fc93417d9_o.png",
+      "id_image": "lotion_5507184"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809690004_77ac4f7c67_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809690004_d22b74a076_o.png",
+      "id_image": "lotion_5662084"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809689949_85278d41dd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809689949_4ccd77bf35_o.png",
+      "id_image": "lotion_5731950"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809334791_e8a744f4a8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809334791_ed615c5be9_o.png",
+      "id_image": "lotion_6075185"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "english": "optical",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thuộc về mắt",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "về thị giác",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "relating to sight, especially in relation to the physical action of light.",
+      "definitions_ex_en": "optical illusions",
+      "definitions_ex_vn": "ảo ảnh quang học",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "operating in or employing the visible part of the electromagnetic spectrum.",
+      "definitions_ex_en": "optical telescopes",
+      "definitions_ex_vn": "Kính thiên văn quang học.",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809700484_58ea93d414_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809700484_5295b120eb_o.png",
+      "id_image": "optical_286535"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809700444_84e7d926e8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809700444_3b023cfaf4_o.png",
+      "id_image": "optical_4106094"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809700389_ec979d1f8b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809700389_995f47d81a_o.png",
+      "id_image": "optical_4106327"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810082775_c1cf3dbf4f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810082775_25f6bed493_o.png",
+      "id_image": "optical_948492"
+    }
+  ]
+}

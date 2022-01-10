@@ -1,0 +1,46 @@
+{
+  "english": "liege",
+  "list_translation_mean": [
+    {
+      "translate_mean": "gia thần",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thần dân",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "gia thần",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người tôi tớ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thần dân",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "concerned with or relating to the relationship between a feudal superior and a vassal.",
+      "definitions_ex_en": "an oath of fealty and liege homage",
+      "definitions_ex_vn": "một lời thề ngài và nói dối dối trá",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a feudal superior or sovereign.",
+      "definitions_ex_en": "the Scots obeyed him as their liege lord",
+      "definitions_ex_vn": "Người Scots vâng lời anh ta là Chúa Liege của họ",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809698474_6e36a2fbc4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809698474_cc28445a23_o.png",
+      "id_image": "liege_1927650"
+    }
+  ]
+}

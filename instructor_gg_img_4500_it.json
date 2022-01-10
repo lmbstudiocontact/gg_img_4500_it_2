@@ -1,0 +1,46 @@
+{
+  "english": "instructor",
+  "list_translation_mean": [
+    {
+      "translate_mean": "giáo sư",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người huấn luyện",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người hướng dẫn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thầy giáo",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person who teaches something.",
+      "definitions_ex_en": "a driving instructor",
+      "definitions_ex_vn": "một người hướng dẫn lái xe",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809699304_4b7c0c8c09_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809699304_c5e4c34f39_o.png",
+      "id_image": "instructor_1236466"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809458923_f51e3f64fb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809458923_8e07d660e7_o.png",
+      "id_image": "instructor_1900237"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810081550_6ebc744ccf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810081550_6ac32b3138_o.png",
+      "id_image": "instructor_3410150"
+    }
+  ]
+}

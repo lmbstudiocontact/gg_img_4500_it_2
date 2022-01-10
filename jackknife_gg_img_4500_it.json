@@ -1,0 +1,51 @@
+{
+  "english": "jackknife",
+  "list_translation_mean": [
+    {
+      "translate_mean": "dao nhỏ bỏ túi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dao xếp",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a knife with a folding blade.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a dive in which the body is first bent at the waist and then straightened.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a method of assessing the variability of data by repeating a calculation on the sets of data obtained by removing one value from the complete set.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "move one's body into a bent or doubled-up position.",
+      "definitions_ex_en": "she jackknifed into a sitting position",
+      "definitions_ex_vn": "Cô ấy đã khóc vào một vị trí ngồi",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810073150_2f44a41ff4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810073150_0713f10765_o.png",
+      "id_image": "jackknife_1591499"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810073120_ca35252b14_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810073120_a3b599b34e_o.png",
+      "id_image": "jackknife_2039336"
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "english": "jumper",
+  "list_translation_mean": [
+    {
+      "translate_mean": "áo may liền với quần",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "áo ngoài mặc chui đầu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "áo va rơi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dây néo cột buồm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "châu chấụ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "choòng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dế",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người nhảy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sâu bọ nhảy bọ chét",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thú nhảy",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a loose outer jacket worn by sailors.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a person or animal that jumps.",
+      "definitions_ex_en": "the horse should be a better jumper this season",
+      "definitions_ex_vn": "Con ngựa nên là một người nhảy tốt hơn trong mùa này",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a short wire used to complete an electric circuit or bypass a break in a circuit.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a rope made fast to keep a yard or mast from jumping.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a heavy chisel-ended steel bar for drilling blast holes.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375517_b77b9b1095_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375517_ec9eb14aed_o.png",
+      "id_image": "jumper_1857561"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809330831_392327923f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809330831_769ca51aed_o.png",
+      "id_image": "jumper_3761416"
+    }
+  ]
+}

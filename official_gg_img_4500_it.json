@@ -1,0 +1,46 @@
+{
+  "english": "official",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chánh thức",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "được phép",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thuộc về nhiệm vụ",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thuộc về văn phòng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "dược phòng",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "relating to an authority or public body and its duties, actions, and responsibilities.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a person holding public office or having official duties, especially as a representative of an organization or government department.",
+      "definitions_ex_en": "a union official",
+      "definitions_ex_vn": "một quan chức công đoàn",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809348116_5b3dc8fa1e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809348116_c4ea51544a_o.png",
+      "id_image": "official_1848932"
+    }
+  ]
+}

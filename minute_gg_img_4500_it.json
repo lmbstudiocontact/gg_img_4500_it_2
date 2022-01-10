@@ -1,0 +1,92 @@
+{
+  "english": "minute",
+  "list_translation_mean": [
+    {
+      "translate_mean": "phân",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chút",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lát",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nguyên bản",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nguyên cáo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phút",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "rất nhỏ",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "tế toái",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "vụn về",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "tính phút",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thảo",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "viết",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a period of time equal to sixty seconds or a sixtieth of an hour.",
+      "definitions_ex_en": "he stood in the shower for twenty minutes",
+      "definitions_ex_vn": "Anh đứng khi tắm trong hai mươi phút",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a sixtieth of a degree of angular measurement (symbol: ʹ).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a summarized record of the proceedings at a meeting.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "extremely small.",
+      "definitions_ex_en": "a minute fraction of an inch",
+      "definitions_ex_vn": "một phần phút của một inch",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "record or note (the proceedings of a meeting or a specified item among such proceedings).",
+      "definitions_ex_en": "the Secretary shall minute the proceedings of each meeting",
+      "definitions_ex_vn": "Bí thư sẽ chấm dứt các thủ tục tố tụng của mỗi cuộc họp",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809341461_0e5b76ed02_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809341461_45fd55e714_o.png",
+      "id_image": "minute_817285"
+    }
+  ]
+}

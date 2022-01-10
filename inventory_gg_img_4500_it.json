@@ -1,0 +1,78 @@
+{
+  "english": "inventory",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bản kê tất cả hàng hóa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "kiểm hàng hóa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "kiềm kê tiền bạc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự kiểm kê hàng tồn kho",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "kiểm kê ruộng đất",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "kiểm kê tài sản",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "kiểm kê tài sản",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm bản kê hàng hóa",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a complete list of items such as property, goods in stock, or the contents of a building.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "make a complete list of.",
+      "definitions_ex_en": "I inventoried his collection of drawings",
+      "definitions_ex_vn": "Tôi đã phát minh ra bộ sưu tập bản vẽ của mình",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810076845_4be843de49_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810076845_07f3c28af7_o.png",
+      "id_image": "inventory_1410024"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809454528_df7eb4f4d1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809454528_c8ac9b6202_o.png",
+      "id_image": "inventory_1580239"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809694804_ab4ecce529_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809694804_4ff3d4b991_o.png",
+      "id_image": "inventory_2361687"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808384462_86e53aec06_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808384462_7f12069d79_o.png",
+      "id_image": "inventory_3985186"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809454423_680c1f6c24_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809454423_df3c5aa690_o.png",
+      "id_image": "inventory_5434458"
+    }
+  ]
+}

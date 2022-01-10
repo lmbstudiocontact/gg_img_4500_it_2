@@ -1,0 +1,63 @@
+{
+  "english": "integration",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cách lấy tích phân",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự hoàn toàn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự liên hợp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự nguyên vẹn",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the action or process of integrating.",
+      "definitions_ex_en": "economic and political integration",
+      "definitions_ex_vn": "Tích hợp kinh tế và chính trị",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the finding of an integral or integrals.",
+      "definitions_ex_en": "integration of an ordinary differential equation",
+      "definitions_ex_vn": "Tích hợp một phương trình vi phân thông thường",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the coordination of processes in the nervous system, including diverse sensory information and motor impulses.",
+      "definitions_ex_en": "visuomotor integration",
+      "definitions_ex_vn": "Tích hợp Visuomotor.",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808388292_34f11cd291_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808388292_eeef525c5b_o.png",
+      "id_image": "integration_2472321"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809343296_1e2eea5924_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809343296_1be8ab25e0_o.png",
+      "id_image": "integration_2620855"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809343271_3a0095b8e2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809343271_39b9d0c422_o.png",
+      "id_image": "integration_2689597"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809343226_479e61592e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809343226_0a16c1ff4e_o.png",
+      "id_image": "integration_4295974"
+    }
+  ]
+}

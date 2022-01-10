@@ -1,0 +1,48 @@
+{
+  "english": "pamphlet",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bài luận ngắn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giấy rời nhỏ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "quyển sách khâu sơ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a small booklet or leaflet containing information or arguments about a single subject.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "distribute pamphlets to.",
+      "definitions_ex_en": "a handful of heritage-minded citizens who pamphleted their neighbors",
+      "definitions_ex_vn": "một số công dân có đầu óc di sản, người đã tìm kiếm hàng xóm của họ",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810072665_366e75c937_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810072665_e168f85704_o.png",
+      "id_image": "pamphlet_258250"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809690939_5fb932f061_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809690939_6ee1cf2beb_o.png",
+      "id_image": "pamphlet_3842713"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810072595_e002f3db16_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810072595_f55057becb_o.png",
+      "id_image": "pamphlet_4493298"
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "english": "lay",
+  "list_translation_mean": [
+    {
+      "translate_mean": "không chuyên môn",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "không thuộc về đạo",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thuộc về thế tục",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "bài hát",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bài thơ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phương hướng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vị trí",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "công việc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đánh dấu trang giấy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiếng hát của chim",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đặt nằm",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đặt vật gì",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm ngã",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm rạp xuống",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trình ra",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trừ tà",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đẻ trứng gà",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nằm xuống",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đè xuống",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "để nằm",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "put down, especially gently or carefully.",
+      "definitions_ex_en": "she laid the baby in his crib",
+      "definitions_ex_vn": "Cô đặt em bé trong cũi của mình",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "put down and set in position for use.",
+      "definitions_ex_en": "it is advisable to have your carpet laid by a professional",
+      "definitions_ex_vn": "Nên uống thảm của bạn được đặt bởi một chuyên gia",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "used with an abstract noun so that the phrase formed has the same meaning as the verb related to the noun used, e.g., “lay the blame on” means ‘to blame’.",
+      "definitions_ex_en": "she laid great stress on little courtesies",
+      "definitions_ex_vn": "Cô ấy đặt căng thẳng lớn cho những lời tán tỉnh nhỏ",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of a female bird, insect, reptile, or amphibian) produce (an egg) from inside the body.",
+      "definitions_ex_en": "flamingos lay only one egg",
+      "definitions_ex_vn": "Flamingos chỉ nằm một quả trứng",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "follow (a specified course).",
+      "definitions_ex_en": "I'm going to lay a course for Ibiza harbor",
+      "definitions_ex_vn": "Tôi sẽ đặt một khóa học cho cảng Ibiza",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "past of lie1.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "the general appearance of an area, including the direction of streams, hills, and similar features.",
+      "definitions_ex_en": "the lay of the surrounding countryside",
+      "definitions_ex_vn": "Lay của vùng nông thôn xung quanh",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the laying of eggs or the period during which they are laid.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a short lyric or narrative poem meant to be sung.",
+      "definitions_ex_en": "a minstrel recited a series of lays",
+      "definitions_ex_vn": "một minstrel đã đọc một loạt các lays",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "not ordained into or belonging to the clergy.",
+      "definitions_ex_en": "a lay preacher",
+      "definitions_ex_vn": "một giáo viên giảng viên",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "not having professional qualifications or expert knowledge, especially in law or medicine.",
+      "definitions_ex_en": "lay and professional views of medicine",
+      "definitions_ex_vn": "Lay và quan điểm chuyên nghiệp của y học",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809318061_b632456485_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809318061_eb1915beca_o.png",
+      "id_image": "lay_5635727"
+    }
+  ]
+}

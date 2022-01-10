@@ -1,0 +1,60 @@
+{
+  "english": "jail",
+  "list_translation_mean": [
+    {
+      "translate_mean": "khám đường",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nơi giam tù nhân",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhà tù",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trại giam",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ngục tù",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhà lao",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a place for the confinement of people accused or convicted of a crime.",
+      "definitions_ex_en": "he served 15 months in jail",
+      "definitions_ex_vn": "Ông phục vụ 15 tháng tù",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "put (someone) in jail.",
+      "definitions_ex_en": "the driver was jailed for two years",
+      "definitions_ex_vn": "Người lái xe đã bị bỏ tù trong hai năm",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809450913_b4b000ccba_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809450913_2c43c5e146_o.png",
+      "id_image": "jail_1685853"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808380982_40d9654a46_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808380982_a54c21ae81_o.png",
+      "id_image": "jail_1901838"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335996_59a718ec67_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335996_13fe301fff_o.png",
+      "id_image": "jail_372273"
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "english": "offset",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thân cây",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cành cây",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chồi cây",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự bù lại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự làm sai trục",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đền bù",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mầm cây",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thủy trục tuyến",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "núi ngang",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vật khác nổi bật lên",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phần nhô ra",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sai trục",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "bù lại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đền bù",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a consideration or amount that diminishes or balances the effect of a contrary one.",
+      "definitions_ex_en": "an offset against taxable profits",
+      "definitions_ex_vn": "một phần bù chống lại lợi nhuận chịu thuế",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the amount or distance by which something is out of line.",
+      "definitions_ex_en": "these wheels have an offset of four inches",
+      "definitions_ex_vn": "Những bánh xe này có độ lệch bốn inch",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a side shoot from a plant serving for propagation.",
+      "definitions_ex_en": "a present of tulip bulbs, offsets, and seeds for his garden",
+      "definitions_ex_vn": "Một món quà của bóng đèn tulip, bù đắp và hạt giống cho khu vườn của mình",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a sloping ledge in a wall or other feature where the thickness of the part above is diminished.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a bend in a pipe to carry it past an obstacle.",
+      "definitions_ex_en": "allow for any bend you need including offsets for connecting the downpipe",
+      "definitions_ex_vn": "Cho phép bất kỳ uốn cong nào bạn cần bao gồm cả offset để kết nối Downpipe",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a method of printing in which ink is transferred from a plate or stone to a uniform rubber surface and from that to the paper.",
+      "definitions_ex_en": "they produced banknotes by offset",
+      "definitions_ex_vn": "họ đã sản xuất tiền giấy bằng cách bù đắp",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "counteract (something) by having an opposing force or effect.",
+      "definitions_ex_en": "the deficit has been more than offset by capital inflows",
+      "definitions_ex_vn": "thâm hụt đã được bù đắp nhiều hơn bởi dòng vốn",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "place out of line.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of ink or a freshly printed page) transfer an impression to the next leaf or sheet.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809381996_ddb25d7817_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809381996_83626dbf2e_o.png",
+      "id_image": "offset_1024192"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810118680_56714522b1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810118680_5af96b8cae_o.png",
+      "id_image": "offset_1026480"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810085245_6ffd748e50_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810085245_c75f166401_o.png",
+      "id_image": "offset_1026509"
+    }
+  ]
+}

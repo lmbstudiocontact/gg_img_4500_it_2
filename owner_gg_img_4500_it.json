@@ -1,0 +1,47 @@
+{
+  "english": "owner",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chủ hảng buôn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chủ nhân",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sản chủ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person who owns something.",
+      "definitions_ex_en": "the proud owner of a huge Dalmatian",
+      "definitions_ex_vn": "chủ sở hữu tự hào của một dalmatian khổng lồ",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809694549_cf359f739a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809694549_15d7f92143_o.png",
+      "id_image": "owner_2329814"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809454303_c688838772_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809454303_92a6db6741_o.png",
+      "id_image": "owner_2577512"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809454273_52a082d82e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809454273_eba712039b_o.png",
+      "id_image": "owner_2621036"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810076595_f2cf6262b2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810076595_6e6e5f1c25_o.png",
+      "id_image": "owner_646641"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "english": "inner",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ở trong",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "situated inside or further in; internal.",
+      "definitions_ex_en": "an inner courtyard",
+      "definitions_ex_vn": "một sân bên trong",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "mental or spiritual.",
+      "definitions_ex_en": "a test of inner strength",
+      "definitions_ex_vn": "một bài kiểm tra sức mạnh bên trong",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "the inner part of something.",
+      "definitions_ex_en": "using his rock shoes as inners for his double boots",
+      "definitions_ex_vn": "Sử dụng giày đá của mình như quán trơ cho đôi giày đôi của mình",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809461238_0b2c3e8320_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809461238_ff4abddedc_o.png",
+      "id_image": "inner_1994777"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809461193_14f85eab1a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809461193_cbb80ed43f_o.png",
+      "id_image": "inner_2244686"
+    }
+  ]
+}

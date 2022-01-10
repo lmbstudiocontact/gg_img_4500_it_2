@@ -1,0 +1,33 @@
+{
+  "english": "intimacy",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự giao thông",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tình thân mật",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "close familiarity or friendship; closeness.",
+      "definitions_ex_en": "the intimacy between a husband and wife",
+      "definitions_ex_vn": "sự thân mật giữa một người chồng và vợ",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809340361_66d3129b1e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809340361_7b060214c1_o.png",
+      "id_image": "intimacy_4412730"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809695714_a9a8cdd497_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809695714_d02a6618b4_o.png",
+      "id_image": "intimacy_5526261"
+    }
+  ]
+}

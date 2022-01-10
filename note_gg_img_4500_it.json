@@ -1,0 +1,152 @@
+{
+  "english": "note",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ghi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chép",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chú giải",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chú thích",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nhận thấy",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chú ý",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ghi việc để đáng nhớ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "âm nốt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chú giải",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "danh tiếng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giấy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lời chú",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phiếm của dương cầm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phiếu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dấu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lời ghi chép để nhớ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phụ chú",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dấu hiệu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự chú ý",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bức thơ ngắn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự lưu ý",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiếng chim hót",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiếng tăm",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a brief record of facts, topics, or thoughts, written down as an aid to memory.",
+      "definitions_ex_en": "I'll make a note in my diary",
+      "definitions_ex_vn": "Tôi sẽ ghi chú trong nhật ký của tôi",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a short informal letter or written message.",
+      "definitions_ex_en": "I left her a note explaining where I was going",
+      "definitions_ex_vn": "Tôi đã để cho cô ấy một ghi chú giải thích nơi tôi đang đi",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a single tone of definite pitch made by a musical instrument or the human voice.",
+      "definitions_ex_en": "the last notes of the symphony died away",
+      "definitions_ex_vn": "Những ghi chú cuối cùng của bản giao hưởng đã chết đi",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a particular quality or tone that reflects or expresses a mood or attitude.",
+      "definitions_ex_en": "there was a note of scorn in her voice",
+      "definitions_ex_vn": "Có một ghi chú của sự khinh miệt trong giọng nói của cô ấy",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "notice or pay particular attention to (something).",
+      "definitions_ex_en": "noting his mother's unusual gaiety",
+      "definitions_ex_vn": "lưu ý một sự vui vẻ bất thường của mẹ mình",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "record (something) in writing.",
+      "definitions_ex_en": "he noted down her address on a piece of paper",
+      "definitions_ex_vn": "Anh ta lưu ý địa chỉ của cô ấy trên một tờ giấy",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365962_cc65312649_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365962_e05fcdfda5_o.png",
+      "id_image": "note_1370360"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809321111_172d282a96_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809321111_9d7499f127_o.png",
+      "id_image": "note_311007"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809676164_e87544078a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809676164_4bc35df666_o.png",
+      "id_image": "note_342710"
+    }
+  ]
+}

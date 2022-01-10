@@ -1,0 +1,28 @@
+{
+  "english": "necromancy",
+  "list_translation_mean": [
+    {
+      "translate_mean": "phép chiêu hồn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phép gọi hồn",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the supposed practice of communicating with the dead, especially in order to predict the future.",
+      "definitions_ex_en": "alchemy, necromancy, and other magic practices",
+      "definitions_ex_vn": "Giả kim thuật, Necromancy và các thực hành ma thuật khác",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809441298_a9eb000e49_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809441298_f7c007f058_o.png",
+      "id_image": "necromancy_6199151"
+    }
+  ]
+}

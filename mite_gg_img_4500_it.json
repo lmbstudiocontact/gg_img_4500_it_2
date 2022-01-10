@@ -1,0 +1,46 @@
+{
+  "english": "mite",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đứa bé",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đứa trẻ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a minute arachnid which has four pairs of legs when adult, related to the ticks. Many kinds live in the soil and a number are parasitic on plants or animals.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a small child or animal, especially when regarded as an object of sympathy.",
+      "definitions_ex_en": "the poor little mite looks half-starved",
+      "definitions_ex_vn": "Con ve nhỏ tội nghiệp trông nửa đói",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a very small amount.",
+      "definitions_ex_en": "his teacher thought he needed a mite of discipline",
+      "definitions_ex_vn": "Giáo viên của ông nghĩ rằng anh ta cần một mạt kỷ luật",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a little; slightly.",
+      "definitions_ex_en": "all evening he's seemed a mite awkward",
+      "definitions_ex_vn": "TẤT CẢ Buổi tối anh ấy dường như một ve vụng về",
+      "definitions_type_word": "adverb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808385612_0e34725dc4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808385612_e6b4f0e520_o.png",
+      "id_image": "mite_1357517"
+    }
+  ]
+}

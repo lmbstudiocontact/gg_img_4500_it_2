@@ -1,0 +1,70 @@
+{
+  "english": "mandarin",
+  "list_translation_mean": [
+    {
+      "translate_mean": "màu da cam",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "quan lại ở Trung hoa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "quan thoại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trái quít",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the standard literary and official form of Chinese based on the Beijing dialect, spoken by over 730 million people.",
+      "definitions_ex_en": "Mandarin Chinese",
+      "definitions_ex_vn": "Tiếng Trung Mandarin",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an official in any of the nine top grades of the former imperial Chinese civil service.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a powerful official or senior bureaucrat, especially one perceived as reactionary and secretive.",
+      "definitions_ex_en": "a civil service mandarin",
+      "definitions_ex_vn": "một công dân dân sự phổ thông",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a small flattish citrus fruit with a loose skin, especially a variety with yellow-orange skin.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the citrus tree that yields the mandarin.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808371257_06729b265c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808371257_fffd40b42b_o.png",
+      "id_image": "mandarin_2044994"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808371207_fb77f5a631_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808371207_274079ae52_o.png",
+      "id_image": "mandarin_2448656"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809681519_72d56377b6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809681519_efe6dbde08_o.png",
+      "id_image": "mandarin_3800501"
+    }
+  ]
+}

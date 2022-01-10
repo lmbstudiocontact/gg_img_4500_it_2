@@ -1,0 +1,139 @@
+{
+  "english": "mat",
+  "list_translation_mean": [
+    {
+      "translate_mean": "không bóng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "không láng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "mờ đục",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "chiếu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chiếu bện bằng dây",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "làm rối",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tấm thảm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thảm chùi chân",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chiếu trải nền nhà",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thứ thảm thô",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "kết lại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "làm cho mờ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm mất nước bóng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trải chiếu",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a piece of coarse material placed on a floor for people to wipe their feet on.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a small piece of cork, card, or fabric placed on a table or other surface to protect it from the heat or moisture of an object placed on it.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a thick, untidy layer of something hairy or woolly.",
+      "definitions_ex_en": "his chest was covered by a thick mat of soft fair hair",
+      "definitions_ex_vn": "Ngực của anh ta được bao phủ bởi một tấm lông dày của mái tóc mềm mại",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "short for matrix (sense 3).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "variant spelling of matte (noun).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "tangle (something, especially hair) in a thick mass.",
+      "definitions_ex_en": "the fur on its flank was matted with blood",
+      "definitions_ex_vn": "Lông trên sườn của nó bị mờ với máu",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "variant spelling of matte (verb).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "matins.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "abbreviation"
+    },
+    {
+      "definitions_word_en": "maturity.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "abbreviation"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809675874_efe66f914c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809675874_cbb50f5e1c_o.png",
+      "id_image": "mat_1400251"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809320801_38d5b059f1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809320801_26a0a6d303_o.png",
+      "id_image": "mat_2504148"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809436038_37c5f73f4a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809436038_c3ecdcb986_o.png",
+      "id_image": "mat_529079"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809675824_16e37f1d48_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809675824_7c4f3cd558_o.png",
+      "id_image": "mat_5367887"
+    }
+  ]
+}

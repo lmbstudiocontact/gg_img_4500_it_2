@@ -1,0 +1,79 @@
+{
+  "english": "objective",
+  "list_translation_mean": [
+    {
+      "translate_mean": "tiếp vật kính",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thuộc về khách quan",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "sự nhận xét theo khách quan",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự quan sát theo khách quan",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự trở thành khách quan",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "(of a person or their judgment) not influenced by personal feelings or opinions in considering and representing facts.",
+      "definitions_ex_en": "historians try to be objective and impartial",
+      "definitions_ex_vn": "Các nhà sử học cố gắng khách quan và vô tư",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "relating to or denoting a case of nouns and pronouns used as the object of a transitive verb or a preposition.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a thing aimed at or sought; a goal.",
+      "definitions_ex_en": "the system has achieved its objective",
+      "definitions_ex_vn": "hệ thống đã đạt được mục tiêu của nó",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the objective case.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the lens in a telescope or microscope nearest to the object observed.",
+      "definitions_ex_en": "examine with high power objective",
+      "definitions_ex_vn": "Kiểm tra với mục tiêu công suất cao",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809349781_d139e5667b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809349781_159b67ceed_o.png",
+      "id_image": "objective_2620445"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809464398_4557a1b71b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809464398_8d3fd789dc_o.png",
+      "id_image": "objective_4371295"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809464358_7cd0c13140_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809464358_5c785b2d5d_o.png",
+      "id_image": "objective_4865954"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809382031_8f84436d43_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809382031_3d7c518a17_o.png",
+      "id_image": "objective_5138138"
+    }
+  ]
+}

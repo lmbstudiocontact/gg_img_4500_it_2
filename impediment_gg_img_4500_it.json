@@ -1,0 +1,32 @@
+{
+  "english": "impediment",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chướng ngại vật",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ngăn trở",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự ngăn trở",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a hindrance or obstruction in doing something.",
+      "definitions_ex_en": "a serious impediment to scientific progress",
+      "definitions_ex_vn": "một trở ngại nghiêm trọng đến tiến bộ khoa học",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810058180_464dc1d828_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810058180_339455b76c_o.png",
+      "id_image": "impediment_6309952"
+    }
+  ]
+}

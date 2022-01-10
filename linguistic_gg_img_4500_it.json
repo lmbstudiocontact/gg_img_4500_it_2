@@ -1,0 +1,28 @@
+{
+  "english": "linguistic",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ngôn ngữ học",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thuộc về ngữ học",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "relating to language or linguistics.",
+      "definitions_ex_en": "a child's linguistic ability",
+      "definitions_ex_vn": "Khả năng ngôn ngữ của một đứa trẻ",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808386237_419c9f6613_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808386237_fac7e8f63b_o.png",
+      "id_image": "linguistic_5100279"
+    }
+  ]
+}

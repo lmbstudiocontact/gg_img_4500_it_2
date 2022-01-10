@@ -1,0 +1,54 @@
+{
+  "english": "latch",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bằng chìa khóa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cái chốt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chốt cửa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khóa an toàn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "then cửa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cài then cửa",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đóng cửa bằng chốt",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a metal bar with a catch and lever used for fastening a door or gate.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "fasten (a door or gate) with a latch.",
+      "definitions_ex_en": "she latched the door carefully",
+      "definitions_ex_vn": "Cô ấy chốt cửa một cách cẩn thận",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808364662_a892dd2570_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808364662_61c556e5a0_o.png",
+      "id_image": "latch_6434019"
+    }
+  ]
+}

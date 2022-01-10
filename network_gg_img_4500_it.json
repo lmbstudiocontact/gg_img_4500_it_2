@@ -1,0 +1,73 @@
+{
+  "english": "network",
+  "list_translation_mean": [
+    {
+      "translate_mean": "dây thép đan giống như lưới",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cũng gọi là hệ thống",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lưới sắt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vật bện giống như lưới",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vật đan giống như lưới",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an arrangement of intersecting horizontal and vertical lines.",
+      "definitions_ex_en": "a spider constructs a complex network of several different kinds of threads",
+      "definitions_ex_vn": "một con nhện xây dựng một mạng lưới phức tạp của một số loại chủ đề khác nhau",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a group or system of interconnected people or things.",
+      "definitions_ex_en": "a trade network",
+      "definitions_ex_vn": "một mạng lưới thương mại",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "connect as or operate with a network.",
+      "definitions_ex_en": "the stock exchanges have proven to be resourceful in networking these deals",
+      "definitions_ex_vn": "Các sàn giao dịch chứng khoán đã được chứng minh là tháo vát trong việc kết nối các giao dịch này",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "interact with others to exchange information and develop professional or social contacts.",
+      "definitions_ex_en": "it's so important to network when starting a new business",
+      "definitions_ex_vn": "Nó rất quan trọng đối với mạng khi bắt đầu một doanh nghiệp mới",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810060995_8aaaaf3d4a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810060995_467bd8b7d0_o.png",
+      "id_image": "network_179649"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810060960_ce2a03edec_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810060960_e0ebb923db_o.png",
+      "id_image": "network_563221"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808368907_a282191440_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808368907_4e2c7ff392_o.png",
+      "id_image": "network_748857"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809323966_4aec5cd659_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809323966_6f507240b7_o.png",
+      "id_image": "network_755033"
+    }
+  ]
+}

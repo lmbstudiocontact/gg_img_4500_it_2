@@ -1,0 +1,150 @@
+{
+  "english": "lodge",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đi thưa",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "bắt giam",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cho ở",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cho trú",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đuổi theo thú săn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ký thác",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm ngã rạp xuống",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ở đậu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ở một nơi nào",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "vào rừng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "gởi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ở trọ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chòi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chổ hội họp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chổ ở của hiệu trưởng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hang con rái",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lều",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhà nhỏ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phòng của người gác",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trụ sở",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a small house at the gates of a park or in the grounds of a large house, occupied by a gatekeeper, gardener, or other employee.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a branch or meeting place of an organization such as the Freemasons.",
+      "definitions_ex_en": "the foundation of the Grand Lodge of England",
+      "definitions_ex_vn": "nền tảng của Grand Lodge of England",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "present (a complaint, appeal, claim, etc.) formally to the proper authorities.",
+      "definitions_ex_en": "he has 28 days in which to lodge an appeal",
+      "definitions_ex_vn": "Ông có 28 ngày để khiếu nại",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "make or become firmly fixed or embedded in a particular place.",
+      "definitions_ex_en": "they had to remove a bullet lodged near his spine",
+      "definitions_ex_vn": "họ phải loại bỏ một viên đạn nằm gần cột sống của mình",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "stay or sleep in another person's house, paying money for one's accommodations.",
+      "definitions_ex_en": "the man who lodged in the room next door",
+      "definitions_ex_vn": "Người đàn ông lưu trú trong phòng bên cạnh",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of wind or rain) flatten (a standing crop).",
+      "definitions_ex_en": "the variety is high yielding, but it has mostly lodged",
+      "definitions_ex_vn": "Sự đa dạng là năng suất cao, nhưng nó chủ yếu được nộp",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808382367_1dc8769956_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808382367_500e844962_o.png",
+      "id_image": "lodge_191533"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810074275_0f057dfe0f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810074275_f72b547c80_o.png",
+      "id_image": "lodge_3751966"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810074390_35b919e0d7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810074390_5a4b734079_o.png",
+      "id_image": "lodge_588822"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808382327_b81674a184_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808382327_fe55dcf285_o.png",
+      "id_image": "lodge_746839"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810074330_42a496b261_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810074330_f798a541fd_o.png",
+      "id_image": "lodge_895523"
+    }
+  ]
+}

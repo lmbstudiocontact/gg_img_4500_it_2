@@ -1,0 +1,34 @@
+{
+  "english": "injustice",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự bất công",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "lack of fairness or justice.",
+      "definitions_ex_en": "the injustice of the death penalty",
+      "definitions_ex_vn": "sự bất công của án tử hình",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810084095_ffecd86d8f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810084095_974b098a02_o.png",
+      "id_image": "injustice_2473095"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809461468_80515a02ee_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809461468_a0dc77e3a3_o.png",
+      "id_image": "injustice_3724896"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808391597_10294c57e0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808391597_d9f133110f_o.png",
+      "id_image": "injustice_5434083"
+    }
+  ]
+}

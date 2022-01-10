@@ -1,0 +1,121 @@
+{
+  "english": "kill",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cú đập xuống",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người bán thịt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự giết chết",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thú bị thợ săn giết",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đánh chết",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đồ tể",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tẩy chất nhờn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tuyệt diệt",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "giết",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "giết chết",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "giết chết người",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm cho da hết chất nhờn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm cho bớt kêu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm cho người nào chết",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm cho yếu đi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm ngã",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm tắt gió",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm tiêu diệt",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "cause the death of (a person, animal, or other living thing).",
+      "definitions_ex_en": "her father was killed in a car crash",
+      "definitions_ex_vn": "Cha cô đã bị giết trong một vụ tai nạn xe hơi",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "put an end to or cause the failure or defeat of (something).",
+      "definitions_ex_en": "the committee voted to kill the project",
+      "definitions_ex_vn": "Ủy ban đã bỏ phiếu để tiêu diệt dự án",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "overwhelm (someone) with an emotion.",
+      "definitions_ex_en": "the suspense is killing me",
+      "definitions_ex_vn": "Sự hồi hộp đang giết chết tôi",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "pass (time, or a specified amount of it), typically while waiting for a particular event.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "an act of killing, especially of one animal by another.",
+      "definitions_ex_en": "a lion has made a kill",
+      "definitions_ex_vn": "một con sư tử đã giết chết",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808372407_90b61c8935_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808372407_5783ac5def_o.png",
+      "id_image": "kill_2456591"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809442703_66c422a8d6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809442703_cc4f0b5914_o.png",
+      "id_image": "kill_5773040"
+    }
+  ]
+}

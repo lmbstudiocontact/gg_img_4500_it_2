@@ -1,0 +1,61 @@
+{
+  "english": "information",
+  "list_translation_mean": [
+    {
+      "translate_mean": "học thức",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hỏi thăm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự điều tra",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự hiểu biết",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tin tức",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "facts provided or learned about something or someone.",
+      "definitions_ex_en": "a vital piece of information",
+      "definitions_ex_vn": "một thông tin quan trọng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "what is conveyed or represented by a particular arrangement or sequence of things.",
+      "definitions_ex_en": "genetically transmitted information",
+      "definitions_ex_vn": "thông tin truyền gen",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810053175_bb71efa79b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810053175_cc15e187b6_o.png",
+      "id_image": "information_1057465"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809316746_1290b26af7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809316746_83c22eee29_o.png",
+      "id_image": "information_1945758"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808360967_5b75ac14a7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808360967_4affccb124_o.png",
+      "id_image": "information_2170227"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809431703_2486f2021a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809431703_16ba3c5928_o.png",
+      "id_image": "information_2373994"
+    }
+  ]
+}

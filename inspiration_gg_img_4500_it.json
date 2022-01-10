@@ -1,0 +1,67 @@
+{
+  "english": "inspiration",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hút không khí",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nguồn cảm viết văn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự cảm hứng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự hít không khí vào",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự thở",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the process of being mentally stimulated to do or feel something, especially to do something creative.",
+      "definitions_ex_en": "Helen had one of her flashes of inspiration",
+      "definitions_ex_vn": "Helen có một trong những tia thoáng của cô ấy",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a sudden brilliant, creative, or timely idea.",
+      "definitions_ex_en": "then I had an inspiration",
+      "definitions_ex_vn": "Sau đó, tôi đã có một cảm hứng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the drawing in of breath; inhalation.",
+      "definitions_ex_en": "crackling sounds are heard in the stethoscope on inspiration",
+      "definitions_ex_vn": "Âm thanh lách đang được nghe thấy trong ống nghe trên cảm hứng",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809344591_22db6cec43_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809344591_1c6b169b73_o.png",
+      "id_image": "inspiration_1935485"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809459358_5a54915355_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809459358_ba5b782db9_o.png",
+      "id_image": "inspiration_4214085"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809699734_36928b75ab_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809699734_558cf49d1e_o.png",
+      "id_image": "inspiration_552420"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809344541_73d96682e0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809344541_f14522d766_o.png",
+      "id_image": "inspiration_6193379"
+    }
+  ]
+}

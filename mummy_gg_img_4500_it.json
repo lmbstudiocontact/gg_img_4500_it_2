@@ -1,0 +1,42 @@
+{
+  "english": "mummy",
+  "list_translation_mean": [
+    {
+      "translate_mean": "người gầy ốm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người ốm o",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "xác chết khô",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "(especially in ancient Egypt) a body of a human being or animal that has been ceremonially preserved by removal of the internal organs, treatment with natron and resin, and wrapping in bandages.",
+      "definitions_ex_en": "the mummy of Tutankhamen",
+      "definitions_ex_vn": "Xác ướp của Tutankhamen",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810068575_cd58892b35_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810068575_4b58ba6db5_o.png",
+      "id_image": "mummy_1376925"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809446888_84af133a1b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809446888_2eea498860_o.png",
+      "id_image": "mummy_1376929"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810068505_93967a0c7a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810068505_b0b6beefa0_o.png",
+      "id_image": "mummy_5345475"
+    }
+  ]
+}

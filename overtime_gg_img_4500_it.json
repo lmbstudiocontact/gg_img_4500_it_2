@@ -1,0 +1,57 @@
+{
+  "english": "overtime",
+  "list_translation_mean": [
+    {
+      "translate_mean": "giờ phụ trội",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "làm thêm giờ",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "giờ làm thêm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thời gian làm thêm",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "time in addition to what is normal, as time worked beyond one's scheduled working hours.",
+      "definitions_ex_en": "fewer opportunities for overtime",
+      "definitions_ex_vn": "Ít cơ hội hơn để làm thêm giờ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "in addition to normal working hours.",
+      "definitions_ex_en": "his brain was working overtime",
+      "definitions_ex_vn": "Bộ não của anh ấy đã làm việc ngoài giờ",
+      "definitions_type_word": "adverb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808384757_7d985d8ba4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808384757_60f3ff093d_o.png",
+      "id_image": "overtime_410878"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810077040_31acecd712_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810077040_7f72897e45_o.png",
+      "id_image": "overtime_4593070"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809339761_fbfbf84c76_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809339761_41d55a3fe1_o.png",
+      "id_image": "overtime_4593093"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808384672_a779052202_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808384672_f6f6b57323_o.png",
+      "id_image": "overtime_5260408"
+    }
+  ]
+}

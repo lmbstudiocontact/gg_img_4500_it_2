@@ -1,0 +1,48 @@
+{
+  "english": "impatient",
+  "list_translation_mean": [
+    {
+      "translate_mean": "không nhẩn nại",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "không nhẩn nhục",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "nóng nảy",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "having or showing a tendency to be quickly irritated or provoked.",
+      "definitions_ex_en": "an impatient motorist blaring his horn",
+      "definitions_ex_vn": "một người lái xe hơi thiếu kiên nhẫn",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "restlessly eager.",
+      "definitions_ex_en": "they are impatient for change",
+      "definitions_ex_vn": "họ thiếu kiên nhẫn để thay đổi",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810058210_d4b15782fe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810058210_416b9f4998_o.png",
+      "id_image": "impatient_3220581"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809321461_8e89b3407e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809321461_d48a74e930_o.png",
+      "id_image": "impatient_6365909"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809676634_92247d684a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809676634_3afa0f5b00_o.png",
+      "id_image": "impatient_708652"
+    }
+  ]
+}

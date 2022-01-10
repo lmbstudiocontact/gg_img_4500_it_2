@@ -1,0 +1,61 @@
+{
+  "english": "ink",
+  "list_translation_mean": [
+    {
+      "translate_mean": "mực",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mực viết chữ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bôi mực",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm dính mực",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "viết chữ bằng mực",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a colored fluid used for writing, drawing, printing, or duplicating.",
+      "definitions_ex_en": "the names are written in ink",
+      "definitions_ex_vn": "Tên được viết bằng mực",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "mark (words or a design) with ink.",
+      "definitions_ex_en": "the cork has the name of the château inked onto the side",
+      "definitions_ex_vn": "Cork có tên của Château mực mực ở bên cạnh",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809461343_da2b38fb42_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809461343_fcd8994609_o.png",
+      "id_image": "ink_1686239"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810084015_143fd99c86_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810084015_2c8685b176_o.png",
+      "id_image": "ink_420280"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809701449_bfe29f5854_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809701449_e3b72dcc09_o.png",
+      "id_image": "ink_420281"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809701399_5c221d8388_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809701399_d066620c85_o.png",
+      "id_image": "ink_6396327"
+    }
+  ]
+}

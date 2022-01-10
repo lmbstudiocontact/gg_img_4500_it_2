@@ -1,0 +1,40 @@
+{
+  "english": "malt",
+  "list_translation_mean": [
+    {
+      "translate_mean": "mạch nha để nấu rượu bia",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "barley or other grain that has been steeped, germinated, and dried, used for brewing or distilling and vinegar-making.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "convert (grain) into malt.",
+      "definitions_ex_en": "barley is grown for malting",
+      "definitions_ex_vn": "lúa mạch được trồng cho malting",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809682709_a4f8423162_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809682709_8944829105_o.png",
+      "id_image": "malt_2298761"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810064245_77852010d8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810064245_0faf10d4ef_o.png",
+      "id_image": "malt_2533886"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809442533_7325ab1e3d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809442533_5ee83faf29_o.png",
+      "id_image": "malt_2597533"
+    }
+  ]
+}

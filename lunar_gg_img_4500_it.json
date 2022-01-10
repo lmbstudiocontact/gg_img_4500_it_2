@@ -1,0 +1,44 @@
+{
+  "english": "lunar",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thuộc về mặt trăng",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "of, determined by, or resembling the moon.",
+      "definitions_ex_en": "a lunar landscape",
+      "definitions_ex_vn": "một cảnh quan mặt trăng.",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809332626_3ec98f57d4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809332626_98d59e7d42_o.png",
+      "id_image": "lunar_1469374"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808377407_6f6c991969_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808377407_2d0fd3926a_o.png",
+      "id_image": "lunar_1469375"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808377382_1fbde0cfc9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808377382_4108a27e1e_o.png",
+      "id_image": "lunar_2984103"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809447568_2e96d44830_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809447568_60c8649188_o.png",
+      "id_image": "lunar_4383590"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809447533_8e77ef98f1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809447533_d9ab131ed7_o.png",
+      "id_image": "lunar_4657808"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "english": "medal",
+  "list_translation_mean": [
+    {
+      "translate_mean": "huy chương",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mề đay",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a metal disk with an inscription or design, made to commemorate an event or awarded as a distinction to someone such as a soldier, athlete, or scholar.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "earn a medal, especially in an athletic contest.",
+      "definitions_ex_en": "Norwegian athletes medaled in 12 of the 14 events",
+      "definitions_ex_vn": "Vận động viên Na Uy huy chương vào 12 trong số 14 sự kiện",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808362932_4c3d8094a5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808362932_98648a7792_o.png",
+      "id_image": "medal_224759"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808362922_3c56128917_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808362922_1acc87bac7_o.png",
+      "id_image": "medal_250603"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809318366_f78c72cda3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809318366_58105cc722_o.png",
+      "id_image": "medal_702307"
+    }
+  ]
+}

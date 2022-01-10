@@ -1,0 +1,66 @@
+{
+  "english": "lesson",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bài giảng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bài học",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lời dạy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "học",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khiển trách",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "la mắng",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an amount of teaching given at one time; a period of learning or teaching.",
+      "definitions_ex_en": "an advanced lesson in math",
+      "definitions_ex_vn": "một bài học nâng cao trong toán học",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a passage from the Bible read aloud during a church service, especially either of two readings at morning and evening prayer in the Anglican Church.",
+      "definitions_ex_en": "he went up to read the first lesson",
+      "definitions_ex_vn": "Anh đi lên để đọc bài học đầu tiên",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "instruct or teach (someone).",
+      "definitions_ex_en": "Metaneone had beforehand lessoned him what he should say",
+      "definitions_ex_vn": "Metaneone đã làm bài trước anh ta nên nói gì",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809345241_52401db400_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809345241_ebe0978814_o.png",
+      "id_image": "lesson_1058510"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809700449_ae982820bb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809700449_10a68669aa_o.png",
+      "id_image": "lesson_207316"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809700359_35b20157b0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809700359_98ea7f6b2f_o.png",
+      "id_image": "lesson_6258824"
+    }
+  ]
+}

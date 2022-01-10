@@ -1,0 +1,54 @@
+{
+  "english": "lust",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ham muốn danh vọng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lòng thèm muốn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thú vui xác thịt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự ham muốn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự dục vọng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ham muốn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thèm khát",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "very strong sexual desire.",
+      "definitions_ex_en": "he knew that his lust for her had returned",
+      "definitions_ex_vn": "Anh biết rằng ham muốn của mình cho cô đã trở lại",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "have a very strong sexual desire for someone.",
+      "definitions_ex_en": "he really lusted after me in those days",
+      "definitions_ex_vn": "Anh ấy thực sự dâm đãng sau tôi trong những ngày đó",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808376892_7daf2c7e2d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808376892_37bbc7093b_o.png",
+      "id_image": "lust_1316898"
+    }
+  ]
+}

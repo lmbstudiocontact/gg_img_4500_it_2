@@ -1,0 +1,61 @@
+{
+  "english": "mouse",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chuột",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bắt chuột",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đi vơ vẫn",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a small rodent that typically has a pointed snout, relatively large ears and eyes, and a long tail.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a small handheld device that is dragged across a flat surface to move the cursor on a computer screen, typically having buttons that are pressed to control functions.",
+      "definitions_ex_en": "copy the file with a click of the mouse",
+      "definitions_ex_vn": "Sao chép tệp bằng một cú nhấp chuột",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a lump or bruise, especially one on or near the eye.",
+      "definitions_ex_en": "she touched the mouse under her eye",
+      "definitions_ex_vn": "Cô chạm chuột dưới mắt mình",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(of a cat or owl) hunt for or catch mice.",
+      "definitions_ex_en": "female cats are usually much better at mousing than males",
+      "definitions_ex_vn": "Mèo nữ thường tốt hơn nhiều ở nam giới hơn nam giới",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "use a mouse to move a cursor on a computer screen.",
+      "definitions_ex_en": "simply mouse over any item in the list",
+      "definitions_ex_vn": "Chỉ cần di chuột qua bất kỳ mục nào trong danh sách",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809334056_0220ce00f2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809334056_52cf304c5f_o.png",
+      "id_image": "mouse_164335"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809689104_d9a05d74f1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809689104_caf0fc4475_o.png",
+      "id_image": "mouse_170838"
+    }
+  ]
+}

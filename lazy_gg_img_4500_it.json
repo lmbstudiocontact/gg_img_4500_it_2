@@ -1,0 +1,44 @@
+{
+  "english": "lazy",
+  "list_translation_mean": [
+    {
+      "translate_mean": "lười biếng",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "unwilling to work or use energy.",
+      "definitions_ex_en": "he was too lazy to cook",
+      "definitions_ex_vn": "anh ấy quá lười để nấu ăn",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809672554_34e5b317e1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809672554_8c07ddba3b_o.png",
+      "id_image": "lazy_5692446"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809672549_72deb865f4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809672549_2dcc82edb4_o.png",
+      "id_image": "lazy_5775730"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809432923_9d60302ab0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809432923_9a57116162_o.png",
+      "id_image": "lazy_5778803"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808362192_079b758328_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808362192_cb8ba0b2f1_o.png",
+      "id_image": "lazy_6193439"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808362167_e0cfc5b8f4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808362167_056c78d212_o.png",
+      "id_image": "lazy_6240600"
+    }
+  ]
+}

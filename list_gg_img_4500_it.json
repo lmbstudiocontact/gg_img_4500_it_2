@@ -1,0 +1,116 @@
+{
+  "english": "list",
+  "list_translation_mean": [
+    {
+      "translate_mean": "nghe",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ghi vào sổ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trám khe hở",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "bìa vải",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "danh sách",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mép vải",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mục lục",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a number of connected items or names written or printed consecutively, typically one below the other.",
+      "definitions_ex_en": "consult the list of drugs on page 326",
+      "definitions_ex_vn": "Tham khảo danh sách các loại thuốc ở trang 326",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "barriers enclosing an area for a jousting tournament.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a selvage of a piece of fabric.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an instance of a ship leaning to one side.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "desire or inclination.",
+      "definitions_ex_en": "I have little list to write",
+      "definitions_ex_vn": "Tôi có ít danh sách để viết",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "make a list of.",
+      "definitions_ex_en": "I have listed four reasons below",
+      "definitions_ex_vn": "Tôi đã liệt kê bốn lý do dưới đây",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "enlist for military service.",
+      "definitions_ex_en": "I listed myself for a soldier",
+      "definitions_ex_vn": "Tôi liệt kê mình cho một người lính",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of a ship) lean to one side, typically because of a leak or unbalanced cargo.",
+      "definitions_ex_en": "the ship was listing badly",
+      "definitions_ex_vn": "Con tàu đang liệt kê xấu",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "want; like.",
+      "definitions_ex_en": "let them think what they list",
+      "definitions_ex_vn": "Hãy để họ nghĩ những gì họ liệt kê",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809695484_8130e9ef51_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809695484_d8d7e1b856_o.png",
+      "id_image": "list_144919"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809455063_1c0b323920_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809455063_cf96445c02_o.png",
+      "id_image": "list_167552"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809695409_08a5db15d2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809695409_2c6a2f9090_o.png",
+      "id_image": "list_179714"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810077365_0bd68921a6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810077365_b7b42d2bdc_o.png",
+      "id_image": "list_264277"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809695354_8ff2d37dfc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809695354_8b062ffa9c_o.png",
+      "id_image": "list_4138632"
+    }
+  ]
+}

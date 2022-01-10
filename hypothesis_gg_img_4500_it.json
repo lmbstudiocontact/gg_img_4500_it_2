@@ -1,0 +1,24 @@
+{
+  "english": "hypothesis",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự giả thuyết",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a supposition or proposed explanation made on the basis of limited evidence as a starting point for further investigation.",
+      "definitions_ex_en": "professional astronomers attacked him for popularizing an unconfirmed hypothesis",
+      "definitions_ex_vn": "Các nhà thiên văn học chuyên nghiệp đã tấn công anh ta để phổ biến một giả thuyết chưa được xác nhận",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325221_9d55a7ee7c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325221_aa6762473e_o.png",
+      "id_image": "hypothesis_6289192"
+    }
+  ]
+}

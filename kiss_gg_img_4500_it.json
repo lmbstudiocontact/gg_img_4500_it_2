@@ -1,0 +1,58 @@
+{
+  "english": "kiss",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hôn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ôm hôn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ôm nhau hôn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cái hôn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự hôn",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "touch with the lips as a sign of love, sexual desire, reverence, or greeting.",
+      "definitions_ex_en": "he kissed her on the lips",
+      "definitions_ex_vn": "Anh hôn cô trên môi",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of a ball) lightly touch (another ball) in passing.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a touch with the lips in kissing.",
+      "definitions_ex_en": "a quick kiss on the cheek",
+      "definitions_ex_vn": "một nụ hôn nhanh chóng trên má",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a slight touch of a ball against another ball.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809326711_eda3417d97_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809326711_df3383903e_o.png",
+      "id_image": "kiss_1635549"
+    }
+  ]
+}

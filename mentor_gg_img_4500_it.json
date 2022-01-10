@@ -1,0 +1,45 @@
+{
+  "english": "mentor",
+  "list_translation_mean": [
+    {
+      "translate_mean": "người cố vấn",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an experienced and trusted adviser.",
+      "definitions_ex_en": "he was her friend and mentor until his death in 1915",
+      "definitions_ex_vn": "Anh ấy là bạn và người cố vấn cho đến khi qua đời vào năm 1915",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "advise or train (someone, especially a younger colleague).",
+      "definitions_ex_en": "both trainees were expertly mentored by a site supervisor",
+      "definitions_ex_vn": "Cả hai thực tập sinh được một cách chuyên nghiệp bởi một giám sát viên của một trang web",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808391772_35f382deaf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808391772_5049450865_o.png",
+      "id_image": "mentor_1900259"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809346771_d2561e3472_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809346771_ba14193627_o.png",
+      "id_image": "mentor_2072710"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809346756_5981071f6b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809346756_7aba380f5a_o.png",
+      "id_image": "mentor_2643491"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809346726_325471a23c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809346726_523a35edfd_o.png",
+      "id_image": "mentor_4576270"
+    }
+  ]
+}

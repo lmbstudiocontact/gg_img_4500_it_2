@@ -1,0 +1,56 @@
+{
+  "english": "milk",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bóc lột người nào",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sữa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bóc lột",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lợi dụng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nước dừa",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "vắt sữa",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an opaque white fluid rich in fat and protein, secreted by female mammals for the nourishment of their young.",
+      "definitions_ex_en": "a healthy mother will produce enough milk for her baby",
+      "definitions_ex_vn": "Một người mẹ khỏe mạnh sẽ sản xuất đủ sữa cho bé",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "draw milk from (a cow or other animal), either by hand or mechanically.",
+      "definitions_ex_en": "two hours later he was up again to milk the cows",
+      "definitions_ex_vn": "Hai giờ sau anh lại thức ăn sữa bò",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "exploit or defraud (someone), typically by taking regular small amounts of money over a period of time.",
+      "definitions_ex_en": "he had milked his grandmother dry of all her money",
+      "definitions_ex_vn": "anh ta đã vắt sữa cho bà ngoại khô hết tiền của mình",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809343711_b975765a9c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809343711_54d178f318_o.png",
+      "id_image": "milk_373024"
+    }
+  ]
+}

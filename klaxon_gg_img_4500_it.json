@@ -1,0 +1,33 @@
+{
+  "english": "klaxon",
+  "list_translation_mean": [
+    {
+      "translate_mean": "còi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "kèn",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an electric horn or a similar loud warning device.",
+      "definitions_ex_en": "the tug blew its klaxon three times",
+      "definitions_ex_vn": "The Tug Blew Klaxon ba lần",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809681144_17e300d9a6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809681144_4ecc132496_o.png",
+      "id_image": "klaxon_5759720"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809681099_11aa14d4a0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809681099_e11d71b69f_o.png",
+      "id_image": "klaxon_6344589"
+    }
+  ]
+}

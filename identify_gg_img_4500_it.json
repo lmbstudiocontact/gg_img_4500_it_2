@@ -1,0 +1,43 @@
+{
+  "english": "identify",
+  "list_translation_mean": [
+    {
+      "translate_mean": "khám phá",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm giống nhau",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm như nhau",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "establish or indicate who or what (someone or something) is.",
+      "definitions_ex_en": "the judge ordered that the girl not be identified",
+      "definitions_ex_vn": "Thẩm phán đã ra lệnh cho rằng cô gái không được xác định",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "associate (someone) closely with; regard (someone) as having strong links with.",
+      "definitions_ex_en": "he was equivocal about being identified too closely with the peace movement",
+      "definitions_ex_vn": "Ông đã không rõ ràng về việc được xác định chặt chẽ với phong trào hòa bình",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810061080_e90073908d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810061080_c6f2066b32_o.png",
+      "id_image": "identify_2311649"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809439198_8ca6108a5c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809439198_7a566628f4_o.png",
+      "id_image": "identify_4633917"
+    }
+  ]
+}

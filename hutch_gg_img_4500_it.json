@@ -1,0 +1,48 @@
+{
+  "english": "hutch",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cái rương",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chòi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lều",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhà nhỏ hẹp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tồi tàn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thùng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thùng gổ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a box or cage, typically with a wire mesh front, for keeping rabbits, ferrets, or other small domesticated animals.",
+      "definitions_ex_en": "a rabbit hutch",
+      "definitions_ex_vn": "một hutch thỏ",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809441153_39191cefa7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809441153_d54aab2056_o.png",
+      "id_image": "hutch_2242302"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "english": "husky",
+  "list_translation_mean": [
+    {
+      "translate_mean": "có sức lực",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "đậu có vỏ",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "khan tiếng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "mạnh khỏe",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "tráng kiện",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "tiếng khàn khàn",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "giống người ét ki mô",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thổ dân ở miền bắc cực",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "(of a voice or utterance) sounding low-pitched and slightly hoarse.",
+      "definitions_ex_en": "his voice became a husky, erotic whisper",
+      "definitions_ex_vn": "Giọng anh trở thành một thì thầm khàn khàn, khiêu dâm",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "strong; hefty.",
+      "definitions_ex_en": "Patrick looked a husky, strong guy",
+      "definitions_ex_vn": "Patrick nhìn một anh chàng husky, mạnh mẽ",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "like or consisting of a husk or husks.",
+      "definitions_ex_en": "the husky stem of a palm tree",
+      "definitions_ex_vn": "thân husky của cây cọ",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a powerful dog of a breed with a thick double coat that is typically gray, used in the Arctic for pulling sleds.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809326476_81092cf562_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809326476_cd6298822f_o.png",
+      "id_image": "husky_6236513"
+    }
+  ]
+}

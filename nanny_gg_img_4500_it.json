@@ -1,0 +1,75 @@
+{
+  "english": "nanny",
+  "list_translation_mean": [
+    {
+      "translate_mean": "u em",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mụ vú",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người giữ trẻ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vú em",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person, typically a woman, employed to care for a child in its own home.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "one's grandmother.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a female goat.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "work as a nanny.",
+      "definitions_ex_en": "she cooked, cleaned, and nannied for a family in California",
+      "definitions_ex_vn": "Cô nấu chín, dọn dẹp và chết vì một gia đình ở California",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "be overprotective towards.",
+      "definitions_ex_en": "stop nannying us! We are capable of dealing with our own lives",
+      "definitions_ex_vn": "Ngừng bảo dưỡng chúng tôi! Chúng tôi có khả năng giao dịch với cuộc sống của chính chúng ta",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809443923_3057e82720_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809443923_057c154271_o.png",
+      "id_image": "nanny_1876934"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808373672_aae0190622_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808373672_1aebec3317_o.png",
+      "id_image": "nanny_3088403"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328901_d341448a74_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328901_8ed7df5bdb_o.png",
+      "id_image": "nanny_4016138"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328846_f2cbca1681_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328846_72da15a4c7_o.png",
+      "id_image": "nanny_4079129"
+    }
+  ]
+}

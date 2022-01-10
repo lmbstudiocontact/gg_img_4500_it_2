@@ -1,0 +1,58 @@
+{
+  "english": "mousse",
+  "list_translation_mean": [
+    {
+      "translate_mean": "mút dùng cho tóc",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a sweet or savory dish made as a smooth light mass with whipped cream and beaten egg white, flavored with chocolate, fish, etc., and typically served chilled.",
+      "definitions_ex_en": "roulade of sole with a lobster mousse",
+      "definitions_ex_vn": "roulade của đế với một mousse tôm hùm",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a mass of tiny bubbles that forms on the top of a glass of champagne or sparkling wine.",
+      "definitions_ex_en": "the Brut Réserve possesses a wonderful creamy mousse of small, compact bubbles",
+      "definitions_ex_vn": "The Brut Réserve sở hữu một mousse kem tuyệt vời của bong bóng nhỏ gọn, nhỏ gọn",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a light, foamy preparation used for styling hair.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a brown frothy emulsion of oil and seawater formed by weathering of an oil slick.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "style (hair) using mousse.",
+      "definitions_ex_en": "mousse each section before winding on rollers",
+      "definitions_ex_vn": "mousse mỗi phần trước khi cuộn dây trên con lăn",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809333941_7423984eb4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809333941_73f1962ce6_o.png",
+      "id_image": "mousse_1053032"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809689049_f2acf9579e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809689049_dfce4fe8fb_o.png",
+      "id_image": "mousse_2200701"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809448938_82759d8f30_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809448938_5584969511_o.png",
+      "id_image": "mousse_2455852"
+    }
+  ]
+}

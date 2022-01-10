@@ -1,0 +1,43 @@
+{
+  "english": "nuclear",
+  "list_translation_mean": [
+    {
+      "translate_mean": "nguyên tử",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thuộc về hạch",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thuộc về hạch nguyên tử",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "relating to the nucleus of an atom.",
+      "definitions_ex_en": "nuclear chemistry",
+      "definitions_ex_vn": "Hóa học hạt nhân",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "relating to the nucleus of a cell.",
+      "definitions_ex_en": "nuclear DNA",
+      "definitions_ex_vn": "DNA hạt nhân.",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809674884_b85d0d277a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809674884_f16567e544_o.png",
+      "id_image": "nuclear_2640423"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810056560_d686ed6469_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810056560_16ba1ff281_o.png",
+      "id_image": "nuclear_306717"
+    }
+  ]
+}

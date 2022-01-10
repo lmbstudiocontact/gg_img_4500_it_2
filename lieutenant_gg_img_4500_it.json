@@ -1,0 +1,32 @@
+{
+  "english": "lieutenant",
+  "list_translation_mean": [
+    {
+      "translate_mean": "quan khâm sai",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đại úy hải quân",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "quan trung úy",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a deputy or substitute acting for a superior.",
+      "definitions_ex_en": "he accepted his top lieutenant’s resignation with deep regret",
+      "definitions_ex_vn": "Ông chấp nhận sự từ chức của trung úy của mình với sự hối tiếc sâu sắc",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809698444_da90dda661_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809698444_e38e5d33a6_o.png",
+      "id_image": "lieutenant_2614578"
+    }
+  ]
+}

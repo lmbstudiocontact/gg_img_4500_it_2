@@ -1,0 +1,39 @@
+{
+  "english": "mower",
+  "list_translation_mean": [
+    {
+      "translate_mean": "người cắt cỏ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a machine used for cutting grass.",
+      "definitions_ex_en": "self-propelled rotary mowers",
+      "definitions_ex_vn": "Máy cắt quay tự hành",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688149_8a2fb3cc26_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688149_391afff41c_o.png",
+      "id_image": "mower_3959228"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809333091_5f0ba30805_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809333091_6a423fa573_o.png",
+      "id_image": "mower_4328691"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688074_dd30ee2212_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688074_a3e9ab8f46_o.png",
+      "id_image": "mower_6041537"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810070035_ae18a7925a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810070035_d6034bc8c2_o.png",
+      "id_image": "mower_809051"
+    }
+  ]
+}

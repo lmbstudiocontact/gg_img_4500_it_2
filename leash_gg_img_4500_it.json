@@ -1,0 +1,57 @@
+{
+  "english": "leash",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bộ ba",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cái go ở khung cửi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dây xích cho",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "buộc bằng dây xích",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a strap or cord for restraining and guiding a dog or other animal.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "put a leash on (a dog).",
+      "definitions_ex_en": "he called Azor to heel so that he could leash him",
+      "definitions_ex_vn": "Anh gọi Azor đến gót chân để anh có thể dây xích anh",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809702469_fbb16401b5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809702469_073ea72bf4_o.png",
+      "id_image": "leash_2372899"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810085065_19e720585f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810085065_7dcbc5c45e_o.png",
+      "id_image": "leash_4310635"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809347696_0b0b8225a0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809347696_07333bb432_o.png",
+      "id_image": "leash_6381508"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810085000_8cec29a04f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810085000_39789af9da_o.png",
+      "id_image": "leash_6401163"
+    }
+  ]
+}

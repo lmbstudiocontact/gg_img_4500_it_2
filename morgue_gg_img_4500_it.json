@@ -1,0 +1,35 @@
+{
+  "english": "morgue",
+  "list_translation_mean": [
+    {
+      "translate_mean": "nhà xác",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a place where bodies are kept, especially to be identified or claimed.",
+      "definitions_ex_en": "the cadavers were bagged and removed to the city morgue",
+      "definitions_ex_vn": "Các xác chết đã được đóng gói và loại bỏ đến thành phố Morgue",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "in a newspaper office, a collection of old cuttings, photographs, and information.",
+      "definitions_ex_en": "conducting research in either a news morgue or a library",
+      "definitions_ex_vn": "Tiến hành nghiên cứu trong một tin tức Morgue hoặc một thư viện",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809336331_752a29d6fc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809336331_2f9e48459f_o.png",
+      "id_image": "morgue_1450747"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808381297_60841bbcb4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808381297_2d775e4e43_o.png",
+      "id_image": "morgue_6001056"
+    }
+  ]
+}

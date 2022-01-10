@@ -1,0 +1,52 @@
+{
+  "english": "investigate",
+  "list_translation_mean": [
+    {
+      "translate_mean": "dò xét",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nghiên cứu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "xem xét",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "carry out a systematic or formal inquiry to discover and examine the facts of (an incident, allegation, etc.) so as to establish the truth.",
+      "definitions_ex_en": "police are investigating the alleged beating",
+      "definitions_ex_vn": "Cảnh sát đang điều tra bị cáo buộc đánh đập",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809339216_e71db515c9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809339216_29789aac26_o.png",
+      "id_image": "investigate_1936002"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808384137_237d90db32_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808384137_e086f6f99b_o.png",
+      "id_image": "investigate_2472785"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810076300_738dc9a388_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810076300_ab0c6060d4_o.png",
+      "id_image": "investigate_2472985"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809694239_ebd76b57cd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809694239_3d3bbcaf38_o.png",
+      "id_image": "investigate_2646583"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808384207_3ef89beb50_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808384207_8ea55a61e8_o.png",
+      "id_image": "investigate_914844"
+    }
+  ]
+}

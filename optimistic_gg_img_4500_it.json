@@ -1,0 +1,24 @@
+{
+  "english": "optimistic",
+  "list_translation_mean": [
+    {
+      "translate_mean": "lạc quan",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "hopeful and confident about the future.",
+      "definitions_ex_en": "the optimistic mood of the Sixties",
+      "definitions_ex_vn": "tâm trạng lạc quan của những năm sáu mươi",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808390062_c0065a4862_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808390062_87319a1927_o.png",
+      "id_image": "optimistic_708610"
+    }
+  ]
+}

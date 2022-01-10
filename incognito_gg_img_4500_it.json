@@ -1,0 +1,54 @@
+{
+  "english": "incognito",
+  "list_translation_mean": [
+    {
+      "translate_mean": "giấu kín",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "che đậy",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "không ai biết đến",
+      "type_word": "adverb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "(of a person) having one's true identity concealed.",
+      "definitions_ex_en": "in order to observe you have to be incognito",
+      "definitions_ex_vn": "Để quan sát bạn phải ẩn danh",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "in a way that conceals one's true identity.",
+      "definitions_ex_en": "he is now operating incognito",
+      "definitions_ex_vn": "bây giờ anh ấy đang hoạt động ẩn danh",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "an assumed or false identity.",
+      "definitions_ex_en": "she is locked in her incognito",
+      "definitions_ex_vn": "Cô ấy bị nhốt trong Ẩn danh của cô ấy",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808363797_a05577883f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808363797_574b4b0c97_o.png",
+      "id_image": "incognito_3380363"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810055730_d07450e799_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810055730_503cd72afd_o.png",
+      "id_image": "incognito_4001245"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809673974_a152551c42_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809673974_ce45ea2b20_o.png",
+      "id_image": "incognito_4116611"
+    }
+  ]
+}

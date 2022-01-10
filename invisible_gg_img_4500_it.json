@@ -1,0 +1,45 @@
+{
+  "english": "invisible",
+  "list_translation_mean": [
+    {
+      "translate_mean": "không thể thấy được",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "unable to be seen; not visible to the eye.",
+      "definitions_ex_en": "this invisible gas is present to some extent in every home",
+      "definitions_ex_vn": "Khí vô hình này có mặt ở một mức độ nào đó trong mọi nhà",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "invisible exports and imports.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809453298_6254a4e9da_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809453298_85e47ea68e_o.png",
+      "id_image": "invisible_1850043"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809693504_c6d2a5edb4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809693504_6335a8817f_o.png",
+      "id_image": "invisible_2472333"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809338256_64cc6d2fb4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809338256_be962b25c7_o.png",
+      "id_image": "invisible_5039310"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809338211_023824d76c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809338211_ee01dbbb32_o.png",
+      "id_image": "invisible_5884424"
+    }
+  ]
+}

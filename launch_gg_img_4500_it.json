@@ -1,0 +1,83 @@
+{
+  "english": "launch",
+  "list_translation_mean": [
+    {
+      "translate_mean": "người chưởi rủa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự cất cánh bay",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tàu chạy bằng hơi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "xuồng lớn của chiếc hạm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bắn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đề khởi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "phóng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "giới thiệu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "hạ thủy",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ném",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "set (a boat) in motion by pushing it or allowing it to roll into the water.",
+      "definitions_ex_en": "the town's lifeboat was launched to rescue the fishermen",
+      "definitions_ex_vn": "Thuyền cứu sinh của thị trấn đã được phóng cách giải cứu ngư dân",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "start or set in motion (an activity or enterprise).",
+      "definitions_ex_en": "she was launching a campaign against ugly architecture",
+      "definitions_ex_vn": "Cô đã ra mắt một chiến dịch chống lại kiến trúc xấu xí",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "an act or instance of launching something.",
+      "definitions_ex_en": "the launch of a new campaign against drinking and driving",
+      "definitions_ex_vn": "Sự ra mắt của một chiến dịch mới chống lại việc uống rượu và lái xe",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a large motorboat, used especially for short trips.",
+      "definitions_ex_en": "she cruised the waterways on a luxury motor launch",
+      "definitions_ex_vn": "Cô du hành đường thủy trên một động cơ sang trọng ra mắt",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809319241_704533df33_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809319241_f385a9ec9b_o.png",
+      "id_image": "launch_1508890"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810055850_714bbc82be_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810055850_6d4af2d33c_o.png",
+      "id_image": "launch_875320"
+    }
+  ]
+}

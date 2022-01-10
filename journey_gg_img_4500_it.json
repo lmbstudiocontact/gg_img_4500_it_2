@@ -1,0 +1,52 @@
+{
+  "english": "journey",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chặng đường đi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cuộc hành trình",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "quãng đường đi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "làm một cuộc hành trình",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an act of traveling from one place to another.",
+      "definitions_ex_en": "she went on a long journey",
+      "definitions_ex_vn": "Cô ấy đã đi trên một hành trình dài",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "travel somewhere.",
+      "definitions_ex_en": "they journeyed south",
+      "definitions_ex_vn": "Họ đi về phía nam",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809332121_c1e1f0078b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809332121_c362394ef5_o.png",
+      "id_image": "journey_2117080"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809332086_aaa754a0f0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809332086_435bbcae7e_o.png",
+      "id_image": "journey_2196304"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808376832_ccc7be6b73_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808376832_60446b67c1_o.png",
+      "id_image": "journey_2620252"
+    }
+  ]
+}

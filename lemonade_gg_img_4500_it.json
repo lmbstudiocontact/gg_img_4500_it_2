@@ -1,0 +1,39 @@
+{
+  "english": "lemonade",
+  "list_translation_mean": [
+    {
+      "translate_mean": "nước chanh",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a drink made from lemon juice and sweetened water.",
+      "definitions_ex_en": "a jug of lemonade",
+      "definitions_ex_vn": "một bình nước chanh",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808390842_f6c0c113cb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808390842_6d842705e8_o.png",
+      "id_image": "lemonade_1366383"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809460613_b936212eac_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809460613_53f0993879_o.png",
+      "id_image": "lemonade_2053086"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808390807_1151734ee0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808390807_cb8c360c03_o.png",
+      "id_image": "lemonade_2067585"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809700839_4a93281ec1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809700839_311f123dc9_o.png",
+      "id_image": "lemonade_3500381"
+    }
+  ]
+}

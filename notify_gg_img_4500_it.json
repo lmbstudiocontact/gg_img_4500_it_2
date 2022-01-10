@@ -1,0 +1,44 @@
+{
+  "english": "notify",
+  "list_translation_mean": [
+    {
+      "translate_mean": "khai sanh",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "báo cáo",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "báo cáo trước",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "báo cho biết",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "báo cho người nào biết",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thông báo",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "inform (someone) of something, typically in a formal or official manner.",
+      "definitions_ex_en": "you will be notified of our decision as soon as possible",
+      "definitions_ex_vn": "Bạn sẽ được thông báo về quyết định của chúng tôi càng sớm càng tốt",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365232_1cc7fd33b4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365232_4bcda07843_o.png",
+      "id_image": "notify_6192141"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "english": "mysterious",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thần bí",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "difficult or impossible to understand, explain, or identify.",
+      "definitions_ex_en": "his colleague had vanished in mysterious circumstances",
+      "definitions_ex_vn": "Đồng nghiệp của ông đã biến mất trong hoàn cảnh bí ẩn",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809444763_cc843bb120_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809444763_78f294d1d0_o.png",
+      "id_image": "mysterious_3479836"
+    }
+  ]
+}

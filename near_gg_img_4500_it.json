@@ -1,0 +1,158 @@
+{
+  "english": "near",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bà con gần",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "bạn thân",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "gần",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "sắp",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "đến gần",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "đứng gần",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "gần",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "gần bên cạnh",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "tay vói tới được",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "tới gần",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "đứng sát",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "ngắn",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "thẳng",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "ở gần",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "xích vật gì lại gần",
+      "type_word": "adverb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "at or to a short distance away; nearby.",
+      "definitions_ex_en": "a bomb exploding somewhere near",
+      "definitions_ex_vn": "một quả bom phát nổ ở đâu đó gần",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "a short time away in the future.",
+      "definitions_ex_en": "the time for his retirement was drawing near",
+      "definitions_ex_vn": "thời gian nghỉ hưu của anh ấy đang vẽ gần",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "almost.",
+      "definitions_ex_en": "a near perfect fit",
+      "definitions_ex_vn": "một sự phù hợp gần như hoàn hảo",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "almost.",
+      "definitions_ex_en": "I near fell out of the chair",
+      "definitions_ex_vn": "Tôi ở gần ghế",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "at or to a short distance away from (a place).",
+      "definitions_ex_en": "the parking lot near the sawmill",
+      "definitions_ex_vn": "bãi đậu xe gần xưởng cưa",
+      "definitions_type_word": "preposition"
+    },
+    {
+      "definitions_word_en": "a short period of time from.",
+      "definitions_ex_en": "near the end of the war",
+      "definitions_ex_vn": "gần cuối cuộc chiến",
+      "definitions_type_word": "preposition"
+    },
+    {
+      "definitions_word_en": "close to (a state); verging on.",
+      "definitions_ex_en": "she gave a tiny smile, brave but near tears",
+      "definitions_ex_vn": "Cô nở một nụ cười nhỏ, dũng cảm nhưng gần nước mắt",
+      "definitions_type_word": "preposition"
+    },
+    {
+      "definitions_word_en": "similar to.",
+      "definitions_ex_en": "a shape near to the original",
+      "definitions_ex_vn": "một hình dạng gần với bản gốc",
+      "definitions_type_word": "preposition"
+    },
+    {
+      "definitions_word_en": "located a short distance away.",
+      "definitions_ex_en": "a big house in the near distance",
+      "definitions_ex_vn": "một ngôi nhà lớn ở khoảng cách gần",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "only a short time ahead.",
+      "definitions_ex_en": "the conflict is unlikely to be resolved in the near future",
+      "definitions_ex_vn": "Cuộc xung đột không có khả năng được giải quyết trong tương lai gần",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "similar.",
+      "definitions_ex_en": "walking in these shoes is the nearest thing to floating on air",
+      "definitions_ex_vn": "Đi bộ trong những đôi giày này là thứ gần nhất để nổi trên không",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "located on the side of a vehicle that is normally closest to the curb.",
+      "definitions_ex_en": "the near right-hand end window of the trailer",
+      "definitions_ex_vn": "cửa sổ kết thúc bên phải của trailer",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a person) stingy; miserly.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "come near to (someone or something); approach.",
+      "definitions_ex_en": "soon the cab would be nearing State Street",
+      "definitions_ex_vn": "Chẳng mấy chốc taxi sẽ gần State Street",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810063720_7a26341f72_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810063720_ebd0e0da01_o.png",
+      "id_image": "near_4843169"
+    }
+  ]
+}

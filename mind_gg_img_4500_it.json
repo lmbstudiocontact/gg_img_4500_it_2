@@ -1,0 +1,144 @@
+{
+  "english": "mind",
+  "list_translation_mean": [
+    {
+      "translate_mean": "lẻ phải",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "linh hồn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lý trí",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sức nhớ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự nhớ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tư tưởng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trí",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trí nhớ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trí phán đoán",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ý kiến",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chú ý",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "để ý",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lưu ý",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nhớ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "phiền",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "giữ trẻ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "săn sóc",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "hồi tưởng",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the element of a person that enables them to be aware of the world and their experiences, to think, and to feel; the faculty of consciousness and thought.",
+      "definitions_ex_en": "as the thoughts ran through his mind, he came to a conclusion",
+      "definitions_ex_vn": "Khi những suy nghĩ chạy qua tâm trí, anh ta đến một kết luận",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a person's intellect.",
+      "definitions_ex_en": "his keen mind",
+      "definitions_ex_vn": "tâm trí sắc sảo của anh ấy",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a person's attention.",
+      "definitions_ex_en": "I expect my employees to keep their minds on the job",
+      "definitions_ex_vn": "Tôi hy vọng nhân viên của tôi để giữ cho tâm trí của họ trong công việc",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "be distressed, annoyed, or worried by.",
+      "definitions_ex_en": "I don't mind the rain",
+      "definitions_ex_vn": "Tôi không ngại mưa",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "regard as important; feel concern about.",
+      "definitions_ex_en": "never mind the opinion polls",
+      "definitions_ex_vn": "đừng bận tâm đến các cuộc thăm dò ý kiến",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "used to urge someone to remember or take care to bring about something.",
+      "definitions_ex_en": "mind you look after the children",
+      "definitions_ex_vn": "tâm trí bạn chăm sóc trẻ em",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "take care of temporarily.",
+      "definitions_ex_en": "we left our husbands to mind the children while we went out",
+      "definitions_ex_vn": "Chúng tôi rời những người chồng để bận tâm đến những đứa trẻ trong khi chúng tôi đi ra ngoài",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "be inclined or disposed to do a particular thing.",
+      "definitions_ex_en": "he was minded to reject the application",
+      "definitions_ex_vn": "Anh ta có đầu óc từ chối ứng dụng này",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809698059_ac3133b270_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809698059_701cc790db_o.png",
+      "id_image": "mind_1215548"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809698024_55965f4137_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809698024_8f38d28abb_o.png",
+      "id_image": "mind_1215563"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808387737_f9dcfa9e95_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808387737_75ea704418_o.png",
+      "id_image": "mind_1935494"
+    }
+  ]
+}

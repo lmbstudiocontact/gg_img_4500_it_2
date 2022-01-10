@@ -1,0 +1,63 @@
+{
+  "english": "node",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cục bướu cứng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cục u trên rể cây",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giao điểm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "kết lựu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mắt cây",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a point at which lines or pathways intersect or branch; a central or connecting point.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the part of a plant stem from which one or more leaves emerge, often forming a slight swelling or knob.",
+      "definitions_ex_en": "the stem is cut midway between nodes",
+      "definitions_ex_vn": "thân cây được cắt giữa các nút",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a lymph node or other structure consisting of a small mass of differentiated tissue.",
+      "definitions_ex_en": "infection in these nodes may lead to backache",
+      "definitions_ex_vn": "Nhiễm trùng trong các nút này có thể dẫn đến đau lưng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a point at which the amplitude of vibration in a standing wave system is zero.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809437578_17f446c36d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809437578_758cb1e7c0_o.png",
+      "id_image": "node_1998254"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809677409_cdb44c2b43_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809677409_f7bf96a253_o.png",
+      "id_image": "node_4292398"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "english": "molecular",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thuộc về phân tử",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "relating to or consisting of molecules.",
+      "definitions_ex_en": "interactions between polymer and solvent at the molecular level",
+      "definitions_ex_vn": "Tương tác giữa polymer và dung môi ở cấp độ phân tử",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810075335_f954cab6c7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810075335_3088ee6a06_o.png",
+      "id_image": "molecular_191096"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810075240_f77b67b994_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810075240_44c3fbaf1b_o.png",
+      "id_image": "molecular_4061449"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810075275_47208e7343_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810075275_a6548590f0_o.png",
+      "id_image": "molecular_710480"
+    }
+  ]
+}

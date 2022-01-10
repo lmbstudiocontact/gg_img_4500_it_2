@@ -1,0 +1,32 @@
+{
+  "english": "jean",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bộ quần áo lao động",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "quần ngắn bó ống",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vải chéo go",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "heavy twilled cotton cloth, especially denim.",
+      "definitions_ex_en": "a jean jacket",
+      "definitions_ex_vn": "áo khoác jean",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810072105_7a07a784f0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810072105_9759fd49ec_o.png",
+      "id_image": "jean_592794"
+    }
+  ]
+}

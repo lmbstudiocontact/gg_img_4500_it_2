@@ -1,0 +1,112 @@
+{
+  "english": "native",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cây",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thiên nhiên",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "bẩm sinh",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "tự nhiên",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thiên bẩm",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thuộc về nơi sanh đẻ",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "vật thổ sản",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thiên phú",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "dân bổn xứ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người sanh ở một nước",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "quê quán ở một nước",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thổ dân",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thổ sản",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person born in a specified place or associated with a place by birth, whether subsequently resident there or not.",
+      "definitions_ex_en": "a native of Montreal",
+      "definitions_ex_vn": "một người gốc Montreal",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "associated with the place or circumstances of a person's birth.",
+      "definitions_ex_en": "he's a native New Yorker",
+      "definitions_ex_vn": "Anh ấy là người New York bản địa",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a plant or animal) of indigenous origin or growth.",
+      "definitions_ex_en": "these plants are native to North America",
+      "definitions_ex_vn": "Những cây này có nguồn gốc từ Bắc Mỹ",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a quality) belonging to a person's character from birth rather than acquired; innate.",
+      "definitions_ex_en": "some last vestige of native wit prompted Guy to say nothing",
+      "definitions_ex_vn": "một số di tích cuối cùng của trí thông minh bản địa nhắc nhở chàng trai không nói gì",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a metal or other mineral) found in a pure or uncombined state.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "designed for or built into a given system, especially denoting the language associated with a given processor, computer, or compiler, and programs written in it.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809442953_ab23d709b6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809442953_52c5a21857_o.png",
+      "id_image": "native_2396765"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808372607_02d6fdf0ee_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808372607_302ce09da8_o.png",
+      "id_image": "native_3429448"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809327846_1348c6fc9b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809327846_eee4b09db2_o.png",
+      "id_image": "native_3563876"
+    }
+  ]
+}

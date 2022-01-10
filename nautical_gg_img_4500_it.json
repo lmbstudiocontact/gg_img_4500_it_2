@@ -1,0 +1,28 @@
+{
+  "english": "nautical",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thuộc về sự đi biển",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "về hàng hải",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "of or concerning sailors or navigation; maritime.",
+      "definitions_ex_en": "nautical charts",
+      "definitions_ex_vn": "Biểu đồ hải lý.",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808371942_5364679154_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808371942_ea00a01eb2_o.png",
+      "id_image": "nautical_353324"
+    }
+  ]
+}

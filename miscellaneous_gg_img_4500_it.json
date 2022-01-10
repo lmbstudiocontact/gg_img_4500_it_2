@@ -1,0 +1,36 @@
+{
+  "english": "miscellaneous",
+  "list_translation_mean": [
+    {
+      "translate_mean": "có nhiều thứ khác nhau",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "hỗn hợp",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "lẫn lộn",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "lộn xộn",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "(of items or people gathered or considered together) of various types or from different sources.",
+      "definitions_ex_en": "he picked up the miscellaneous papers",
+      "definitions_ex_vn": "Anh nhặt những giấy tờ khác",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810078705_e91092c160_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810078705_89ca0164e3_o.png",
+      "id_image": "miscellaneous_1798666"
+    }
+  ]
+}

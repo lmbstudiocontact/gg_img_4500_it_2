@@ -1,0 +1,49 @@
+{
+  "english": "lullaby",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bài ca ru con ngũ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bài hát ru con",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a quiet, gentle song sung to send a child to sleep.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "sing to (someone) to get them to go to sleep.",
+      "definitions_ex_en": "she lullabied us, she fed us",
+      "definitions_ex_vn": "Cô ấy đã ru chúng tôi, cô ấy đã cho chúng tôi ăn",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810069750_9b85ae914d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810069750_2a269097a2_o.png",
+      "id_image": "lullaby_1601264"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809447948_03156e76ce_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809447948_0cef6c64c3_o.png",
+      "id_image": "lullaby_2433232"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808377672_2da13835fb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808377672_5e2b883150_o.png",
+      "id_image": "lullaby_2444475"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809687924_4d1b23408d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809687924_0938f4044e_o.png",
+      "id_image": "lullaby_859977"
+    }
+  ]
+}

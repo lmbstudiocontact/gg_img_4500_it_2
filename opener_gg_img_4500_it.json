@@ -1,0 +1,45 @@
+{
+  "english": "opener",
+  "list_translation_mean": [
+    {
+      "translate_mean": "người mở",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a device for opening something, especially a container.",
+      "definitions_ex_en": "a bottle opener",
+      "definitions_ex_vn": "một cái mở chai",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the first of a series of games, cultural events, etc.",
+      "definitions_ex_en": "the league opener is three weeks away",
+      "definitions_ex_vn": "The League Opener cách đó ba tuần nữa",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809461313_f4cef08250_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809461313_9655bc9818_o.png",
+      "id_image": "opener_1378204"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808391432_ea07c1f383_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808391432_7f302c9697_o.png",
+      "id_image": "opener_1748058"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809701474_9575c8032a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809701474_23f920c9ec_o.png",
+      "id_image": "opener_447252"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808391497_2885061050_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808391497_bfb5a99d93_o.png",
+      "id_image": "opener_823229"
+    }
+  ]
+}

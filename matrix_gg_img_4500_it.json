@@ -1,0 +1,79 @@
+{
+  "english": "matrix",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đá bọc ở ngoài hột ngọc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đá bọc ở ngoài quặng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khuôn đúc chữ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khuôn đúc tiền",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tử cung",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an environment or material in which something develops; a surrounding medium or structure.",
+      "definitions_ex_en": "free choices become the matrix of human life",
+      "definitions_ex_vn": "Lựa chọn miễn phí trở thành ma trận của cuộc sống con người",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a mass of fine-grained rock in which gems, crystals, or fossils are embedded.",
+      "definitions_ex_en": "nodules of secondary limestone set in a matrix of porous dolomite",
+      "definitions_ex_vn": "Các nốt đá vôi thứ cấp được đặt trong một ma trận của dolomit xốp",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a mold in which something, such as a record or printing type, is cast or shaped.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a rectangular array of quantities or expressions in rows and columns that is treated as a single entity and manipulated according to particular rules.",
+      "definitions_ex_en": "this formula applies for all square matrices",
+      "definitions_ex_vn": "Công thức này áp dụng cho tất cả các ma trận vuông",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an organizational structure in which two or more lines of command, responsibility, or communication may run through the same individual.",
+      "definitions_ex_en": "matrix structures are said to foster greater flexibility",
+      "definitions_ex_vn": "Cấu trúc ma trận được cho là thúc đẩy sự linh hoạt lớn hơn",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809674654_81245aaa67_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809674654_6d4614eccb_o.png",
+      "id_image": "matrix_1774128"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809434858_3e82ac6e30_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809434858_0bf9cb7ac9_o.png",
+      "id_image": "matrix_1808972"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809674569_7f07f5b472_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809674569_f6270148ed_o.png",
+      "id_image": "matrix_1809171"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808364487_7e102b8f2d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808364487_8fe1c3c8be_o.png",
+      "id_image": "matrix_554625"
+    }
+  ]
+}

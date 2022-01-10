@@ -1,0 +1,78 @@
+{
+  "english": "management",
+  "list_translation_mean": [
+    {
+      "translate_mean": "giám đốc một công việc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khôn khéo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự cầm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự coi sóc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự quản lý",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự trông nom",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tài khéo léo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vận dụng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the process of dealing with or controlling things or people.",
+      "definitions_ex_en": "the management of elk herds",
+      "definitions_ex_vn": "Việc quản lý đàn Elk",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "trickery; deceit.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810063745_613f70df20_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810063745_0555c0f0ae_o.png",
+      "id_image": "management_1262761"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809441813_9b3eec4068_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809441813_45ebcbbc01_o.png",
+      "id_image": "management_1285494"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810063645_ab7343b96b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810063645_d59e4665c3_o.png",
+      "id_image": "management_2494813"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809441703_db9b582e3e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809441703_8a51d31178_o.png",
+      "id_image": "management_3380748"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809681979_4e38e6c6a3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809681979_89c3f4c970_o.png",
+      "id_image": "management_943764"
+    }
+  ]
+}

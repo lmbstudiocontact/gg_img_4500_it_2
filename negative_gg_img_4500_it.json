@@ -1,0 +1,185 @@
+{
+  "english": "negative",
+  "list_translation_mean": [
+    {
+      "translate_mean": "âm bản",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "chối",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "không nhận",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "lời phủ định",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "lượng âm",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "phủ định từ",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "phủ nhận",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "sự phủ nhận",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "tiêu cực",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "âm cực",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "biện luận chống lại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chủ trì phủ định",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chủ trì trái lại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bác bỏ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "biện bác",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "không nhận",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "phản đối",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "biện luận",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "consisting in or characterized by the absence rather than the presence of distinguishing features.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a person, attitude, or situation) not desirable or optimistic.",
+      "definitions_ex_en": "the new tax was having a very negative effect on car sales",
+      "definitions_ex_vn": "Thuế mới đã có ảnh hưởng rất tiêu cực đến doanh số bán xe",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a quantity) less than zero; to be subtracted from others or from zero.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "of, containing, producing, or denoting the kind of electric charge carried by electrons.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a photographic image) showing light and shade or colors reversed from those of the original.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "relating to or denoting any of the earth or water signs, considered passive in nature.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a word or statement that expresses denial, disagreement, or refusal.",
+      "definitions_ex_en": "she replied in the negative",
+      "definitions_ex_vn": "Cô trả lời tiêu cực",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a photographic image made on film or specially prepared glass that shows the light and shade or color values reversed from the original, and from which positive prints can be made.",
+      "definitions_ex_en": "photographs and negatives should be supplied for enlargement purposes",
+      "definitions_ex_vn": "Hình ảnh và tiêu cực nên được cung cấp cho mục đích mở rộng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a result of a test or experiment indicating that a certain substance is not present or a certain condition does not exist.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the part of an electric circuit that is at a lower electrical potential than another part designated as having zero electrical potential.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a number less than zero.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "no (usually used in a military context).",
+      "definitions_ex_en": "“Any snags, Captain?” “Negative, she's running like clockwork.”",
+      "definitions_ex_vn": "\"Bất kỳ snags, thuyền trưởng?\"",
+      "definitions_type_word": "exclamation"
+    },
+    {
+      "definitions_word_en": "reject; refuse to accept; veto.",
+      "definitions_ex_en": "the bill was negatived by 130 votes to 129",
+      "definitions_ex_vn": "Dự luật đã được 130 phiếu tiêu dùng từ 130 phiếu lên 129",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "render ineffective; neutralize.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810062270_9ecb3b2fd8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810062270_9b18d851d2_o.png",
+      "id_image": "negative_2254818"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809440488_08079789be_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809440488_c7423a01e2_o.png",
+      "id_image": "negative_4001187"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809440588_dc58af3f94_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809440588_a46288278e_o.png",
+      "id_image": "negative_552430"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325551_934f43a5b7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325551_8061d3d4a6_o.png",
+      "id_image": "negative_655231"
+    }
+  ]
+}

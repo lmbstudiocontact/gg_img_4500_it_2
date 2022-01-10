@@ -1,0 +1,24 @@
+{
+  "english": "marsh",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đầm lầy",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an area of low-lying land which is flooded in wet seasons or at high tide, and typically remains waterlogged at all times.",
+      "definitions_ex_en": "the marsh marigold loves damp fields, riverbanks, and marshes",
+      "definitions_ex_vn": "The Marsh Marigold yêu những cánh đồng ẩm ướt, Riverbanks và đầm lầy",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809322126_22e9b751b5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809322126_b74b7ca6f5_o.png",
+      "id_image": "marsh_307778"
+    }
+  ]
+}

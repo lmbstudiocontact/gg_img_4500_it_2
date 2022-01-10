@@ -1,0 +1,32 @@
+{
+  "english": "infantry",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bộ binh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lính đánh bộ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lính hành quân",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "soldiers marching or fighting on foot; foot soldiers collectively.",
+      "definitions_ex_en": "the infantry advanced at sunrise",
+      "definitions_ex_vn": "Bộ binh tiên tiến lúc mặt trời mọc",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810053575_ca308d001d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810053575_c2c38d1d57_o.png",
+      "id_image": "infantry_3856931"
+    }
+  ]
+}

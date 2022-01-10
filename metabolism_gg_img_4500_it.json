@@ -1,0 +1,38 @@
+{
+  "english": "metabolism",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự biến hóa trong cơ thể",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tác dụng biến thể",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the chemical processes that occur within a living organism in order to maintain life.",
+      "definitions_ex_en": "the metabolism of fatty acids in the kidney",
+      "definitions_ex_vn": "sự trao đổi chất của axit béo trong thận",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809700779_4aa0c31961_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809700779_88577550f3_o.png",
+      "id_image": "metabolism_2176892"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808390657_49d063e798_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808390657_2f8c9736fe_o.png",
+      "id_image": "metabolism_3475142"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809700734_e3c8d2d001_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809700734_dc7fc39448_o.png",
+      "id_image": "metabolism_4178818"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "english": "nucleus",
+  "list_translation_mean": [
+    {
+      "translate_mean": "trung tâm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hạch của tế bào",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhân nguyên tử",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phần giữa của vật gì",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trung bộ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trung tâm điểm",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the central and most important part of an object, movement, or group, forming the basis for its activity and growth.",
+      "definitions_ex_en": "the nucleus of a film-producing industry",
+      "definitions_ex_vn": "Hạt nhân của một ngành sản xuất phim",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the positively charged central core of an atom, consisting of protons and neutrons and containing nearly all its mass.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809674724_5ab0c36fff_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809674724_49655d648e_o.png",
+      "id_image": "nucleus_203256"
+    }
+  ]
+}

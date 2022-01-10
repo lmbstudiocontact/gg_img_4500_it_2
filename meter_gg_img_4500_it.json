@@ -1,0 +1,99 @@
+{
+  "english": "meter",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đồng hồ tính cước",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người cân",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người đo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người lường",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thước tây",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vận luật",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vế câu thơ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đo lường",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "British spelling of meter1.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the SI base unit of length (equivalent to approximately 39.37 inches), first introduced as a unit of length in the metric system.",
+      "definitions_ex_en": "sit two meters away from the TV screen",
+      "definitions_ex_vn": "Ngồi cách màn hình TV hai mét",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "British spelling of meter3.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a device that measures and records the quantity, degree, or rate of something.",
+      "definitions_ex_en": "they read the meters once a month",
+      "definitions_ex_vn": "Họ đọc mét mỗi tháng một lần",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the rhythm of a piece of poetry, determined by the number and length of feet in a line.",
+      "definitions_ex_en": "the Horatian ode has an intricate governing meter",
+      "definitions_ex_vn": "The Horatian Ode có một đồng hồ quản lý phức tạp",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "measure or regulate by means of a meter.",
+      "definitions_ex_en": "the huge capital outlay required to meter every household is not available",
+      "definitions_ex_vn": "Các khoản chi vốn khổng lồ cần thiết để mét mọi hộ gia đình không có sẵn",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "in names of measuring instruments.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "combining form"
+    },
+    {
+      "definitions_word_en": "in nouns denoting lines of poetry with a specified number of feet or measures.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "combining form"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808390182_bf5e079c0c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808390182_151dc2e483_o.png",
+      "id_image": "meter_1035466"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809345176_c0a6d0b386_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809345176_a6a62c53dc_o.png",
+      "id_image": "meter_3468185"
+    }
+  ]
+}

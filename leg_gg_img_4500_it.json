@@ -1,0 +1,137 @@
+{
+  "english": "leg",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chân",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cạnh của hình tam giác",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cẳng ghế",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ống quần",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cẳng thú",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chân giường",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đánh qua bên trái",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đi bộ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đi hay chạy lẹ",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "each of the limbs on which a person or animal walks and stands.",
+      "definitions_ex_en": "Adams broke his leg",
+      "definitions_ex_vn": "Adams bị gãy chân",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "each of the supports of a chair, table, or other piece of furniture.",
+      "definitions_ex_en": "table legs",
+      "definitions_ex_vn": "Bàn chân",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a section or stage of a journey or process.",
+      "definitions_ex_en": "the return leg of his journey",
+      "definitions_ex_vn": "Chân trở về của hành trình của mình",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a branch of a forked object.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the half of the field (as divided lengthways through the pitch) away from which the batsman's feet are pointed when standing to receive the ball.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an obeisance made by drawing back one leg and bending it while keeping the front leg straight.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "propel (a boat) through a tunnel on a canal by pushing with one's legs against the tunnel roof or sides.",
+      "definitions_ex_en": "a little boy was lying on his back, legging the boat along",
+      "definitions_ex_vn": "Một cậu bé đang nằm ngửa, legging thuyền dọc theo",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "legal.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "abbreviation"
+    },
+    {
+      "definitions_word_en": "legate.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "abbreviation"
+    },
+    {
+      "definitions_word_en": "legato.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "abbreviation"
+    },
+    {
+      "definitions_word_en": "legend.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "abbreviation"
+    },
+    {
+      "definitions_word_en": "legislation or legislative or legislature.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "abbreviation"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809346781_299d0664c1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809346781_b89b899588_o.png",
+      "id_image": "leg_3824897"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809701599_e988f6d4ae_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809701599_6c46fe46bf_o.png",
+      "id_image": "leg_4760725"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809701569_f8433f74ac_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809701569_a0eee1c65f_o.png",
+      "id_image": "leg_5793590"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809346686_d53ccd781d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809346686_2beede5bfb_o.png",
+      "id_image": "leg_6147262"
+    }
+  ]
+}

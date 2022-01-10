@@ -1,0 +1,100 @@
+{
+  "english": "mine",
+  "list_translation_mean": [
+    {
+      "translate_mean": "địa lôi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mìn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mỏ than",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "quặng sắt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thủy lôi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cái của tôi",
+      "type_word": "pronoun"
+    },
+    {
+      "translate_mean": "của tôi",
+      "type_word": "pronoun"
+    },
+    {
+      "translate_mean": "đào chân tường cho ngã",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đào đất",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đào lổ dưới đất",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "used to refer to a thing or things belonging to or associated with the speaker.",
+      "definitions_ex_en": "you go your way and I'll go mine",
+      "definitions_ex_vn": "Bạn đi theo cách của bạn và tôi sẽ đi của tôi",
+      "definitions_type_word": "pronoun"
+    },
+    {
+      "definitions_word_en": "(used before a vowel) my.",
+      "definitions_ex_en": "tears did fill mine eyes",
+      "definitions_ex_vn": "Nước mắt đã làm đầy mắt của tôi",
+      "definitions_type_word": "article"
+    },
+    {
+      "definitions_word_en": "an excavation in the earth for extracting coal or other minerals.",
+      "definitions_ex_en": "a copper mine",
+      "definitions_ex_vn": "một mỏ đồng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a type of bomb placed on or just below the surface of the ground or in the water that detonates when disturbed by a person, vehicle, or ship.",
+      "definitions_ex_en": "his jeep ran over a mine and he was killed",
+      "definitions_ex_vn": "Xe jeep của anh chạy qua một mỏ và anh đã bị giết",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "obtain (coal or other minerals) from a mine.",
+      "definitions_ex_en": "the company came to the area to mine phosphate",
+      "definitions_ex_vn": "Công ty đã đến khu vực để khai thác phosphate",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "lay explosive mines on or just below the surface of (the ground or water).",
+      "definitions_ex_en": "the area was heavily mined",
+      "definitions_ex_vn": "Khu vực này được khai thác nặng nề",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809457463_fb4a7c8247_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809457463_285c2b26bd_o.png",
+      "id_image": "mine_1083283"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809457433_7694f002a7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809457433_f4d1b34c74_o.png",
+      "id_image": "mine_2150133"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808387722_f0a2d8a5a9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808387722_d895924dab_o.png",
+      "id_image": "mine_942381"
+    }
+  ]
+}

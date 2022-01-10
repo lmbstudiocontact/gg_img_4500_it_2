@@ -1,0 +1,37 @@
+{
+  "english": "moisture",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chất lỏng chảy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hơi nước đóng trên mặt kiến",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nước chảy",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "water or other liquid diffused in a small quantity as vapor, within a solid, or condensed on a surface.",
+      "definitions_ex_en": "the air was constantly heavy with moisture",
+      "definitions_ex_vn": "Không khí liên tục nặng với độ ẩm",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808383517_31677a0abe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808383517_7dfc2032b3_o.png",
+      "id_image": "moisture_4646980"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808383482_8d852a4cbd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808383482_ba8f1d25a2_o.png",
+      "id_image": "moisture_5830611"
+    }
+  ]
+}

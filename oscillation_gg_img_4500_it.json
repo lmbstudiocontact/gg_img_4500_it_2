@@ -1,0 +1,34 @@
+{
+  "english": "oscillation",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự dao động",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự lung lay",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "movement back and forth at a regular speed.",
+      "definitions_ex_en": "the natural oscillation of a spring",
+      "definitions_ex_vn": "sự dao động tự nhiên của một mùa xuân",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "regular variation in magnitude or position around a central point.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810079730_32273b78b7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810079730_a90cea3a32_o.png",
+      "id_image": "oscillation_4636019"
+    }
+  ]
+}

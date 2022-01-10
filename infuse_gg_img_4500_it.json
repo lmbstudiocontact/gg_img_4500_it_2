@@ -1,0 +1,48 @@
+{
+  "english": "infuse",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đổ vào",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "pha vào",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "rót vào",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trút vào",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "fill; pervade.",
+      "definitions_ex_en": "her work is infused with an anger born of pain and oppression",
+      "definitions_ex_vn": "Công việc của cô ấy được truyền vào sự tức giận của nỗi đau và áp bức",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "soak (tea, herbs, etc.) in liquid to extract the flavor or healing properties.",
+      "definitions_ex_en": "infuse the dried flowers in boiling water",
+      "definitions_ex_vn": "truyền hoa khô trong nước sôi",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "allow (a liquid) to flow into a patient, vein, etc.",
+      "definitions_ex_en": "saline was infused into the aorta",
+      "definitions_ex_vn": "nước muối được truyền vào động mạch chủ",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808360832_3886f98cf4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808360832_9ee3869987_o.png",
+      "id_image": "infuse_6215676"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "english": "labyrinth",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bộ phận trong của tai",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a complicated irregular network of passages or paths in which it is difficult to find one's way; a maze.",
+      "definitions_ex_en": "a labyrinth of passages and secret chambers",
+      "definitions_ex_vn": "một mê cung của các đoạn và buồng bí mật",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a complex structure in the inner ear which contains the organs of hearing and balance. It consists of bony cavities (the bony labyrinth ) filled with fluid and lined with sensitive membranes (the membranous labyrinth ).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808368542_c947f08773_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808368542_e798f8911f_o.png",
+      "id_image": "labyrinth_170613"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810060410_b06fdef7c2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810060410_f985a272cd_o.png",
+      "id_image": "labyrinth_428779"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809438663_6b83661c57_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809438663_c66198c909_o.png",
+      "id_image": "labyrinth_6193391"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "english": "pagination",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự đánh số trang",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the sequence of numbers assigned to pages in a book or periodical.",
+      "definitions_ex_en": "later editions are identical in text and pagination",
+      "definitions_ex_vn": "Các phiên bản sau này giống hệt nhau về văn bản và phân trang",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810074190_5c935bdc77_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810074190_ba11152ff9_o.png",
+      "id_image": "pagination_5558822"
+    }
+  ]
+}

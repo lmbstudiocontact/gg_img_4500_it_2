@@ -1,0 +1,70 @@
+{
+  "english": "overhead",
+  "list_translation_mean": [
+    {
+      "translate_mean": "trên không",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "ở trên đầu",
+      "type_word": "adverb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "above the level of the head; in the sky.",
+      "definitions_ex_en": "a helicopter buzzed overhead",
+      "definitions_ex_vn": "Một chiếc trực thăng ù ù trên đầu",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "situated above the level of the head.",
+      "definitions_ex_en": "the sun was directly overhead",
+      "definitions_ex_vn": "Mặt trời trực tiếp trên đầu",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a driving mechanism) above the object driven.",
+      "definitions_ex_en": "an overhead cam four-cylinder engine",
+      "definitions_ex_vn": "một động cơ bốn xi lanh cam trên cao",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a cost or expense) incurred in the general upkeep or running of a plant, premises, or business, and not attributable to specific products or items.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "an overhead cost or expense.",
+      "definitions_ex_en": "research conducted in space requires more overhead",
+      "definitions_ex_vn": "Nghiên cứu được thực hiện trong không gian đòi hỏi nhiều hơn chi phí",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a transparency designed for use with an overhead projector.",
+      "definitions_ex_en": "software for producing slides, charts, and overheads",
+      "definitions_ex_vn": "Phần mềm sản xuất các slide, biểu đồ và chi phí",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an overhead compartment.",
+      "definitions_ex_en": "the bag fits in most airline overheads",
+      "definitions_ex_vn": "Túi phù hợp với hầu hết các chi phí hàng không",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "short for overhead projector.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808385257_4eb17c9027_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808385257_7e8ac7590b_o.png",
+      "id_image": "overhead_5641182"
+    }
+  ]
+}

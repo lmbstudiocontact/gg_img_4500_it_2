@@ -1,0 +1,44 @@
+{
+  "english": "letterbox",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hộp thơ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thùng thơ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "(chiefly in the UK) a mailbox.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "record (a widescreen film) on to video in letterbox format.",
+      "definitions_ex_en": "the film has been released in a digitally remastered and letterboxed edition",
+      "definitions_ex_vn": "Bộ phim đã được phát hành trong một phiên bản viết lại và viết thư kỹ thuật số",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809700159_cb4a74f214_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809700159_08c49bb446_o.png",
+      "id_image": "letterbox_3937000"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809345001_8f763b73eb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809345001_767012d6c8_o.png",
+      "id_image": "letterbox_4205673"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810082515_309ee07ab8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810082515_425d93c4f5_o.png",
+      "id_image": "letterbox_719246"
+    }
+  ]
+}

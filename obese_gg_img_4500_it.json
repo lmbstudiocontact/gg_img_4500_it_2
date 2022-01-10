@@ -1,0 +1,38 @@
+{
+  "english": "obese",
+  "list_translation_mean": [
+    {
+      "translate_mean": "mập",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "phệ bụng",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "grossly fat or overweight.",
+      "definitions_ex_en": "a hugely obese young man",
+      "definitions_ex_vn": "Một chàng trai trẻ khó chịu",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810055680_4f7138f00f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810055680_d3e13a6588_o.png",
+      "id_image": "obesity_3901444"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809673914_e09a44a099_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809673914_2a68c2c0bb_o.png",
+      "id_image": "obesity_4201837"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809673884_e003fd8f87_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809673884_272f401f1a_o.png",
+      "id_image": "obesity_6193603"
+    }
+  ]
+}

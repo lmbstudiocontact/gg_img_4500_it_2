@@ -1,0 +1,58 @@
+{
+  "english": "offshore",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ngoài khơi",
+      "type_word": "adverb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "situated at sea some distance from the shore.",
+      "definitions_ex_en": "this huge stretch of coastline is dominated by offshore barrier islands",
+      "definitions_ex_vn": "Dòng bờ biển khổng lồ này bị chi phối bởi các đảo hàng rào ngoài khơi",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "made, situated, or registered abroad, especially in order to take advantage of lower taxes or costs or less stringent regulation.",
+      "definitions_ex_en": "deposits in offshore accounts",
+      "definitions_ex_vn": "Tiền gửi trong tài khoản ngoài khơi",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "at sea some distance from the shore.",
+      "definitions_ex_en": "we dropped anchor offshore",
+      "definitions_ex_vn": "Chúng tôi đã bỏ neo ngoài khơi",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "in a foreign country, especially in order to take advantage of lower taxes or costs or less stringent regulation.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "relocate (a business or department) to a foreign country to take advantage of lower taxes or costs.",
+      "definitions_ex_en": "firms had offshored some activities by early 2004",
+      "definitions_ex_vn": "Các công ty đã có một số hoạt động vào đầu năm 2004",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808392817_46d542f267_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808392817_80e0b90ea8_o.png",
+      "id_image": "offshore_1486217"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809347906_d243e3d9d2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809347906_ec31b5cb19_o.png",
+      "id_image": "offshore_2321487"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810085185_41afa433f7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810085185_9b615f3a47_o.png",
+      "id_image": "offshore_6315464"
+    }
+  ]
+}

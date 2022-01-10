@@ -1,0 +1,44 @@
+{
+  "english": "mud",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bùn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bùn lầy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sình",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "soft, sticky matter resulting from the mixing of earth and water.",
+      "definitions_ex_en": "ankle deep in mud, we squelched across a meadow",
+      "definitions_ex_vn": "mắt cá chân sâu trong bùn, chúng tôi vắt lên trên một đồng cỏ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "information or allegations regarded as damaging, typically concerned with corruption.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a computer-based text or virtual reality game which several players play at the same time, interacting with each other as well as with characters controlled by the computer.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810069775_0628c04011_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810069775_cd6701a387_o.png",
+      "id_image": "mud_4675457"
+    }
+  ]
+}

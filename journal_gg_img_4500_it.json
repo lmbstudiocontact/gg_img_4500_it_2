@@ -1,0 +1,60 @@
+{
+  "english": "journal",
+  "list_translation_mean": [
+    {
+      "translate_mean": "báo hằng ngày",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhật ký",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tạp chí",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a newspaper or magazine that deals with a particular subject or professional activity.",
+      "definitions_ex_en": "medical journals",
+      "definitions_ex_vn": "Tạp chí y tế.",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a daily record of news and events of a personal nature; a diary.",
+      "definitions_ex_en": "while abroad he had kept a journal",
+      "definitions_ex_vn": "Trong khi ở nước ngoài, anh đã giữ một tạp chí",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the part of a shaft or axle that rests on bearings.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "write in a journal or diary.",
+      "definitions_ex_en": "I journaled extensively during both periods",
+      "definitions_ex_vn": "Tôi đã viết kịch bản trong cả hai giai đoạn",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809687419_5d5fcfc0f4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809687419_40b04de082_o.png",
+      "id_image": "journal_1188506"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809332416_fae310d23c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809332416_ea6cc07f06_o.png",
+      "id_image": "journal_2232505"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808377237_b815418883_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808377237_8771897cc3_o.png",
+      "id_image": "journal_422997"
+    }
+  ]
+}

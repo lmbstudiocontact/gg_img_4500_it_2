@@ -1,0 +1,28 @@
+{
+  "english": "mouthpiece",
+  "list_translation_mean": [
+    {
+      "translate_mean": "miệng của ống loa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phần của ống kèn để thổi",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a thing designed to be put in or against the mouth.",
+      "definitions_ex_en": "the snorkel's mouthpiece",
+      "definitions_ex_vn": "Phát ngôn của ống thở",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688899_e05e4204fa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688899_4cd0f18c25_o.png",
+      "id_image": "mouthpiece_1923024"
+    }
+  ]
+}

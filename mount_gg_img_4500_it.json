@@ -1,0 +1,118 @@
+{
+  "english": "mount",
+  "list_translation_mean": [
+    {
+      "translate_mean": "lên",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "bốc lên",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cởi ngựa",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lên ngựa",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trèo lên",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chân dâng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bàn đập",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chân kiến viển vọng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đồi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "núi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự cởi ngựa đua",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "yên ngựa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chỉ nổi lên trong bàn tay",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thành lủy",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "climb up (stairs, a hill, or other rising surface).",
+      "definitions_ex_en": "he mounted the steps to the front door",
+      "definitions_ex_vn": "Anh ấy gắn các bước đến cửa trước",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "organize and initiate (a campaign or other significant course of action).",
+      "definitions_ex_en": "the company had successfully mounted takeover bids",
+      "definitions_ex_vn": "Công ty đã gắn kết thành công giá thầu tiếp quản",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "grow larger or more numerous.",
+      "definitions_ex_en": "the costs mount up when you buy a home",
+      "definitions_ex_vn": "Các chi phí gắn kết khi bạn mua một ngôi nhà",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "place or fix (an object) in its operating position.",
+      "definitions_ex_en": "fluorescent lights are mounted on the ceiling",
+      "definitions_ex_vn": "Đèn huỳnh quang được gắn trên trần nhà",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a backing or setting on which a photograph, gem, or work of art is set for display.",
+      "definitions_ex_en": "a decorated photograph mount",
+      "definitions_ex_vn": "một bức ảnh trang trí gắn kết",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a support for a gun, camera, or similar piece of equipment.",
+      "definitions_ex_en": "heavy cannon were torn from their mounts",
+      "definitions_ex_vn": "Cannon nặng bị xé rách từ đỉnh núi của họ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a horse being ridden or that is available for riding.",
+      "definitions_ex_en": "he hung onto his mount's bridle",
+      "definitions_ex_vn": "Anh ta treo lên cầu của mình",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a mountain or hill (archaic except in place names).",
+      "definitions_ex_en": "Mount Etna",
+      "definitions_ex_vn": "Núi Etna.",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810071345_2db770ba3d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810071345_616a59b5e5_o.png",
+      "id_image": "mount_306730"
+    }
+  ]
+}

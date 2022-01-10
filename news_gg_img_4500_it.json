@@ -1,0 +1,41 @@
+{
+  "english": "news",
+  "list_translation_mean": [
+    {
+      "translate_mean": "tin phóng sự trên báo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tin tức",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tin vắn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tin vặt",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "newly received or noteworthy information, especially about recent or important events.",
+      "definitions_ex_en": "I've got some good news for you",
+      "definitions_ex_vn": "Tôi đã có một số tin tốt cho bạn",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809678459_e77d7264bf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809678459_2a74c0b745_o.png",
+      "id_image": "news_383832"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809678419_93ddaebf00_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809678419_4a59a87131_o.png",
+      "id_image": "news_823470"
+    }
+  ]
+}

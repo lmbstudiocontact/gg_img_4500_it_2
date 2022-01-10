@@ -1,0 +1,111 @@
+{
+  "english": "number",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chữ số",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đám người",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đoàn người",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhóm người",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "số",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "số báo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "số hiệu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "số người",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "số nhà",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "toán người",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đếm",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ghi số",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "kể vào",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "liệt vào",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an arithmetical value, expressed by a word, symbol, or figure, representing a particular quantity and used in counting and making calculations and for showing order in a series or for identification.",
+      "definitions_ex_en": "she dialed the number carefully",
+      "definitions_ex_vn": "Cô bấm số cẩn thận",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a quantity or amount.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a distinction of word form denoting reference to one person or thing or to more than one.",
+      "definitions_ex_en": "the form of English pronouns reflects their number and gender",
+      "definitions_ex_vn": "Hình thức đại từ tiếng Anh phản ánh số lượng và giới tính của họ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "amount to (a specified figure or quantity); comprise.",
+      "definitions_ex_en": "the demonstrators numbered more than 5,000",
+      "definitions_ex_vn": "Những người biểu tình được đánh số hơn 5.000",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "mark with a number or assign a number to, typically to indicate position in a series.",
+      "definitions_ex_en": "each document was numbered consecutively",
+      "definitions_ex_vn": "Mỗi tài liệu được đánh số liên tiếp",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "include or classify as a member of a group.",
+      "definitions_ex_en": "the orchestra numbers Brahms among its past conductors",
+      "definitions_ex_vn": "Các dàn nhạc Brahms trong quá khứ của nó",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809674574_7e1b68d975_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809674574_c05c0c77b6_o.png",
+      "id_image": "number_1770951"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809319671_1921267177_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809319671_ca96572a74_o.png",
+      "id_image": "number_2248043"
+    }
+  ]
+}

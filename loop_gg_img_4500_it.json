@@ -1,0 +1,83 @@
+{
+  "english": "loop",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đường nhánh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đường xoáy ốc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vòng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "gút",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khúc quanh co",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bay ngược đầu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "quấn lại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thắt gút",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thắt vòng",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a shape produced by a curve that bends around and crosses itself.",
+      "definitions_ex_en": "make a loop in the twine",
+      "definitions_ex_vn": "Tạo một vòng lặp trong Twine",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a structure, series, or process, the end of which is connected to the beginning.",
+      "definitions_ex_en": "a feedback loop",
+      "definitions_ex_vn": "một vòng lặp phản hồi",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "form (something) into a loop or loops; encircle.",
+      "definitions_ex_en": "she looped her arms around his neck",
+      "definitions_ex_vn": "Cô vòng tay quanh cổ anh.",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335736_73a22709a9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335736_818d21afe1_o.png",
+      "id_image": "loop_4248306"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809690944_c2d15a1165_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809690944_4da1049643_o.png",
+      "id_image": "loop_5350546"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810072600_f98f605745_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810072600_5d82c3696f_o.png",
+      "id_image": "loop_5620429"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808380672_bef54d2513_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808380672_bc183f0ec1_o.png",
+      "id_image": "loop_6365997"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "english": "overheat",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đun quá độ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "quá nóng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "make or become too hot.",
+      "definitions_ex_en": "her car started to overheat",
+      "definitions_ex_vn": "Xe của cô bắt đầu quá nóng",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of a country's economy) show marked inflation when increased demand results in rising prices rather than increased output.",
+      "definitions_ex_en": "lending rates could soar as the economy overheats",
+      "definitions_ex_vn": "Lãi suất cho vay có thể tăng vọt khi nền kinh tế quá nóng",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809340271_1eb1fc1f86_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809340271_9d34fe3262_o.png",
+      "id_image": "overheat_5782347"
+    }
+  ]
+}

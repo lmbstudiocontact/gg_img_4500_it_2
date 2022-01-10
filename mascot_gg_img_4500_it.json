@@ -1,0 +1,39 @@
+{
+  "english": "mascot",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bùa hộ mạng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person or thing that is supposed to bring good luck or that is used to symbolize a particular event or organization.",
+      "definitions_ex_en": "the squadron's mascot was a young lion cub",
+      "definitions_ex_vn": "Linh vật của Squadron là một con sư tử trẻ con",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809436988_dd451d2aeb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809436988_75188caeda_o.png",
+      "id_image": "mascot_1754012"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809321786_3a1b2816df_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809321786_0b3318efb8_o.png",
+      "id_image": "mascot_4213298"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809676819_c4618f89f4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809676819_c249a205cf_o.png",
+      "id_image": "mascot_4443736"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809676804_dd7a3a67bb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809676804_e5666ec970_o.png",
+      "id_image": "mascot_5978320"
+    }
+  ]
+}

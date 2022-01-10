@@ -1,0 +1,39 @@
+{
+  "english": "literature",
+  "list_translation_mean": [
+    {
+      "translate_mean": "văn chương",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "written works, especially those considered of superior or lasting artistic merit.",
+      "definitions_ex_en": "a great work of literature",
+      "definitions_ex_vn": "một tác phẩm tuyệt vời của văn học",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809339626_41c4849d82_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809339626_a3c3d73f4b_o.png",
+      "id_image": "literature_4459391"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809454533_34cf971d49_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809454533_a95d6bffa2_o.png",
+      "id_image": "literature_5226391"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810076920_45a337a228_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810076920_406da194b1_o.png",
+      "id_image": "literature_647659"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809339641_62eed66f00_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809339641_cdf4b47983_o.png",
+      "id_image": "literature_874694"
+    }
+  ]
+}

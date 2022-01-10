@@ -1,0 +1,45 @@
+{
+  "english": "mother",
+  "list_translation_mean": [
+    {
+      "translate_mean": "má",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mẹ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a woman in relation to her child or children.",
+      "definitions_ex_en": "she returned to Bristol to nurse her aging mother",
+      "definitions_ex_vn": "Cô trở lại Bristol để y tá mẹ già của mình",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "bring up (a child) with care and affection.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "give birth to.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809450493_aae6f0b1d4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809450493_cf1cf1be79_o.png",
+      "id_image": "mother_325663"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335491_ce5a56fb83_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335491_c87cb1c4a9_o.png",
+      "id_image": "mother_819074"
+    }
+  ]
+}

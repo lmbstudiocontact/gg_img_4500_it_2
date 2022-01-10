@@ -1,0 +1,63 @@
+{
+  "english": "inclusive",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bao hàm",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "gồm có",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "gồm vào",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "kể tất cả có",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "including or covering all the services, facilities, or items normally expected or required.",
+      "definitions_ex_en": "the price is inclusive, with few incidentals",
+      "definitions_ex_vn": "Giá đã bao gồm, với một vài sự cố",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "not excluding any of the parties or groups involved in something.",
+      "definitions_ex_en": "only an inclusive peace process will end the conflict",
+      "definitions_ex_vn": "Chỉ một quá trình hòa bình bao gồm sẽ kết thúc cuộc xung đột",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "aiming to provide equal access to opportunities and resources for people who might otherwise be excluded or marginalized, such as those having physical or mental disabilities or belonging to other minority groups.",
+      "definitions_ex_en": "this is a testament to the inclusive environment fostered at our school",
+      "definitions_ex_vn": "Đây là một minh chứng cho môi trường bao gồm được thúc đẩy tại trường của chúng tôi",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808363957_98bba68f21_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808363957_75d4ea8cdc_o.png",
+      "id_image": "inclusive_3966167"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809434403_b4802b9d50_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809434403_840d47f9e1_o.png",
+      "id_image": "inclusive_3996146"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810055845_75de97d8f7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810055845_d21f728d0a_o.png",
+      "id_image": "inclusive_4480444"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809674079_d3d03cbf4b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809674079_6371773a5f_o.png",
+      "id_image": "inclusive_5692692"
+    }
+  ]
+}

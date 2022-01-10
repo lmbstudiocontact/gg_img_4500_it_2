@@ -1,0 +1,58 @@
+{
+  "english": "liberty",
+  "list_translation_mean": [
+    {
+      "translate_mean": "quyền đi lại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "quyền tự do",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự tự do",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vùng xung quanh nhà khám",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the state of being free within society from oppressive restrictions imposed by authority on one's way of life, behavior, or political views.",
+      "definitions_ex_en": "compulsory retirement would interfere with individual liberty",
+      "definitions_ex_vn": "Nghỉ hưu bắt buộc sẽ can thiệp vào tự do cá nhân",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the power or scope to act as one pleases.",
+      "definitions_ex_en": "individuals should enjoy the liberty to pursue their own interests and preferences",
+      "definitions_ex_vn": "Các cá nhân nên tận hưởng tự do để theo đuổi sở thích và sở thích riêng của họ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a presumptuous remark or action.",
+      "definitions_ex_en": "how did he know what she was thinking?—it was a liberty!",
+      "definitions_ex_vn": "Làm thế nào anh ấy biết những gì cô ấy đang nghĩ? -Tôi là một quyền tự do!",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810081295_80f04e7edd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810081295_6fc830cbaa_o.png",
+      "id_image": "liberty_1849913"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809458673_7de71f2707_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809458673_f2124f302a_o.png",
+      "id_image": "liberty_3956702"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809458603_ac7cdc960f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809458603_ffb65a0369_o.png",
+      "id_image": "liberty_4742541"
+    }
+  ]
+}

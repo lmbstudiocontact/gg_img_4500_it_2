@@ -1,0 +1,59 @@
+{
+  "english": "immunity",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự không đánh thuế",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự không tính vào",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự miển thuế",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự tha tội",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự tránh khỏi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tính miển dịch",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the ability of an organism to resist a particular infection or toxin by the action of specific antibodies or sensitized white blood cells.",
+      "definitions_ex_en": "immunity to typhoid seems to have increased spontaneously",
+      "definitions_ex_vn": "Miễn dịch đối với thương hàn dường như đã tăng lên một cách tự nhiên",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809437213_9025a5cca4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809437213_667024806f_o.png",
+      "id_image": "immunity_3159999"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809677069_909f08cb1d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809677069_c273142290_o.png",
+      "id_image": "immunity_4328874"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809677024_a2733172d5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809677024_3ef94ea8d2_o.png",
+      "id_image": "immunity_4745660"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808366842_43e0aef9b5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808366842_1625864dfa_o.png",
+      "id_image": "immunity_5133591"
+    }
+  ]
+}

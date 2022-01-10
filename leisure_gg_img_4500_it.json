@@ -1,0 +1,44 @@
+{
+  "english": "leisure",
+  "list_translation_mean": [
+    {
+      "translate_mean": "nhàn rổi",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "free time.",
+      "definitions_ex_en": "people with too much enforced leisure",
+      "definitions_ex_vn": "những người có quá nhiều giải trí được thi hành",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809346126_92156c6043_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809346126_137bc8da5c_o.png",
+      "id_image": "leisure_2773074"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810083565_ab7d87f383_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810083565_672d75013a_o.png",
+      "id_image": "leisure_5020564"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808391072_aae462aa19_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808391072_3510b1d9d5_o.png",
+      "id_image": "leisure_5778821"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809346016_35144a243f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809346016_9eb468fd90_o.png",
+      "id_image": "leisure_6193454"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809345991_50be5861f2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809345991_e162a9fb2d_o.png",
+      "id_image": "leisure_6213535"
+    }
+  ]
+}

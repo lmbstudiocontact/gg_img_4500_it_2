@@ -1,0 +1,38 @@
+{
+  "english": "ointment",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bom mát",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thuốc mở",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a smooth oily preparation that is rubbed on the skin for medicinal purposes or as a cosmetic.",
+      "definitions_ex_en": "he rubbed some ointment on his leg",
+      "definitions_ex_vn": "Anh ta xoa một ít thuốc mỡ trên chân",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810084945_1b53cf68d9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810084945_41227761c7_o.png",
+      "id_image": "ointment_1881222"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809702354_1d88f45526_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809702354_1b625c6df9_o.png",
+      "id_image": "ointment_2268992"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809462383_69557f0547_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809462383_7ca1aa57fb_o.png",
+      "id_image": "ointment_980035"
+    }
+  ]
+}

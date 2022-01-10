@@ -1,0 +1,38 @@
+{
+  "english": "mileage",
+  "list_translation_mean": [
+    {
+      "translate_mean": "khoảng đường bằng dặm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiền phụ cấp lộ phí",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tốc lực mỗi dặm",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a number of miles traveled or covered.",
+      "definitions_ex_en": "the car is in good condition, considering its mileage",
+      "definitions_ex_vn": "Chiếc xe đang trong tình trạng tốt, xem xét số dặm của nó",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "actual or potential benefit from something.",
+      "definitions_ex_en": "he was getting a lot of mileage out of the mix-up",
+      "definitions_ex_vn": "anh ta đã nhận được rất nhiều số dặm ra khỏi sự pha trộn",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809343976_fc856bcaeb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809343976_8a6208b864_o.png",
+      "id_image": "mileage_5235583"
+    }
+  ]
+}

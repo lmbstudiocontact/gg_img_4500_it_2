@@ -1,0 +1,52 @@
+{
+  "english": "lemon",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chanh",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a yellow, oval citrus fruit with thick skin and fragrant, acidic juice.",
+      "definitions_ex_en": "the juice of seven lemons",
+      "definitions_ex_vn": "Nước ép của bảy quả chanh",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the evergreen citrus tree that produces the lemon, widely cultivated in warm climates.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a pale yellow color.",
+      "definitions_ex_en": "a lemon T-shirt",
+      "definitions_ex_vn": "một chiếc áo thun chanh",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a person or thing, especially an automobile, regarded as unsatisfactory, disappointing, or feeble.",
+      "definitions_ex_en": "car-makers cannot afford to create lemons",
+      "definitions_ex_vn": "Các nhà sản xuất xe hơi không thể đủ khả năng để tạo chanh",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809700944_0f46f276fd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809700944_597fc1febf_o.png",
+      "id_image": "lemon_1087449"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810083445_e4177a6bc4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810083445_8e39de21e2_o.png",
+      "id_image": "lemon_258587"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808390892_dd77cbf1e8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808390892_3ed0267534_o.png",
+      "id_image": "lemon_952030"
+    }
+  ]
+}

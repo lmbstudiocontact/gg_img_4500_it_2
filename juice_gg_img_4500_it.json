@@ -1,0 +1,52 @@
+{
+  "english": "juice",
+  "list_translation_mean": [
+    {
+      "translate_mean": "nước ép",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the liquid obtained from or present in fruit or vegetables.",
+      "definitions_ex_en": "add the juice of a lemon",
+      "definitions_ex_vn": "thêm nước ép của chanh",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the liquid that comes from meat or other food when cooked.",
+      "definitions_ex_en": "put with the salmon, reserving the cooking juices",
+      "definitions_ex_vn": "Đặt với cá hồi, bảo lưu nước ép nấu ăn",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "electrical energy.",
+      "definitions_ex_en": "the batteries have run out of juice",
+      "definitions_ex_vn": "Pin đã hết nước",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "extract the juice from (fruit or vegetables).",
+      "definitions_ex_en": "juice one orange at a time",
+      "definitions_ex_vn": "Nước ép một quả cam tại một thời điểm",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686124_db2980e8c5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686124_7a1ec02c33_o.png",
+      "id_image": "juice_499631"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809446018_43c92c4cbd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809446018_4fa385c80a_o.png",
+      "id_image": "juice_525512"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809445968_e73090b8af_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809445968_f3fbcf4928_o.png",
+      "id_image": "juice_883322"
+    }
+  ]
+}

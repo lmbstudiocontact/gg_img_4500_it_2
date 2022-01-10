@@ -1,0 +1,103 @@
+{
+  "english": "man",
+  "list_translation_mean": [
+    {
+      "translate_mean": "nam nhi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chồng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đàn ông",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "gia thần",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "loài người",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nam tử",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhân loại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tuần hóa",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an adult male human being.",
+      "definitions_ex_en": "a tall man with a beard",
+      "definitions_ex_vn": "một người đàn ông cao lớn với một bộ râu",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a human being of either sex; a person.",
+      "definitions_ex_en": "goodwill to all men",
+      "definitions_ex_vn": "thiện chí với tất cả đàn ông",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a group or person in a position of authority over others, such as a corporate employer or the police.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a figure or token used in playing a board game.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(of personnel) work at, run, or operate (a place or piece of equipment) or defend (a fortification).",
+      "definitions_ex_en": "the firemen manned the pumps and fought the blaze",
+      "definitions_ex_vn": "Những người lính cứu hỏa có người lái máy bơm và chiến đấu với ngọn lửa",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "fortify the spirits or courage of.",
+      "definitions_ex_en": "he manned himself with dauntless air",
+      "definitions_ex_vn": "Anh ta quản lý bản thân với không khí Dickless",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "in nouns denoting a male of a specified nationality or origin.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "combining form"
+    },
+    {
+      "definitions_word_en": "Manitoba.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "abbreviation"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809442188_82570dc166_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809442188_287c114831_o.png",
+      "id_image": "man_169889"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809682249_1aae8ca6ff_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809682249_57826ac6b5_o.png",
+      "id_image": "man_366309"
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "english": "lip",
+  "list_translation_mean": [
+    {
+      "translate_mean": "môi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cánh hoa hình môi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "miệng hang",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "miệng vết thương",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phần lồi ra",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự xấc xược",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tánh vô lể",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "để môi lên ly rượu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nói thì thầm",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tạt vào",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "either of the two fleshy parts which form the upper and lower edges of the opening of the mouth.",
+      "definitions_ex_en": "he kissed her on the lips",
+      "definitions_ex_vn": "Anh hôn cô trên môi",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the edge of a hollow container or an opening.",
+      "definitions_ex_en": "drawing her finger around the lip of the cup",
+      "definitions_ex_vn": "Vẽ ngón tay của cô ấy xung quanh môi của cốc",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "impudent talk.",
+      "definitions_ex_en": "don't give me any of your lip!",
+      "definitions_ex_vn": "Đừng cho tôi bất kỳ môi của bạn!",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(of water) lap against.",
+      "definitions_ex_en": "beaches lipped by the surf rimming the Pacific",
+      "definitions_ex_vn": "những bãi biển bị lướt sóng bởi Thái Bình Dương",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809340731_58cf404a2e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809340731_51d125a946_o.png",
+      "id_image": "lips_286512"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809695974_ce0d785dfc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809695974_722091a615_o.png",
+      "id_image": "lips_458102"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809340761_2b08974d0e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809340761_60f3767835_o.png",
+      "id_image": "lip_1862698"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "english": "maggot",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sâu non",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "con dòi do ruồi sanh ra",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ý muốn chướng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ý ngông",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a soft-bodied legless larva, especially that of a fly found in decaying matter.",
+      "definitions_ex_en": "the maggots attack the roots of the developing cabbages",
+      "definitions_ex_vn": "Những con giòi tấn công rễ của cải bắp đang phát triển",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a whimsical fancy.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809330191_505b80ddf9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809330191_c563d9048c_o.png",
+      "id_image": "maggot_4982438"
+    }
+  ]
+}

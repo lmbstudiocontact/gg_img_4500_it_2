@@ -1,0 +1,54 @@
+{
+  "english": "outlet",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chổ ra",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chổ tiêu thụ hàng hóa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lối ra",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a pipe or hole through which water or gas may escape.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a place from which goods are sold or distributed.",
+      "definitions_ex_en": "a fast-food outlet",
+      "definitions_ex_vn": "một cửa hàng thức ăn nhanh",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a means of expressing one's talents, energy, or emotions.",
+      "definitions_ex_en": "writing became the main outlet for his energies",
+      "definitions_ex_vn": "viết trở thành lối thoát chính cho năng lượng của mình",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809456178_9e4cdf8ceb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809456178_b35fd765ab_o.png",
+      "id_image": "outlet_1190296"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810078755_b9f09afa7a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810078755_660c9b279b_o.png",
+      "id_image": "outlet_2823876"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809696549_5952980ea6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809696549_13e8751fec_o.png",
+      "id_image": "outlet_3540135"
+    }
+  ]
+}

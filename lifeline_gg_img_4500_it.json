@@ -1,0 +1,44 @@
+{
+  "english": "lifeline",
+  "list_translation_mean": [
+    {
+      "translate_mean": "dây ném cứu người",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đường sinh tử",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trường thọ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a thing on which someone or something depends or which provides a means of escape from a difficult situation.",
+      "definitions_ex_en": "the telephone has always been a lifeline for Gabby and me",
+      "definitions_ex_vn": "Điện thoại luôn là một huyết mạch cho Gabby và tôi",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a rope or line used for life-saving, typically one thrown to rescue someone in difficulties in water or one used by sailors to secure themselves to a boat.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(in palmistry) a line on the palm of a person's hand, regarded as indicating how long they will live.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809343031_ed0d4db511_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809343031_e4923c882e_o.png",
+      "id_image": "lifeline_6387644"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "english": "important",
+  "list_translation_mean": [
+    {
+      "translate_mean": "khẩn yếu",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "quan trọng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "trọng đại",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "trọng yếu",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "of great significance or value; likely to have a profound effect on success, survival, or well-being.",
+      "definitions_ex_en": "important habitats for wildlife",
+      "definitions_ex_vn": "môi trường sống quan trọng cho động vật hoang dã",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809435933_da7d9a8fcc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809435933_460c5e417f_o.png",
+      "id_image": "important_2343607"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809675764_694baf9e8c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809675764_eb447f4b97_o.png",
+      "id_image": "important_5512109"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365622_538488deb3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365622_9186d207e6_o.png",
+      "id_image": "important_5619196"
+    }
+  ]
+}

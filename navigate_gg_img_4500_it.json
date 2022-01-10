@@ -1,0 +1,52 @@
+{
+  "english": "navigate",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đi biển",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đi tàu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đi thuyền",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "vượt biển",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "plan and direct the route or course of a ship, aircraft, or other form of transportation, especially by using instruments or maps.",
+      "definitions_ex_en": "they navigated by the stars",
+      "definitions_ex_vn": "Họ điều hướng bởi các ngôi sao",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "sail or travel over (a stretch of water or terrain), especially carefully or with difficulty.",
+      "definitions_ex_en": "ships had been lost while navigating the narrows",
+      "definitions_ex_vn": "Tàu đã bị mất trong khi điều hướng Narrow",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809327181_6a527ec596_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809327181_30f2ef7739_o.png",
+      "id_image": "navigate_1406305"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809442198_52896b94bd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809442198_0562d2ea99_o.png",
+      "id_image": "navigate_1516447"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810063980_6a872226b7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810063980_e860748f5f_o.png",
+      "id_image": "navigate_2878798"
+    }
+  ]
+}

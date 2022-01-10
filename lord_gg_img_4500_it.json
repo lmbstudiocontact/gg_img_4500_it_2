@@ -1,0 +1,70 @@
+{
+  "english": "lord",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chúa tể",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đức chúa trời",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lảnh chúa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "quan đô đốc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "quan thủy sư",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vị đại nguyên soái",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "làm bộ quan cao",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm cao",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "someone or something having power, authority, or influence; a master or ruler.",
+      "definitions_ex_en": "lord of the sea",
+      "definitions_ex_vn": "chúa tể của biển",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "used in exclamations expressing surprise or worry, or for emphasis.",
+      "definitions_ex_en": "Lord, I'm cold!",
+      "definitions_ex_vn": "Lạy Chúa, tôi lạnh!",
+      "definitions_type_word": "exclamation"
+    },
+    {
+      "definitions_word_en": "act in a superior and domineering manner toward (someone).",
+      "definitions_ex_en": "when we were at school, you used to lord it over us",
+      "definitions_ex_vn": "Khi chúng ta ở trường, bạn đã từng nói với Chúa trên chúng ta",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "confer the title of Lord upon.",
+      "definitions_ex_en": "Sir Cadwallader Pleadwell has been lately lorded",
+      "definitions_ex_vn": "Sir Cadwallader Pleadwell gần đây đã được chúa lạc",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809450463_bd50a428ce_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809450463_6d3d07e167_o.png",
+      "id_image": "lord_1618858"
+    }
+  ]
+}

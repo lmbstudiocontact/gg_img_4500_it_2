@@ -1,0 +1,82 @@
+{
+  "english": "mole",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chuột chủi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mụt ruồi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nốt ruồi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tàn nhang",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a small burrowing insectivorous mammal with dark velvety fur, a long muzzle, and very small eyes.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a spy who achieves over a long period an important position within the security defenses of a country.",
+      "definitions_ex_en": "a well-placed mole was feeding them the names of operatives",
+      "definitions_ex_vn": "một nốt ruồi được đặt tốt đã cho chúng ăn tên của các hoạt động",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a small, often slightly raised blemish on the skin made dark by a high concentration of melanin.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a large solid structure on a shore serving as a pier, breakwater, or causeway.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the SI base unit for the amount of substance.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an abnormal mass of tissue in the uterus.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a highly spiced Mexican sauce made chiefly from chili peppers and chocolate, served with meat.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809453263_d7fb3b42b6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809453263_86254c6256_o.png",
+      "id_image": "mole_2417957"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809693589_09bb02509e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809693589_f1da2830d1_o.png",
+      "id_image": "mole_311532"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809693539_f198735181_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809693539_b2073482be_o.png",
+      "id_image": "mole_371930"
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "english": "kind",
+  "list_translation_mean": [
+    {
+      "translate_mean": "âu yếm",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "có hảo tâm",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "có lòng tốt",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "hảo ý",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "tốt quá",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "tử tế",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "đa tình",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "dể thương",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "bản tính",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chủng loại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giống",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hạng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "loài",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "loại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thứ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phẫm chất",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tính chất",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a group of people or things having similar characteristics.",
+      "definitions_ex_en": "all kinds of music",
+      "definitions_ex_vn": "Tất cả loại nhạc",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "having or showing a friendly, generous, and considerate nature.",
+      "definitions_ex_en": "she was a good, kind woman",
+      "definitions_ex_vn": "cô ấy là một người phụ nữ tốt bụng",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809327386_3daf61d7b4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809327386_6ce368c5c8_o.png",
+      "id_image": "kind_5479795"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809442358_cd20af1807_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809442358_ed56255430_o.png",
+      "id_image": "kind_5661053"
+    }
+  ]
+}

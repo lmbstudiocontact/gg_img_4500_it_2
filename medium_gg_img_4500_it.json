@@ -1,0 +1,113 @@
+{
+  "english": "medium",
+  "list_translation_mean": [
+    {
+      "translate_mean": "trung gian",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bà đồng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chiết trung",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ngoại giới",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ở giữa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "con đồng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự trung bình",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đồng cốt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hoàn cảnh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "môi giới",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nấu bình thường",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "trung bình",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "vừa",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an agency or means of doing something.",
+      "definitions_ex_en": "using the latest technology as a medium for job creation",
+      "definitions_ex_vn": "Sử dụng công nghệ mới nhất như một phương tiện để tạo việc làm",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the intervening substance through which impressions are conveyed to the senses or a force acts on objects at a distance.",
+      "definitions_ex_en": "radio communication needs no physical medium between the two stations",
+      "definitions_ex_vn": "Giao tiếp vô tuyến không cần phương tiện vật lý giữa hai trạm",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a particular form of storage for digitized information, such as magnetic tape or discs.",
+      "definitions_ex_en": "moving or copying backed-up data through a hierarchy of different mediums",
+      "definitions_ex_vn": "di chuyển hoặc sao chép dữ liệu sao lưu thông qua một hệ thống phân cấp của các phương tiện khác nhau",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the material or form used by an artist, composer, or writer.",
+      "definitions_ex_en": "oil paint is the most popular medium for glazing",
+      "definitions_ex_vn": "Sơn dầu là phương tiện phổ biến nhất để tráng men",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a person claiming to be in contact with the spirits of the dead and to communicate between the dead and the living.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the middle quality or state between two extremes; a reasonable balance.",
+      "definitions_ex_en": "there is a medium between being modest and boastful",
+      "definitions_ex_vn": "Có một phương tiện giữa sự khiêm tốn và khoe khoang",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "about halfway between two extremes of size or another quality; average.",
+      "definitions_ex_en": "John is six feet tall, of medium build",
+      "definitions_ex_vn": "John cao sáu feet, của khu vực trung bình",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809463478_04bfcf1d6d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809463478_1bf42a274b_o.png",
+      "id_image": "medium_1455330"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810085935_93382716f7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810085935_c5b9c55f49_o.png",
+      "id_image": "medium_3103560"
+    }
+  ]
+}

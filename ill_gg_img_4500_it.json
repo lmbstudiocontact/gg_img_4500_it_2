@@ -1,0 +1,74 @@
+{
+  "english": "ill",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đau",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "bịnh",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "đau yếu",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "xấu",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "điều ác",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự đau đớn",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "not in full health; sick.",
+      "definitions_ex_en": "her daughter is seriously ill",
+      "definitions_ex_vn": "Con gái cô bị bệnh nặng",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "poor in quality.",
+      "definitions_ex_en": "ill judgment dogs the unsuccessful",
+      "definitions_ex_vn": "những con chó phán xét xấu không thành công",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "badly, wrongly, or imperfectly.",
+      "definitions_ex_en": "it ill becomes one so beautiful to be gloomy",
+      "definitions_ex_vn": "nó sẽ trở nên rất đẹp để được ảm đạm",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "only with difficulty; hardly.",
+      "definitions_ex_en": "she could ill afford the cost of new curtains",
+      "definitions_ex_vn": "cô ấy có thể không đủ khả năng chi phí của rèm cửa mới",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "a problem or misfortune.",
+      "definitions_ex_en": "a lengthy work on the ills of society",
+      "definitions_ex_vn": "một công việc kéo dài về những căn bệnh của xã hội",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "Illinois.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "abbreviation"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809323526_e80a0c29ef_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809323526_ba58c10535_o.png",
+      "id_image": "ill_2341906"
+    }
+  ]
+}

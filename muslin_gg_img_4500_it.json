@@ -1,0 +1,32 @@
+{
+  "english": "muslin",
+  "list_translation_mean": [
+    {
+      "translate_mean": "một cô gái",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vải mỏng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vải sa",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "lightweight cotton cloth in a plain weave.",
+      "definitions_ex_en": "she folded the dress in layers of clean muslin",
+      "definitions_ex_vn": "Cô gấp chiếc váy trong các lớp của Muslin sạch sẽ",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809330431_d527523729_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809330431_a9c84210f1_o.png",
+      "id_image": "muslin_6254382"
+    }
+  ]
+}

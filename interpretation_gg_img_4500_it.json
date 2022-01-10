@@ -1,0 +1,41 @@
+{
+  "english": "interpretation",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự biểu diển",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự giải thích",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự thông ngôn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự thuyết minh",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the action of explaining the meaning of something.",
+      "definitions_ex_en": "the interpretation of data",
+      "definitions_ex_vn": "việc giải thích dữ liệu",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809456158_d75c323b9b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809456158_30119d12f3_o.png",
+      "id_image": "interpretation_5234401"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810078775_2b78898338_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810078775_fb3200578e_o.png",
+      "id_image": "interpretation_536886"
+    }
+  ]
+}

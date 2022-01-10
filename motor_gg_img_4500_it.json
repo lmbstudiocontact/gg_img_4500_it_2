@@ -1,0 +1,70 @@
+{
+  "english": "motor",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chuyển động",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "máy phát động",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "phát động",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "vận động",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "máy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đi du lịch",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "động cơ",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a machine, especially one powered by electricity or internal combustion, that supplies motive power for a vehicle or for some other device with moving parts.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "giving, imparting, or producing motion or action.",
+      "definitions_ex_en": "demand is the principle motor force governing economic activity",
+      "definitions_ex_vn": "Nhu cầu là nguyên tắc cơ giới vận động hoạt động kinh tế",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "travel in a motor vehicle, typically a car or a boat.",
+      "definitions_ex_en": "we motored along a narrow road",
+      "definitions_ex_vn": "Chúng tôi lái xe dọc theo một con đường hẹp",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810071860_92791bcea6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810071860_3dda931f97_o.png",
+      "id_image": "motor_3211853"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810071835_4697016a7c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810071835_bee7380de2_o.png",
+      "id_image": "motor_3211870"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808379907_0165dcb87e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808379907_5b9471bf00_o.png",
+      "id_image": "motor_465048"
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "english": "host",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bánh thánh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chủ khách sạn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chủ lữ điếm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chủ lữ quán",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chủ nhà",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chủ nhân",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "một nhóm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "một số đông",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhóm người",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tốp người",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person who receives or entertains other people as guests.",
+      "definitions_ex_en": "a dinner-party host",
+      "definitions_ex_vn": "một chủ nhà bữa tiệc tối",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an animal or plant on or in which a parasite or commensal organism lives.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a person or animal that has received transplanted tissue or a transplanted organ.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a computer that mediates multiple access to databases mounted on it or provides other services to a computer network.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a large number of people or things.",
+      "definitions_ex_en": "a host of memories rushed into her mind",
+      "definitions_ex_vn": "Một loạt các ký ức lao vào tâm trí cô ấy",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the bread consecrated in the Eucharist.",
+      "definitions_ex_en": "the elevation of the Host",
+      "definitions_ex_vn": "Độ cao của vật chủ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "act as host at (an event) or for (a television or radio program).",
+      "definitions_ex_en": "Canada was asked to host a Commonwealth conference in Ottawa",
+      "definitions_ex_vn": "Canada được yêu cầu tổ chức một hội nghị Commonwealth tại Ottawa",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "store (a website or other data) on a server or other computer so that it can be accessed over the internet.",
+      "definitions_ex_en": "Columbia University currently hosts some 400 websites",
+      "definitions_ex_vn": "Đại học Columbia hiện đang tổ chức một số 400 trang web",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375352_d022a2c0e2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375352_8f8e62db38_o.png",
+      "id_image": "host_2162279"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809330621_00a85a37b0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809330621_c2d76f0a25_o.png",
+      "id_image": "host_4799517"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067400_f94b1a6620_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067400_6aa68e927e_o.png",
+      "id_image": "host_6036772"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809685769_b72745230c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809685769_010320a963_o.png",
+      "id_image": "host_860259"
+    }
+  ]
+}

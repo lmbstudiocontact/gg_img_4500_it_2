@@ -1,0 +1,104 @@
+{
+  "english": "lock",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bàn súng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khóa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lọn tóc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ổ khóa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tóc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đi nối đuôi nhau",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đóng cửa",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "hãm bánh xe",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a mechanism for keeping a door, lid, etc., fastened, typically operated only by a key of a particular form.",
+      "definitions_ex_en": "the key turned firmly in the lock",
+      "definitions_ex_vn": "chìa khóa biến thành một cách chắc chắn trong khóa",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a short confined section of a canal or other waterway in which the water level can be changed by the use of gates and sluices, used for raising and lowering vessels between two gates.",
+      "definitions_ex_en": "there was a lock every quarter of a mile",
+      "definitions_ex_vn": "Có một khóa mỗi phần tư của một dặm",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a mechanism for exploding the charge of a gun.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a piece of a person's hair that coils or hangs together.",
+      "definitions_ex_en": "she pushed back a lock of hair",
+      "definitions_ex_vn": "Cô đẩy lùi tóc",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "fasten or secure (something) with a lock.",
+      "definitions_ex_en": "she closed and locked her desk",
+      "definitions_ex_vn": "Cô đóng cửa và khóa bàn của mình",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "restrict access to the full functionality or data of (a computer, mobile phone, file, etc.), especially by requiring a user to verify their identity with a passcode or other form of authentication.",
+      "definitions_ex_en": "my computer is locked and I've forgotten my login info",
+      "definitions_ex_vn": "Máy tính của tôi bị khóa và tôi đã quên thông tin đăng nhập của mình",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "make or become rigidly fixed or immovable.",
+      "definitions_ex_en": "he locked his hands behind her neck",
+      "definitions_ex_vn": "Anh ta khóa tay sau cổ",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "go through a lock on a canal.",
+      "definitions_ex_en": "we locked through at Moore Haven",
+      "definitions_ex_vn": "Chúng tôi đã khóa qua Moore Haven",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808382797_7e5f135874_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808382797_664833db3b_o.png",
+      "id_image": "lock_184263"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810074805_20fb390a7c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810074805_49552ed584_o.png",
+      "id_image": "lock_526818"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809337741_45b12f2277_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809337741_1b4d77146c_o.png",
+      "id_image": "lock_923793"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "english": "illegal",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bất hợp pháp",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "trái luật",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "contrary to or forbidden by law, especially criminal law.",
+      "definitions_ex_en": "illegal drugs",
+      "definitions_ex_vn": "ma túy bất hợp pháp",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809323486_469999ef41_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809323486_b95f9ca145_o.png",
+      "id_image": "illegal_4633952"
+    }
+  ]
+}

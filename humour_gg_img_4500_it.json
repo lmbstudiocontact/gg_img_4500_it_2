@@ -1,0 +1,58 @@
+{
+  "english": "humour",
+  "list_translation_mean": [
+    {
+      "translate_mean": "dịch",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khí chất",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nước ở trong thân thể",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trấp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chiều lòng",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the quality of being amusing or comic, especially as expressed in literature or speech.",
+      "definitions_ex_en": "his tales are full of humor",
+      "definitions_ex_vn": "Câu chuyện của anh ấy đầy sự hài hước",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a mood or state of mind.",
+      "definitions_ex_en": "her good humor vanished",
+      "definitions_ex_vn": "hài hước của cô biến mất",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "each of the four chief fluids of the body (blood, phlegm, yellow bile (choler), and black bile (melancholy)) that were thought to determine a person's physical and mental qualities by the relative proportions in which they were present.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "comply with the wishes of (someone) in order to keep them content, however unreasonable such wishes might be.",
+      "definitions_ex_en": "she was always humoring him to prevent trouble",
+      "definitions_ex_vn": "Cô luôn hài hước với anh để tránh rắc rối",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809442943_c19523da48_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809442943_481f8b1fa6_o.png",
+      "id_image": "humour_2178177"
+    }
+  ]
+}

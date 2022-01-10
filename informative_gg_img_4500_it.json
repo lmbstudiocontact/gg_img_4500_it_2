@@ -1,0 +1,32 @@
+{
+  "english": "informative",
+  "list_translation_mean": [
+    {
+      "translate_mean": "có thể dạy",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "dạy dổ",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "dùng để dạy",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "providing useful or interesting information.",
+      "definitions_ex_en": "a thought-provoking, informative article",
+      "definitions_ex_vn": "một bài báo khiêu khích, thông tin",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810053145_4ffc6836f2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810053145_9c22d4fe45_o.png",
+      "id_image": "informative_4213265"
+    }
+  ]
+}

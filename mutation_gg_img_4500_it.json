@@ -1,0 +1,61 @@
+{
+  "english": "mutation",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự biến chuyển",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự biến đổi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự chuyển âm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự chuyển điệu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự hay thay đổi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự thay đổi",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the action or process of mutating.",
+      "definitions_ex_en": "the mutation of cooking into a form of show business",
+      "definitions_ex_vn": "Đột biến nấu ăn thành một hình thức kinh doanh chương trình",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the changing of the structure of a gene, resulting in a variant form that may be transmitted to subsequent generations, caused by the alteration of single base units in DNA, or the deletion, insertion, or rearrangement of larger sections of genes or chromosomes.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "regular change of a sound when it occurs adjacent to another.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809685449_87aa9d0242_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809685449_e806b95972_o.png",
+      "id_image": "mutation_2453631"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809685399_83df1cee94_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809685399_5e284d81f5_o.png",
+      "id_image": "mutation_5264883"
+    }
+  ]
+}

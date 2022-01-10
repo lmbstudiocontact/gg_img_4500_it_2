@@ -1,0 +1,53 @@
+{
+  "english": "lasso",
+  "list_translation_mean": [
+    {
+      "translate_mean": "dây cột ngựa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dây thòng để săn thú",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dây thòng lọng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a rope with a noose at one end, used especially in North America for catching cattle or horses.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "catch (an animal) with a lasso.",
+      "definitions_ex_en": "at last his father lassoed the horse",
+      "definitions_ex_vn": "Cuối cùng, cha anh lassoed con ngựa",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809320111_3956516341_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809320111_b6bd9daab4_o.png",
+      "id_image": "lasso_1589442"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808364832_ede96c2368_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808364832_8ae024cac8_o.png",
+      "id_image": "lasso_3563980"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809435168_b6a1a2baef_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809435168_f1fa041eb0_o.png",
+      "id_image": "lasso_4507885"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809674999_02d9d2b39b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809674999_422503fc51_o.png",
+      "id_image": "lasso_6043585"
+    }
+  ]
+}

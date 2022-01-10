@@ -1,0 +1,39 @@
+{
+  "english": "pandemic",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chỉ bịch dịch truyền nhiểm",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "bịnh dịch truyền nhiểm",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "(of a disease) prevalent over a whole country or the world.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "an outbreak of a pandemic disease.",
+      "definitions_ex_en": "the results may have been skewed by an influenza pandemic",
+      "definitions_ex_vn": "Kết quả có thể đã bị lệch bởi một đại dịch cúm",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810072375_75e9e4b374_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810072375_a482a2413a_o.png",
+      "id_image": "pandemic_2813265"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809690654_0c0375b394_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809690654_bc2513711f_o.png",
+      "id_image": "pandemic_2877885"
+    }
+  ]
+}

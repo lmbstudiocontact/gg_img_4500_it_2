@@ -1,0 +1,88 @@
+{
+  "english": "link",
+  "list_translation_mean": [
+    {
+      "translate_mean": "khoen",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người nối tiếp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vật để nối tiếp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "liên kết",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vòng sắt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lổ đan",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lổ lưới",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nối",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nối liền",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nối tiếp",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a relationship between two things or situations, especially where one thing affects the other.",
+      "definitions_ex_en": "investigating a link between pollution and forest decline",
+      "definitions_ex_vn": "điều tra một liên kết giữa ô nhiễm và suy giảm rừng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a ring or loop in a chain.",
+      "definitions_ex_en": "a chain made of steel links",
+      "definitions_ex_vn": "một chuỗi làm bằng thép liên kết",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a torch of pitch and tow for lighting the way in dark streets.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "make, form, or suggest a connection with or between.",
+      "definitions_ex_en": "rumors that linked his name with Judith",
+      "definitions_ex_vn": "Tin đồn liên kết tên của mình với Judith",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810078505_f66c114780_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810078505_14ab2e08fc_o.png",
+      "id_image": "link_166377"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810078445_0ccd5034ac_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810078445_1dfacbb947_o.png",
+      "id_image": "link_1851051"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810078475_6095692e92_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810078475_e8fc163528_o.png",
+      "id_image": "link_423846"
+    }
+  ]
+}

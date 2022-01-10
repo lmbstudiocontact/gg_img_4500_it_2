@@ -1,0 +1,154 @@
+{
+  "english": "lift",
+  "list_translation_mean": [
+    {
+      "translate_mean": "tăng lên",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nâng lên",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đưa lên",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "dơ lên",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cất cánh",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cất lên",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đở lên",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "diệt trừ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nâng cao tinh thần",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nổi lên ở chân trời",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ngẩng đầu lên",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "bề cao của sự nâng lên",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dây đở trục buồm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sức đẩy lên",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự đở lên",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thang máy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự đưa lên",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự nâng lên",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự nhắc lên",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "raise to a higher position or level.",
+      "definitions_ex_en": "he lifted his trophy over his head",
+      "definitions_ex_vn": "Anh nhấc chiếc cúp của mình trên đầu",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "pick up and move to a different position.",
+      "definitions_ex_en": "he lifted her down from the pony's back",
+      "definitions_ex_vn": "Anh nhấc cô xuống khỏi lưng ngựa",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "raise (a person's spirits or confidence); encourage or cheer.",
+      "definitions_ex_en": "we heard inspiring talks that lifted our spirits",
+      "definitions_ex_vn": "Chúng tôi nghe những cuộc nói chuyện đầy cảm hứng nhấc lên tinh thần của chúng tôi",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "formally remove or end (a legal restriction, decision, or ban).",
+      "definitions_ex_en": "the European Community lifted its oil embargo against South Africa",
+      "definitions_ex_vn": "Cộng đồng châu Âu đã nâng lệnh cấm vận dầu chống lại Nam Phi",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "carry off or win (a prize or event).",
+      "definitions_ex_en": "she staged a magnificent comeback to lift the British Open title",
+      "definitions_ex_vn": "Cô dàn dựng một sự trở lại tuyệt vời để nâng tiêu đề mở của Anh",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a device incorporating a moving cable for carrying people, typically skiers, up or down a mountain.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an act of lifting.",
+      "definitions_ex_en": "weightlifters attempting a particularly heavy lift",
+      "definitions_ex_vn": "trọng lượng cố gắng một thang máy đặc biệt nặng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a free ride in another person's vehicle.",
+      "definitions_ex_en": "Miss Green is giving me a lift back to school",
+      "definitions_ex_vn": "Hoa hậu xanh đang cho tôi một thang máy trở lại trường học",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a feeling of encouragement or increased cheerfulness.",
+      "definitions_ex_en": "winning this game has given everyone on the team a lift",
+      "definitions_ex_vn": "CHIẾN THẮNG Trò chơi này đã cho tất cả mọi người trên đội một thang máy",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809342786_1ff4783c08_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809342786_9f52134e4c_o.png",
+      "id_image": "lift_2422737"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809457578_dbb25058cf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809457578_78d3f77cdc_o.png",
+      "id_image": "lift_2472834"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809457523_fafd83b130_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809457523_698a5e5dea_o.png",
+      "id_image": "lift_5132462"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "english": "lover",
+  "list_translation_mean": [
+    {
+      "translate_mean": "người ham thích",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người tình",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người yêu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người yêu chuộng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vị hôn phu",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a partner in a sexual or romantic relationship outside marriage.",
+      "definitions_ex_en": "I think she had a secret lover",
+      "definitions_ex_vn": "Tôi nghĩ rằng cô ấy đã có một người yêu bí mật",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809334011_087e85fa92_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809334011_34162f8c07_o.png",
+      "id_image": "lover_6385411"
+    }
+  ]
+}

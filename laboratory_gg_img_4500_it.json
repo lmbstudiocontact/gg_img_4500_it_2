@@ -1,0 +1,48 @@
+{
+  "english": "laboratory",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thí nghiệm",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "phòng thí nghiệm",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a room or building equipped for scientific experiments, research, or teaching, or for the manufacture of drugs or chemicals.",
+      "definitions_ex_en": "pepsin can be extracted in the laboratory",
+      "definitions_ex_vn": "Pepsin có thể được trích xuất trong phòng thí nghiệm",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810060805_154ac327d0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810060805_af01a89eac_o.png",
+      "id_image": "laboratory_2472810"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808368747_93c5ed1ecd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808368747_1bd915d175_o.png",
+      "id_image": "laboratory_2720338"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809323801_b5825bee25_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809323801_cb018243b9_o.png",
+      "id_image": "laboratory_2752105"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809678989_186d7b2b6b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809678989_acbb7faed6_o.png",
+      "id_image": "laboratory_2854778"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809323721_f62511fbda_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809323721_3aa402abba_o.png",
+      "id_image": "laboratory_4178737"
+    }
+  ]
+}

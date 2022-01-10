@@ -1,0 +1,101 @@
+{
+  "english": "hunt",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đoàn người săn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khoảng đất để săn bắn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "săn thú dữ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự săn bắn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người đi săn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự săn đuổi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vùng săn bắn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "săn bắn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "săn bằng chó",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "săn đuổi",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "pursue and kill (a wild animal) for sport or food.",
+      "definitions_ex_en": "in the autumn they hunted deer",
+      "definitions_ex_vn": "Vào mùa thu họ săn hươu",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "search determinedly for someone or something.",
+      "definitions_ex_en": "he desperately hunted for a new job",
+      "definitions_ex_vn": "anh ấy đã săn lùng một cách tuyệt vọng cho một công việc mới",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of a device or system) oscillate around a desired speed, position, or state.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(in change-ringing) move the place of a bell in a simple progression.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "an act of hunting wild animals or game.",
+      "definitions_ex_en": "a bear-hunt",
+      "definitions_ex_vn": "một con gấu săn",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a search.",
+      "definitions_ex_en": "police launched a hunt for the killer",
+      "definitions_ex_vn": "Cảnh sát đã phát động một cuộc săn lùng kẻ giết người",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an oscillating motion around a desired speed, position, or state.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809442353_433109ab0c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809442353_fe2e09cfdc_o.png",
+      "id_image": "hunt_2362512"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808372067_1fce1767c3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808372067_2aeca6fe4a_o.png",
+      "id_image": "hunt_784387"
+    }
+  ]
+}

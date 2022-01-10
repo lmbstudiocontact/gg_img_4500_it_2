@@ -1,0 +1,30 @@
+{
+  "english": "logical",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hợp với luận lý học",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "of or according to the rules of logic or formal argument.",
+      "definitions_ex_en": "a logical impossibility",
+      "definitions_ex_vn": "một sự bất khả thi logic",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "in adjectives corresponding chiefly to nouns ending in -logy (such as pharmacological corresponding to pharmacology ).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "combining form"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809336851_8561bb0890_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809336851_7b4efa903c_o.png",
+      "id_image": "logical_5100475"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "english": "liar",
+  "list_translation_mean": [
+    {
+      "translate_mean": "người nói dối",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người nói láo",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person who tells lies.",
+      "definitions_ex_en": "the man was a notorious liar",
+      "definitions_ex_vn": "Người đàn ông là một kẻ nói dối khét tiếng",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808389032_36977975e9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808389032_9a339b90dd_o.png",
+      "id_image": "liar_1815441"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810081455_2f983b1bdd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810081455_c0e8dcb9d0_o.png",
+      "id_image": "liar_2339832"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809458788_83fd4cb616_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809458788_96b5c459b2_o.png",
+      "id_image": "liar_3874618"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809458753_b4e6e637d2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809458753_0f62d3c275_o.png",
+      "id_image": "liar_4265908"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809458723_571ef9611f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809458723_8a3b71bdbc_o.png",
+      "id_image": "liar_5507611"
+    }
+  ]
+}

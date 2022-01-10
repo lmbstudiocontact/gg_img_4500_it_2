@@ -1,0 +1,24 @@
+{
+  "english": "lender",
+  "list_translation_mean": [
+    {
+      "translate_mean": "người cho vay",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an organization or person that lends money.",
+      "definitions_ex_en": "a mortgage lender",
+      "definitions_ex_vn": "một người cho vay thế chấp",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810083145_9c31b2734e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810083145_6c2e32b1eb_o.png",
+      "id_image": "lender_1278503"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "english": "kneecap",
+  "list_translation_mean": [
+    {
+      "translate_mean": "che đầu gối",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vật bao",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "xương bánh chè",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the convex bone in front of the knee joint; the patella.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "shoot (someone) in the knee or leg as a form of punishment.",
+      "definitions_ex_en": "petty crimes are punished by kneecapping",
+      "definitions_ex_vn": "Tội ác nhỏ bị trừng phạt bằng cách cheo mắt",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809440753_9ba8db962d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809440753_61f5aa702f_o.png",
+      "id_image": "kneecap_4887226"
+    }
+  ]
+}

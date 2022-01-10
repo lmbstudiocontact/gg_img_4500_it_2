@@ -1,0 +1,57 @@
+{
+  "english": "lecture",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bài học",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cuộc diển thuyết",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khiển trách",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "la rầy",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an educational talk to an audience, especially to students in a university or college.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "deliver an educational lecture or lectures.",
+      "definitions_ex_en": "she was lecturing to her class of eighty students",
+      "definitions_ex_vn": "Cô đã giảng bài với lớp học tám mươi học sinh của mình",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809347451_47fe96634e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809347451_5ee1729867_o.png",
+      "id_image": "lecture_288063"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809462183_85f0e795e4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809462183_d44eb85187_o.png",
+      "id_image": "lecture_3319587"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809347361_74b63e61ff_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809347361_e5f89c088a_o.png",
+      "id_image": "lecture_3612048"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809347341_a88d438653_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809347341_ff5bcf7aee_o.png",
+      "id_image": "lecture_5299764"
+    }
+  ]
+}

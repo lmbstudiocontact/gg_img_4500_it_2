@@ -1,0 +1,40 @@
+{
+  "english": "nightcap",
+  "list_translation_mean": [
+    {
+      "translate_mean": "mũ đội để ngũ ban đêm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "rượu uống trước khi đi ngũ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a cap worn in bed.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an alcoholic or hot drink taken at the end of the day or before going to bed.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the second game of a doubleheader.",
+      "definitions_ex_en": "he pitched a four-hit shutout in the nightcap",
+      "definitions_ex_vn": "anh ấy đã đưa một cú thoi bốn lần trong chiếc nightcap",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810059320_69b3dea595_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810059320_6e5a4bbf61_o.png",
+      "id_image": "nightcap_1601232"
+    }
+  ]
+}

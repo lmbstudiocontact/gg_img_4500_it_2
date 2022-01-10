@@ -1,0 +1,73 @@
+{
+  "english": "lunch",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ăn qua loa",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ăn bữa trưa",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "mời người nào ăn trưa",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "bữa ăn qua loa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bữa ăn trưa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bữa trưa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giờ ăn trưa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giờ nghĩ trưa",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a meal eaten in the middle of the day, typically one that is lighter or less formal than an evening meal.",
+      "definitions_ex_en": "a vegetarian lunch",
+      "definitions_ex_vn": "một bữa trưa ăn chay",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "eat lunch.",
+      "definitions_ex_en": "he told his wife he was lunching with a client",
+      "definitions_ex_vn": "Anh ấy nói với vợ anh ấy đang ăn trưa với một khách hàng",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809332446_fc08f91c9d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809332446_be2fd4d22b_o.png",
+      "id_image": "lunch_1058549"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809447483_549b1c2ee6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809447483_f90fa299f6_o.png",
+      "id_image": "lunch_195815"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810069160_e6877ab9dc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810069160_c58d89b85b_o.png",
+      "id_image": "lunch_1985698"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810069110_5c199df56c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810069110_6cdb17b3db_o.png",
+      "id_image": "lunch_5483765"
+    }
+  ]
+}

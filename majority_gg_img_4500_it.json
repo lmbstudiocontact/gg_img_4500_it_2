@@ -1,0 +1,54 @@
+{
+  "english": "majority",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đa số",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phần đông",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phần nhiều",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the greater number.",
+      "definitions_ex_en": "in the majority of cases all will go smoothly",
+      "definitions_ex_vn": "Trong phần lớn các trường hợp tất cả sẽ diễn ra suôn sẻ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the age when a person is legally considered a full adult, in most contexts either 18 or 21.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the rank or office of a major.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328381_c2fb3884e8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328381_819964f361_o.png",
+      "id_image": "majority_5291794"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683424_489862c3c5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683424_0b0cfa437a_o.png",
+      "id_image": "majority_5291807"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683394_cf4ec34650_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683394_e243188cbf_o.png",
+      "id_image": "majority_5291865"
+    }
+  ]
+}

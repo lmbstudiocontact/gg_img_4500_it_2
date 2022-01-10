@@ -1,0 +1,110 @@
+{
+  "english": "live",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đầy sinh khí",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "đầy sinh lực",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "linh động",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "linh hoạt",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "sống",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "cuộc sống",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "ăn tiêu xa xí",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ở",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "sống",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trú ngụ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "xài lớn",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "remain alive.",
+      "definitions_ex_en": "the doctors said she had only six months to live",
+      "definitions_ex_vn": "Các bác sĩ cho biết cô chỉ có sáu tháng để sống",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "make one's home in a particular place or with a particular person.",
+      "definitions_ex_en": "I've lived in New England all my life",
+      "definitions_ex_vn": "Tôi đã sống ở New England cả đời tôi",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "not dead or inanimate; living.",
+      "definitions_ex_en": "live animals",
+      "definitions_ex_vn": "động vật sống",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "relating to a musical performance given in concert, not on a recording.",
+      "definitions_ex_en": "there is traditional live music played most nights",
+      "definitions_ex_vn": "Có nhạc truyền thống được chơi nhiều nhất",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a wire or device) connected to a source of electric current.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a question or subject) of current or continuing interest and importance.",
+      "definitions_ex_en": "the future organization of Europe has become a live issue",
+      "definitions_ex_vn": "Tổ chức tương lai của châu Âu đã trở thành một vấn đề trực tiếp",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "as or at an actual event or performance.",
+      "definitions_ex_en": "the match will be televised live",
+      "definitions_ex_vn": "trận đấu sẽ được truyền hình trực tiếp",
+      "definitions_type_word": "adverb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809454288_c67dd9a681_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809454288_2ecb86c8d1_o.png",
+      "id_image": "live_2452058"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809694494_1a96f72e94_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809694494_704f5e0851_o.png",
+      "id_image": "live_2540418"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809694444_1fb4638751_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809694444_f3570395c5_o.png",
+      "id_image": "live_5853752"
+    }
+  ]
+}

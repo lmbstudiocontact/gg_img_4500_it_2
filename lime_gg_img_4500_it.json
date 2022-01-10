@@ -1,0 +1,99 @@
+{
+  "english": "lime",
+  "list_translation_mean": [
+    {
+      "translate_mean": "vôi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chanh tây",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giống chanh nhỏ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vôi chết",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhựa bắt chim",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vôi sống",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bôi nhựa",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trét nhựa",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a white caustic alkaline substance consisting of calcium oxide, which is obtained by heating limestone and which combines with water with the production of much heat; quicklime.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a rounded citrus fruit similar to a lemon but greener, smaller, and with a distinctive acid flavor.",
+      "definitions_ex_en": "roughly chop two limes",
+      "definitions_ex_vn": "Roughly cắt hai chanh",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the evergreen citrus tree that produces the lime, widely cultivated in warm climates.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a bright light green color like that of a lime.",
+      "definitions_ex_en": "day-glo orange, pink, or lime green",
+      "definitions_ex_vn": "Day-Glo Orange, Pink hoặc Lime Green",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "another term for linden, especially the European linden.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "treat (soil or water) with lime to reduce acidity and improve fertility or oxygen levels.",
+      "definitions_ex_en": "they were liming acidified lakes",
+      "definitions_ex_vn": "họ đang liming hồ axit hóa",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "give (wood, especially oak) a bleached appearance by treating it with lime.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "catch (a bird) with birdlime.",
+      "definitions_ex_en": "the bird that hath been limed in a bush",
+      "definitions_ex_vn": "Con chim bị vấp trong một bụi cây",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809341691_728f975178_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809341691_d439a760d7_o.png",
+      "id_image": "lime_3461679"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809341646_19c949d961_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809341646_41da5e46be_o.png",
+      "id_image": "lime_4796211"
+    }
+  ]
+}

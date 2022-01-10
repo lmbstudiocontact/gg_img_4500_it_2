@@ -1,0 +1,34 @@
+{
+  "english": "maniac",
+  "list_translation_mean": [
+    {
+      "translate_mean": "người điên",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "người khùng",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person exhibiting extreme symptoms of wild behavior, especially when violent and dangerous.",
+      "definitions_ex_en": "a homicidal maniac",
+      "definitions_ex_vn": "một điên cuồng kẻ giết người",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "forming nouns corresponding to words ending in -mania.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "combining form"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808370792_0f95faf9f8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808370792_ffec31e66d_o.png",
+      "id_image": "maniac_3590166"
+    }
+  ]
+}

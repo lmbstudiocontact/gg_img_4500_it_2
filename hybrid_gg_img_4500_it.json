@@ -1,0 +1,45 @@
+{
+  "english": "hybrid",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hỗn huyết",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "tạp chủng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the offspring of two plants or animals of different species or varieties, such as a mule (a hybrid of a donkey and a horse).",
+      "definitions_ex_en": "a hybrid of wheat and rye",
+      "definitions_ex_vn": "một con lai lúa mì và lúa mạch đen",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a thing made by combining two different elements; a mixture.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "of mixed character; composed of mixed parts.",
+      "definitions_ex_en": "Mexico's hybrid postconquest culture",
+      "definitions_ex_vn": "Văn hóa lai postconquest lai của Mexico",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809441133_1a213b6d44_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809441133_1646880b02_o.png",
+      "id_image": "hybrid_3751140"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809681204_dd781c7505_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809681204_9863be9e9a_o.png",
+      "id_image": "hybrid_4796163"
+    }
+  ]
+}

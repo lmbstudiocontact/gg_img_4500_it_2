@@ -1,0 +1,82 @@
+{
+  "english": "operation",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cuộc hành quân",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phép tính",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự cho máy chạy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự mổ xẻ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự tác chiến",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự thi hành",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the fact or condition of functioning or being active.",
+      "definitions_ex_en": "the construction and operation of power stations",
+      "definitions_ex_vn": "Việc xây dựng và vận hành các trạm điện",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an act of surgery performed on a patient.",
+      "definitions_ex_en": "I've never felt better since my bypass operation",
+      "definitions_ex_vn": "Tôi chưa bao giờ cảm thấy tốt hơn kể từ hoạt động bỏ qua của tôi",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a piece of organized and concerted activity involving a number of people, especially members of the armed forces or the police.",
+      "definitions_ex_en": "a rescue operation",
+      "definitions_ex_vn": "một hoạt động cứu hộ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a process in which a number, quantity, expression, etc., is altered or manipulated according to formal rules, such as those of addition, multiplication, and differentiation.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808391127_4230647ab9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808391127_4596dd1e50_o.png",
+      "id_image": "operation_2191414"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810083560_ef5e937787_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810083560_b172c2b6ec_o.png",
+      "id_image": "operation_3538500"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809346061_2f47f650ae_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809346061_32d5db67ec_o.png",
+      "id_image": "operation_3974875"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808391022_2456b6dcb1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808391022_d2769ba243_o.png",
+      "id_image": "operation_4149660"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810083465_cea04e7d83_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810083465_d5a78219b6_o.png",
+      "id_image": "operation_5138535"
+    }
+  ]
+}

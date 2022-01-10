@@ -1,0 +1,65 @@
+{
+  "english": "marine",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hạm đội",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "lính dùng trên tàu",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "ở biển",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thuộc về biển",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "lính hải quân lục chiến",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lính thủy",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "of, found in, or produced by the sea.",
+      "definitions_ex_en": "marine plants",
+      "definitions_ex_vn": "cây biển",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a member of a body of troops trained to serve on land or at sea, in particular a member of the US Marine Corps.",
+      "definitions_ex_en": "a contingent of 2,000 marines",
+      "definitions_ex_vn": "một dự phòng của 2.000 lính thủy đánh bộ",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809678529_d6ce00a9b1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809678529_c65a4529ba_o.png",
+      "id_image": "marine_2614598"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808368202_58c6cfdc90_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808368202_c5388f1829_o.png",
+      "id_image": "marine_4695130"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809323261_5175a62c66_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809323261_48b0835074_o.png",
+      "id_image": "marine_5426840"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808368122_88c1ea5440_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808368122_f80c10c648_o.png",
+      "id_image": "marine_5969101"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "english": "lark",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chim sơn ca",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự đùa cợt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự đùa giởn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự vui chơi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đùa cợt",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm ồn",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a small ground-dwelling songbird, typically with brown streaky plumage, a crest, and elongated hind claws, and with a song that is delivered in flight.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "something done for fun, especially something mischievous or daring; an amusing adventure or escapade.",
+      "definitions_ex_en": "I only went along for a lark",
+      "definitions_ex_vn": "Tôi chỉ đi cùng một lark",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810057020_d95da50854_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810057020_f3803de5c4_o.png",
+      "id_image": "lark_2816743"
+    }
+  ]
+}

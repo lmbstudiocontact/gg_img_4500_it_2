@@ -1,0 +1,78 @@
+{
+  "english": "knit",
+  "list_translation_mean": [
+    {
+      "translate_mean": "áo quần đan",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đồ đan",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đan bằng chỉ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đan bằng len",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "dính liền với nhau",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "kết hợp",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "make (a garment, blanket, etc.) by interlocking loops of wool or other yarn with knitting needles or on a machine.",
+      "definitions_ex_en": "she was knitting a sweater",
+      "definitions_ex_vn": "Cô ấy đang đan áo len",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "unite or cause to unite.",
+      "definitions_ex_en": "disparate regions had begun to knit together under the king",
+      "definitions_ex_vn": "các khu vực khác nhau đã bắt đầu đan cùng nhau dưới nhà vua",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "tighten (one's brow or eyebrows) in a frown of concentration, disapproval, or anxiety.",
+      "definitions_ex_en": "Marcus knitted his brows",
+      "definitions_ex_vn": "Marcus dệt lông mày",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a knitted fabric.",
+      "definitions_ex_en": "a machine-washable knit",
+      "definitions_ex_vn": "Một đan có thể giặt bằng máy",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "denoting or relating to a type of knitting stitch produced by putting the needle through the front of each stitch from left to right.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808370262_2e7ac9631c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808370262_72798fbc40_o.png",
+      "id_image": "knit_1748810"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325391_e701597214_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325391_48d9abea4f_o.png",
+      "id_image": "knit_2927838"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325321_90005f9d2e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325321_1d2e6b2701_o.png",
+      "id_image": "knit_5391347"
+    }
+  ]
+}

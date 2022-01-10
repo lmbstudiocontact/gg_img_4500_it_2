@@ -1,0 +1,62 @@
+{
+  "english": "lever",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cây xà beng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đòn bẩy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đòn cân",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dùng xà beng",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a rigid bar resting on a pivot, used to help move a heavy or firmly fixed load with one end when pressure is applied to the other.",
+      "definitions_ex_en": "a tire lever",
+      "definitions_ex_vn": "một đòn bẩy lốp xe",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "lift or move with a lever.",
+      "definitions_ex_en": "she levered the lid off the pot with a screwdriver",
+      "definitions_ex_vn": "Cô ấy thích cái nắp ra khỏi nồi bằng tuốc nơ vít",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809699609_04ca3fd7d2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809699609_e2b855df32_o.png",
+      "id_image": "lever_1580105"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809699574_13ffc5680e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809699574_bc75ca0782_o.png",
+      "id_image": "lever_1857112"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808389392_b1f49a7a9b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808389392_2bfe114c5d_o.png",
+      "id_image": "lever_2825520"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808389362_d16e5b29b1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808389362_24c6cecaae_o.png",
+      "id_image": "lever_5760118"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808389432_f6071564a7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808389432_5fdf158848_o.png",
+      "id_image": "lever_876983"
+    }
+  ]
+}

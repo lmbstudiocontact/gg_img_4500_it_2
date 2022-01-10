@@ -1,0 +1,36 @@
+{
+  "english": "notoriety",
+  "list_translation_mean": [
+    {
+      "translate_mean": "danh nhân",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ai cũng biết cả",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "danh sĩ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trạng thái rỏ ràng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the state of being famous or well known for some bad quality or deed.",
+      "definitions_ex_en": "the song has gained some notoriety in the press",
+      "definitions_ex_vn": "Bài hát đã đạt được một số danh tiếng trong báo chí",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809320301_a6b0848b31_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809320301_3ebe9df8a8_o.png",
+      "id_image": "notoriety_4776081"
+    }
+  ]
+}

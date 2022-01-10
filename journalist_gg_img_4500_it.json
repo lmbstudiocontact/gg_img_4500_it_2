@@ -1,0 +1,38 @@
+{
+  "english": "journalist",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ký giả",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhà báo",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person who writes for newspapers, magazines, or news websites or prepares news to be broadcast.",
+      "definitions_ex_en": "foreign journalists had been expelled from the area",
+      "definitions_ex_vn": "Các nhà báo nước ngoài đã bị trục xuất khỏi khu vực",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810068930_1697c44968_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810068930_ecd03f5d2b_o.png",
+      "id_image": "journalist_1364953"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809447193_7236ddfe07_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809447193_3cbc3e05f0_o.png",
+      "id_image": "journalist_4382514"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809447268_c32a09e4c7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809447268_5437a52244_o.png",
+      "id_image": "journalist_681857"
+    }
+  ]
+}

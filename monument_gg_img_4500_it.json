@@ -1,0 +1,38 @@
+{
+  "english": "monument",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bia kỷ niệm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đài kỷ niệm",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a statue, building, or other structure erected to commemorate a famous or notable person or event.",
+      "definitions_ex_en": "a simple stone monument marked the nearby crash site",
+      "definitions_ex_vn": "Một tượng đài đá đơn giản đánh dấu trang web va chạm gần đó",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808382162_c846eb6530_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808382162_cb3d4e1081_o.png",
+      "id_image": "monument_530853"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809337096_f379e87622_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809337096_84e431714a_o.png",
+      "id_image": "monument_5368249"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809451943_7a185657db_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809451943_52ba44cffa_o.png",
+      "id_image": "monument_5392244"
+    }
+  ]
+}

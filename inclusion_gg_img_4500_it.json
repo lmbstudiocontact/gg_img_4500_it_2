@@ -1,0 +1,49 @@
+{
+  "english": "inclusion",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bao gồm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bao hàm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "gồm có",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the action or state of including or of being included within a group or structure.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the practice or policy of providing equal access to opportunities and resources for people who might otherwise be excluded or marginalized, such as those who have physical or mental disabilities and members of other minority groups.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a body or particle recognizably distinct from the substance in which it is embedded.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809434493_6e5e2eec62_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809434493_a752e53ef7_o.png",
+      "id_image": "inclusion_2167895"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809674239_4da393b30a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809674239_241ce45127_o.png",
+      "id_image": "inclusion_2688377"
+    }
+  ]
+}

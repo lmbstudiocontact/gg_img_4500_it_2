@@ -1,0 +1,63 @@
+{
+  "english": "manufacture",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự chế tạo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vật chế tạo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chế tạo",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "sáng tác",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "make (something) on a large scale using machinery.",
+      "definitions_ex_en": "a company that manufactured paint-by-number sets",
+      "definitions_ex_vn": "một công ty sản xuất bộ ba số",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "invent or fabricate (evidence or a story).",
+      "definitions_ex_en": "the tabloid industry that manufactures epochal discoveries out of thin air",
+      "definitions_ex_vn": "ngành công nghiệp lá cải cung cấp những khám phá đại sinh ra khỏi không khí mỏng",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "the making of articles on a large scale using machinery.",
+      "definitions_ex_en": "the manufacture of armored vehicles",
+      "definitions_ex_vn": "Sản xuất xe bọc thép",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808369862_5b2ab17aa9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808369862_0f76237f10_o.png",
+      "id_image": "manufacture_1600147"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808369802_43b0a7df29_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808369802_35fe0614aa_o.png",
+      "id_image": "manufacture_1857110"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808369737_450a34406d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808369737_a91aa45f2d_o.png",
+      "id_image": "manufacture_4072835"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809439938_578b0bde49_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809439938_676fd38038_o.png",
+      "id_image": "manufacture_6041273"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "english": "invalid",
+  "list_translation_mean": [
+    {
+      "translate_mean": "không có hiệu lực",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "không giá trị",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "vô giá trị",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "vô hiệu",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "chỉ người tàn tật",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "không hiệu quả",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "tật nguyền",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "người tàn phế",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bị miển dịch",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm thành bịnh",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person made weak or disabled by illness or injury.",
+      "definitions_ex_en": "an invalid husband",
+      "definitions_ex_vn": "một người chồng không hợp lệ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "remove (someone) from active service in the armed forces because of injury or illness.",
+      "definitions_ex_en": "he was badly wounded and invalided out of the infantry",
+      "definitions_ex_vn": "anh ta bị thương nặng và nằm trong bộ binh",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of an official document or procedure) not legally recognized and therefore void because contravening a regulation or law.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809339936_933c7031dd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809339936_e8cc3c9aee_o.png",
+      "id_image": "invalid_4470627"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810077080_ef5a9fa8c2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810077080_59bda8bb5a_o.png",
+      "id_image": "invalid_5978900"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "english": "identical",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cũng như nhau",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "giống như nhau",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "một thứ",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "similar in every detail; exactly alike.",
+      "definitions_ex_en": "four girls in identical green outfits",
+      "definitions_ex_vn": "Bốn cô gái trong trang phục màu xanh lá cây giống hệt nhau",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "expressing an identity.",
+      "definitions_ex_en": "an identical proposition",
+      "definitions_ex_vn": "một đề xuất giống hệt nhau",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809439553_6eeaed3162_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809439553_b1088ce07d_o.png",
+      "id_image": "identical_1799804"
+    }
+  ]
+}

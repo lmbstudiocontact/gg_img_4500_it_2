@@ -1,0 +1,68 @@
+{
+  "english": "memorial",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bút ký",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "đài kỷ niệm",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "ký ức lực",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "công văn ngoại giao",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đài kỷ niệm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "để kỷ niệm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thuộc về trí nhớ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "văn kiện ngoại giao",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "something, especially a structure, established to remind people of a person or event.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a statement of facts, especially as the basis of a petition.",
+      "definitions_ex_en": "the council sent a strongly worded memorial to the chancellor",
+      "definitions_ex_vn": "Hội đồng đã gửi một đài tưởng niệm mạnh mẽ cho Thủ tướng",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809347526_54d6581c97_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809347526_b29d861865_o.png",
+      "id_image": "memorial_1290371"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809347486_decdd88176_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809347486_e6caf522a6_o.png",
+      "id_image": "memorial_1650366"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809347446_2aebe9e81c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809347446_53fa1e8518_o.png",
+      "id_image": "memorial_3556870"
+    }
+  ]
+}

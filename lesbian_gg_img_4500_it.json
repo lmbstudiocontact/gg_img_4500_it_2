@@ -1,0 +1,49 @@
+{
+  "english": "lesbian",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đồng tình luyến ái",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "người đồng tính",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự đồng tình luyến ái",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a gay woman.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "relating to gay women or to homosexuality in women.",
+      "definitions_ex_en": "a lesbian relationship",
+      "definitions_ex_vn": "một mối quan hệ đồng tính nữ",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "from or relating to the island of Lesbos.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808390322_3cd66964e7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808390322_44114ccef9_o.png",
+      "id_image": "lesbian_1475208"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809460138_569feff4ee_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809460138_7ab1b18dca_o.png",
+      "id_image": "lesbian_1475239"
+    }
+  ]
+}

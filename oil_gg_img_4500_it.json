@@ -1,0 +1,67 @@
+{
+  "english": "oil",
+  "list_translation_mean": [
+    {
+      "translate_mean": "dầu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dầu ăn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dầu hỏa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dầu lửa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dầu mỏ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tranh vẻ bằng dầu",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a viscous liquid derived from petroleum, especially for use as a fuel or lubricant.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "oil paint.",
+      "definitions_ex_en": "a portrait in oils",
+      "definitions_ex_vn": "một bức chân dung trong dầu",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "lubricate, coat, or impregnate with oil.",
+      "definitions_ex_en": "I'll oil that gate for you tomorrow",
+      "definitions_ex_vn": "Tôi sẽ dầu cổng đó cho bạn vào ngày mai",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "supply with oil as fuel.",
+      "definitions_ex_en": "attempts should not be made to oil individual tanks too rapidly",
+      "definitions_ex_vn": "Những nỗ lực không nên được thực hiện cho bể chứa dầu quá nhanh",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809462538_07dcb593e3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809462538_3eca45d1ac_o.png",
+      "id_image": "oil_246924"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810085055_c15fcc176c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810085055_4667a75ab5_o.png",
+      "id_image": "oil_662854"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "english": "oxygen",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ôxy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dưỡng khí ox xy",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a colorless, odorless reactive gas, the chemical element of atomic number 8 and the life-supporting component of the air.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810076245_3e4ac81e42_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810076245_a7e071700c_o.png",
+      "id_image": "oxygen_2827094"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809454123_a699334cb5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809454123_3bc4a868e7_o.png",
+      "id_image": "oxygen_315259"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809694294_dedc2540e0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809694294_3e3a43c1ba_o.png",
+      "id_image": "oxygen_762523"
+    }
+  ]
+}

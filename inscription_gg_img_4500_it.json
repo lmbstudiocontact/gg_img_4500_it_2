@@ -1,0 +1,38 @@
+{
+  "english": "inscription",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bia kỷ niệm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chữ khắc trên",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "words inscribed, as on a monument or in a book.",
+      "definitions_ex_en": "the inscription on her headstone",
+      "definitions_ex_vn": "dòng chữ trên đá của cô ấy",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808390997_f963f45432_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808390997_7e4c5acd56_o.png",
+      "id_image": "inscription_2229939"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809345986_4500b6940e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809345986_c94f44cc9c_o.png",
+      "id_image": "inscription_3317593"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809700994_b1ffa3746e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809700994_b394b493b6_o.png",
+      "id_image": "inscription_4127094"
+    }
+  ]
+}

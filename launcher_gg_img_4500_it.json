@@ -1,0 +1,45 @@
+{
+  "english": "launcher",
+  "list_translation_mean": [
+    {
+      "translate_mean": "người chỉ trích",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người dấn thân",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người giới thiệu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người ném",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người phóng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a structure that holds a rocket or missile, typically one used as a weapon, during launching.",
+      "definitions_ex_en": "a rocket launcher",
+      "definitions_ex_vn": "một phóng tên lửa",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809319136_e9bd2dba70_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809319136_8ed44aff23_o.png",
+      "id_image": "launcher_1982506"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809674084_7b3bd75cba_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809674084_bc67324031_o.png",
+      "id_image": "launcher_942391"
+    }
+  ]
+}

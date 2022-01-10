@@ -1,0 +1,43 @@
+{
+  "english": "listen",
+  "list_translation_mean": [
+    {
+      "translate_mean": "nghe",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nghe theo",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lắng tai nghe",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "give one's attention to a sound.",
+      "definitions_ex_en": "evidently he was not listening",
+      "definitions_ex_vn": "Rõ ràng là anh ta không nghe",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "an act of listening to something.",
+      "definitions_ex_en": "radio plays are definitely worth a listen",
+      "definitions_ex_vn": "Đài phát thanh chắc chắn đáng để nghe",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809695294_9b2491be47_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809695294_81221f967d_o.png",
+      "id_image": "listen_2368580"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810077295_4cf2b774b8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810077295_8660c6abeb_o.png",
+      "id_image": "listen_2643572"
+    }
+  ]
+}

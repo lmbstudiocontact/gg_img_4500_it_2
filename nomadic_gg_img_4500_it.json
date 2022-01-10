@@ -1,0 +1,33 @@
+{
+  "english": "nomadic",
+  "list_translation_mean": [
+    {
+      "translate_mean": "nay đây mai đó",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "vô định",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "living the life of a nomad; wandering.",
+      "definitions_ex_en": "nomadic herdsmen",
+      "definitions_ex_vn": "nầy du mục",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809677084_68f196060a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809677084_f61b51f675_o.png",
+      "id_image": "nomadic_6193586"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810058745_b1240ecea8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810058745_b5b3303a51_o.png",
+      "id_image": "nomadic_6213745"
+    }
+  ]
+}

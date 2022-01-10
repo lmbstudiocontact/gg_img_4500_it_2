@@ -1,0 +1,60 @@
+{
+  "english": "marriage",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hôn nhân",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hôn lể",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "kết hôn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lể cưới",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự cưới",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự phối hợp",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the legally or formally recognized union of two people as partners in a personal relationship (historically and in some jurisdictions specifically a union between a man and a woman).",
+      "definitions_ex_en": "a happy marriage",
+      "definitions_ex_vn": "một cuộc hôn nhân hạnh phúc",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a combination or mixture of two or more elements.",
+      "definitions_ex_en": "a marriage of jazz, pop, blues, and gospel",
+      "definitions_ex_vn": "Một cuộc hôn nhân của Jazz, Pop, Blues và Tin Mừng",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809677509_d20c93363e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809677509_56e2a9da27_o.png",
+      "id_image": "marriage_1775676"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809437608_1b7a2f714d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809437608_73396f346e_o.png",
+      "id_image": "marriage_5091520"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808367372_8c2a9e2dc3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808367372_20b98791f8_o.png",
+      "id_image": "marriage_538248"
+    }
+  ]
+}

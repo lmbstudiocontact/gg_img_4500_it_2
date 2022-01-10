@@ -1,0 +1,61 @@
+{
+  "english": "organic",
+  "list_translation_mean": [
+    {
+      "translate_mean": "có tổ chức",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thuộc về khí quan",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "relating to or derived from living matter.",
+      "definitions_ex_en": "organic soils",
+      "definitions_ex_vn": "đất hữu cơ",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of food or farming methods) produced or involving production without the use of chemical fertilizers, pesticides, or other artificial agents.",
+      "definitions_ex_en": "organic farming",
+      "definitions_ex_vn": "canh tác hữu cơ.",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "relating to a bodily organ or organs.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "denoting a relation between elements of something such that they fit together harmoniously as necessary parts of a whole.",
+      "definitions_ex_en": "the organic unity of the integral work of art",
+      "definitions_ex_vn": "sự thống nhất hữu cơ của công việc tích hợp của nghệ thuật",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810081180_d3e09edd30_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810081180_f974b27468_o.png",
+      "id_image": "organic_1999348"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809699039_bb3c4a96e2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809699039_92393695f8_o.png",
+      "id_image": "organic_334127"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809698954_373a37fc90_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809698954_cddd2f8510_o.png",
+      "id_image": "organic_4497598"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809698919_7f4d8b8a53_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809698919_129f26e007_o.png",
+      "id_image": "organic_5756895"
+    }
+  ]
+}

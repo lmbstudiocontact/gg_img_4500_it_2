@@ -1,0 +1,71 @@
+{
+  "english": "hurry",
+  "list_translation_mean": [
+    {
+      "translate_mean": "gấp",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "vội",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "gấp rút",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hấp tấp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự làm vội vàng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự vội vàng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bước mau",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm gấp",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "rảo bước",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thúc dục",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "move or act with great haste.",
+      "definitions_ex_en": "we'd better hurry",
+      "definitions_ex_vn": "Chúng ta nên vội vàng",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "great haste.",
+      "definitions_ex_en": "in my hurry to leave I knocked over a pile of books",
+      "definitions_ex_vn": "Trong quá vội vàng rời đi, tôi gõ một đống sách",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810063690_781ac50cb4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810063690_19dec984e8_o.png",
+      "id_image": "hurry_392768"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809681819_d8e55fd97b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809681819_e54e15d0fc_o.png",
+      "id_image": "hurry_6066638"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "english": "install",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đặt",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lắp vào",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ráp vào",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "sắp đặt",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "dựng lên",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "place or fix (equipment or machinery) in position ready for use.",
+      "definitions_ex_en": "we're planning to install a new shower",
+      "definitions_ex_vn": "Chúng tôi đang dự định cài đặt một vòi hoa sen mới",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "place (someone) in a new position of authority, especially with ceremony.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808389437_90ffa9303c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808389437_f328c453cc_o.png",
+      "id_image": "install_5322020"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "english": "menswear",
+  "list_translation_mean": [
+    {
+      "translate_mean": "quần áo đàn ông",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "clothes for men.",
+      "definitions_ex_en": "a new trend in British menswear",
+      "definitions_ex_vn": "Một xu hướng mới trong quần áo nam Anh",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808392022_b63e452b76_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808392022_84a9c06bd4_o.png",
+      "id_image": "menswear_4647382"
+    }
+  ]
+}

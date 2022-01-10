@@ -1,0 +1,78 @@
+{
+  "english": "insert",
+  "list_translation_mean": [
+    {
+      "translate_mean": "mảnh ghép",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự thêm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "xen vào",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "để thêm",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đút vào lổ khóa",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "xen vào",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "place, fit, or thrust (something) into another thing, especially with care.",
+      "definitions_ex_en": "a steel rod was inserted into the small hole",
+      "definitions_ex_vn": "một thanh thép được đưa vào lỗ nhỏ",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of a muscle or other organ) be attached to a part, especially that which is moved.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a loose page or section, typically one carrying an advertisement, in a magazine or other publication.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an ornamental section of cloth or needlework inserted into the plain material of a garment.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a shot inserted into a movie or video.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809345511_317bf32d3c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809345511_3469a9f790_o.png",
+      "id_image": "insert_1649614"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809345461_29dbf1f9f5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809345461_b21dd64e98_o.png",
+      "id_image": "insert_1827190"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809700589_7c5669b099_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809700589_c1461faa1b_o.png",
+      "id_image": "insert_1827194"
+    }
+  ]
+}

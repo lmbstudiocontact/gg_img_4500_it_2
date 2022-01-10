@@ -1,0 +1,55 @@
+{
+  "english": "outsider",
+  "list_translation_mean": [
+    {
+      "translate_mean": "không chuyên môn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cầu thủ chạy góc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "có thể được giải bất ngờ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ngựa có thể về ngược",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người ngoài",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người ngoài cuộc",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person who does not belong to a particular group.",
+      "definitions_ex_en": "to the outsider, glitzy fashion shows may seem an outrageous extravagance",
+      "definitions_ex_vn": "Đối với các chương trình thời trang, thời trang hào nhoáng có vẻ là một sự xa hoa thái quá",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a competitor, applicant, etc. thought to have little chance of success.",
+      "definitions_ex_en": "he started as a rank outsider for the title",
+      "definitions_ex_vn": "Anh bắt đầu như một người ngoài cấp cho danh hiệu",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810078545_7a4db733e6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810078545_17ef05abaa_o.png",
+      "id_image": "outsider_4697302"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808386127_74e9050197_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808386127_55547d4b00_o.png",
+      "id_image": "outsider_4697332"
+    }
+  ]
+}

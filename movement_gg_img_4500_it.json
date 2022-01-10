@@ -1,0 +1,100 @@
+{
+  "english": "movement",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cách cử động",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự biến động",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự cử động",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự đổi chổ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự hành động",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự di động",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự vận động",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự xúc động",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thao diển quân đội",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an act of changing physical location or position or of having this changed.",
+      "definitions_ex_en": "a slight movement of the upper body",
+      "definitions_ex_vn": "một chuyển động nhẹ của thân trên",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a change or development.",
+      "definitions_ex_en": "movements in the underlying financial markets",
+      "definitions_ex_vn": "phong trào thị trường tài chính cơ bản",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a group of people working together to advance their shared political, social, or artistic ideas.",
+      "definitions_ex_en": "the labor movement",
+      "definitions_ex_vn": "phong trào lao động",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a principal division of a longer musical work, self-sufficient in terms of key, tempo, and structure.",
+      "definitions_ex_en": "the slow movement of his violin concerto",
+      "definitions_ex_vn": "chuyển động chậm của concerto violin của mình",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an act of defecation.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810070670_490151db7a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810070670_1693768071_o.png",
+      "id_image": "movement_2621644"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808378592_de3c0806d5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808378592_fde543c625_o.png",
+      "id_image": "movement_3813963"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809448743_45272d4fae_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809448743_4039490724_o.png",
+      "id_image": "movement_5775804"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809333651_d1d30c4cb6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809333651_12895460d3_o.png",
+      "id_image": "movement_5775946"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808378477_039d5c4f28_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808378477_4ac80f19e9_o.png",
+      "id_image": "movement_5978857"
+    }
+  ]
+}

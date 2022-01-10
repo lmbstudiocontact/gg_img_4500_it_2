@@ -1,0 +1,24 @@
+{
+  "english": "innovator",
+  "list_translation_mean": [
+    {
+      "translate_mean": "người cải cách",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person who introduces new methods, ideas, or products.",
+      "definitions_ex_en": "he was one of the great innovators in jazz",
+      "definitions_ex_vn": "Ông là một trong những nhà đổi mới lớn trong nhạc jazz",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810083655_3ca0c6f1ff_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810083655_6208f2d1ee_o.png",
+      "id_image": "innovator_4841365"
+    }
+  ]
+}

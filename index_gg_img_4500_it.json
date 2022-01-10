@@ -1,0 +1,111 @@
+{
+  "english": "index",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cây kim đồng hồ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chiết xuất",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dấu chỉ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mục lục",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ngón trỏ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "số mũ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "biên vào mục lục",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cấm sách nguy hiểm",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ghi vào mục lục",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lập bản mục lục",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an alphabetical list of names, subjects, etc., with references to the places where they occur, typically found at the end of a book.",
+      "definitions_ex_en": "clear cross references supplemented by a thorough index",
+      "definitions_ex_vn": "Xóa các tài liệu tham khảo chéo được bổ sung bởi một chỉ số kỹ lưỡng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an indicator, sign, or measure of something.",
+      "definitions_ex_en": "exam results may serve as an index of the teacher's effectiveness",
+      "definitions_ex_vn": "Kết quả thi có thể đóng chỉ là một chỉ số về hiệu quả của giáo viên",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an exponent or other superscript or subscript number appended to a quantity.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a pointer on an instrument, showing a quantity, a position on a scale, etc.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "record (names, subjects, etc.) in an index.",
+      "definitions_ex_en": "the list indexes theses under regional headings",
+      "definitions_ex_vn": "Các chỉ mục danh sách trong các tiêu đề khu vực",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "link the value of (prices, wages, or other payments) automatically to the value of a price index.",
+      "definitions_ex_en": "legislation indexing wages to prices",
+      "definitions_ex_vn": "Lập chỉ mục pháp luật về giá",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of a machine or part of one) rotate or otherwise move from one predetermined position to another in order to carry out a sequence of operations.",
+      "definitions_ex_en": "the pins are retracted and indexed to occupy an adjacent slotted position",
+      "definitions_ex_vn": "Các chân được rút lại và lập chỉ mục để chiếm một vị trí có rãnh liền kề",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809318106_d1b8753010_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809318106_738a6ac97f_o.png",
+      "id_image": "index_2329851"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809672914_d8d217d3cc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809672914_7279e5ddb8_o.png",
+      "id_image": "index_2472045"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809672854_de81635c8c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809672854_8e7b5f4750_o.png",
+      "id_image": "index_2748516"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809433213_8d996596e2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809433213_e31595567b_o.png",
+      "id_image": "index_3527778"
+    }
+  ]
+}

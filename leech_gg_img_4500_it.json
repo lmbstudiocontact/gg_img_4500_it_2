@@ -1,0 +1,69 @@
+{
+  "english": "leech",
+  "list_translation_mean": [
+    {
+      "translate_mean": "con đĩa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nghề nuôi đĩa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người hay rầy rà",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thầy thuốc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "y sĩ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an aquatic or terrestrial annelid worm with suckers at both ends. Many species are bloodsucking parasites, especially of vertebrates, and others are predators.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a person who extorts profit from or sponges on others.",
+      "definitions_ex_en": "they are leeches feeding off the hardworking majority",
+      "definitions_ex_vn": "Họ là những con đỉa đã cho ăn đa số chăm chỉ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a doctor or healer.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the after or leeward edge of a fore-and-aft sail, the leeward edge of a spinnaker, or a vertical edge of a square sail.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "habitually exploit or rely on.",
+      "definitions_ex_en": "he's leeching off the kindness of others",
+      "definitions_ex_vn": "Anh ấy đã đánh lạc hướng sự tốt bụng của người khác",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809346941_eb44516b4d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809346941_00ec53cf71_o.png",
+      "id_image": "leech_1328676"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809346906_a7a84917f1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809346906_014c65df0a_o.png",
+      "id_image": "leech_2233621"
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "english": "neutral",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bực trung",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "nước trung lập",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "ở giữa",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "tử điểm",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "trung hòa",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "trung lập",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "giữ thái độ trung lập",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự trung lập",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "not helping or supporting either side in a conflict, disagreement, etc.; impartial.",
+      "definitions_ex_en": "during the Second World War, Portugal was neutral",
+      "definitions_ex_vn": "Trong Thế chiến thứ hai, Bồ Đào Nha là trung lập",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "having no strongly marked or positive characteristics or features.",
+      "definitions_ex_en": "the tone was neutral, devoid of sentiment",
+      "definitions_ex_vn": "giai điệu là trung lập, không có tình cảm",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "neither acid nor alkaline; having a pH of about 7.",
+      "definitions_ex_en": "a neutral solution",
+      "definitions_ex_vn": "một giải pháp trung lập",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "electrically neither positive nor negative.",
+      "definitions_ex_en": "live and neutral contacts on plugs",
+      "definitions_ex_vn": "Liên hệ trực tiếp và trung lập trên phích cắm",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "an impartial or unbiased country or person.",
+      "definitions_ex_en": "Sweden and its fellow neutrals",
+      "definitions_ex_vn": "Thụy Điển và các loại trung tính của nó",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a neutral color or shade, especially light gray or beige.",
+      "definitions_ex_en": "classic shades of navy, white, and neutral",
+      "definitions_ex_vn": "sắc thái cổ điển của hải quân, trắng và trung tính",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a disengaged position of gears in which the engine is disconnected from the driven parts.",
+      "definitions_ex_en": "she slipped the gear into neutral",
+      "definitions_ex_vn": "Cô trượt bánh răng vào trung lập",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an electrically neutral point, terminal, conductor, or wire.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809438558_d099db83c9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809438558_288055c6b2_o.png",
+      "id_image": "neutral_1864581"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809678654_1ca1f6480e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809678654_0736311d6a_o.png",
+      "id_image": "neutral_2164188"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808368307_d900cba233_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808368307_9180f03a7b_o.png",
+      "id_image": "neutral_2978093"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809678574_5dacc6315b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809678574_23e552c6ab_o.png",
+      "id_image": "neutral_4658054"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810060340_a0ba651680_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810060340_b2be079b28_o.png",
+      "id_image": "neutral_520438"
+    }
+  ]
+}

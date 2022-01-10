@@ -1,0 +1,61 @@
+{
+  "english": "humanity",
+  "list_translation_mean": [
+    {
+      "translate_mean": "loài người",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lòng nhân đạo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lòng nhân từ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lòng từ bi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhân loại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhân tính",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the human race; human beings collectively.",
+      "definitions_ex_en": "appalling crimes against humanity",
+      "definitions_ex_vn": "khủng khiếp tội ác chống lại loài người",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "humaneness; benevolence.",
+      "definitions_ex_en": "he praised them for their standards of humanity, care, and dignity",
+      "definitions_ex_vn": "Ông ca ngợi họ về tiêu chuẩn của họ về nhân loại, chăm sóc và nhân phẩm",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "learning or literature concerned with human culture, especially literature, history, art, music, and philosophy.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808372792_84aaa14bfd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808372792_f10d25a18b_o.png",
+      "id_image": "humanitarian_5102260"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808372932_8d314a702b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808372932_f959cfdd32_o.png",
+      "id_image": "human_2640779"
+    }
+  ]
+}

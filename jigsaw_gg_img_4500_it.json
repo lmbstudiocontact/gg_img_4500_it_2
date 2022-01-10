@@ -1,0 +1,50 @@
+{
+  "english": "jigsaw",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cưa xoi",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a puzzle consisting of a picture printed on cardboard or wood and cut into various pieces of different shapes that have to be fitted together.",
+      "definitions_ex_en": "time is passed by doing jigsaws",
+      "definitions_ex_vn": "Thời gian được thông qua bằng cách thực hiện ghép hình",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a machine saw with a fine blade enabling it to cut curved lines in a sheet of wood, metal, or plastic.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810070875_1d0e03a3d6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810070875_cc535769a8_o.png",
+      "id_image": "jigsaw_1780251"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809333876_6b3aa35361_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809333876_12ba93737d_o.png",
+      "id_image": "jigsaw_252694"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810070835_e17ac75d66_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810070835_ebce753144_o.png",
+      "id_image": "jigsaw_4017301"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808378692_78df803e2d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808378692_7601eec9a6_o.png",
+      "id_image": "jigsaw_5616424"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809333851_413a391356_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809333851_b5b0756d6b_o.png",
+      "id_image": "jigsaw_664089"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "english": "maternity",
+  "list_translation_mean": [
+    {
+      "translate_mean": "tình mẹ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "motherhood.",
+      "definitions_ex_en": "she is not a woman with an interest in maternity",
+      "definitions_ex_vn": "Cô ấy không phải là phụ nữ với sự quan tâm đến thai sản",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808364842_90b3516b26_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808364842_c5ce410a81_o.png",
+      "id_image": "maternity_1425415"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808364812_4f7dae979e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808364812_204d28f90c_o.png",
+      "id_image": "maternity_1833856"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810056630_7cdba92a5d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810056630_eb85547f23_o.png",
+      "id_image": "maternity_6258709"
+    }
+  ]
+}

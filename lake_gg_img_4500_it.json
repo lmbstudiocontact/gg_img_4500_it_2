@@ -1,0 +1,54 @@
+{
+  "english": "lake",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sơn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hồ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a large body of water surrounded by land.",
+      "definitions_ex_en": "boys were swimming in the lake",
+      "definitions_ex_vn": "Con trai đang bơi trong hồ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an insoluble pigment made by combining a soluble organic dye and an insoluble mordant.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809677874_0304ba6df1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809677874_945290a225_o.png",
+      "id_image": "lake_1434838"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809677849_4deedae5c7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809677849_a19d0ca700_o.png",
+      "id_image": "lake_1566584"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810059380_a1bfcf5fd9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810059380_95cf8c63cb_o.png",
+      "id_image": "lake_1588866"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809437868_4646ed18da_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809437868_fca51bdd5f_o.png",
+      "id_image": "lake_2046214"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809322471_3948c1862e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809322471_f133d443a7_o.png",
+      "id_image": "lake_3722763"
+    }
+  ]
+}

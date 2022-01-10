@@ -1,0 +1,72 @@
+{
+  "english": "orbit",
+  "list_translation_mean": [
+    {
+      "translate_mean": "quĩ đạo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tầm hoạt động",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vùng ảnh hưởng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "quĩ đạo",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tầm ảnh hưởng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tầm hoạt động",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the curved path of a celestial object or spacecraft around a star, planet, or moon, especially a periodic elliptical revolution.",
+      "definitions_ex_en": "the Earth's orbit around the sun",
+      "definitions_ex_vn": "quỹ đạo của trái đất quanh mặt trời",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a sphere of activity, interest, or application.",
+      "definitions_ex_en": "a radical filmmaker outside the Hollywood orbit",
+      "definitions_ex_vn": "một nhà làm phim triệt để bên ngoài quỹ đạo Hollywood",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the cavity in the skull of a vertebrate that contains the eye; the eye socket.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(of a celestial object or spacecraft) move in orbit around (a star or planet).",
+      "definitions_ex_en": "Mercury orbits the Sun",
+      "definitions_ex_vn": "Mercury quỹ đạo mặt trời",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810081965_a537e33b95_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810081965_d6c7c30d95_o.png",
+      "id_image": "orbit_257142"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810081890_324d929cfe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810081890_2fff91248e_o.png",
+      "id_image": "orbit_4631399"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809699584_0f084b1176_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809699584_592506a776_o.png",
+      "id_image": "orbit_959128"
+    }
+  ]
+}

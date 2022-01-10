@@ -1,0 +1,33 @@
+{
+  "english": "magnification",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự làm cho thấy to",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự tán tụng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the action or process of magnifying something or being magnified, especially visually.",
+      "definitions_ex_en": "visible under high magnification",
+      "definitions_ex_vn": "nhìn thấy dưới độ phóng đại cao",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810066160_ddc4d4fb5e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810066160_c8e5621f99_o.png",
+      "id_image": "magnification_2472737"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809444338_3f4429fb4f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809444338_93128cc67d_o.png",
+      "id_image": "magnification_3160992"
+    }
+  ]
+}

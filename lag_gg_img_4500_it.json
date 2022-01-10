@@ -1,0 +1,102 @@
+{
+  "english": "lag",
+  "list_translation_mean": [
+    {
+      "translate_mean": "lục đục ở sau",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người phạm tội",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự chậm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự đi chậm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự đi kéo lê kéo lết",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự trể",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tội khổ sai",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tội nhân",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vật không dẩn nhiệt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bắt người",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "phát vãng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đày đi",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "fall behind in movement, progress, or development; not keep pace with another or others.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "enclose or cover (a boiler, pipes, etc.) with material that provides heat insulation.",
+      "definitions_ex_en": "a lagged hot-water tank",
+      "definitions_ex_vn": "một bể nước nóng chậm lại",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a period of time between one event or phenomenon and another.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a retardation in an electric current or movement.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the non-heat-conducting cover of a boiler, pipes, etc.; lagging.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808367827_20802c8895_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808367827_2146fb9ec2_o.png",
+      "id_image": "lag_1620481"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809678004_17fd09fcf7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809678004_b8697d93ca_o.png",
+      "id_image": "lag_1622523"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810059575_72eee7bf5f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810059575_6eefa6f309_o.png",
+      "id_image": "lag_6110230"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "english": "makeup",
+  "list_translation_mean": [
+    {
+      "translate_mean": "điều đình",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giồi phấn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hòa giải",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tô điểm mặt mày",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thâu góp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trang điểm",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "cosmetics such as lipstick or powder applied to the face, used to enhance or alter the appearance.",
+      "definitions_ex_en": "she came downstairs, her face still white under her heavy makeup",
+      "definitions_ex_vn": "Cô ấy xuống cầu thang, khuôn mặt vẫn trắng dưới trang điểm nặng nề của mình",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the composition or constitution of something.",
+      "definitions_ex_en": "studying the makeup of ocean sediments",
+      "definitions_ex_vn": "Nghiên cứu trang điểm của trầm tích đại dương",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the arrangement of type, illustrations, etc., on a printed page.",
+      "definitions_ex_en": "page makeup",
+      "definitions_ex_vn": "Trang trang điểm",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809443218_358e54ab82_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809443218_e0bdfcf1a1_o.png",
+      "id_image": "makeup_1024541"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328106_674dea9c7c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328106_f452a692d8_o.png",
+      "id_image": "makeup_1024557"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328066_7f62452582_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328066_6f529825a9_o.png",
+      "id_image": "makeup_4795442"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809443073_64f59aa481_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809443073_d5316fd5b2_o.png",
+      "id_image": "makeup_5732023"
+    }
+  ]
+}

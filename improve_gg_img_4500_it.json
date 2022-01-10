@@ -1,0 +1,42 @@
+{
+  "english": "improve",
+  "list_translation_mean": [
+    {
+      "translate_mean": "làm cho hoàn hảo",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm tốt thêm",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trở nên tốt",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "make or become better.",
+      "definitions_ex_en": "we’ve used technology to improve relations with customers",
+      "definitions_ex_vn": "Chúng tôi đã sử dụng công nghệ để cải thiện quan hệ với khách hàng",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809435523_44492bd011_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809435523_00f4b44f19_o.png",
+      "id_image": "improve_4365211"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809675334_c4ab902858_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809675334_61a1ff473a_o.png",
+      "id_image": "improve_4751664"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365372_8b7f35a7fd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365372_e4b9286c50_o.png",
+      "id_image": "improve_564839"
+    }
+  ]
+}

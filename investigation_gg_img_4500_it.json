@@ -1,0 +1,56 @@
+{
+  "english": "investigation",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự điều tra",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự nghiên cứu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự dò xét",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự xem xét",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the action of investigating something or someone; formal or systematic examination or research.",
+      "definitions_ex_en": "he is under investigation for receiving illicit funds",
+      "definitions_ex_vn": "Ông đang được điều tra nhận được tiền bất hợp pháp",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810076180_bd77756e7d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810076180_eb5349cbbd_o.png",
+      "id_image": "investigation_1284694"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809339051_17349f02d1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809339051_40d83a8390_o.png",
+      "id_image": "investigation_2861736"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810076105_c5073ce225_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810076105_e407b5402e_o.png",
+      "id_image": "investigation_3426705"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809694104_ef84431a6b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809694104_47f7ea508a_o.png",
+      "id_image": "investigation_3798689"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809338911_3e3a5bf40c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809338911_85774c9051_o.png",
+      "id_image": "investigation_4620327"
+    }
+  ]
+}

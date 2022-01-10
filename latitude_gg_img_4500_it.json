@@ -1,0 +1,54 @@
+{
+  "english": "latitude",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bề ngang",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bề rộng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "miền",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trọn quyền",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vĩ độ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vĩ tuyến",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "xứ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the angular distance of a place north or south of the earth's equator, or of a celestial object north or south of the celestial equator, usually expressed in degrees and minutes.",
+      "definitions_ex_en": "at a latitude of 51° N",
+      "definitions_ex_vn": "ở vĩ độ 51 ° N",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "scope for freedom of action or thought.",
+      "definitions_ex_en": "journalists have considerable latitude in criticizing public figures",
+      "definitions_ex_vn": "Các nhà báo có vĩ độ đáng kể trong việc chỉ trích các nhân vật công cộng",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809434863_0e90418ae7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809434863_25fa9ebc9c_o.png",
+      "id_image": "latitude_992273"
+    }
+  ]
+}

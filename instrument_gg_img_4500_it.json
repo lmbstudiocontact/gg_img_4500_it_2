@@ -1,0 +1,108 @@
+{
+  "english": "instrument",
+  "list_translation_mean": [
+    {
+      "translate_mean": "văn thư",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chứng thư",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dụng cụ cơ khí",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đồ dùng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhạc cụ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phương tiện",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khí cụ máy móc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khí giới",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "làm khế ước",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lập văn thư",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "sắp đặt nhạc phổ",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a tool or implement, especially one for delicate or scientific work.",
+      "definitions_ex_en": "a surgical instrument",
+      "definitions_ex_vn": "một nhạc cụ phẫu thuật",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a measuring device used to gauge the level, position, speed, etc. of something, especially a motor vehicle or aircraft.",
+      "definitions_ex_en": "a new instrument for measuring ozone levels",
+      "definitions_ex_vn": "một công cụ mới để đo mức ozone",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an object or device for producing musical sounds.",
+      "definitions_ex_en": "a percussion instrument",
+      "definitions_ex_vn": "một nhạc cụ gõ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a formal document, especially a legal one.",
+      "definitions_ex_en": "execution involves signature and unconditional delivery of the instrument",
+      "definitions_ex_vn": "thực thi liên quan đến chữ ký và cung cấp vô điều kiện của các công cụ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "equip (something) with measuring instruments.",
+      "definitions_ex_en": "engineers have instrumented rockets to study the upper atmosphere",
+      "definitions_ex_vn": "Các kỹ sư có tên lửa dụng cụ để nghiên cứu bầu không khí trên",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810081450_4dce46849c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810081450_54c0beb6ee_o.png",
+      "id_image": "instrument_1296729"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809458778_23dc7f5a9d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809458778_c6150e9163_o.png",
+      "id_image": "instrument_2270966"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808388932_56a33fa6f6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808388932_e05d20f734_o.png",
+      "id_image": "instrument_2504135"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809699149_90ef61b206_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809699149_157fd5856f_o.png",
+      "id_image": "instrument_5015957"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810081515_8b607dc20a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810081515_aaa25bbe95_o.png",
+      "id_image": "instrument_805327"
+    }
+  ]
+}

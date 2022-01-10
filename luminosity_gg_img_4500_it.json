@@ -1,0 +1,36 @@
+{
+  "english": "luminosity",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự sáng chói",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự sáng sủa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tính phát quang",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tính sáng chói",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "luminous quality.",
+      "definitions_ex_en": "acrylic colors retain freshness and luminosity",
+      "definitions_ex_vn": "Màu acrylic giữ độ tươi và độ sáng",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810069505_284c3a7f41_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810069505_f0e2c27d0c_o.png",
+      "id_image": "luminosity_4647273"
+    }
+  ]
+}

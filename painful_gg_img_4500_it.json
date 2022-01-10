@@ -1,0 +1,49 @@
+{
+  "english": "painful",
+  "list_translation_mean": [
+    {
+      "translate_mean": "khó chịu",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "làm đau đớn",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "làm đau nhức",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "lao khổ",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "phiền muộn",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "vất vả",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "(of a part of the body) affected with pain.",
+      "definitions_ex_en": "her ankle was very painful",
+      "definitions_ex_vn": "mắt cá chân của cô rất đau",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809692169_67ddf1230b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809692169_a24ca4d25d_o.png",
+      "id_image": "painful_670850"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810073970_e885529a75_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810073970_dce9c7883a_o.png",
+      "id_image": "pain_2037321"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "english": "lecturer",
+  "list_translation_mean": [
+    {
+      "translate_mean": "giảng sư",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người giảng dạy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người diển thuyết",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person who gives lectures, especially as a profession.",
+      "definitions_ex_en": "a senior lecturer in surgery at Leeds University",
+      "definitions_ex_vn": "một giảng viên cao cấp trong phẫu thuật tại Đại học Leeds",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809347301_f0220a2faf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809347301_f9980abb67_o.png",
+      "id_image": "lecturer_2700524"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809462068_369c482c70_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809462068_9d72b35d9a_o.png",
+      "id_image": "lecturer_4728738"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809347251_d339a571ca_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809347251_22689769aa_o.png",
+      "id_image": "lecturer_4736362"
+    }
+  ]
+}

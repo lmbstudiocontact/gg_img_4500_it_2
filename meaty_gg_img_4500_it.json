@@ -1,0 +1,32 @@
+{
+  "english": "meaty",
+  "list_translation_mean": [
+    {
+      "translate_mean": "có thịt",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "mùi của thịt",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "nhiều thịt",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "consisting of or full of meat.",
+      "definitions_ex_en": "a meaty flavor",
+      "definitions_ex_vn": "một hương vị thịt",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808363092_9979fc0b94_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808363092_2cba74203e_o.png",
+      "id_image": "meaty_1581646"
+    }
+  ]
+}

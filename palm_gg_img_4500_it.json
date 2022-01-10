@@ -1,0 +1,89 @@
+{
+  "english": "palm",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cây cọ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cây kè",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lòng bàn tay",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thước đo bằng gang tay",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cây thốt nốt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cây dừa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đút lót",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "mò",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "hối lộ",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an unbranched evergreen tree with a crown of long feathered or fan-shaped leaves, and typically having old leaf scars forming a regular pattern on the trunk. Palms grow in warm regions, especially the tropics.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the inner surface of the hand between the wrist and fingers.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "conceal (a card or other small object) in the hand, especially as part of a trick or theft.",
+      "definitions_ex_en": "he would spin wild tales while palming your wristwatch",
+      "definitions_ex_vn": "anh ấy sẽ quay những câu chuyện hoang dã trong khi lòng bàn tay của bạn",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "hit (something) with the palm of the hand.",
+      "definitions_ex_en": "Jason palmed the ball out of danger",
+      "definitions_ex_vn": "Jason đặt bóng ra khỏi nguy hiểm",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810072795_500b969cd8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810072795_99533af9a0_o.png",
+      "id_image": "palm_209232"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809691034_b0c19c0409_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809691034_d78a4a7505_o.png",
+      "id_image": "palm_2287892"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808380837_205af20d0e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808380837_a54479da43_o.png",
+      "id_image": "palm_3332698"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810072750_d3372bb4f5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810072750_5ca930de2e_o.png",
+      "id_image": "palm_882888"
+    }
+  ]
+}

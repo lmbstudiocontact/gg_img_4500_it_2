@@ -1,0 +1,63 @@
+{
+  "english": "mechanism",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cách cấu tạo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cơ giới chủ nghĩa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "động vật cơ giới thuyết",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự tổ chức",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a system of parts working together in a machine; a piece of machinery.",
+      "definitions_ex_en": "the gunner injured his arm in the turret mechanism",
+      "definitions_ex_vn": "Gunner bị thương cánh tay của mình trong cơ chế tháp pháo",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a natural or established process by which something takes place or is brought about.",
+      "definitions_ex_en": "we have no mechanism for assessing the success of forwarded inquiries",
+      "definitions_ex_vn": "Chúng tôi không có cơ chế để đánh giá sự thành công của các yêu cầu chuyển tiếp",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the doctrine that all natural phenomena, including life and thought, allow mechanical explanation by physics and chemistry.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809318436_99f7dbdebf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809318436_0925064952_o.png",
+      "id_image": "mechanism_1610493"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809433633_7197cc3610_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809433633_a324289a8f_o.png",
+      "id_image": "mechanism_2259701"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809433648_131deae017_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809433648_8116e35721_o.png",
+      "id_image": "mechanism_416214"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809673219_bff1c1c6a3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809673219_a1d1e9dc8e_o.png",
+      "id_image": "mechanism_5541887"
+    }
+  ]
+}

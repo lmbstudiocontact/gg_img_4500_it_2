@@ -1,0 +1,46 @@
+{
+  "english": "logic",
+  "list_translation_mean": [
+    {
+      "translate_mean": "luận lý học",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "reasoning conducted or assessed according to strict principles of validity.",
+      "definitions_ex_en": "experience is a better guide to this than deductive logic",
+      "definitions_ex_vn": "kinh nghiệm là một hướng dẫn tốt hơn về điều này hơn là logic suy luận",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a system or set of principles underlying the arrangements of elements in a computer or electronic device so as to perform a specified task.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "equivalent to -logical (as in pharmacologic ).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "combining form"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809692289_d6e1f919bb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809692289_f3ec8e0989_o.png",
+      "id_image": "logic_1332017"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809692244_5265bf2a3f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809692244_7735d57c1d_o.png",
+      "id_image": "logic_2241398"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809692214_6925667278_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809692214_453e5068e0_o.png",
+      "id_image": "logic_5387386"
+    }
+  ]
+}

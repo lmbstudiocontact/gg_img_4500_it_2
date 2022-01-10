@@ -1,0 +1,43 @@
+{
+  "english": "hurricane",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bão",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cuồng phong",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a storm with a violent wind, in particular a tropical cyclone in the Caribbean.",
+      "definitions_ex_en": "a powerful hurricane hit the Florida coast",
+      "definitions_ex_vn": "một cơn bão mạnh mẽ đánh vào bờ biển Florida",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809441908_edefb440b9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809441908_648f8d8ebc_o.png",
+      "id_image": "hurricane_2237892"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809441868_5d3101c510_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809441868_33d5278abb_o.png",
+      "id_image": "hurricane_3436812"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808371662_65f0fc5fe2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808371662_4c4a0718fd_o.png",
+      "id_image": "hurricane_491243"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810063805_e7c2ed233e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810063805_3015cf9592_o.png",
+      "id_image": "hurricane_798347"
+    }
+  ]
+}

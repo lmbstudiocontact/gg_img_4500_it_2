@@ -1,0 +1,52 @@
+{
+  "english": "manifestation",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cuộc biểu tình",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự biểu lộ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự phát biểu",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an event, action, or object that clearly shows or embodies something, especially a theory or an abstract idea.",
+      "definitions_ex_en": "the first obvious manifestations of global warming",
+      "definitions_ex_vn": "Các biểu hiện rõ ràng đầu tiên của sự nóng lên toàn cầu",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808370592_d930789bbd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808370592_6a1240bf18_o.png",
+      "id_image": "manifestation_2287727"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810062560_abd3ced8a1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810062560_787f9e1e5b_o.png",
+      "id_image": "manifestation_2529682"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325756_1623059c23_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325756_878ca98cba_o.png",
+      "id_image": "manifestation_2529739"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809440713_c2718cb21b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809440713_2c211da213_o.png",
+      "id_image": "manifestation_3458259"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809680754_9a8b338735_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809680754_d5fe6a3cf7_o.png",
+      "id_image": "manifestation_3458270"
+    }
+  ]
+}

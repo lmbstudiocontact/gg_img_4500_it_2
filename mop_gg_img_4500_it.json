@@ -1,0 +1,65 @@
+{
+  "english": "mop",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chổi quét sân tàu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đồ lau nhà",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "một thứ chổi có cán dài",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự nhăn nhó",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chùi bằng chổi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nhăn nhó",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an implement consisting of a sponge or a bundle of thick loose strings attached to a handle, used for wiping floors or other surfaces.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "clean or soak up liquid from (something) by wiping.",
+      "definitions_ex_en": "she mopped the floor and cleaned out two cupboards",
+      "definitions_ex_vn": "Cô lau sàn và dọn sạch hai tủ",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808381652_2289069243_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808381652_d9fe62ee40_o.png",
+      "id_image": "mop_3216129"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809451528_5985a85558_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809451528_02eebaee18_o.png",
+      "id_image": "mop_3553659"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809336571_dfeeb8777c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809336571_fc221a58f7_o.png",
+      "id_image": "mop_4352908"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809336536_f3eb0e4ea1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809336536_75c7d12d12_o.png",
+      "id_image": "mop_5234131"
+    }
+  ]
+}

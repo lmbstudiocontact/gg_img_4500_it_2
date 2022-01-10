@@ -1,0 +1,166 @@
+{
+  "english": "jam",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chêm",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "canh",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "bóp lại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "bộ phận máy bị kẹt",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ép lại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm kẹt",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm nghẻn tắc",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "siết lại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thúc chặt lại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "mắc vướng nhau",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đám đông chen chúc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đám đông tắc nghẽn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "gỗ ở sông",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khối băng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mứt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự ấn vào",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự ép chặt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đám người đông đúc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự kẹp chặt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự nhồi nhét",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự tọng vào",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tình trạng bị nghẻn",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "squeeze or pack tightly into a specified space.",
+      "definitions_ex_en": "four of us were jammed in one compartment",
+      "definitions_ex_vn": "Bốn người chúng tôi bị kẹt trong một ngăn",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "become or make unable to move or work due to a part seizing or becoming stuck.",
+      "definitions_ex_en": "the photocopier jammed",
+      "definitions_ex_vn": "Máy photocopy bị kẹt",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "improvise with other musicians, especially in jazz or blues.",
+      "definitions_ex_en": "the opportunity to jam with Atlanta blues musicians",
+      "definitions_ex_vn": "cơ hội để gây nhiễu với các nhạc sĩ atlanta blues",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "an instance of a machine or thing seizing or becoming stuck.",
+      "definitions_ex_en": "paper jams",
+      "definitions_ex_vn": "Kẹt giấy",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an awkward situation or predicament.",
+      "definitions_ex_en": "I'm in a jam",
+      "definitions_ex_vn": "Tôi đang ở trong một mứt",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an informal gathering of musicians improvising together, especially in jazz or blues.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a sweet spread or preserve made from fruit and sugar boiled to a thick consistency.",
+      "definitions_ex_en": "strawberry jam",
+      "definitions_ex_vn": "mứt dâu tây",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "Jamaica.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "abbreviation"
+    },
+    {
+      "definitions_word_en": "James (in biblical references).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "abbreviation"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335846_c26fedf3f0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335846_4f9a023f61_o.png",
+      "id_image": "jam_1547923"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808380912_b036f41283_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808380912_c6fc1669ff_o.png",
+      "id_image": "jam_1682257"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810072840_3d61b797ff_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810072840_5fc8b0f7d4_o.png",
+      "id_image": "jam_790635"
+    }
+  ]
+}

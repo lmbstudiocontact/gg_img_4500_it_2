@@ -1,0 +1,100 @@
+{
+  "english": "package",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bó",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bưu kiện",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cuốn thành bó",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đóng thành kiện",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "gói",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giấy để gói",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "kiện hàng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự gói",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thùng để đóng hàng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an object or group of objects wrapped in paper or plastic, or packed in a box.",
+      "definitions_ex_en": "someone had left a suspicious package",
+      "definitions_ex_vn": "ai đó đã để lại một gói đáng ngờ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a set of proposals or terms offered or agreed as a whole.",
+      "definitions_ex_en": "a package of economic reforms",
+      "definitions_ex_vn": "một gói cải cách kinh tế",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a collection of programs or subroutines with related functionality.",
+      "definitions_ex_en": "CAD and banking packages",
+      "definitions_ex_vn": "Gói CAD và Banking",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "put into a box or wrapping, especially for sale.",
+      "definitions_ex_en": "choose products that are packaged in recyclable materials",
+      "definitions_ex_vn": "Chọn sản phẩm được đóng gói trong vật liệu có thể tái chế",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "present (someone or something) in a particular way, especially to make them more attractive.",
+      "definitions_ex_en": "the singer is being packaged to appeal to teenagers",
+      "definitions_ex_vn": "Ca sĩ đang được đóng gói để hấp dẫn thanh thiếu niên",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809338606_3b9ae22890_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809338606_a79582bc58_o.png",
+      "id_image": "package_228389"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809453598_ab3a7bbca9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809453598_52eda38e60_o.png",
+      "id_image": "package_290925"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809693719_7e09b029ea_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809693719_03c7e080bb_o.png",
+      "id_image": "package_316630"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809453458_c2ce3f4522_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809453458_e5b83c3298_o.png",
+      "id_image": "package_365243"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810075510_5bd28024a8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810075510_a47975590f_o.png",
+      "id_image": "package_365256"
+    }
+  ]
+}

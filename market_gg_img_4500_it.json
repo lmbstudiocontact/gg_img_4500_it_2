@@ -1,0 +1,74 @@
+{
+  "english": "market",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chợ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chợ gia súc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giá thị trường",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự buôn bán",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thị trường",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bán",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đi chợ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đi mua đồ",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a regular gathering of people for the purchase and sale of provisions, livestock, and other commodities.",
+      "definitions_ex_en": "farmers going to market",
+      "definitions_ex_vn": "nông dân đi chợ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an area or arena in which commercial dealings are conducted.",
+      "definitions_ex_en": "the labor market",
+      "definitions_ex_vn": "Thị trường lao động",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "advertise or promote (something).",
+      "definitions_ex_en": "the product was marketed under the name “aspirin.”",
+      "definitions_ex_vn": "Sản phẩm được bán trên thị trường dưới tên \"aspirin\".",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809322941_66f2910ea0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809322941_89d28fd993_o.png",
+      "id_image": "market_1901411"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809438073_b8130edfb8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809438073_a4955e5070_o.png",
+      "id_image": "market_6248847"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809678129_fba5839763_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809678129_bd10e0e762_o.png",
+      "id_image": "market_831495"
+    }
+  ]
+}

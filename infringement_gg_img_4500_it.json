@@ -1,0 +1,30 @@
+{
+  "english": "infringement",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự vi phạm",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the action of breaking the terms of a law, agreement, etc.; violation.",
+      "definitions_ex_en": "copyright infringement",
+      "definitions_ex_vn": "vi phạm bản quyền",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the action of limiting or undermining something.",
+      "definitions_ex_en": "the infringement of the right to privacy",
+      "definitions_ex_vn": "sự xâm phạm của quyền riêng tư",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809316591_6d9f13ff4e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809316591_648886d8c0_o.png",
+      "id_image": "infringement_4391684"
+    }
+  ]
+}

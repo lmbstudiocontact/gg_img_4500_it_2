@@ -1,0 +1,192 @@
+{
+  "english": "lap",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chổ lồi lõm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khăn quàng mình",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khoảng của một tấm ngói",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "một vòng của trường đua",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "rượu nhẹ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự bao phủ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiếng vổ của sóng biển",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trấy tai",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chổ trũng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự hớp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vạt áo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự liếm bằng lưỡi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự táp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bao bọc",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "bao dây điện",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cuốn chung quanh",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "hớp",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "liếm bằng lưỡi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lợp lên",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "mài cho trơn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "phủ lên",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "quấn lại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "táp",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "vổ bập bềnh",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "xếp ngói đè lên nhau",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the flat area between the waist and knees of a seated person.",
+      "definitions_ex_en": "come and sit on my lap",
+      "definitions_ex_vn": "đến và ngồi trên đùi tôi",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a hanging flap on a garment or a saddle.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "one circuit of a track or racetrack.",
+      "definitions_ex_en": "heavy rain stopped the race after 18 laps",
+      "definitions_ex_vn": "Mưa lớn dừng cuộc đua sau 18 vòng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an overlapping or projecting part.",
+      "definitions_ex_en": "cut to the depth and width of the lap",
+      "definitions_ex_vn": "cắt theo độ sâu và chiều rộng của vòng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a single turn of rope, thread, or cable around a drum or reel.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(in a lapping machine) a rotating disk with a coating of fine abrasive for polishing.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the action of water washing gently against something.",
+      "definitions_ex_en": "listening to the comfortable lap of the waves against the shore",
+      "definitions_ex_vn": "nghe những chiếc đùi thoải mái trên bờ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "overtake (a competitor in a race) to become one or more laps ahead.",
+      "definitions_ex_en": "she lapped all of her rivals in the 3,000 meters",
+      "definitions_ex_vn": "Cô lùi tất cả các đối thủ của mình trong 3.000 mét",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "enfold or swathe a person or thing, especially a part of the body, in (something soft).",
+      "definitions_ex_en": "he was lapped in blankets",
+      "definitions_ex_vn": "Anh ta bị thắt trong chăn",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "project beyond or overlap something.",
+      "definitions_ex_en": "the water lapped over the edges",
+      "definitions_ex_vn": "Nước lung lên trên các cạnh",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "polish (a gem or a metal or glass surface) with a lapping machine.",
+      "definitions_ex_en": "the honing and lapping of ring gauges",
+      "definitions_ex_vn": "Các đồng hồ đo vòng và vắt nhẫn",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of an animal) take up (liquid) with the tongue in order to drink.",
+      "definitions_ex_en": "the cat was lapping up a saucer of milk",
+      "definitions_ex_vn": "Con mèo đang lapping một chiếc đĩa sữa",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of water) wash against (something) with a gentle rippling sound.",
+      "definitions_ex_en": "the waves lapped the shore",
+      "definitions_ex_vn": "Những con sóng lội nước",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365317_cf2a02abcf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365317_b104a1e879_o.png",
+      "id_image": "lap_1506399"
+    }
+  ]
+}

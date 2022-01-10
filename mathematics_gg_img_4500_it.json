@@ -1,0 +1,43 @@
+{
+  "english": "mathematics",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chỉ về toán học",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "toán học",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the abstract science of number, quantity, and space. Mathematics may be studied in its own right ( pure mathematics ), or as it is applied to other disciplines such as physics and engineering ( applied mathematics ).",
+      "definitions_ex_en": "a taste for mathematics",
+      "definitions_ex_vn": "một hương vị cho toán học",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809674844_3a13cb836b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809674844_53bb897b44_o.png",
+      "id_image": "mathematics_1284095"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809674794_3341ed1598_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809674794_02c1aea0dd_o.png",
+      "id_image": "mathematics_1440980"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810056520_37521eac07_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810056520_b26c567a0e_o.png",
+      "id_image": "mathematics_170602"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808364517_a578087a4c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808364517_bcc31e1d33_o.png",
+      "id_image": "mathematics_6032181"
+    }
+  ]
+}

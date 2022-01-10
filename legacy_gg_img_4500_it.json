@@ -1,0 +1,35 @@
+{
+  "english": "legacy",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự di tặng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an amount of money or property left to someone in a will.",
+      "definitions_ex_en": "my grandmother died and unexpectedly left me a small legacy",
+      "definitions_ex_vn": "Bà tôi đã chết và bất ngờ để lại cho tôi một di sản nhỏ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "denoting or relating to software or hardware that has been superseded but is difficult to replace because of its wide use.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809346671_85cd1770aa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809346671_17d118d5e3_o.png",
+      "id_image": "legacy_5625679"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808391612_22aa743a1b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808391612_aa17529433_o.png",
+      "id_image": "legacy_5632349"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "english": "intensity",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cường độ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "quyền lực",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sức mạnh",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the quality of being intense.",
+      "definitions_ex_en": "the pain grew in intensity",
+      "definitions_ex_vn": "Cơn đau lớn lên trong cường độ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the measurable amount of a property, such as force, brightness, or a magnetic field.",
+      "definitions_ex_en": "hydrothermal processes of low intensity",
+      "definitions_ex_vn": "quá trình thủy nhiệt cường độ thấp",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809697849_a30527f7ef_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809697849_0342234e06_o.png",
+      "id_image": "intensity_4275882"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810080075_e2a155f80e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810080075_6bbab467ce_o.png",
+      "id_image": "intensity_5089575"
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "english": "mute",
+  "list_translation_mean": [
+    {
+      "translate_mean": "giữ im",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "không nói tiếng nào",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "làm thinh",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "người câm",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "đạo tỳ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người câm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phu đám ma",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "làm cho bớt tiếng kêu",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "refraining from speech or temporarily speechless.",
+      "definitions_ex_en": "Irene, the talkative one, was now mute",
+      "definitions_ex_vn": "Irene, người nói chuyện, giờ đã tắt tiếng",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a letter) not pronounced.",
+      "definitions_ex_en": "mute e is generally dropped before suffixes beginning with a vowel",
+      "definitions_ex_vn": "Mute e thường bị loại bỏ trước khi hậu tố bắt đầu bằng một nguyên âm",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a clamp placed over the bridge of a stringed instrument to deaden the resonance without affecting the vibration of the strings.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a device on a television, telephone, or other appliance that temporarily turns off the sound.",
+      "definitions_ex_en": "she put the television on mute",
+      "definitions_ex_vn": "Cô ấy đặt tivi vào câm",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a pack of hounds.",
+      "definitions_ex_en": "the abbot had a mute of hounds",
+      "definitions_ex_vn": "trụ trì có một câm chó săn",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "deaden, muffle, or soften the sound of.",
+      "definitions_ex_en": "her footsteps were muted by the thick carpet",
+      "definitions_ex_vn": "Bước chân của cô bị tắt tiếng bởi thảm dày",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809445243_c249823d7b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809445243_1edfc40e28_o.png",
+      "id_image": "mute_1112541"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809445203_59f2141af8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809445203_4fa5a7260e_o.png",
+      "id_image": "mute_2831073"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067065_d1236c223a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067065_fd589bce6b_o.png",
+      "id_image": "mute_6212371"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "english": "jet",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bằng huyền",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "huyền",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "động từ",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a rapid stream of liquid or gas forced out of a small opening.",
+      "definitions_ex_en": "a high-pressure shower with pulsating jets",
+      "definitions_ex_vn": "Vòi sen áp lực cao với máy bay phản lực xung",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a jet engine.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a hard black semiprecious variety of lignite, capable of being carved and highly polished.",
+      "definitions_ex_en": "jet beads",
+      "definitions_ex_vn": "Hạt Jet.",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "travel by jet aircraft.",
+      "definitions_ex_en": "the newlyweds jetted off for a honeymoon in New York",
+      "definitions_ex_vn": "Những người mới cưới đã nhảy lên cho một tuần trăng mật ở New York",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "spurt out in jets.",
+      "definitions_ex_en": "blood jetted from his nostrils",
+      "definitions_ex_vn": "máu vang lên từ lỗ mũi của mình",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809449713_666719c91a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809449713_92b26bdf36_o.png",
+      "id_image": "jet_2090021"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809334661_b0d575741d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809334661_a032bc2b46_o.png",
+      "id_image": "jet_2614565"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808379667_d5502d0ab6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808379667_b83d73b3b8_o.png",
+      "id_image": "jet_942346"
+    }
+  ]
+}

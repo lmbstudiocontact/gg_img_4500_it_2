@@ -1,0 +1,57 @@
+{
+  "english": "oyster",
+  "list_translation_mean": [
+    {
+      "translate_mean": "con hàu",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "any of a number of bivalve mollusks with rough irregular shells. Several kinds are eaten (especially raw) as a delicacy and may be farmed for food or pearls.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a shade of grayish white.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an oyster-shaped morsel of meat on each side of the backbone in poultry.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "raise, dredge, or gather oysters.",
+      "definitions_ex_en": "as a kid he crabbed and oystered for fun",
+      "definitions_ex_vn": "Khi một đứa trẻ, anh ta cò và Oystered cho vui",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809454013_5ace9300d8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809454013_71b4222844_o.png",
+      "id_image": "oyster_1717858"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809453983_e212670ceb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809453983_386e08e514_o.png",
+      "id_image": "oyster_3823304"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809338986_b25063bda2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809338986_8fe7709031_o.png",
+      "id_image": "oyster_4582698"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809694174_f167def812_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809694174_3fe180f525_o.png",
+      "id_image": "oyster_815968"
+    }
+  ]
+}

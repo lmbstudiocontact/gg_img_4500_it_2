@@ -1,0 +1,43 @@
+{
+  "english": "journalism",
+  "list_translation_mean": [
+    {
+      "translate_mean": "nghề làm báo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nghề viết báo",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the activity or profession of writing for newspapers, magazines, or news websites or preparing news to be broadcast.",
+      "definitions_ex_en": "pop journalism",
+      "definitions_ex_vn": "Báo chí POP.",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810069125_c98d1f900c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810069125_e98f80f6c0_o.png",
+      "id_image": "journalism_1354765"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808377097_781328b9ff_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808377097_1a906fcf3e_o.png",
+      "id_image": "journalism_4459192"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809687289_40c5e4cd79_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809687289_ef29ecff81_o.png",
+      "id_image": "journalism_6182848"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810069005_e6cc718ac9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810069005_87f2d202ec_o.png",
+      "id_image": "journalism_6316004"
+    }
+  ]
+}

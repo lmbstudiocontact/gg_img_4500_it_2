@@ -1,0 +1,63 @@
+{
+  "english": "painter",
+  "list_translation_mean": [
+    {
+      "translate_mean": "dây cột tàu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "họa sĩ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thợ sơn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thợ vẽ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an artist who paints pictures.",
+      "definitions_ex_en": "a German landscape painter",
+      "definitions_ex_vn": "một họa sĩ cảnh quan Đức",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a person who paints buildings, walls, ceilings, and woodwork, especially as a job.",
+      "definitions_ex_en": "a self-employed painter and decorator",
+      "definitions_ex_vn": "một họa sĩ và trang trí tự làm chủ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a rope attached to the bow of a boat for tying it to a quay.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808381412_5736027de3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808381412_efc012bc2d_o.png",
+      "id_image": "painter_1876789"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809451323_4190a718da_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809451323_7758b157d0_o.png",
+      "id_image": "painter_1902503"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810073440_cec29bebc1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810073440_a0be8c41f8_o.png",
+      "id_image": "painter_307956"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809336381_034daea170_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809336381_44b6dc69df_o.png",
+      "id_image": "painter_3527113"
+    }
+  ]
+}

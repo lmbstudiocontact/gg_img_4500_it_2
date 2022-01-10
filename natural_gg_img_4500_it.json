@@ -1,0 +1,146 @@
+{
+  "english": "natural",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đương nhiên",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thiên tư",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "âm nốt tự nhiên",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cố nhiên",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dấu bê ca",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người ngu từ lúc mới sanh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bẩm sinh",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thiên bẩm",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thiên phú",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thuộc về tự nhiên",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thuộc về thiên nhiên",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "existing in or caused by nature; not made or caused by humankind.",
+      "definitions_ex_en": "carrots contain a natural antiseptic that fights bacteria",
+      "definitions_ex_vn": "cà rốt chứa một chất khử trùng tự nhiên chiến đấu với vi khuẩn",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "of or in agreement with the character or makeup of, or circumstances surrounding, someone or something.",
+      "definitions_ex_en": "sharks have no natural enemies",
+      "definitions_ex_vn": "Cá mập không có kẻ thù tự nhiên",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a parent or child) related by blood.",
+      "definitions_ex_en": "such adopted children always knew who their natural parents were",
+      "definitions_ex_vn": "Những đứa trẻ được thông qua như vậy luôn biết cha mẹ tự nhiên của họ là ai",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a note) not sharped or flatted.",
+      "definitions_ex_en": "the bassoon plays G-natural instead of A-flat",
+      "definitions_ex_vn": "bassoon chơi g-tự nhiên thay vì a-phẳng",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "relating to earthly or unredeemed human or physical nature as distinct from the spiritual or supernatural realm.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a bid) straightforwardly reflecting one's holding of cards.",
+      "definitions_ex_en": "his bid of one heart was natural and positive",
+      "definitions_ex_vn": "Giá thầu của anh ta một trái tim là tự nhiên và tích cực",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a person regarded as having an innate gift or talent for a particular task or activity.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a sign (♮) denoting a natural note when a previous sign or the key signature would otherwise demand a sharp or a flat.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a creamy beige color.",
+      "definitions_ex_en": "color for the summer is defined by the trend towards naturals",
+      "definitions_ex_vn": "Màu sắc cho mùa hè được xác định bởi xu hướng đối với Naturals",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(in a gambling game) a combination or score that immediately wins.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an insect or other small creature used as bait, rather than an artificial imitation.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a person born with a learning disability.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "naturally.",
+      "definitions_ex_en": "keep walking—just act natural",
+      "definitions_ex_vn": "tiếp tục đi bộ chỉ hành động tự nhiên",
+      "definitions_type_word": "adverb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809327771_3fd08a285d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809327771_d8d6d997e5_o.png",
+      "id_image": "natural_2321460"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809682789_aa5315e40c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809682789_3b1e517f0a_o.png",
+      "id_image": "natural_3967285"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810064375_1b89293a59_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810064375_b21430568c_o.png",
+      "id_image": "natural_3967290"
+    }
+  ]
+}

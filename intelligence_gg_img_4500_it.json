@@ -1,0 +1,69 @@
+{
+  "english": "intelligence",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự khôn ngoan",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự lanh lợi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự lanh trí",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự minh mẩn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự sáng suốt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự thông minh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tin tức",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the ability to acquire and apply knowledge and skills.",
+      "definitions_ex_en": "an eminent man of great intelligence",
+      "definitions_ex_vn": "một người đàn ông nổi tiếng của trí thông minh tuyệt vời",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the collection of information of military or political value.",
+      "definitions_ex_en": "the chief of military intelligence",
+      "definitions_ex_vn": "Trưởng phòng Trí tuệ quân sự",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810080320_33648d9ce4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810080320_b6511a698c_o.png",
+      "id_image": "intelligence_1643818"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809698099_8dc22c5149_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809698099_0418c941c4_o.png",
+      "id_image": "intelligence_4135684"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809698064_dc171d2ca6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809698064_1f43b41074_o.png",
+      "id_image": "intelligence_4636220"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809698139_8d3e34e151_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809698139_c3117336d9_o.png",
+      "id_image": "intelligence_768375"
+    }
+  ]
+}

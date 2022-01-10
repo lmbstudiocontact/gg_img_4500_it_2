@@ -1,0 +1,37 @@
+{
+  "english": "monetary",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chỉ về tiền tệ",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "nói về tiền tệ",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thuộc về tiền tệ",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "relating to money or currency.",
+      "definitions_ex_en": "documents with little or no monetary value",
+      "definitions_ex_vn": "tài liệu có ít hoặc không có giá trị tiền tệ",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809337981_221ca0a1f9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809337981_a13bb49156_o.png",
+      "id_image": "monetary_2419639"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809337956_0057b6a272_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809337956_7e4971ce0b_o.png",
+      "id_image": "monetary_4496615"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "english": "incident",
+  "list_translation_mean": [
+    {
+      "translate_mean": "có thể xảy đến",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "có thể xảy ra",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "tới",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "bất ngờ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "một đoạn trong tiểu thuyết",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ngẩu nhiên",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "việc phụ đới",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "việc xảy ra thình lình",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tình cờ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an event or occurrence.",
+      "definitions_ex_en": "several amusing incidents",
+      "definitions_ex_vn": "một số sự cố gây nghiện",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "likely to happen because of; resulting from.",
+      "definitions_ex_en": "the changes incident to economic development",
+      "definitions_ex_vn": "sự kiện thay đổi đối với sự phát triển kinh tế",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(especially of light or other radiation) falling on or striking something.",
+      "definitions_ex_en": "when an ion beam is incident on a surface",
+      "definitions_ex_vn": "Khi một chùm ion là sự cố trên một bề mặt",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809674494_7fd7fc4e20_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809674494_8062abc14d_o.png",
+      "id_image": "incident_6159885"
+    }
+  ]
+}

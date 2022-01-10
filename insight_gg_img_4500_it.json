@@ -1,0 +1,52 @@
+{
+  "english": "insight",
+  "list_translation_mean": [
+    {
+      "translate_mean": "minh mẩn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sáng suốt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự sáng trí",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the capacity to gain an accurate and deep intuitive understanding of a person or thing.",
+      "definitions_ex_en": "this paper is alive with sympathetic insight into Shakespeare",
+      "definitions_ex_vn": "Bài viết này còn sống với cái nhìn sâu sắc về cảm thông vào Shakespeare",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809460068_43bf8c9d0a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809460068_3cfd431736_o.png",
+      "id_image": "insight_2620417"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808390227_4c2dfed400_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808390227_7e9a9ac383_o.png",
+      "id_image": "insight_295504"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808390167_c143b0cf6d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808390167_63ba469ee1_o.png",
+      "id_image": "insight_4031433"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810082660_02d0abec1c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810082660_a9aed491bc_o.png",
+      "id_image": "insight_4149681"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808390107_598da8d194_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808390107_8af1fa22f8_o.png",
+      "id_image": "insight_4149696"
+    }
+  ]
+}

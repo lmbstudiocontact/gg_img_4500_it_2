@@ -1,0 +1,42 @@
+{
+  "english": "inspector",
+  "list_translation_mean": [
+    {
+      "translate_mean": "viên thanh tra",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người kiểm duyệt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người kiểm xét",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người khám xét",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an official employed to ensure that official regulations are obeyed, especially in public services.",
+      "definitions_ex_en": "a prison inspector",
+      "definitions_ex_vn": "một thanh tra nhà tù",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a police officer ranking below a superintendent or police chief.",
+      "definitions_ex_en": "Inspector Simmons",
+      "definitions_ex_vn": "Thanh tra Simmons.",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809459473_b4753e336e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809459473_59e65b7d5b_o.png",
+      "id_image": "inspector_6036800"
+    }
+  ]
+}

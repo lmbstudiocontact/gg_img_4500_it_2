@@ -1,0 +1,62 @@
+{
+  "english": "legal",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chánh thức",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "hợp pháp",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "theo pháp luật",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thuộc về pháp luật",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "of, based on, or concerned with the law.",
+      "definitions_ex_en": "the American legal system",
+      "definitions_ex_vn": "Hệ thống pháp lý của Mỹ",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "permitted by law.",
+      "definitions_ex_en": "he claimed that it had all been legal",
+      "definitions_ex_vn": "Ông tuyên bố rằng tất cả đã hợp pháp",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809461453_299984fcd2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809461453_3b7196de57_o.png",
+      "id_image": "legal_2419622"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810084020_e726c509f3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810084020_2fa55dcd75_o.png",
+      "id_image": "legal_2861285"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809461378_9bd982e8e6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809461378_9a4008c1ac_o.png",
+      "id_image": "legal_4459244"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809461328_e453db5346_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809461328_45280bd98a_o.png",
+      "id_image": "legal_5300039"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809461288_bab2c0cd28_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809461288_4088f89295_o.png",
+      "id_image": "legal_6299625"
+    }
+  ]
+}

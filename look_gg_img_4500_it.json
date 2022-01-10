@@ -1,0 +1,108 @@
+{
+  "english": "look",
+  "list_translation_mean": [
+    {
+      "translate_mean": "xem",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "coi đây",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "có vẻ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nhìn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nhìn thẳng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thấy",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "giống như",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "bề ngoài",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dáng điệu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ngó",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự nhìn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vẻ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vẻ mặt tốt",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "direct one's gaze toward someone or something or in a specified direction.",
+      "definitions_ex_en": "people were looking at him",
+      "definitions_ex_vn": "mọi người đang nhìn anh ta",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "think of or regard in a specified way.",
+      "definitions_ex_en": "I look at tennis differently from some coaches",
+      "definitions_ex_vn": "Tôi nhìn vào quần vợt khác với một số huấn luyện viên",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "have the appearance or give the impression of being.",
+      "definitions_ex_en": "her father looked unhappy",
+      "definitions_ex_vn": "cha cô trông không vui",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "rely on to do or provide something.",
+      "definitions_ex_en": "she will look to you for help",
+      "definitions_ex_vn": "Cô ấy sẽ tìm đến bạn để được giúp đỡ",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "an act of directing one's gaze in order to see someone or something.",
+      "definitions_ex_en": "let me get a closer look",
+      "definitions_ex_vn": "Hãy để tôi nhìn kỹ hơn",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the appearance of someone or something, especially as expressing a particular quality.",
+      "definitions_ex_en": "the bedraggled look of the village",
+      "definitions_ex_vn": "cái nhìn lộng lẫy của làng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "used to call attention to what one is going to say.",
+      "definitions_ex_en": "“Look, this is ridiculous.”",
+      "definitions_ex_vn": "\"Hãy nhìn xem, đây là vô lý.\"",
+      "definitions_type_word": "exclamation"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810072845_0f2f540f3f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810072845_898a4a9d6a_o.png",
+      "id_image": "look_6401059"
+    }
+  ]
+}

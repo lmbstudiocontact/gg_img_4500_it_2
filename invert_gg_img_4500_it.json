@@ -1,0 +1,73 @@
+{
+  "english": "invert",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cửa nước",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "móng cửa cóng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đảo ngược",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm đảo lộn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm lộn thứ tự",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lộn ngược",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "put upside down or in the opposite position, order, or arrangement.",
+      "definitions_ex_en": "invert the mousse onto a serving plate",
+      "definitions_ex_vn": "Đảo ngược mousse vào một đĩa phục vụ",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "an arch constructed in an upside-down position to provide lateral support, e.g. in a tunnel.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a gay person.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a postage stamp printed with an error such that part of its design is upside down.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "short for invertebrate.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809339486_b0335ffff6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809339486_c91044fcfe_o.png",
+      "id_image": "invert_1042424"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809694664_b3c45cc5e4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809694664_af2268d7e8_o.png",
+      "id_image": "invert_5798175"
+    }
+  ]
+}

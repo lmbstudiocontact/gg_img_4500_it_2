@@ -1,0 +1,69 @@
+{
+  "english": "observation",
+  "list_translation_mean": [
+    {
+      "translate_mean": "điều quan sát",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lời phê bình",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dòm ngó",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự chú ý",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự để ý",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự dọ thám",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trinh sát",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the action or process of observing something or someone carefully or in order to gain information.",
+      "definitions_ex_en": "she was brought into the hospital for observation",
+      "definitions_ex_vn": "Cô được đưa vào bệnh viện để quan sát",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a remark, statement, or comment based on something one has seen, heard, or noticed.",
+      "definitions_ex_en": "he made a telling observation about Hugh",
+      "definitions_ex_vn": "Anh ấy đã nói về việc quan sát về Hugh",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810086740_74bcb0c447_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810086740_28b9fce660_o.png",
+      "id_image": "observation_2196220"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809496873_547d191e81_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809496873_ddb25d7817_o.png",
+      "id_image": "observation_401530"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808394317_00f96df406_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808394317_b9de95807f_o.png",
+      "id_image": "observation_5016565"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809704194_61b64bbb4f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809704194_2bcec64451_o.png",
+      "id_image": "observation_5756903"
+    }
+  ]
+}

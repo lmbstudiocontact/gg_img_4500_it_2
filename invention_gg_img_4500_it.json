@@ -1,0 +1,46 @@
+{
+  "english": "invention",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự bày ra",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự phát minh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự sáng chế",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vật phát minh",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the action of inventing something, typically a process or device.",
+      "definitions_ex_en": "the invention of printing in the 15th century",
+      "definitions_ex_vn": "phát minh in ấn vào thế kỷ 15",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809339831_3f54fdc5e4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809339831_4c403ce558_o.png",
+      "id_image": "invention_1330805"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809339771_6ed7369dff_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809339771_b42bd976d7_o.png",
+      "id_image": "invention_2612486"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810076960_2be920d1fa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810076960_c9da3935ae_o.png",
+      "id_image": "invention_6214067"
+    }
+  ]
+}

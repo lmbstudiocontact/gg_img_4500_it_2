@@ -1,0 +1,33 @@
+{
+  "english": "insolvency",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đang phá sản",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đang vở nợ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the state of being insolvent; inability to pay one's debts.",
+      "definitions_ex_en": "the club was facing insolvency",
+      "definitions_ex_vn": "Câu lạc bộ đang phải đối mặt với sự mất khả năng thanh toán",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809459838_eba50b16b4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809459838_5c3a00d08c_o.png",
+      "id_image": "insolvency_3490205"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810082505_2a83ba3781_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810082505_55cbf8ff04_o.png",
+      "id_image": "insolvency_6159226"
+    }
+  ]
+}

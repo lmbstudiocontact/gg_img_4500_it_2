@@ -1,0 +1,40 @@
+{
+  "english": "oval",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hình trái xoan",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "having a rounded and slightly elongated outline or shape like that of an egg.",
+      "definitions_ex_en": "her smooth oval face",
+      "definitions_ex_vn": "khuôn mặt hình bầu dục mịn của cô ấy",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a body, object, or design with an oval shape or outline.",
+      "definitions_ex_en": "cut out two small ovals from the felt",
+      "definitions_ex_vn": "cắt ra hai hình bầu dục nhỏ từ cảm giác",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809341081_f987cba255_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809341081_7daa793963_o.png",
+      "id_image": "oval_232989"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808386047_46132981e9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808386047_9b9c6992c2_o.png",
+      "id_image": "oval_5854051"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810078375_519a6fe341_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810078375_91e546a422_o.png",
+      "id_image": "oval_6080969"
+    }
+  ]
+}

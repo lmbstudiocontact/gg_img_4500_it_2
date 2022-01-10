@@ -1,0 +1,114 @@
+{
+  "english": "narrow",
+  "list_translation_mean": [
+    {
+      "translate_mean": "không thông minh",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "bị hạn chế",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "chật hẹp",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "tỉ mỉ",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "có giới hạn",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "hẹp",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "hẹp hòi",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "kỷ càng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "khít nhau",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "không rộng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "sự thắng chật vật",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "làm cho hẹp lại",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "(especially of something that is considerably longer or higher than it is wide) of small width.",
+      "definitions_ex_en": "he made his way down the narrow road",
+      "definitions_ex_vn": "Anh đi đường xuống con đường hẹp.",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "limited in extent, amount, or scope; restricted.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "denoting or relating to a contest that is won or lost by only a very small margin.",
+      "definitions_ex_en": "the home team just hung on for a narrow victory",
+      "definitions_ex_vn": "Đội chủ nhà chỉ treo trong một chiến thắng hẹp",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "denoting a vowel pronounced with the root of the tongue drawn back so as to narrow the pharynx.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "become or make less wide.",
+      "definitions_ex_en": "the road narrowed and crossed an old bridge",
+      "definitions_ex_vn": "Con đường bị thu hẹp và vượt qua một cây cầu cũ",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "become or make more limited or restricted in extent or scope.",
+      "definitions_ex_en": "their trade surplus narrowed to $70 million in January",
+      "definitions_ex_vn": "Thặng dư thương mại của họ đã thu hẹp lên 70 triệu đô la vào tháng 1",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a narrow channel connecting two larger areas of water.",
+      "definitions_ex_en": "a basaltic fang rising from the narrows of the Upper Missouri",
+      "definitions_ex_vn": "Một fang bazan dâng lên từ những người thu hẹp của Missouri trên",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683289_2bab706c76_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683289_f4784ae579_o.png",
+      "id_image": "narrow_1670272"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809443208_a9ae176e3b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809443208_7443fbc721_o.png",
+      "id_image": "narrow_4563856"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683329_2f85a8f9bc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683329_8a3efe5379_o.png",
+      "id_image": "narrow_567422"
+    }
+  ]
+}

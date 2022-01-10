@@ -1,0 +1,67 @@
+{
+  "english": "mesh",
+  "list_translation_mean": [
+    {
+      "translate_mean": "mắt lưới",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bắt cá bằng lưới",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cá sa vào lưới",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "răng bánh xe ăn khớp vào",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đan lưới",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lắp răng bánh xe",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "material made of a network of wire or thread.",
+      "definitions_ex_en": "mesh for fishing nets",
+      "definitions_ex_vn": "Lưới cho lưới đánh cá",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an interlaced structure.",
+      "definitions_ex_en": "cell fragments that agglutinate and form intricate meshes",
+      "definitions_ex_vn": "các mảnh tế bào kết tụ và tạo thành các mắt lưới phức tạp",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(of the teeth of a gearwheel) lock together or be engaged with another gearwheel.",
+      "definitions_ex_en": "one gear meshes with the input gear",
+      "definitions_ex_vn": "một bánh răng với thiết bị đầu vào",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "represent (a geometric object) as a set of finite elements for computational analysis or modeling.",
+      "definitions_ex_en": "choosing the icon allows you to automatically mesh your design",
+      "definitions_ex_vn": "Chọn biểu tượng cho phép bạn tự động lưới thiết kế của bạn",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808391087_8017b124f0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808391087_f98cf6b9ee_o.png",
+      "id_image": "mesh_5672433"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810083530_64ebc38d63_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810083530_530f384048_o.png",
+      "id_image": "mesh_5672436"
+    }
+  ]
+}

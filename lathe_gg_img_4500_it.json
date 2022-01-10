@@ -1,0 +1,38 @@
+{
+  "english": "lathe",
+  "list_translation_mean": [
+    {
+      "translate_mean": "khuôn tiện",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "máy tiện",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiện vật gì",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a machine for shaping wood, metal, or other material by means of a rotating drive which turns the piece being worked on against changeable cutting tools.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "shape with a lathe.",
+      "definitions_ex_en": "I have lathed metal in a machine shop",
+      "definitions_ex_vn": "Tôi đã có kim loại máy tiện trong một cửa hàng máy",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809674644_6189eb25b8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809674644_537aa2a68b_o.png",
+      "id_image": "lathe_2570332"
+    }
+  ]
+}

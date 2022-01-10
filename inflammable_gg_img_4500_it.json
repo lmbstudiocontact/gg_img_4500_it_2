@@ -1,0 +1,40 @@
+{
+  "english": "inflammable",
+  "list_translation_mean": [
+    {
+      "translate_mean": "dể bốc lửa",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "dể cháy",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "dể phẩn nộ",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "dể tức giận",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "nhạy lửa",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "easily set on fire.",
+      "definitions_ex_en": "inflammable and poisonous gases",
+      "definitions_ex_vn": "Khí đốt và độc hại",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808361247_d4e0842a60_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808361247_2be827f451_o.png",
+      "id_image": "inflammable_3779000"
+    }
+  ]
+}

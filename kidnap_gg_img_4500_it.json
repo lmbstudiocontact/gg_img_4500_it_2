@@ -1,0 +1,44 @@
+{
+  "english": "kidnap",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bắt cóc",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "bắt giử",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "take (someone) away illegally by force, typically to obtain a ransom.",
+      "definitions_ex_en": "militants kidnapped the daughter of a minister",
+      "definitions_ex_vn": "Các chiến binh bắt cóc con gái của một bộ trưởng",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "the action of kidnapping someone.",
+      "definitions_ex_en": "they were arrested for robbery and kidnap",
+      "definitions_ex_vn": "họ đã bị bắt vì cướp và bắt cóc",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809443083_c321544663_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809443083_0de1ee7d5c_o.png",
+      "id_image": "kidnapping_2495720"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683064_2f5aae9406_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683064_0a9219a463_o.png",
+      "id_image": "kidnapping_4321550"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809443003_54433f9a2b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809443003_3fa4398780_o.png",
+      "id_image": "kidnapping_6305831"
+    }
+  ]
+}

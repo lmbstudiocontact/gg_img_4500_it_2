@@ -1,0 +1,44 @@
+{
+  "english": "masher",
+  "list_translation_mean": [
+    {
+      "translate_mean": "máy cán",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "máy nghiền",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a utensil for mashing food.",
+      "definitions_ex_en": "a potato masher",
+      "definitions_ex_vn": "một máy múa khoai tây",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a dandy of late Victorian or Edwardian times.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808366572_cbb76040cf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808366572_d036b6c9a4_o.png",
+      "id_image": "masher_184487"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809436828_3e159d24d7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809436828_dc2a566d4f_o.png",
+      "id_image": "masher_447206"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809321616_13e4b6d485_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809321616_c5707469d4_o.png",
+      "id_image": "masher_447242"
+    }
+  ]
+}

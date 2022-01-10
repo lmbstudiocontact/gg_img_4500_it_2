@@ -1,0 +1,89 @@
+{
+  "english": "keeper",
+  "list_translation_mean": [
+    {
+      "translate_mean": "giám thị",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "kế toán viên",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khâu sắt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người bảo quản",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người chăn trừu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người giử",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người giử gôn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người quản lý",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người tuân theo pháp luật",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhẫn",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person who manages or looks after something or someone.",
+      "definitions_ex_en": "I'm your friend, not your keeper",
+      "definitions_ex_vn": "Tôi là bạn của bạn, không phải người bạn của bạn",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "short for goalkeeper or wicketkeeper.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a fish large enough to be kept when caught.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a food or drink that remains in a specified condition if stored.",
+      "definitions_ex_en": "hazelnuts are good keepers",
+      "definitions_ex_vn": "Hazelnuts là những người giữ tốt",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a play in which the quarterback runs with the ball instead of handing it off or passing it.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809444493_a275a23cd6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809444493_17a87e6a26_o.png",
+      "id_image": "keeper_1353833"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808374177_a6af9c100b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808374177_a9b3d23b2d_o.png",
+      "id_image": "keeper_1353834"
+    }
+  ]
+}

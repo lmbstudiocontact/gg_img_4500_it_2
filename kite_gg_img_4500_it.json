@@ -1,0 +1,80 @@
+{
+  "english": "kite",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chim ó",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "con diều",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giấy nợ giả",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "diều",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "diều hâu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người cho vay nặng lời",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người tham",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bay mất",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "bay như diều",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a toy consisting of a light frame with thin material stretched over it, flown in the wind at the end of a long string.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a medium to large long-winged bird of prey which typically has a forked tail and frequently soars on updrafts of air.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a fraudulent check, bill, or receipt.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a quadrilateral figure having two pairs of equal adjacent sides, symmetrical only about its diagonals.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "fly a kite.",
+      "definitions_ex_en": "while I kited, she would always watch out for me",
+      "definitions_ex_vn": "Trong khi tôi hát, cô ấy sẽ luôn coi chừng tôi",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809681394_26b4ce0fea_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809681394_032c2bde07_o.png",
+      "id_image": "kite_5333217"
+    }
+  ]
+}

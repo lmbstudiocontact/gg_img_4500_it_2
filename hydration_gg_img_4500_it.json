@@ -1,0 +1,29 @@
+{
+  "english": "hydration",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thủy hóa tác dụng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the process of causing something to absorb water.",
+      "definitions_ex_en": "the human body requires adequate hydration to function properly",
+      "definitions_ex_vn": "Cơ thể con người đòi hỏi sự hydrat hóa đầy đủ để hoạt động đúng",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809440953_219f31caaa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809440953_5bd0522546_o.png",
+      "id_image": "hydration_2721093"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808370737_f358b77085_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808370737_1e140543b9_o.png",
+      "id_image": "hydration_5578321"
+    }
+  ]
+}

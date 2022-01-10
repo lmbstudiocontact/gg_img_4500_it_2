@@ -1,0 +1,54 @@
+{
+  "english": "overtake",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bắt kịp",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đuổi kịp",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "qua mặt địch thủ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tai nạn xảy đến",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "theo kịp",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "vượt qua",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "(especially of misfortune) come suddenly or unexpectedly upon.",
+      "definitions_ex_en": "the pattern of economic ruin overtook them",
+      "definitions_ex_vn": "mô hình hủy hoại kinh tế đã vượt qua chúng",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809695189_29a562af10_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809695189_42b6fec36c_o.png",
+      "id_image": "overtake_2481696"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810077180_7fc6fc1362_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810077180_419b53309b_o.png",
+      "id_image": "overtake_4351759"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808384787_c33a217d21_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808384787_265a66ccf8_o.png",
+      "id_image": "overtake_4796161"
+    }
+  ]
+}

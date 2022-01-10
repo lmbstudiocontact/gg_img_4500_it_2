@@ -1,0 +1,38 @@
+{
+  "english": "negotiation",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự đổi chác",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự giao dịch",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "discussion aimed at reaching an agreement.",
+      "definitions_ex_en": "a worldwide ban is currently under negotiation",
+      "definitions_ex_vn": "Một lệnh cấm trên toàn thế giới hiện đang được đàm phán",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325181_205c8b2244_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325181_962c2849c0_o.png",
+      "id_image": "negotiation_1493600"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325156_94843cf330_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325156_0f07c6f640_o.png",
+      "id_image": "negotiation_1589627"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325111_1eb00a825b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325111_fd2659472d_o.png",
+      "id_image": "negotiation_1610385"
+    }
+  ]
+}

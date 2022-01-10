@@ -1,0 +1,29 @@
+{
+  "english": "incomprehension",
+  "list_translation_mean": [
+    {
+      "translate_mean": "khó hiểu",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "failure to understand something.",
+      "definitions_ex_en": "they gave him a look of complete incomprehension",
+      "definitions_ex_vn": "Họ đã cho anh ta một cái nhìn hoàn toàn khó hiểu",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810055345_4b2dc23686_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810055345_f491000b31_o.png",
+      "id_image": "incomprehension_4295924"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810055370_e4fb1c8d62_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810055370_2ddb1b1392_o.png",
+      "id_image": "incomprehension_708684"
+    }
+  ]
+}

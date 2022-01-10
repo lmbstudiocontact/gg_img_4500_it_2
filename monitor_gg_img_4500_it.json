@@ -1,0 +1,76 @@
+{
+  "english": "monitor",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chiến hạm nhỏ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giống kỳ đà lớn ở phi châu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "máy thâu thanh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "máy truyền thanh",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an instrument or device used for observing, checking, or keeping a continuous record of a process or quantity.",
+      "definitions_ex_en": "a heart monitor",
+      "definitions_ex_vn": "một màn hình trái tim",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a television receiver used in a studio to select or verify the picture being broadcast from a particular camera.",
+      "definitions_ex_en": "the playback can be displayed on an external television screen or monitor",
+      "definitions_ex_vn": "Phát lại có thể được hiển thị trên màn hình hoặc màn hình truyền hình bên ngoài",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a student with disciplinary or other special duties during school hours.",
+      "definitions_ex_en": "show the hall monitor your pass",
+      "definitions_ex_vn": "Hiển thị màn hình Hall Pass của bạn",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a large tropical Old World lizard with a long neck, narrow head, forked tongue, strong claws, and a short body. Monitors were formerly believed to give warning of crocodiles.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a shallow-draft armored warship mounting one or two heavy guns for bombardment.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "observe and check the progress or quality of (something) over a period of time; keep under systematic review.",
+      "definitions_ex_en": "equipment was installed to monitor air quality",
+      "definitions_ex_vn": "Thiết bị đã được cài đặt để theo dõi chất lượng không khí",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808382752_08daf6d720_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808382752_55ea8a91f9_o.png",
+      "id_image": "monitor_194345"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809337711_4832f6e418_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809337711_ea2daa1e38_o.png",
+      "id_image": "monitor_194353"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809337681_737a11b5f3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809337681_ec0e8cd142_o.png",
+      "id_image": "monitor_294630"
+    }
+  ]
+}

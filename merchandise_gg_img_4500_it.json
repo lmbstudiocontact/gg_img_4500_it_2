@@ -1,0 +1,40 @@
+{
+  "english": "merchandise",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hàng hóa",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "goods to be bought and sold.",
+      "definitions_ex_en": "stores that offered an astonishing range of merchandise",
+      "definitions_ex_vn": "cửa hàng cung cấp một loạt hàng hóa đáng kinh ngạc",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "promote the sale of (goods), especially by their presentation in retail outlets.",
+      "definitions_ex_en": "a new breakfast food can easily be merchandised",
+      "definitions_ex_vn": "Một bữa ăn sáng mới có thể dễ dàng được bán hàng",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810084040_d46d21428a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810084040_a3d742cc99_o.png",
+      "id_image": "merchandise_1437217"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808391532_bf1e77b66f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808391532_af8d535e07_o.png",
+      "id_image": "merchandise_4047585"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809346566_ccaf7ef479_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809346566_50fabcab8b_o.png",
+      "id_image": "merchandise_5671736"
+    }
+  ]
+}

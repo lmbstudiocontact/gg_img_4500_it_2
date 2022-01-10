@@ -1,0 +1,29 @@
+{
+  "english": "methodology",
+  "list_translation_mean": [
+    {
+      "translate_mean": "phương pháp học",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a system of methods used in a particular area of study or activity.",
+      "definitions_ex_en": "a methodology for investigating the concept of focal points",
+      "definitions_ex_vn": "một phương pháp để điều tra khái niệm đầu mối",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809459773_8a3bf8b894_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809459773_2d371e1c23_o.png",
+      "id_image": "methodology_4234457"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809700054_dc01f67668_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809700054_0324a2084b_o.png",
+      "id_image": "methodology_6289195"
+    }
+  ]
+}

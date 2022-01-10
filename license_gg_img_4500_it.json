@@ -1,0 +1,89 @@
+{
+  "english": "license",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bằng cử nhân",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bằng lái xe",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giấy phép",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giấy phép hành nghề",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "môn bài",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự cho phép",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cấp bằng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cấp bằng lái",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cấp giấy",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cấp giấy giá thú",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cấp giấy hành nghề",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cấp môn bài",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a permit from an authority to own or use something, do a particular thing, or carry on a trade (especially in alcoholic beverages).",
+      "definitions_ex_en": "a gun license",
+      "definitions_ex_vn": "Giấy phép súng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "grant a license to (someone or something) to permit the use of something or to allow an activity to take place.",
+      "definitions_ex_en": "brokers must be licensed to sell health-related insurance",
+      "definitions_ex_vn": "Các nhà môi giới phải được cấp phép để bán bảo hiểm liên quan đến sức khỏe",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809698659_7a3e6e2882_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809698659_18ab39b1f3_o.png",
+      "id_image": "license_2481949"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809343456_919eec864e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809343456_e1b290c31d_o.png",
+      "id_image": "license_5902688"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808388382_c1f92456ab_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808388382_812735530c_o.png",
+      "id_image": "license_6082521"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809698684_4b688035a5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809698684_d269cf2738_o.png",
+      "id_image": "license_950573"
+    }
+  ]
+}

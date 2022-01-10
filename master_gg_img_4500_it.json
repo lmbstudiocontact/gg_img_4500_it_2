@@ -1,0 +1,143 @@
+{
+  "english": "master",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chủ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chủ nhân",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giáo sư",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tàu có ba bốn cột buồm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thầy dạy học",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chủ tàu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thầy giáo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thuyền trưởng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "áp chế",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cai quản",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đè nén",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nén giận",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chế ngự",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a man who has people working for him, especially servants or slaves.",
+      "definitions_ex_en": "he acceded to his master's wishes",
+      "definitions_ex_vn": "Ông đã gia nhập mong muốn của chủ nhân của mình",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a man in charge of an organization or group.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a skilled practitioner of a particular art or activity.",
+      "definitions_ex_en": "I'm a master of disguise",
+      "definitions_ex_vn": "Tôi là một bậc thầy ngụy trang",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a person who holds a second or further degree from a university or other academic institution (only in titles and set expressions).",
+      "definitions_ex_en": "a master's degree",
+      "definitions_ex_vn": "bằng thạc sĩ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "used as a title prefixed to the name of a boy not old enough to be called “Mr.”.",
+      "definitions_ex_en": "Master James Williams",
+      "definitions_ex_vn": "Master James Williams.",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an original movie, recording, or document from which copies can be made.",
+      "definitions_ex_en": "the master tape",
+      "definitions_ex_vn": "băng chủ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a ship or boat with a specified number of masts.",
+      "definitions_ex_en": "a three-master",
+      "definitions_ex_vn": "một ba bậc thầy",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "having or showing very great skill or proficiency.",
+      "definitions_ex_en": "a heart-warming story from a master storyteller",
+      "definitions_ex_vn": "một câu chuyện ấm áp từ một người kể chuyện chủ",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "main; principal.",
+      "definitions_ex_en": "the apartment's master bathroom has a free-standing oval bathtub",
+      "definitions_ex_vn": "Phòng tắm chủ của căn hộ có bồn tắm hình bầu dục miễn phí",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "acquire complete knowledge or skill in (an accomplishment, technique, or art).",
+      "definitions_ex_en": "I never mastered Latin",
+      "definitions_ex_vn": "Tôi chưa bao giờ thành thạo tiếng Latin",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "gain control of; overcome.",
+      "definitions_ex_en": "I managed to master my fears",
+      "definitions_ex_vn": "Tôi quản lý để làm chủ nỗi sợ hãi của tôi",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "make a master copy of (a movie or record).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809436163_f801a50c85_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809436163_e3f95be9ae_o.png",
+      "id_image": "master_1866061"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365832_2e194ef0c8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365832_c6996af055_o.png",
+      "id_image": "master_2621768"
+    }
+  ]
+}

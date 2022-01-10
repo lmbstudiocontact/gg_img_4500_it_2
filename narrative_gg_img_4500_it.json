@@ -1,0 +1,34 @@
+{
+  "english": "narrative",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bài ký thuật",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chuyện thuật lại",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a spoken or written account of connected events; a story.",
+      "definitions_ex_en": "the hero of his modest narrative",
+      "definitions_ex_vn": "Người anh hùng của câu chuyện khiêm tốn của mình",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "in the form of or concerned with narration.",
+      "definitions_ex_en": "a narrative poem",
+      "definitions_ex_vn": "một bài thơ kể chuyện",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328236_48657e9d37_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328236_18c6b7421e_o.png",
+      "id_image": "narrative_6430531"
+    }
+  ]
+}

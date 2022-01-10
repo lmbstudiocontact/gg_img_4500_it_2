@@ -1,0 +1,53 @@
+{
+  "english": "oral",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bằng lời nói",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "miệng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "nói miệng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thuộc về miệng",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "by word of mouth; spoken rather than written.",
+      "definitions_ex_en": "they had reached an oral agreement",
+      "definitions_ex_vn": "họ đã đạt được một thỏa thuận bằng miệng",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "relating to the mouth.",
+      "definitions_ex_en": "oral hygiene",
+      "definitions_ex_vn": "ve sinh rang mieng",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a spoken examination or test.",
+      "definitions_ex_en": "a French oral",
+      "definitions_ex_vn": "một tiếng Pháp",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809459463_213d52a4e6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809459463_5e19310583_o.png",
+      "id_image": "oral_1488179"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808389552_0d3122cd42_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808389552_ffcc76724f_o.png",
+      "id_image": "oral_2037310"
+    }
+  ]
+}

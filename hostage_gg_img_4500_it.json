@@ -1,0 +1,38 @@
+{
+  "english": "hostage",
+  "list_translation_mean": [
+    {
+      "translate_mean": "con tin",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đồ cầm",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person seized or held as security for the fulfillment of a condition.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809330501_5afdb8eebf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809330501_e2342b0e23_o.png",
+      "id_image": "hostage_2302416"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375207_5465728cc1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375207_49c013ea78_o.png",
+      "id_image": "hostage_3604881"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067290_bbeedf4e06_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067290_b7ea43eea8_o.png",
+      "id_image": "hostage_4321593"
+    }
+  ]
+}

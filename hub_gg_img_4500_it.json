@@ -1,0 +1,61 @@
+{
+  "english": "hub",
+  "list_translation_mean": [
+    {
+      "translate_mean": "công việc ngập đầu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đùm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lút đầu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trục bánh xe",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trung tâm hoạt động",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the central part of a wheel, rotating on or with the axle, and from which the spokes radiate.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the effective center of an activity, region, or network.",
+      "definitions_ex_en": "the city has always been the financial hub of the country",
+      "definitions_ex_vn": "Thành phố luôn là trung tâm tài chính của đất nước",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808373267_ea1014d9c0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808373267_4bbaea570c_o.png",
+      "id_image": "hub_1266094"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328636_55b83fb07e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328636_1328e3c15a_o.png",
+      "id_image": "hub_637971"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808373367_cc1de1ceec_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808373367_dfeeb13c9d_o.png",
+      "id_image": "hub_637972"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810065390_e1cbe93ba4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810065390_9b8dcfd49f_o.png",
+      "id_image": "hub_754073"
+    }
+  ]
+}

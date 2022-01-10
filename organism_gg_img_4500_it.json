@@ -1,0 +1,34 @@
+{
+  "english": "organism",
+  "list_translation_mean": [
+    {
+      "translate_mean": "khí quan thương hại thuyết",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an individual animal, plant, or single-celled life form.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810081085_090ba6cd80_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810081085_8af7da7884_o.png",
+      "id_image": "organism_1408105"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808388592_b3472c6209_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808388592_e52499a246_o.png",
+      "id_image": "organism_2721075"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809343616_8f5b33f872_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809343616_ffc4c59b57_o.png",
+      "id_image": "organism_4178750"
+    }
+  ]
+}

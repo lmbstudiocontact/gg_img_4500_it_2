@@ -1,0 +1,78 @@
+{
+  "english": "identity",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự biết ra",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự nhận ra",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự tìm thấy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tình trạng giống nhau",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tình trạng như nhau",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the fact of being who or what a person or thing is.",
+      "definitions_ex_en": "he knows the identity of the bombers",
+      "definitions_ex_vn": "anh ấy biết danh tính của những kẻ đánh bom",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a close similarity or affinity.",
+      "definitions_ex_en": "the initiative created an identity between the city and the suburbs",
+      "definitions_ex_vn": "Sáng kiến đã tạo ra một danh tính giữa thành phố và vùng ngoại ô",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a transformation that leaves an object unchanged.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the equality of two expressions for all values of the quantities expressed by letters, or an equation expressing this, e.g. ( x + 1)2 = x 2 + 2 x + 1.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808369002_02c5d68382_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808369002_d18b9ec4b6_o.png",
+      "id_image": "identity_3062349"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809679259_37cb5d1e5e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809679259_f55ee42c0c_o.png",
+      "id_image": "identity_3067956"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809439088_a7a459a523_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809439088_b9e6efec19_o.png",
+      "id_image": "identity_4807661"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809323986_a8e577be3b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809323986_92bff0e474_o.png",
+      "id_image": "identity_5760078"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809439013_df6cdc049d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809439013_e913a1cc62_o.png",
+      "id_image": "identity_6000961"
+    }
+  ]
+}

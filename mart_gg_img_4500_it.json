@@ -1,0 +1,37 @@
+{
+  "english": "mart",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chỗ nhóm chợ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thị trường",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trung tâm thương mãi",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a trade center or market.",
+      "definitions_ex_en": "Atlanta's downtown apparel marts",
+      "definitions_ex_vn": "Martel Martel của Atlanta",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809677014_b42a46cc69_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809677014_6b961648d6_o.png",
+      "id_image": "mart_1915316"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809437068_4bce3323e5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809437068_888fee56e2_o.png",
+      "id_image": "mart_6040953"
+    }
+  ]
+}

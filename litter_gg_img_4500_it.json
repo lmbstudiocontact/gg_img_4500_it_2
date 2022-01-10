@@ -1,0 +1,114 @@
+{
+  "english": "litter",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cái giá khiêng người bịnh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "kiệu để khiêng người",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "một đống lộn xộn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ổ rơm cho súc vật",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phân bón",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "rác rến",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vật dơ bẩn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vật hổn lộn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bọc rơm cho cây",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "không có thứ tự",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm lộn xộn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm ổ rơm cho súc vật",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "trash, such as paper, cans, and bottles, that is left lying in an open or public place.",
+      "definitions_ex_en": "fines for dropping litter",
+      "definitions_ex_vn": "Tiền phạt để thả rác",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the group of young animals born to an animal at one time.",
+      "definitions_ex_en": "a litter of five kittens",
+      "definitions_ex_vn": "một lứa của năm chú mèo con",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "absorbent material, typically in granular form, used to line a shallow receptacle in which a cat can urinate and defecate when indoors.",
+      "definitions_ex_en": "a plastic litter tray",
+      "definitions_ex_vn": "một khay rác nhựa",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "straw or other plant matter used as bedding for animals.",
+      "definitions_ex_en": "the plant burns discarded litter from poultry farms",
+      "definitions_ex_vn": "Cây đốt rác vứt rác từ trang trại gia cầm",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a vehicle containing a bed or seat enclosed by curtains and carried on men's shoulders or by animals.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "make (a place) untidy with rubbish or a large number of objects left lying about.",
+      "definitions_ex_en": "clothes and newspapers littered the floor",
+      "definitions_ex_vn": "Quần áo và báo lứa sàn",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "provide (a horse or other animal) with litter as bedding.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808384437_55e30ea30f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808384437_d4f64074ae_o.png",
+      "id_image": "litter_1435377"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809694714_5015d1d762_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809694714_245d911525_o.png",
+      "id_image": "litter_2372036"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809339456_67cd1d0d71_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809339456_00d553d4f0_o.png",
+      "id_image": "litter_5793689"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "english": "overnight",
+  "list_translation_mean": [
+    {
+      "translate_mean": "qua đêm",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "for the duration of a night.",
+      "definitions_ex_en": "they refused to stay overnight",
+      "definitions_ex_vn": "Họ từ chối ở lại qua đêm",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "for use overnight.",
+      "definitions_ex_en": "an overnight bag",
+      "definitions_ex_vn": "một túi qua đêm.",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "stay for the night in a particular place.",
+      "definitions_ex_en": "I overnighted at the Beverly Wilshire",
+      "definitions_ex_vn": "Tôi qua đêm tại The Beverly Wilshire",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a stop or stay lasting one night.",
+      "definitions_ex_en": "overnights can be arranged in Kathmandu",
+      "definitions_ex_vn": "qua đêm có thể được sắp xếp ở Kathmandu",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808385052_6eddbe2dab_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808385052_c967e3637c_o.png",
+      "id_image": "overnight_5966266"
+    }
+  ]
+}

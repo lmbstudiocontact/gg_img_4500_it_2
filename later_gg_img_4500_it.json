@@ -1,0 +1,50 @@
+{
+  "english": "later",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sau",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "sau đó",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "sau khi",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "comparative of late (adjective).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "comparative of late (adverb).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "goodbye for the present; see you later.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "exclamation"
+    },
+    {
+      "definitions_word_en": "denoting a person who worships a specified thing.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "combining form"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808364467_2fdf74468d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808364467_3ec2b758bc_o.png",
+      "id_image": "later_2166006"
+    }
+  ]
+}

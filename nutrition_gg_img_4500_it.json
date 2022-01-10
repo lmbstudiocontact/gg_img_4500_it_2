@@ -1,0 +1,42 @@
+{
+  "english": "nutrition",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đồ ăn bổ dưỡng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đồ ăn dinh dưỡng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự dinh dưỡng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the process of providing or obtaining the food necessary for health and growth.",
+      "definitions_ex_en": "a guide to good nutrition",
+      "definitions_ex_vn": "Hướng dẫn về dinh dưỡng tốt",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809674329_7d581e6c81_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809674329_cf91cfc1e2_o.png",
+      "id_image": "nutrition_2317045"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808364112_ef9156604a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808364112_02dd333495_o.png",
+      "id_image": "nutrition_6258941"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808364142_2b813878c1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808364142_0c319083b3_o.png",
+      "id_image": "nutrition_757012"
+    }
+  ]
+}

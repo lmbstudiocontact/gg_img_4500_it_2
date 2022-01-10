@@ -1,0 +1,76 @@
+{
+  "english": "kennel",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chuồng chó",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hang chồn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "rảnh ở bên đường",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sở nuôi chó",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lũ chó săn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhà bẩn thỉu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhà tồi tàn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ở trong chuồng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trốn trong hang",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "xua chó vào chuồng",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a small shelter for a dog or cat.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "put (a dog or cat) in a kennel.",
+      "definitions_ex_en": "the dogs have been kenneled",
+      "definitions_ex_vn": "Những con chó đã bị kenneled",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809329476_e2711692ca_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809329476_f792b08ac5_o.png",
+      "id_image": "kennel_185424"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809329431_42d224564f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809329431_cc9b425c1b_o.png",
+      "id_image": "kennel_185425"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810066165_76f05de727_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810066165_13db07476d_o.png",
+      "id_image": "kennel_3436279"
+    }
+  ]
+}

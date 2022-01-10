@@ -1,0 +1,48 @@
+{
+  "english": "jockey",
+  "list_translation_mean": [
+    {
+      "translate_mean": "nài ngựa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người cưỡi ngựa đua",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dô kề",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person who rides in horse races, especially as a profession.",
+      "definitions_ex_en": "a former champion jockey",
+      "definitions_ex_vn": "Một cựu đua ngựa vô địch",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "struggle by every available means to gain or achieve something.",
+      "definitions_ex_en": "both men will be jockeying for the two top jobs",
+      "definitions_ex_vn": "Cả hai người đàn ông sẽ bị khiêu vũ cho hai công việc hàng đầu",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809448408_a2c311f0aa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809448408_2e7e61b151_o.png",
+      "id_image": "jockey_1192998"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688279_fa02e6cbf4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688279_63183b1704_o.png",
+      "id_image": "jockey_2112181"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688374_98513e817f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688374_0815887e61_o.png",
+      "id_image": "jockey_406199"
+    }
+  ]
+}

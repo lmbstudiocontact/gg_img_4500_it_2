@@ -1,0 +1,41 @@
+{
+  "english": "norm",
+  "list_translation_mean": [
+    {
+      "translate_mean": "qui tắc",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "something that is usual, typical, or standard.",
+      "definitions_ex_en": "this system has been the norm in Germany for decades",
+      "definitions_ex_vn": "Hệ thống này là tiêu chuẩn ở Đức trong nhiều thập kỷ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the product of a complex number and its conjugate, equal to the sum of the squares of its real and imaginary components, or the positive square root of this sum.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "normal.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "abbreviation"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810058250_df6e66a74b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810058250_638682b7b0_o.png",
+      "id_image": "norm_2191175"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808366377_4029d42f67_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808366377_874e00ba4f_o.png",
+      "id_image": "norm_3053764"
+    }
+  ]
+}

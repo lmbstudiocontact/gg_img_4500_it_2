@@ -1,0 +1,100 @@
+{
+  "english": "jig",
+  "list_translation_mean": [
+    {
+      "translate_mean": "điệu nhảy jig",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đồ gá lắp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "máy sàng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhạc cho điệu nhảy jig",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sàng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khuôn dẫn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "làm cho nhảy tung tăng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nhảy điệu jig",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nhảy tung tăng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tung lên tung xuống nhanh",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a lively dance with leaping movements.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a device that holds a piece of work and guides the tools operating on it.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a type of artificial bait that is jerked up and down through the water.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "dance a jig.",
+      "definitions_ex_en": "he stood up and jigged in the cockpit",
+      "definitions_ex_vn": "Anh đứng dậy và nhảy trong buồng lái",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "equip (a factory or workshop) with a jig or jigs.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "fish with a jig.",
+      "definitions_ex_en": "a man jigged for squid",
+      "definitions_ex_vn": "Một người đàn ông jigged cho mực",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809689159_974bfefc92_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809689159_80f9024371_o.png",
+      "id_image": "jig_1185359"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810071070_9f76c4003b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810071070_c7f502deb3_o.png",
+      "id_image": "jig_2472899"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809689114_426ff77258_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809689114_ebb93a75fd_o.png",
+      "id_image": "jig_2534961"
+    }
+  ]
+}

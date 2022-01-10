@@ -1,0 +1,62 @@
+{
+  "english": "magic",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ảo thuật",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ma thuật",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "pháp thuật",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "yêu pháp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "yêu thuật",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the power of apparently influencing the course of events by using mysterious or supernatural forces.",
+      "definitions_ex_en": "suddenly, as if by magic, the doors start to open",
+      "definitions_ex_vn": "Đột nhiên, như thể bằng phép thuật, cánh cửa bắt đầu mở",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "used in magic or working by magic; having or apparently having supernatural powers.",
+      "definitions_ex_en": "a magic wand",
+      "definitions_ex_vn": "Một cây đũa thần",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "move, change, or create by or as if by magic.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808374857_d115a634f5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808374857_73d0dbf5c7_o.png",
+      "id_image": "magic_391256"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809685134_05060da241_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809685134_e6665f5606_o.png",
+      "id_image": "magic_4133506"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808374822_8f2610358e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808374822_6543fe0229_o.png",
+      "id_image": "magic_648801"
+    }
+  ]
+}

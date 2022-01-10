@@ -1,0 +1,68 @@
+{
+  "english": "member",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chân tay",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bộ phận sườn nhà",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chi thể",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cơ quan cái máy",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person, animal, or plant belonging to a particular group.",
+      "definitions_ex_en": "interest from members of the public",
+      "definitions_ex_vn": "quan tâm từ các thành viên của công chúng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a constituent piece of a complex structure.",
+      "definitions_ex_en": "the main member that joins the front and rear axles",
+      "definitions_ex_vn": "Thành viên chính tham gia các trục trước và sau",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a part or organ of the body, especially a limb.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810085200_81fe60e3d5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810085200_6405b5913f_o.png",
+      "id_image": "member_1350113"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810085175_22f7cd4419_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810085175_6b84a8e9d0_o.png",
+      "id_image": "member_2417817"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809702544_db630218d6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809702544_c94862efaa_o.png",
+      "id_image": "member_3317723"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810085145_283eb70144_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810085145_dceb323512_o.png",
+      "id_image": "member_5301464"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808392707_322419a02e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808392707_21de171957_o.png",
+      "id_image": "member_5541869"
+    }
+  ]
+}

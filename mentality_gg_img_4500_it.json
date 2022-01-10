@@ -1,0 +1,36 @@
+{
+  "english": "mentality",
+  "list_translation_mean": [
+    {
+      "translate_mean": "tâm tánh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tâm trạng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tính tình",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trạng huống tinh thần",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the capacity for intelligent thought.",
+      "definitions_ex_en": "machines can possess mentality",
+      "definitions_ex_vn": "Máy có thể sở hữu tâm lý",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809701814_2cf45b2951_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809701814_05c13fa004_o.png",
+      "id_image": "mentality_3588609"
+    }
+  ]
+}

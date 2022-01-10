@@ -1,0 +1,78 @@
+{
+  "english": "industrial",
+  "list_translation_mean": [
+    {
+      "translate_mean": "công nghiệp",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thuộc về kỷ nghệ",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thực nghiệp",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "kỷ nghệ gia",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "xưởng kỷ nghệ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "relating to or characterized by industry.",
+      "definitions_ex_en": "a small industrial town",
+      "definitions_ex_vn": "một thị trấn nhỏ công nghiệp",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "very great in extent or amount.",
+      "definitions_ex_en": "we are seeing tax avoidance on an industrial scale",
+      "definitions_ex_vn": "Chúng tôi đang thấy việc tránh thuế trên quy mô công nghiệp",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "relating to or denoting a type of harsh, uncompromising rock music incorporating sounds resembling those produced by industrial machinery.",
+      "definitions_ex_en": "noisy, industrial dance music",
+      "definitions_ex_vn": "ồn ào, nhạc khiêu vũ công nghiệp",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "shares in industrial companies.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809317546_6dde7bdfc4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809317546_a792c49315_o.png",
+      "id_image": "industrial_2809949"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808361952_e80a054868_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808361952_903c80833a_o.png",
+      "id_image": "industrial_327409"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810054015_b1d8618eb9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810054015_02692efc4c_o.png",
+      "id_image": "industrial_4795477"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809672244_b53d52f42a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809672244_690d344121_o.png",
+      "id_image": "industrial_4829817"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809317601_b571a69d6c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809317601_66f60ac415_o.png",
+      "id_image": "industrial_997712"
+    }
+  ]
+}

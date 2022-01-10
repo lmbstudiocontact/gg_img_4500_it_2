@@ -1,0 +1,46 @@
+{
+  "english": "manager",
+  "list_translation_mean": [
+    {
+      "translate_mean": "giám đốc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người điều hành công việc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người quản lý",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người trông nom",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person responsible for controlling or administering all or part of a company or similar organization.",
+      "definitions_ex_en": "the manager of a bar",
+      "definitions_ex_vn": "Người quản lý của một quán bar",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808371332_bd02d17760_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808371332_df2a2a0ab7_o.png",
+      "id_image": "manager_1060322"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810063480_a426012240_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810063480_1718696589_o.png",
+      "id_image": "manager_2503732"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809441633_a1e2b76d89_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809441633_74c423a834_o.png",
+      "id_image": "manager_307927"
+    }
+  ]
+}

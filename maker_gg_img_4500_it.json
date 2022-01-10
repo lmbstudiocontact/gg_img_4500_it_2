@@ -1,0 +1,46 @@
+{
+  "english": "maker",
+  "list_translation_mean": [
+    {
+      "translate_mean": "người chế tạo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người làm vật gì",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người tô điểm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tác giả một cuốn sách",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tạo hóa",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person or thing that makes or produces something.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "God; the Creator.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810064935_45ec027f97_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810064935_fb73eb1c91_o.png",
+      "id_image": "maker_123321"
+    }
+  ]
+}

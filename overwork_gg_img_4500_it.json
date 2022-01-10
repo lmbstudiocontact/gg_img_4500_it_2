@@ -1,0 +1,70 @@
+{
+  "english": "overwork",
+  "list_translation_mean": [
+    {
+      "translate_mean": "công việc làm thêm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự làm việc quá độ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự làm việc thêm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bắt làm việc quá độ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "bắt làm việc quá nhiều",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "công việc nhiều quá",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm việc quá mệt",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "cause (someone) to work beyond their capacity or strength.",
+      "definitions_ex_en": "employers should be aware that overworking their employees comes at a cost",
+      "definitions_ex_vn": "Người sử dụng lao động nên biết rằng việc làm việc quá sức cho nhân viên của họ đi kèm với một chi phí",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "make excessive use of.",
+      "definitions_ex_en": "we aren't building new refineries so we have overworked our old ones",
+      "definitions_ex_vn": "Chúng tôi không xây dựng các nhà máy lọc dầu mới nên chúng tôi đã làm việc quá sức bởi những người cũ của chúng ta",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "excessive work.",
+      "definitions_ex_en": "his health broke down under the strain of overwork",
+      "definitions_ex_vn": "sức khỏe của anh ta bị phá vỡ dưới sự căng thẳng của việc làm việc quá sức",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809339551_185eb5bcf8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809339551_4bc78d157b_o.png",
+      "id_image": "overwork_4593086"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809339501_d9882c551f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809339501_2ec6d5f0af_o.png",
+      "id_image": "overwork_5260097"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809454398_7bf7d01903_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809454398_e7c27c06dc_o.png",
+      "id_image": "overwork_5704966"
+    }
+  ]
+}

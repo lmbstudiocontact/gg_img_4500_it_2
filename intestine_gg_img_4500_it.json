@@ -1,0 +1,32 @@
+{
+  "english": "intestine",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ở trong",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "nội bộ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ruột",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "(in vertebrates) the lower part of the alimentary canal from the end of the stomach to the anus.",
+      "definitions_ex_en": "the contents of the intestine",
+      "definitions_ex_vn": "nội dung của ruột",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808385417_e119b10ccb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808385417_ed0c8c9b50_o.png",
+      "id_image": "intestine_1373934"
+    }
+  ]
+}

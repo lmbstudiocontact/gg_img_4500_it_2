@@ -1,0 +1,85 @@
+{
+  "english": "motion",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cử động",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dáng đi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đổi chổ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dời chổ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự cử động",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự đi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự di động",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vận động",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the action or process of moving or being moved.",
+      "definitions_ex_en": "the laws of planetary motion",
+      "definitions_ex_vn": "luật chuyển động hành tinh",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a formal proposal put to a legislature or committee.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "direct or command (someone) with a movement of the hand or head.",
+      "definitions_ex_en": "he motioned Dennis to a plush chair",
+      "definitions_ex_vn": "Anh ra hiệu Dennis với một chiếc ghế sang trọng",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "propose for discussion and resolution at a meeting or legislative assembly.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808380362_1da6272db0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808380362_d64b3b22b3_o.png",
+      "id_image": "motion_1533958"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808380312_c087d80505_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808380312_2cd8619479_o.png",
+      "id_image": "motion_4542659"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810072150_53e9d4c5f8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810072150_02be5bc703_o.png",
+      "id_image": "motion_5775777"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810072130_6b8f5513da_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810072130_f6fd8666fb_o.png",
+      "id_image": "motion_5775923"
+    }
+  ]
+}

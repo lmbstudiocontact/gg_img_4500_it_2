@@ -1,0 +1,92 @@
+{
+  "english": "meet",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thích đáng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thích hợp",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "cuộc hội hợp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "điểm tiếp xúc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nơi hẹn gặp nhau để đi săn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đi đón",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đi rước",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đương đầu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "gặp",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "gặp gở",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "hội ngộ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "liều",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "come into the presence or company of (someone) by chance or arrangement.",
+      "definitions_ex_en": "a week later I met him in the street",
+      "definitions_ex_vn": "Một tuần sau tôi gặp anh ấy trên đường phố",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "touch or join.",
+      "definitions_ex_en": "icebergs are created when glaciers meet the sea",
+      "definitions_ex_vn": "Icebergs được tạo ra khi sông băng gặp biển",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "fulfill or satisfy (a need, requirement, or condition).",
+      "definitions_ex_en": "this policy is doing nothing to meet the needs of women",
+      "definitions_ex_vn": "Chính sách này là không làm gì để đáp ứng nhu cầu của phụ nữ",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "an organized event at which a number of races or other sporting contests are held.",
+      "definitions_ex_en": "a swim meet",
+      "definitions_ex_vn": "Một cuộc họp bơi",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "suitable; fit; proper.",
+      "definitions_ex_en": "it is a theater meet for great events",
+      "definitions_ex_vn": "Đó là một nhà hát gặp gỡ cho các sự kiện tuyệt vời",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809463388_2e05d902ac_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809463388_ed6254dae4_o.png",
+      "id_image": "meet_4458775"
+    }
+  ]
+}

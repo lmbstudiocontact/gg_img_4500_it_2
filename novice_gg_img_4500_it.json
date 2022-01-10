@@ -1,0 +1,36 @@
+{
+  "english": "novice",
+  "list_translation_mean": [
+    {
+      "translate_mean": "người mới học nghề",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "người tập việc",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "chú tiểu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người mới tu",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person new to or inexperienced in a field or situation.",
+      "definitions_ex_en": "he was a complete novice in foreign affairs",
+      "definitions_ex_vn": "Ông là một người mới hoàn toàn trong các vấn đề đối ngoại",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808364807_a7f95675e8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808364807_a4e50b28f1_o.png",
+      "id_image": "novice_2720627"
+    }
+  ]
+}

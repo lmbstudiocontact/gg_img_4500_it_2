@@ -1,0 +1,49 @@
+{
+  "english": "inequality",
+  "list_translation_mean": [
+    {
+      "translate_mean": "gồ ghề",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tính bất thường",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tính hay thay đổi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tính không bằng nhau",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tính không bằng phẳng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tính không đồng nhau",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "difference in size, degree, circumstances, etc.; lack of equality.",
+      "definitions_ex_en": "social inequality",
+      "definitions_ex_vn": "bất bình đẳng xã hội",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809672004_a99f5138f8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809672004_31a31a79c5_o.png",
+      "id_image": "inequality_2646662"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809432338_19af8f33bc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809432338_22281de5e1_o.png",
+      "id_image": "inequality_3053747"
+    }
+  ]
+}

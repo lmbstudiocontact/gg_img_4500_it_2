@@ -1,0 +1,65 @@
+{
+  "english": "learn",
+  "list_translation_mean": [
+    {
+      "translate_mean": "báo cho biết",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "dạy",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "học hỏi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "học tập",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "luyện tập",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trau dồi",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "gain or acquire knowledge of or skill in (something) by study, experience, or being taught.",
+      "definitions_ex_en": "they'd started learning French",
+      "definitions_ex_vn": "Họ đã bắt đầu học tiếng Pháp",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "teach (someone).",
+      "definitions_ex_en": "“That'll learn you,” he chuckled",
+      "definitions_ex_vn": "\"Điều đó sẽ học bạn,\" anh cười thầm",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809462923_8f171e9c56_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809462923_f0e3274dcc_o.png",
+      "id_image": "learn_2072720"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809702704_8f9bdd7d5f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809702704_db7f28af40_o.png",
+      "id_image": "learn_4861806"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809462808_e3b705f5e5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809462808_f86e50445a_o.png",
+      "id_image": "learn_5020821"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808392847_6fd48ba876_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808392847_6aaefd8fdc_o.png",
+      "id_image": "learn_5387480"
+    }
+  ]
+}

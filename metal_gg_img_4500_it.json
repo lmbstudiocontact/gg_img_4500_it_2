@@ -1,0 +1,85 @@
+{
+  "english": "metal",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chữ in",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đá mỏ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "kim khí",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "kim thuộc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khoáng chất",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "loài kim",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bọc một lớp kim khí",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lót đá",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "rải đá",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a solid material that is typically hard, shiny, malleable, fusible, and ductile, with good electrical and thermal conductivity (e.g., iron, gold, silver, copper, and aluminum, and alloys such as brass and steel).",
+      "definitions_ex_en": "being a metal, aluminum readily conducts heat",
+      "definitions_ex_vn": "Là một kim loại, nhôm dễ dàng tiến hành nhiệt",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "broken stone for use in making roads.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "molten glass before it is blown or cast.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "heavy metal or similar rock music.",
+      "definitions_ex_en": "crunching power-trio metal",
+      "definitions_ex_vn": "Crunching Power-Trio Metal",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "metallurgical or metallurgy.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "abbreviation"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808390607_e7063059d4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808390607_94b719784f_o.png",
+      "id_image": "metal_2481262"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809700679_a2e035d818_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809700679_fef430436b_o.png",
+      "id_image": "metal_2670429"
+    }
+  ]
+}

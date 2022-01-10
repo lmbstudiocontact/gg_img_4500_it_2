@@ -1,0 +1,44 @@
+{
+  "english": "nation",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chung lịch sử",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dân tộc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chung một thổ địa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chung ngôn ngữ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chung tập tục",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "quốc gia",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a large body of people united by common descent, history, culture, or language, inhabiting a particular country or territory.",
+      "definitions_ex_en": "the world's leading industrialized nations",
+      "definitions_ex_vn": "Các quốc gia công nghiệp hàng đầu thế giới",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683099_af71ccf14a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683099_a514f84af8_o.png",
+      "id_image": "nation_6388849"
+    }
+  ]
+}

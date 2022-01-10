@@ -1,0 +1,107 @@
+{
+  "english": "nail",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đinh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đánh trúng chổ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "làm đúng việc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "móng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "móng chân",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "móng tay",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nói đúng lời",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bắt được",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đóng đinh",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tóm được",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a small metal spike with a broadened flat head, driven typically into wood with a hammer to join things together or to serve as a peg or hook.",
+      "definitions_ex_en": "don't try and hammer nails into the ceiling joists",
+      "definitions_ex_vn": "Đừng thử và búa móng tay vào trần nhà",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a horny covering on the upper surface of the tip of the finger and toe in humans and other primates.",
+      "definitions_ex_en": "she began to bite her nails",
+      "definitions_ex_vn": "Cô bắt đầu cắn móng tay",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a measure of length for cloth, equal to 2 1/4 inches.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a measure of wool, beef, or other commodity, roughly equal to 7 or 8 pounds.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "fasten to a surface or to something else with a nail or nails.",
+      "definitions_ex_en": "nail the edge framing to the wall",
+      "definitions_ex_vn": "Nail cạnh khung vào tường",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "expose (someone) as deceitful or criminal; catch or arrest.",
+      "definitions_ex_en": "have you nailed the killer?",
+      "definitions_ex_vn": "Bạn đã đóng đinh kẻ giết người?",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "tackle (the quarterback or ballcarrier), especially at or behind the line of scrimmage.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "perform (an action or task) perfectly.",
+      "definitions_ex_en": "she absolutely nailed the high notes",
+      "definitions_ex_vn": "Cô hoàn toàn đóng đinh những nốt cao",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808374022_40c03b67cc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808374022_07c93ef390_o.png",
+      "id_image": "nail_215254"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809444278_d9789ba76f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809444278_9608137e47_o.png",
+      "id_image": "nail_280160"
+    }
+  ]
+}

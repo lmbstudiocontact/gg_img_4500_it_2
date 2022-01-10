@@ -1,0 +1,48 @@
+{
+  "english": "magical",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thuộc về ảo thuật",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thuộc về ma thuật",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thuộc về pháp thuật",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "relating to, using, or resembling magic.",
+      "definitions_ex_en": "he had a gentle, magical touch with the child",
+      "definitions_ex_vn": "Anh ấy có một liên lạc nhẹ nhàng, huyền diệu với đứa trẻ",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "beautiful or delightful in such a way as to seem removed from everyday life.",
+      "definitions_ex_en": "it was a magical evening of pure nostalgia",
+      "definitions_ex_vn": "Đó là một buổi tối huyền diệu của nỗi nhớ thuần túy",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810066855_8ba654734b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810066855_be5fcd1ce3_o.png",
+      "id_image": "magical_2178126"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809330036_dd8c66c660_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809330036_6bef9d1245_o.png",
+      "id_image": "magical_2917440"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809684954_a7ce8621f1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809684954_7ff8f9e271_o.png",
+      "id_image": "magical_4545195"
+    }
+  ]
+}

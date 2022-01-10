@@ -1,0 +1,43 @@
+{
+  "english": "malnutrition",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự cho ăn không đầy đủ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự thiếu ăn",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "lack of proper nutrition, caused by not having enough to eat, not eating enough of the right things, or being unable to use the food that one does eat.",
+      "definitions_ex_en": "nearly 67% of the country's population suffers from malnutrition",
+      "definitions_ex_vn": "Gần% 2067 %% 20OF% 20THER 20COUNOTREL% 27S%%% 20Suffers% 20 from% 20malnutrition",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810064420_2e5d1889e5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810064420_30eb7b91cb_o.png",
+      "id_image": "malnutrition_4244623"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809442738_bc01544c53_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809442738_b87cf932c1_o.png",
+      "id_image": "malnutrition_4244644"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808372362_46bc98b6c6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808372362_1460ab9f47_o.png",
+      "id_image": "malnutrition_4244660"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809327636_c94e79c8e8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809327636_b76881d81d_o.png",
+      "id_image": "malnutrition_4244680"
+    }
+  ]
+}

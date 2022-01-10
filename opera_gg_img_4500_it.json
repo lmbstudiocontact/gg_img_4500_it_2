@@ -1,0 +1,49 @@
+{
+  "english": "opera",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ca kịch",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhạc kịch",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a dramatic work in one or more acts, set to music for singers and instrumentalists.",
+      "definitions_ex_en": "it was the best performance of the opera he had ever heard",
+      "definitions_ex_vn": "Đó là hiệu suất tốt nhất của vở opera mà ông từng nghe",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "plural form of opus.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809701249_c23ab63295_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809701249_951d0b9f40_o.png",
+      "id_image": "opera_122854"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809701219_13fa7b47aa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809701219_316c3bbe4f_o.png",
+      "id_image": "opera_1910794"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809346281_a1bdd4c2b2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809346281_d7a482e8c8_o.png",
+      "id_image": "opera_4613355"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809701174_caa3ff6a5d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809701174_7cc634834a_o.png",
+      "id_image": "opera_4761450"
+    }
+  ]
+}

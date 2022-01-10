@@ -1,0 +1,58 @@
+{
+  "english": "maneuver",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự thao diển quân đội",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự vận động lừa dối",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vận dụng khéo léo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dùng mưu kế",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thao diển quân đội",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a movement or series of moves requiring skill and care.",
+      "definitions_ex_en": "spectacular jumps and other daring maneuvers",
+      "definitions_ex_vn": "nhảy ngoạn mục và các cuộc diễn tập táo bạo khác",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a large-scale military exercise of troops, warships, and other forces.",
+      "definitions_ex_en": "the Russian vessel was on maneuvers",
+      "definitions_ex_vn": "Tàu Nga là về các cuộc diễn tập",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "move skillfully or carefully.",
+      "definitions_ex_en": "the truck was unable to maneuver comfortably in the narrow street",
+      "definitions_ex_vn": "Chiếc xe tải không thể điều động thoải mái trong đường phố hẹp",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "carefully guide or manipulate (someone or something) in order to achieve an end.",
+      "definitions_ex_en": "they were maneuvering him into a betrayal of his countryman",
+      "definitions_ex_vn": "Họ đã điều khiển anh ta thành một sự phản bội của người đồng hương của mình",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809326236_ec2fc4fe39_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809326236_ef3ea52fa8_o.png",
+      "id_image": "maneuver_3410419"
+    }
+  ]
+}

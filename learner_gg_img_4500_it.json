@@ -1,0 +1,24 @@
+{
+  "english": "learner",
+  "list_translation_mean": [
+    {
+      "translate_mean": "học giỏi",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person who is learning a subject or skill.",
+      "definitions_ex_en": "a fast learner",
+      "definitions_ex_vn": "một người học nhanh",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809672039_260f5e1b0d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809672039_66dda1123d_o.png",
+      "id_image": "learner_1783695"
+    }
+  ]
+}

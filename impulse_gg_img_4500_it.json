@@ -1,0 +1,54 @@
+{
+  "english": "impulse",
+  "list_translation_mean": [
+    {
+      "translate_mean": "động lực đẩy tới",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự cãm động",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sức đẩy tơi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự xúc động",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a sudden strong and unreflective urge or desire to act.",
+      "definitions_ex_en": "I had an almost irresistible impulse to giggle",
+      "definitions_ex_vn": "Tôi đã có một xung xung gần như không thể cưỡng lại để cười khúc khích",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a driving or motivating force; an impetus.",
+      "definitions_ex_en": "an added impulse to this process of renewal",
+      "definitions_ex_vn": "một sự thúc đẩy thêm vào quá trình gia hạn này",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a pulse of electrical energy; a brief current.",
+      "definitions_ex_en": "nerve impulses",
+      "definitions_ex_vn": "xung thần kinh",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a force acting briefly on a body and producing a finite change of momentum.",
+      "definitions_ex_en": "ability to communicate motion by impulse",
+      "definitions_ex_vn": "khả năng giao tiếp chuyển động bằng cách thúc đẩy",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809320266_fe08a8f3f0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809320266_426b66f9b9_o.png",
+      "id_image": "impulse_1533981"
+    }
+  ]
+}

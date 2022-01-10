@@ -1,0 +1,48 @@
+{
+  "english": "megaphone",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ống loa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ống phát thanh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ống phát tiếng nói",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a large funnel-shaped device for amplifying and directing the voice.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "utter through, or as if through, a megaphone.",
+      "definitions_ex_en": "the director stood around megaphoning orders",
+      "definitions_ex_vn": "Giám đốc đứng xung quanh lệnh megaphoning",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808393187_74233da280_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808393187_b27b8ecc12_o.png",
+      "id_image": "megaphone_1200157"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808393252_6382033235_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808393252_9110a68df1_o.png",
+      "id_image": "megaphone_171686"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809703059_77257c8541_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809703059_67207b3c00_o.png",
+      "id_image": "megaphone_178203"
+    }
+  ]
+}

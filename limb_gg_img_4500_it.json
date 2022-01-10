@@ -1,0 +1,79 @@
+{
+  "english": "limb",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chân tay",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cành cây",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cánh tay",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chi thể",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vành ngoài của vòng tròn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đứa trẻ tinh ranh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phiến lá",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cắt chân tay",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tỉa cành cây",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an arm or leg of a person or four-legged animal, or a bird's wing.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the edge of the disk of a celestial object, especially the sun or moon.",
+      "definitions_ex_en": "the eastern limb of the moon",
+      "definitions_ex_vn": "Các chi phía đông của mặt trăng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the blade or broad part of a leaf or petal.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the graduated arc of a quadrant or other scientific instrument, used for measuring angles.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809456638_af2579e15e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809456638_7c52c0bf23_o.png",
+      "id_image": "limb_3411242"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810079185_9a2932abeb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810079185_b097b03acc_o.png",
+      "id_image": "limb_4201797"
+    }
+  ]
+}

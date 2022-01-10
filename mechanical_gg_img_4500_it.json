@@ -1,0 +1,64 @@
+{
+  "english": "mechanical",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hành động như cái máy",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "không suy nghỉ",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thuộc về cơ giới",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thuộc về cơ khí",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thuộc về máy móc",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "working or produced by machines or machinery.",
+      "definitions_ex_en": "a mechanical device",
+      "definitions_ex_vn": "một thiết bị cơ khí",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a person or action) not having or showing thought or spontaneity; automatic.",
+      "definitions_ex_en": "she stopped the mechanical brushing of her hair",
+      "definitions_ex_vn": "Cô dừng việc chải tóc cơ học",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "relating to physical forces or motion; physical.",
+      "definitions_ex_en": "the smoothness was the result of mechanical abrasion",
+      "definitions_ex_vn": "sự trơn tru là kết quả của sự mài mòn cơ học",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "the working parts of a machine, especially a car.",
+      "definitions_ex_en": "a major overhaul of the mechanicals",
+      "definitions_ex_vn": "một đại tu lớn của các cơ khí",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(especially with allusion to Shakespeare's A Midsummer Night's Dream ) a manual worker.",
+      "definitions_ex_en": "rude mechanicals",
+      "definitions_ex_vn": "Cơ khí thô lỗ",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809433703_e7ffd945a5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809433703_1f7d70c894_o.png",
+      "id_image": "mechanical_2286219"
+    }
+  ]
+}

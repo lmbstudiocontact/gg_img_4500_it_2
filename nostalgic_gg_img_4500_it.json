@@ -1,0 +1,38 @@
+{
+  "english": "nostalgic",
+  "list_translation_mean": [
+    {
+      "translate_mean": "tư hương",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "lòng tư gia",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "nhớ quê hương",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "characterized by or exhibiting feelings of nostalgia.",
+      "definitions_ex_en": "he remained nostalgic about the good old days",
+      "definitions_ex_vn": "Anh vẫn hoài niệm về những ngày xưa tốt đẹp",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a nostalgic person.",
+      "definitions_ex_en": "to see classmates' email addresses, nostalgics pay $36 a year",
+      "definitions_ex_vn": "Để xem địa chỉ email của bạn cùng lớp, hoài cổ trả 36 đô la một năm",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809321176_c077fc98e7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809321176_d3bb36b3b0_o.png",
+      "id_image": "nostalgic_4207243"
+    }
+  ]
+}

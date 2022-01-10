@@ -1,0 +1,52 @@
+{
+  "english": "mystic",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bí ẩn",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "bí giáo",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thuộc về bí truyền",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "huyền bí",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person who seeks by contemplation and self-surrender to obtain unity with or absorption into the Deity or the absolute, or who believes in the spiritual apprehension of truths that are beyond the intellect.",
+      "definitions_ex_en": "the poetry of the 16th-century Spanish mystic, St. John of the Cross",
+      "definitions_ex_vn": "Thơ của huyền bí Tây Ban Nha thế kỷ 16, St. John of the Cross",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "another term for mystical.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809684549_478437869c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809684549_ae34a96bea_o.png",
+      "id_image": "mystic_188973"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809444498_2e9333050d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809444498_09d10c450f_o.png",
+      "id_image": "mystic_189011"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809684489_a2f37d6cfd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809684489_465d876de5_o.png",
+      "id_image": "mystic_4132932"
+    }
+  ]
+}

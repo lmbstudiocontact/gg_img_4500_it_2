@@ -1,0 +1,77 @@
+{
+  "english": "jar",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chai",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chai lêđen",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bình",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lọ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "kêu ken két làm gai người",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a wide-mouthed cylindrical container made of glass or pottery and typically having a lid, used especially for storing food.",
+      "definitions_ex_en": "a large storage jar",
+      "definitions_ex_vn": "một lọ lưu trữ lớn",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a physical shock or jolt.",
+      "definitions_ex_en": "the train stopped without the slightest jar",
+      "definitions_ex_vn": "tàu dừng lại mà không có bình nhỏ nhất",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "send a painful or damaging shock through (something, especially a part of the body).",
+      "definitions_ex_en": "he jarred his knee in training",
+      "definitions_ex_vn": "Anh ấy đã đi đầu gối của mình trong đào tạo",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "have an unpleasant, annoying, or disturbing effect.",
+      "definitions_ex_en": "a laugh that jarred on the ears",
+      "definitions_ex_vn": "một tiếng cười chói tai",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809450648_798f4edafa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809450648_c5d406f503_o.png",
+      "id_image": "jar_1355978"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809450638_04cc73b468_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809450638_7035b088a9_o.png",
+      "id_image": "jar_1373369"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809690829_ab60a1171e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809690829_5f5aed1dfc_o.png",
+      "id_image": "jar_1676679"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809706894_5deb5d760e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809706894_2da518caa9_o.png",
+      "id_image": "jar_1676680"
+    }
+  ]
+}

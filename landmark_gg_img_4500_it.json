@@ -1,0 +1,65 @@
+{
+  "english": "landmark",
+  "list_translation_mean": [
+    {
+      "translate_mean": "dấu đánh để làm chứng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dấu để phân biệt đất của ai",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "biến cố lịch sử",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mở một kỷ nguyên mới",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vật dể nhận từ xa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vật ghi ranh giới đất",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an object or feature of a landscape or town that is easily seen and recognized from a distance, especially one that enables someone to establish their location.",
+      "definitions_ex_en": "the spire was once a landmark for ships sailing up the river",
+      "definitions_ex_vn": "Spire đã từng là một mốc để tàu chèo lên sông",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an event, discovery, or change marking an important stage or turning point in something.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809321321_94bf2d081a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809321321_c1e90c70ef_o.png",
+      "id_image": "landmark_1282237"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808366247_4c70e1a949_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808366247_98502e7648_o.png",
+      "id_image": "landmark_1282245"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809321266_64c39548bd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809321266_1bfb1bf9d7_o.png",
+      "id_image": "landmark_3700216"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809321241_8d3fe6ba12_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809321241_0a40e4aa17_o.png",
+      "id_image": "landmark_3949456"
+    }
+  ]
+}

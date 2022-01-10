@@ -1,0 +1,33 @@
+{
+  "english": "muffin",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bánh nướng xốp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "một thứ bánh trắng mềm",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a small domed cake or quick bread made from batter or dough.",
+      "definitions_ex_en": "blueberry muffins",
+      "definitions_ex_vn": "bánh nướng xốp việt quất",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808377537_3a6e176e78_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808377537_bf22882351_o.png",
+      "id_image": "muffin_190970"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809332681_e1cdb6dc9f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809332681_f6bd60fa50_o.png",
+      "id_image": "muffin_4561029"
+    }
+  ]
+}

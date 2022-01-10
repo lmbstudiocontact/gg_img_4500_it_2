@@ -1,0 +1,80 @@
+{
+  "english": "jingle",
+  "list_translation_mean": [
+    {
+      "translate_mean": "rung leng keng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "xóc xủng xoảng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "câu thơ có nhiều vần điệp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "câu thơ nhiều âm điệp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự lặp âm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiếng leng keng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiếng xủng xoảng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "xe hai bánh có mui",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a light ringing sound such as that made by metal objects being shaken together.",
+      "definitions_ex_en": "the jingle of a bridle",
+      "definitions_ex_vn": "tiếng leng keng của một cầu nối",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a short slogan, verse, or tune designed to be easily remembered, especially as used in advertising.",
+      "definitions_ex_en": "he makes up advertising jingles",
+      "definitions_ex_vn": "anh ấy tạo nên quảng cáo jingles",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a bivalve mollusk with a fragile, slightly translucent shell, the lower valve of which has a hole through which pass byssus threads for anchorage.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "make or cause to make a light metallic ringing sound.",
+      "definitions_ex_en": "her bracelets were jingling",
+      "definitions_ex_vn": "vòng tay của cô là jingling",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809448813_a021fc65bd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809448813_37b62a44bb_o.png",
+      "id_image": "jingle_352233"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810070675_506449e782_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810070675_d5f1100b26_o.png",
+      "id_image": "jingle_4213194"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808378577_e3543ac81b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808378577_928250bb0d_o.png",
+      "id_image": "jingle_5978491"
+    }
+  ]
+}

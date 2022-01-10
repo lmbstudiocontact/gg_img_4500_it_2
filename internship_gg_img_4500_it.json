@@ -1,0 +1,29 @@
+{
+  "english": "internship",
+  "list_translation_mean": [
+    {
+      "translate_mean": "trại tập trung",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the position of a student or trainee who works in an organization, sometimes without pay, in order to gain work experience or satisfy requirements for a qualification.",
+      "definitions_ex_en": "they encouraged students to apply for newspaper internships",
+      "definitions_ex_vn": "Họ khuyến khích sinh viên nộp đơn xin thực tập báo",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809456258_8bc4c1cd50_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809456258_53ef2a3dff_o.png",
+      "id_image": "internship_1945674"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809341371_bb30d6e591_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809341371_c68d62933e_o.png",
+      "id_image": "internship_5352140"
+    }
+  ]
+}

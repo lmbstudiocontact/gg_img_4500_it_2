@@ -1,0 +1,29 @@
+{
+  "english": "ingredient",
+  "list_translation_mean": [
+    {
+      "translate_mean": "nguyên tố",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "any of the foods or substances that are combined to make a particular dish.",
+      "definitions_ex_en": "pork is an important ingredient in many stir-fried dishes",
+      "definitions_ex_vn": "Thịt lợn là một thành phần quan trọng trong nhiều món xào khuấy",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809462243_5fecdaf319_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809462243_ffc702c29f_o.png",
+      "id_image": "ingredient_3449390"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809462208_314b4bca2a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809462208_67008cedc6_o.png",
+      "id_image": "ingredient_6192893"
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "english": "maintenance",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cấp dưỡng trong vấn đề ly dị",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nuôi một gia đình",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự cầm giữ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự cấp dưỡng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự cung cấp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự giữ gìn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự sửa sang",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự duy trì",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiền cấp dưỡng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the process of maintaining or preserving someone or something, or the state of being maintained.",
+      "definitions_ex_en": "we support local initiatives that ensure the maintenance of community spirit",
+      "definitions_ex_vn": "Chúng tôi hỗ trợ các sáng kiến địa phương đảm bảo duy trì tinh thần cộng đồng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "financial support provided for a person's living expenses.",
+      "definitions_ex_en": "a chance of going to university with fees and maintenance paid",
+      "definitions_ex_vn": "cơ hội đi học đại học với phí và bảo trì được trả tiền",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the offense of aiding a party in a legal action without lawful cause.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810065365_cfe35d1bfe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810065365_9371613d44_o.png",
+      "id_image": "maintenance_1012345"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808373282_f79e21c71d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808373282_497bfbc92d_o.png",
+      "id_image": "maintenance_1018796"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810065310_3d832864a1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810065310_2c4d57edc8_o.png",
+      "id_image": "maintenance_1060337"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808373197_d8d4ecedf7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808373197_e7909e8e93_o.png",
+      "id_image": "maintenance_1743614"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683504_fe1ae35b59_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683504_49e928f749_o.png",
+      "id_image": "maintenance_1792321"
+    }
+  ]
+}

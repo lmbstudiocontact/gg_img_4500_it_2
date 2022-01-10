@@ -1,0 +1,32 @@
+{
+  "english": "municipal",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thuộc về đô thị",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thuộc về thành phố",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thuộc về thị xã",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "relating to a city or town or its governing body.",
+      "definitions_ex_en": "municipal offices",
+      "definitions_ex_vn": "văn phòng thành phố",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809331816_6255c3cbac_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809331816_6ab83d73cb_o.png",
+      "id_image": "municipal_5763219"
+    }
+  ]
+}

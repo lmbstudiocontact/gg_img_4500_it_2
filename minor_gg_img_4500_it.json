@@ -1,0 +1,76 @@
+{
+  "english": "minor",
+  "list_translation_mean": [
+    {
+      "translate_mean": "diển vai phụ",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "không quan trọng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "nhỏ",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "tiểu tăng chức",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "tiểu tiền đề",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "lesser in importance, seriousness, or significance.",
+      "definitions_ex_en": "minor alterations",
+      "definitions_ex_vn": "thay đổi nhỏ",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a scale) having intervals of a semitone between the second and third degrees, and (usually) the fifth and sixth, and the seventh and eighth.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a term) occurring as the subject of the conclusion of a categorical syllogism.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a person under the age of full legal responsibility.",
+      "definitions_ex_en": "the court would take account of the minor's wishes",
+      "definitions_ex_vn": "Tòa án sẽ tính đến những mong muốn của trẻ vị thành niên",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a minor key, interval, or scale.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a minor term or premise.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "short for minor suit.",
+      "definitions_ex_en": "a bid of two no trumps shows strength in the minors",
+      "definitions_ex_vn": "một giá treo của hai không có kèn thể hiện sức mạnh trong trẻ vị thành niên",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809697029_9e591d394b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809697029_ab4697c39f_o.png",
+      "id_image": "minor_2332289"
+    }
+  ]
+}

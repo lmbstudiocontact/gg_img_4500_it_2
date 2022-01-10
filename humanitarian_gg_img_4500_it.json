@@ -1,0 +1,44 @@
+{
+  "english": "humanitarian",
+  "list_translation_mean": [
+    {
+      "translate_mean": "theo nhân đạo chủ nghỉa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thuộc về nhân đạo",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "concerned with or seeking to promote human welfare.",
+      "definitions_ex_en": "groups sending humanitarian aid",
+      "definitions_ex_vn": "Các nhóm gửi viện trợ nhân đạo",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a person who seeks to promote human welfare; a philanthropist.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810064860_0586e5193f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810064860_5ab41f2e5a_o.png",
+      "id_image": "humanitarian_1378696"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328071_5cc0669e62_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328071_8c16c35e50_o.png",
+      "id_image": "humanitarian_2871600"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808372792_84aaa14bfd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808372792_f10d25a18b_o.png",
+      "id_image": "humanitarian_5102260"
+    }
+  ]
+}

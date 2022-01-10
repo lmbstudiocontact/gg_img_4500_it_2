@@ -1,0 +1,33 @@
+{
+  "english": "investigator",
+  "list_translation_mean": [
+    {
+      "translate_mean": "người dò xét",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người điều tra",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person who carries out a formal inquiry or investigation.",
+      "definitions_ex_en": "accident investigators are at the crash site",
+      "definitions_ex_vn": "Các nhà điều tra tai nạn đang ở trang web sụp đổ",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809453853_5da5ee2f77_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809453853_22827102d3_o.png",
+      "id_image": "investigator_2621887"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809694024_58bbccc83a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809694024_393c18e37c_o.png",
+      "id_image": "investigator_875290"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "english": "nominee",
+  "list_translation_mean": [
+    {
+      "translate_mean": "được bổ nhiệm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người được chọn",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person who is proposed or formally entered as a candidate for an office or as the recipient of a grant or award.",
+      "definitions_ex_en": "an Oscar nominee",
+      "definitions_ex_vn": "một ứng cử viên Oscar.",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a person or company whose name is given as having title to a stock, real estate, etc., but who is not the actual owner.",
+      "definitions_ex_en": "an offshore nominee company",
+      "definitions_ex_vn": "Một công ty được đề cử ngoài khơi",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809437053_d860077756_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809437053_a58ecfdcbd_o.png",
+      "id_image": "nominee_2473122"
+    }
+  ]
+}

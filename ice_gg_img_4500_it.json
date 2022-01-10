@@ -1,0 +1,118 @@
+{
+  "english": "ice",
+  "list_translation_mean": [
+    {
+      "translate_mean": "băng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cục nước đá",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nước đá",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đá",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giá",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "làm đặc lại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm đông lại",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "frozen water, a brittle transparent crystalline solid.",
+      "definitions_ex_en": "the pipes were blocked with ice",
+      "definitions_ex_vn": "Các đường ống đã bị chặn với băng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "diamonds.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "methamphetamine.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an entry stored in a person's mobile phone that provides emergency contact information.",
+      "definitions_ex_en": "paramedics failed to check his phone for ICE",
+      "definitions_ex_vn": "Paramedics không thể kiểm tra điện thoại của mình cho băng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "decorate (a cake) with icing.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "shoot (the puck) so as to commit icing.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "program (a mobile phone) with emergency information.",
+      "definitions_ex_en": "frequent flyers are among those who routinely ICE their cell phones",
+      "definitions_ex_vn": "Tờ rơi thường xuyên là một trong những người thường xuyên băng điện thoại di động của họ",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "forming nouns such as service, police, and abstract nouns such as avarice, justice.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "suffix"
+    },
+    {
+      "definitions_word_en": "(in the US) Immigration and Customs Enforcement.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "abbreviation"
+    },
+    {
+      "definitions_word_en": "(in the UK) Institution of Civil Engineers.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "abbreviation"
+    },
+    {
+      "definitions_word_en": "internal combustion engine.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "abbreviation"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809440198_1c9c4236ee_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809440198_f786034f3d_o.png",
+      "id_image": "ice_3038903"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809440138_4435dffb1c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809440138_c554eb9447_o.png",
+      "id_image": "ice_4051408"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809440108_cec8785a34_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809440108_3880bba056_o.png",
+      "id_image": "ice_6347258"
+    }
+  ]
+}

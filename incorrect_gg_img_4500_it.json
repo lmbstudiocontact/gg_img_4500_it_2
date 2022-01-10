@@ -1,0 +1,47 @@
+{
+  "english": "incorrect",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sai",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "không chỉnh",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "không đúng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "không hợp cách",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "not in accordance with fact; wrong.",
+      "definitions_ex_en": "the doctor gave you incorrect advice",
+      "definitions_ex_vn": "Bác sĩ đã cho bạn lời khuyên không chính xác",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "not in accordance with particular standards or rules.",
+      "definitions_ex_en": "strictly speaking, the form of address was incorrect",
+      "definitions_ex_vn": "Nói đúng, hình thức địa chỉ không chính xác",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809433973_a146067b42_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809433973_f13d265a3d_o.png",
+      "id_image": "incorrect_1440367"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810055320_8be24978b9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810055320_9f5ddd4762_o.png",
+      "id_image": "incorrect_5387420"
+    }
+  ]
+}

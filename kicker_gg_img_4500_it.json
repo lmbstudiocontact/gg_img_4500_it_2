@@ -1,0 +1,66 @@
+{
+  "english": "kicker",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cầu thủ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ngựa hay đá",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người đá",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người hay càu nhàu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người hay cằn nhằn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người hay cự lại",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person or animal that kicks.",
+      "definitions_ex_en": "the horses were either biters or kickers",
+      "definitions_ex_vn": "những con ngựa là biters hoặc kickers",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a small outboard motor.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(in poker) a high third card retained in the hand with a pair at the draw.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683429_6b76dcd80a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683429_7c3fa724de_o.png",
+      "id_image": "kicker_1503267"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328291_8da1eff56a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328291_e616721958_o.png",
+      "id_image": "kicker_2620426"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328241_e8725b9a39_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328241_6fea9534c3_o.png",
+      "id_image": "kicking_1505381"
+    }
+  ]
+}

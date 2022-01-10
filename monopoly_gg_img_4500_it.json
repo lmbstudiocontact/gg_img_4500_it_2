@@ -1,0 +1,45 @@
+{
+  "english": "monopoly",
+  "list_translation_mean": [
+    {
+      "translate_mean": "độc quyền",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the exclusive possession or control of the supply of or trade in a commodity or service.",
+      "definitions_ex_en": "his likely motive was to protect his regional monopoly on furs",
+      "definitions_ex_vn": "Động cơ có khả năng của anh ấy là bảo vệ sự độc quyền khu vực của mình trên Furs",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a board game in which players engage in simulated property and financial dealings using imitation money. It was invented in the US and the name was coined by Charles Darrow c. 1935.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809337446_dc653de226_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809337446_367d75bc6e_o.png",
+      "id_image": "monopoly_2241428"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809337411_e87054d5c9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809337411_e6fc31d4bd_o.png",
+      "id_image": "monopoly_2367224"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809692694_b030ca4601_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809692694_942ff4087b_o.png",
+      "id_image": "monopoly_2727146"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809337341_67bdc60d85_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809337341_f2c675987c_o.png",
+      "id_image": "monopoly_3274250"
+    }
+  ]
+}

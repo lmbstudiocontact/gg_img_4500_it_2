@@ -1,0 +1,64 @@
+{
+  "english": "organ",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cơ quan",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đại phong cầm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khí quan",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a part of an organism that is typically self-contained and has a specific vital function, such as the heart or liver in humans.",
+      "definitions_ex_en": "the internal organs",
+      "definitions_ex_vn": "các cơ quan nội tạng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a large musical instrument having rows of tuned pipes sounded by compressed air, and played using one or more keyboards to produce a wide range of musical effects. The pipes are generally arranged in ranks of a particular type, each controlled by a stop, and often into larger sets linked to separate keyboards.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a department or organization that performs a specified function.",
+      "definitions_ex_en": "the central organs of administration and business",
+      "definitions_ex_vn": "Các cơ quan trung ương của quản trị và kinh doanh",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810081385_52786809fe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810081385_f1cdb2395e_o.png",
+      "id_image": "organ_1910776"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808388892_02cf6d301a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808388892_b479424dca_o.png",
+      "id_image": "organ_2332633"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809699129_67a724b307_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809699129_8f3588c09b_o.png",
+      "id_image": "organ_2515637"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809458663_e3f928102b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809458663_75eeb6b87f_o.png",
+      "id_image": "organ_3028411"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810081240_b62da6b919_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810081240_0c0a5e8f53_o.png",
+      "id_image": "organ_3966560"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "english": "literary",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thuộc về văn chương",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "văn học",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "concerning the writing, study, or content of literature, especially of the kind valued for quality of form.",
+      "definitions_ex_en": "the great literary works of the nineteenth century",
+      "definitions_ex_vn": "các tác phẩm văn học vĩ đại của thế kỷ XIX",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of language) associated with literary works or other formal writing; having a marked style intended to create a particular emotional effect.",
+      "definitions_ex_en": "the script was too literary",
+      "definitions_ex_vn": "kịch bản quá văn học",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809339716_4285fe1e01_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809339716_7814d15293_o.png",
+      "id_image": "literary_2178155"
+    }
+  ]
+}

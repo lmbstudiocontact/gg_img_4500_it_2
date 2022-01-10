@@ -1,0 +1,89 @@
+{
+  "english": "left",
+  "list_translation_mean": [
+    {
+      "translate_mean": "phía tả",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "phía trái",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "xoay bên trái",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "bên trái",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tả phái",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trái",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "on, toward, or relating to the side of a human body or of a thing that is to the west when the person or thing is facing north.",
+      "definitions_ex_en": "her left eye",
+      "definitions_ex_vn": "mắt trái của cô ấy",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "relating to a person or group favoring liberal, socialist, or radical views.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "on or to the left side.",
+      "definitions_ex_en": "turn left here",
+      "definitions_ex_vn": "rẽ trái ở đây",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "the left-hand part, side, or direction.",
+      "definitions_ex_en": "a turn to the left",
+      "definitions_ex_vn": "một ngã sang trái",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a group or party favoring liberal, socialist, or radical views.",
+      "definitions_ex_en": "he is on the left of the party",
+      "definitions_ex_vn": "anh ấy ở bên trái của bữa tiệc",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "past and past participle of leave1.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810084295_8202139b1f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810084295_39cc5c3038_o.png",
+      "id_image": "left_1655261"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809701739_007bd251ea_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809701739_388e95bf6d_o.png",
+      "id_image": "left_2456161"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809461643_d8e9de0055_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809461643_558bea97a3_o.png",
+      "id_image": "left_2456898"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810084215_52defcfd72_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810084215_8478421dc6_o.png",
+      "id_image": "left_5458283"
+    }
+  ]
+}

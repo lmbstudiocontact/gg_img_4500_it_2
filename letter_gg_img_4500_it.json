@@ -1,0 +1,100 @@
+{
+  "english": "letter",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thư",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thơ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chừ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chữ lớn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thơ tín",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chứng thơ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mẫu tự",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "văn tự",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sắp thứ tự bằng chữ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "viết chữ trên",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a character representing one or more of the sounds used in speech; any of the symbols of an alphabet.",
+      "definitions_ex_en": "a capital letter",
+      "definitions_ex_vn": "một chữ hoa",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a written, typed, or printed communication, especially one sent in an envelope by mail or messenger.",
+      "definitions_ex_en": "he sent a letter to Mrs. Falconer",
+      "definitions_ex_vn": "Anh gửi thư cho bà Falconer",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the precise terms of a statement or requirement; the strict verbal interpretation.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "literature.",
+      "definitions_ex_en": "the world of letters",
+      "definitions_ex_vn": "Thế giới thư",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a style of typeface.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "inscribe letters or writing on.",
+      "definitions_ex_en": "her name was lettered in gold",
+      "definitions_ex_vn": "Tên cô ấy được viết bằng vàng",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809459868_9ec2bf2449_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809459868_3b760775d5_o.png",
+      "id_image": "letter_2300624"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808390077_1eede0a7a8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808390077_d3c44509cd_o.png",
+      "id_image": "letter_547041"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808390042_f6218399f2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808390042_8d6c8268d3_o.png",
+      "id_image": "letter_870121"
+    }
+  ]
+}

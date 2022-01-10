@@ -1,0 +1,61 @@
+{
+  "english": "join",
+  "list_translation_mean": [
+    {
+      "translate_mean": "buộc",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chắp",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ghép",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nối lại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nối liền",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "link; connect.",
+      "definitions_ex_en": "the tap was joined to a pipe",
+      "definitions_ex_vn": "vòi được nối với một đường ống",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a place or line where two or more things are connected or fastened together.",
+      "definitions_ex_en": "it was soldered so well that you couldn't see the join",
+      "definitions_ex_vn": "nó đã được hàn rất tốt mà bạn không thể nhìn thấy sự tham gia",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688019_889e482ee1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688019_9000393fb1_o.png",
+      "id_image": "join_1971139"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810069840_e8ee3b66d7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810069840_79dc214d5e_o.png",
+      "id_image": "join_2733455"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808377802_81dd8441cc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808377802_17840d12e7_o.png",
+      "id_image": "join_4470914"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809447983_0959ae080d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809447983_f60b4458a6_o.png",
+      "id_image": "join_4590194"
+    }
+  ]
+}

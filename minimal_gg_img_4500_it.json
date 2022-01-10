@@ -1,0 +1,51 @@
+{
+  "english": "minimal",
+  "list_translation_mean": [
+    {
+      "translate_mean": "rất nhỏ",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "tối thiểu",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "of a minimum amount, quantity, or degree; negligible.",
+      "definitions_ex_en": "production costs are minimal",
+      "definitions_ex_vn": "Chi phí sản xuất là tối thiểu",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "characterized by the use of simple or primary forms or structures, especially geometric or massive ones.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "characterized by the repetition and gradual alteration of short phrases.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a pair of forms) distinguished by only one feature.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810079575_4984f8c714_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810079575_3af4c170ff_o.png",
+      "id_image": "minimal_2571962"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808387122_9d18e065d8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808387122_6aca63c77d_o.png",
+      "id_image": "minimal_4660895"
+    }
+  ]
+}

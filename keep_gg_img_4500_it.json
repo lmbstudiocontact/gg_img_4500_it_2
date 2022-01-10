@@ -1,0 +1,150 @@
+{
+  "english": "keep",
+  "list_translation_mean": [
+    {
+      "translate_mean": "tuân theo",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "canh giử",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "canh phòng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "để riêng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "giử",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "giử gôn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "không sai hẹn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "phòng thủ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cấp dưởng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "giử gìn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chăn trừu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "giử lời hứa",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "có ngăn nắp",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cung cấp",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đài",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đồ ăn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "kế sanh nhai",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tháp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thực phẫm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thường xuyên",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vĩnh cửu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vọng lầu",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "have or retain possession of.",
+      "definitions_ex_en": "return one copy to me, keeping the other for your files",
+      "definitions_ex_vn": "Trả lại một bản cho tôi, giữ cho các bản khác cho các tập tin của bạn",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "cause to continue in a specified condition, position, course, etc.",
+      "definitions_ex_en": "the guidance system keeps the machine on course",
+      "definitions_ex_vn": "Hệ thống hướng dẫn giữ cho máy trong khóa học",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "provide for the sustenance of (someone).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "honor or fulfill (a commitment or undertaking).",
+      "definitions_ex_en": "I'll keep my promise, naturally",
+      "definitions_ex_vn": "Tôi sẽ giữ lời hứa, tự nhiên",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "make written entries in (a diary) on a regular basis.",
+      "definitions_ex_en": "the master kept a weekly journal",
+      "definitions_ex_vn": "Master giữ một tạp chí hàng tuần",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "food, clothes, and other essentials for living.",
+      "definitions_ex_en": "working overtime to earn his keep",
+      "definitions_ex_vn": "Làm thêm giờ để kiếm được sự giữ của mình",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "charge; control.",
+      "definitions_ex_en": "if from shepherd's keep a lamb strayed far",
+      "definitions_ex_vn": "Nếu từ người chăn cừu giữ một con cừu đi lạc xa",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the strongest or central tower of a castle, acting as a final refuge.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810066380_0e3d67c14e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810066380_9920d1b650_o.png",
+      "id_image": "keep_1274204"
+    }
+  ]
+}

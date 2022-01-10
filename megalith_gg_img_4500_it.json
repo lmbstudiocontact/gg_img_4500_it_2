@@ -1,0 +1,29 @@
+{
+  "english": "megalith",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cự thạch bi",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a large stone that forms a prehistoric monument (e.g., a menhir) or part of one (e.g., a stone circle or chamber tomb).",
+      "definitions_ex_en": "a smaller circle of some forty ancient megaliths",
+      "definitions_ex_vn": "một vòng tròn nhỏ hơn của một số mươi megalith cổ đại",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808393322_a357396b0a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808393322_f0afe83d52_o.png",
+      "id_image": "megalith_190916"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809463213_b2e7241656_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809463213_af0ecfd2c4_o.png",
+      "id_image": "megalith_307801"
+    }
+  ]
+}

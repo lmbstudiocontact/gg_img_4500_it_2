@@ -1,0 +1,35 @@
+{
+  "english": "mythology",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chuyện thần thoại",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a collection of myths, especially one belonging to a particular religious or cultural tradition.",
+      "definitions_ex_en": "a book discussing Jewish and Christian mythologies",
+      "definitions_ex_vn": "Một cuốn sách thảo luận về thần thoại Do Thái và Kitô giáo",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the study of myths.",
+      "definitions_ex_en": "this field includes archaeology, comparative mythology, and folklore",
+      "definitions_ex_vn": "lĩnh vực này bao gồm khảo cổ học, thần thoại so sánh và văn hóa dân gian",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809684389_ecf817055d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809684389_b9845f7047_o.png",
+      "id_image": "mythology_5018232"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808374062_aa7edb688d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808374062_8d3e906ec8_o.png",
+      "id_image": "mythology_5234425"
+    }
+  ]
+}

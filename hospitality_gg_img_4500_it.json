@@ -1,0 +1,45 @@
+{
+  "english": "hospitality",
+  "list_translation_mean": [
+    {
+      "translate_mean": "khỏan đãi",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the friendly and generous reception and entertainment of guests, visitors, or strangers.",
+      "definitions_ex_en": "Scotland is renowned for its hospitality",
+      "definitions_ex_vn": "Scotland nổi tiếng với sự hiếu khách của mình",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "relating to or denoting the business of housing or entertaining visitors.",
+      "definitions_ex_en": "the hospitality industry",
+      "definitions_ex_vn": "ngành khách sạn",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067655_5051a08094_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067655_d8d5f7edfa_o.png",
+      "id_image": "hospitality_1645017"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067630_3c5577416c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067630_a685da0196_o.png",
+      "id_image": "hospitality_2631559"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375462_9838e972ac_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375462_1442b2e008_o.png",
+      "id_image": "hospitality_5778508"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809685789_0976cffd20_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809685789_7eeeb143dd_o.png",
+      "id_image": "hospitality_5778929"
+    }
+  ]
+}

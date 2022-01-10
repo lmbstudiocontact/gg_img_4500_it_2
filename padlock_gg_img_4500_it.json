@@ -1,0 +1,39 @@
+{
+  "english": "padlock",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ống khóa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khóa lại",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a detachable lock hanging by a pivoted hook on the object fastened.",
+      "definitions_ex_en": "a padlock on the garden gate",
+      "definitions_ex_vn": "một ổ khóa trên cổng vườn",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "secure with a padlock.",
+      "definitions_ex_en": "his father had padlocked the gate",
+      "definitions_ex_vn": "Cha anh đã bịt cổng",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809452348_be4d8a4d42_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809452348_00fc935a6b_o.png",
+      "id_image": "padlock_124746"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809337496_52e0a027da_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809337496_899849d8bb_o.png",
+      "id_image": "padlock_144898"
+    }
+  ]
+}

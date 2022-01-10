@@ -1,0 +1,83 @@
+{
+  "english": "lace",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ren",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đăng ten",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dây cột giày",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dây nịt áo ngực phụ nữ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bôi màu sặc sở",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "kết buồm",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm nổi lằn roi trên da",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thêm rượu mạnh vào bia",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cột dây giày",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a fine open fabric, typically one of cotton or silk, made by looping, twisting, or knitting thread in patterns and used especially for trimming garments.",
+      "definitions_ex_en": "a dress trimmed in white lace",
+      "definitions_ex_vn": "Một chiếc váy được cắt tỉa trong ren trắng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a cord or leather strip passed through eyelets or hooks on opposite sides of a shoe or garment and then pulled tight and fastened.",
+      "definitions_ex_en": "brown shoes with laces",
+      "definitions_ex_vn": "Giày nâu có dây buộc",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "fasten or tighten (a shoe or garment) by tying the laces.",
+      "definitions_ex_en": "he put the shoes on and laced them up",
+      "definitions_ex_vn": "Anh đặt giày lên và tẩm chúng lên",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810060215_8dc4b53758_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810060215_70dba9dafd_o.png",
+      "id_image": "lace_2818460"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808368412_0a25d8167b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808368412_6033cfda8c_o.png",
+      "id_image": "lace_298185"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809438538_2b23929ef3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809438538_f1c9b2539f_o.png",
+      "id_image": "lace_354480"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809678649_fc546c6e60_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809678649_20966877d2_o.png",
+      "id_image": "lace_444967"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "english": "pancake",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bánh kếp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "loại bánh ăn sáng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "làm bánh pancake",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a thin, flat cake of batter, usually fried and turned in a pan. Pancakes are usually eaten with syrup or rolled up with a filling.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(with reference to an aircraft) make or cause to make a pancake landing.",
+      "definitions_ex_en": "he pancaked it in about twenty meters",
+      "definitions_ex_vn": "Anh ấy tỏa sáng nó trong khoảng hai mươi mét",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "flatten or become flattened.",
+      "definitions_ex_en": "the hotel had pancaked into a heap of concrete",
+      "definitions_ex_vn": "Khách sạn đã tỏa sáng thành một đống bê tông",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809690794_80570160fd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809690794_88b17413a0_o.png",
+      "id_image": "pancake_590710"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335551_2fd97aae2e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335551_0db701fa0f_o.png",
+      "id_image": "pancake_619504"
+    }
+  ]
+}

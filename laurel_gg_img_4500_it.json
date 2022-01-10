@@ -1,0 +1,50 @@
+{
+  "english": "laurel",
+  "list_translation_mean": [
+    {
+      "translate_mean": "công thành danh toại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cây nguyệt quế",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "any of a number of shrubs and other plants with dark green glossy leaves.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an aromatic evergreen shrub related to the bay tree, several kinds of which form forests in tropical and warm countries.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "bestow an award or praise on (someone) in recognition of an achievement.",
+      "definitions_ex_en": "she will be laureled alongside politicians, historians, and other actors",
+      "definitions_ex_vn": "Cô sẽ bị nguyền rủa cùng với các chính trị gia, nhà sử học và các diễn viên khác",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808363472_fdfd2f31f5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808363472_92d56f6fc6_o.png",
+      "id_image": "laurel_1929180"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809673704_03e4b86284_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809673704_3ddf015ae8_o.png",
+      "id_image": "laurel_4004038"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808363492_527ea9aa3a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808363492_d3b62354db_o.png",
+      "id_image": "laurel_530021"
+    }
+  ]
+}

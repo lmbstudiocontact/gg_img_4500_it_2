@@ -1,0 +1,24 @@
+{
+  "english": "insulation",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự cách điện",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the action of insulating something.",
+      "definitions_ex_en": "keep your home warmer through insulation",
+      "definitions_ex_vn": "Giữ ấm cho ngôi nhà của bạn thông qua cách nhiệt",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808388707_3211382e39_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808388707_d71b8490bc_o.png",
+      "id_image": "insulation_2779392"
+    }
+  ]
+}

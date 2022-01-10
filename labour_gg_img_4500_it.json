@@ -1,0 +1,114 @@
+{
+  "english": "labour",
+  "list_translation_mean": [
+    {
+      "translate_mean": "nhân công",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "công nhân",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "công việc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "công việc khó nhọc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "công việc vất vả",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hình khổ sai",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "làm việc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lao động",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự đau đẻ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiền công sửa chửa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vất vả",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "cày ruộng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đi tới",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm vất vả",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nghiên cứu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "rán sức làm lụng",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "work, especially hard physical work.",
+      "definitions_ex_en": "the price of repairs includes labor and parts",
+      "definitions_ex_vn": "Giá sửa chữa bao gồm lao động và các bộ phận",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(in the UK or Canada) the Labour Party.",
+      "definitions_ex_en": "the Labour leader",
+      "definitions_ex_vn": "lãnh đạo lao động",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the process of childbirth, especially the period from the start of uterine contractions to delivery.",
+      "definitions_ex_en": "his wife is in labor",
+      "definitions_ex_vn": "Vợ anh đang lao động",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "work hard; make great effort.",
+      "definitions_ex_en": "they labored from dawn to dusk",
+      "definitions_ex_vn": "họ đã lao động từ bình minh đến hoàng hôn",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "have difficulty in doing something despite working hard.",
+      "definitions_ex_en": "Coley labored against confident opponents",
+      "definitions_ex_vn": "Coley lao động chống lại đối thủ tự tin",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of a woman in childbirth) be in labor.",
+      "definitions_ex_en": "she labored very well and comfortably because she was relaxed",
+      "definitions_ex_vn": "Cô ấy đã lao động rất tốt và thoải mái vì cô ấy đã được thư giãn",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809678894_3f8aceb235_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809678894_e6292fa597_o.png",
+      "id_image": "labour_3158157"
+    }
+  ]
+}

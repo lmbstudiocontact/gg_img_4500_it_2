@@ -1,0 +1,66 @@
+{
+  "english": "multiple",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bội",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "có nhiều bộ phận",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "phức",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "kép",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "nhiều",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "nhiều phần",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "having or involving several parts, elements, or members.",
+      "definitions_ex_en": "multiple occupancy",
+      "definitions_ex_vn": "Nhiều phòng",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a number that can be divided by another number without a remainder.",
+      "definitions_ex_en": "15, 20, or any other multiple of five",
+      "definitions_ex_vn": "15, 20 hoặc bất kỳ bội số nào khác trong năm",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an arrangement of terminals that allows connection with an electrical circuit at any one of several points.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809332216_2546d97730_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809332216_a728cfc323_o.png",
+      "id_image": "multiple_2303907"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809332186_d7a5fd40ea_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809332186_892987db96_o.png",
+      "id_image": "multiple_2799870"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809447168_9075922c0c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809447168_e812f2aab9_o.png",
+      "id_image": "multiple_3527609"
+    }
+  ]
+}

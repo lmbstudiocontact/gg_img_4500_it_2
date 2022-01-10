@@ -1,0 +1,47 @@
+{
+  "english": "needlework",
+  "list_translation_mean": [
+    {
+      "translate_mean": "công việc của đàn bà như may",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "công việc may vá",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "việc làm bằng kim",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the art or practice of sewing or embroidery.",
+      "definitions_ex_en": "Mrs. Zurndorfer specializes in needlework",
+      "definitions_ex_vn": "Bà Zurndorfer chuyên may vá",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810062720_2459fd6bdc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810062720_1835544130_o.png",
+      "id_image": "needlework_2377455"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808370642_e61c398922_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808370642_5a84c95d16_o.png",
+      "id_image": "needlework_2737413"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809680964_f9e54d3ee9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809680964_a65a231175_o.png",
+      "id_image": "needlework_2803418"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809440768_9d792700c0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809440768_b96147c1ef_o.png",
+      "id_image": "needlework_3899220"
+    }
+  ]
+}

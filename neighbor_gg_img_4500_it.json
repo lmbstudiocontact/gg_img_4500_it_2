@@ -1,0 +1,58 @@
+{
+  "english": "neighbor",
+  "list_translation_mean": [
+    {
+      "translate_mean": "người bên cạnh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người hay làm ơn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người ở bên cạnh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người láng giềng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hàng xóm",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "người láng giềng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ở bên cạnh người nào",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ở gần",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person living near or next door to the speaker or person referred to.",
+      "definitions_ex_en": "our garden was the envy of the neighbors",
+      "definitions_ex_vn": "Khu vườn của chúng tôi là sự ghen tị của những người hàng xóm",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(of a place or thing) be situated next to or very near (another).",
+      "definitions_ex_en": "the square neighbors the old quarter of the town",
+      "definitions_ex_vn": "hàng xóm vuông khu phố cổ của thị trấn",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809440073_9bafe724e1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809440073_516ae2f77a_o.png",
+      "id_image": "neighbor_4550577"
+    }
+  ]
+}

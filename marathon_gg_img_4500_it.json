@@ -1,0 +1,38 @@
+{
+  "english": "marathon",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cuộc chạy đua đường trường",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cuộc thi sức dẻo dai",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a long-distance running race, strictly one of 26 miles 385 yards (42.195 km).",
+      "definitions_ex_en": "I was due to run the marathon the next day",
+      "definitions_ex_vn": "Tôi đã đến vì chạy marathon vào ngày hôm sau",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808368832_ff2322d19c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808368832_9322e4bbf2_o.png",
+      "id_image": "marathon_3708022"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810060795_3984e208e7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810060795_5777a35ae9_o.png",
+      "id_image": "marathon_3965879"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808368762_d0e4ce032a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808368762_60a7c723b2_o.png",
+      "id_image": "marathon_5200936"
+    }
+  ]
+}

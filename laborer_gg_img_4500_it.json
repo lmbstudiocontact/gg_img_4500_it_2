@@ -1,0 +1,32 @@
+{
+  "english": "laborer",
+  "list_translation_mean": [
+    {
+      "translate_mean": "người làm công",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người lao công",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người lao động",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person doing unskilled manual work for wages.",
+      "definitions_ex_en": "a farm laborer",
+      "definitions_ex_vn": "một người lao động nông trại",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809323686_f44f3a8e1f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809323686_4b9cc65aef_o.png",
+      "id_image": "laborer_6036776"
+    }
+  ]
+}

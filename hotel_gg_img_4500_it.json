@@ -1,0 +1,44 @@
+{
+  "english": "hotel",
+  "list_translation_mean": [
+    {
+      "translate_mean": "khách sạn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lữ quán",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an establishment providing accommodations, meals, and other services for travelers and tourists.",
+      "definitions_ex_en": "a five-star hotel",
+      "definitions_ex_vn": "Một khách sạn năm sao",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a code word representing the letter H, used in radio communication.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809444843_82099b008a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809444843_f1d08235f3_o.png",
+      "id_image": "hotel_1209462"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809444808_8869db9789_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809444808_13b5e1beb1_o.png",
+      "id_image": "hotel_1630869"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808374562_84b6bd7b72_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808374562_e0f6d1c071_o.png",
+      "id_image": "hotel_169440"
+    }
+  ]
+}

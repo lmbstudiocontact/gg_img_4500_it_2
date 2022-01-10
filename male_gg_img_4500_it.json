@@ -1,0 +1,47 @@
+{
+  "english": "male",
+  "list_translation_mean": [
+    {
+      "translate_mean": "nam",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "con trai",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "giống đực",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "phái nam",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "of or denoting the sex that produces small, typically motile gametes, especially spermatozoa, with which a female may be fertilized or inseminated to produce offspring.",
+      "definitions_ex_en": "male children",
+      "definitions_ex_vn": "Trẻ em nam",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a male animal or plant.",
+      "definitions_ex_en": "the males have brilliant sky-blue wings",
+      "definitions_ex_vn": "Những con đực có đôi cánh trên bầu trời rực rỡ",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809442983_15f0fa00c0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809442983_4540f0dc60_o.png",
+      "id_image": "male_5983706"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810064585_fd7d107938_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810064585_84965c2d93_o.png",
+      "id_image": "male_6314150"
+    }
+  ]
+}

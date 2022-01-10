@@ -1,0 +1,24 @@
+{
+  "english": "hospitalisation",
+  "list_translation_mean": [
+    {
+      "translate_mean": "nhận vào bịnh viện",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "admission to hospital for treatment.",
+      "definitions_ex_en": "serious cases involving liver damage may require hospitalization",
+      "definitions_ex_vn": "Các trường hợp nghiêm trọng liên quan đến tổn thương gan có thể phải nhập viện",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067700_fefa77b95a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067700_e539454d1a_o.png",
+      "id_image": "hospitalisation_2302715"
+    }
+  ]
+}

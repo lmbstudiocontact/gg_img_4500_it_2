@@ -1,0 +1,32 @@
+{
+  "english": "outer",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cú đánh đo ván",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "ở ngoài",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "phía ngoài của",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "outside; external.",
+      "definitions_ex_en": "the outer door",
+      "definitions_ex_vn": "Cửa ngoài",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808386622_259a25d7d8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808386622_4b4f7f591f_o.png",
+      "id_image": "outer_1994810"
+    }
+  ]
+}

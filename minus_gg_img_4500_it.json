@@ -1,0 +1,79 @@
+{
+  "english": "minus",
+  "list_translation_mean": [
+    {
+      "translate_mean": "dấu trừ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trừ",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "with the subtraction of.",
+      "definitions_ex_en": "what's ninety-three minus seven?",
+      "definitions_ex_vn": "Chín mươi ba trừ bảy là gì?",
+      "definitions_type_word": "preposition"
+    },
+    {
+      "definitions_word_en": "(of temperature) below zero.",
+      "definitions_ex_en": "minus 10° Fahrenheit",
+      "definitions_ex_vn": "trừ 10 ° Fahrenheit",
+      "definitions_type_word": "preposition"
+    },
+    {
+      "definitions_word_en": "(before a number) below zero; negative.",
+      "definitions_ex_en": "minus five",
+      "definitions_ex_vn": "trừ năm.",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(after a grade) slightly worse than.",
+      "definitions_ex_en": "my lowest grade was a B minus",
+      "definitions_ex_vn": "lớp thấp nhất của tôi là một b trừ",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "having a negative electric charge.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "short for minus sign.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a disadvantage.",
+      "definitions_ex_en": "for every plus with this equipment there can be a minus",
+      "definitions_ex_vn": "cho mỗi cộng với thiết bị này có thể có một điểm trừ",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809696789_84b27e5171_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809696789_1bc879562e_o.png",
+      "id_image": "minus_227949"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810078930_910b8f977e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810078930_09d25e60d3_o.png",
+      "id_image": "minus_2368488"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809341496_8c6f16e8b2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809341496_d54f9880fb_o.png",
+      "id_image": "minus_2844381"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809341481_8f822ce5ca_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809341481_701e907a62_o.png",
+      "id_image": "minus_5982743"
+    }
+  ]
+}

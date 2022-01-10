@@ -1,0 +1,61 @@
+{
+  "english": "merchant",
+  "list_translation_mean": [
+    {
+      "translate_mean": "tàu buôn",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thương thuyền",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "một người",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người buôn bán",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người buôn bán sĩ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person or company involved in wholesale trade, especially one dealing with foreign countries or supplying merchandise to a particular trade.",
+      "definitions_ex_en": "a tea merchant",
+      "definitions_ex_vn": "một tín hiệu trà",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "relating to merchants, trade, or commerce.",
+      "definitions_ex_en": "the growth of the merchant classes",
+      "definitions_ex_vn": "sự phát triển của các lớp thương gia",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809701409_a38dbfcaa4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809701409_926723f4c8_o.png",
+      "id_image": "merchant_1100474"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810083945_933164a965_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810083945_4670e27207_o.png",
+      "id_image": "merchant_2104181"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810083920_801c44cc14_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810083920_2bff45452a_o.png",
+      "id_image": "merchant_4016132"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809461233_03a1a02258_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809461233_fa5ac72e96_o.png",
+      "id_image": "merchant_4633140"
+    }
+  ]
+}

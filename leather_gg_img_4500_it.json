@@ -1,0 +1,74 @@
+{
+  "english": "leather",
+  "list_translation_mean": [
+    {
+      "translate_mean": "da",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "da thuộc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đồ làm bằng da",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "miếng da để liếc dao cạo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vải sơn giả da",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đánh đòn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trang sức bằng da",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trở nên cứng như da",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a material made from the skin of an animal by tanning or a similar process.",
+      "definitions_ex_en": "a leather jacket",
+      "definitions_ex_vn": "một chiếc áo khoác da",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a piece of leather as a polishing cloth.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "short for stirrup leather.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809462393_dbc1b88e61_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809462393_de923775e5_o.png",
+      "id_image": "leather_1466545"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808392542_cce1a41126_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808392542_d93a39892d_o.png",
+      "id_image": "leather_2865708"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809702359_d1285eb1f9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809702359_15d48543f2_o.png",
+      "id_image": "leather_4366753"
+    }
+  ]
+}

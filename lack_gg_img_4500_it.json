@@ -1,0 +1,59 @@
+{
+  "english": "lack",
+  "list_translation_mean": [
+    {
+      "translate_mean": "không có đủ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự túng thiếu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự thiếu thốn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tình trạng thiếu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "túng thiếu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "túng thiếu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thiếu thốn",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the state of being without or not having enough of something.",
+      "definitions_ex_en": "there is no lack of entertainment aboard ship",
+      "definitions_ex_vn": "Không có thiếu giải trí trên tàu tàu",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "be without or deficient in.",
+      "definitions_ex_en": "the novel lacks imagination",
+      "definitions_ex_vn": "Cuốn tiểu thuyết thiếu trí tưởng tượng",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810060140_4176ac166b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810060140_a84d769af7_o.png",
+      "id_image": "lack_5138722"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809323326_19b5e91d9c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809323326_2dcc5077f4_o.png",
+      "id_image": "lack_5278584"
+    }
+  ]
+}

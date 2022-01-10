@@ -1,0 +1,61 @@
+{
+  "english": "mushroom",
+  "list_translation_mean": [
+    {
+      "translate_mean": "nấm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người bạo phát",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhổ nấm",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a fungal growth that typically takes the form of a domed cap on a stalk, with gills on the underside of the cap.",
+      "definitions_ex_en": "she sautéd the mushrooms in butter",
+      "definitions_ex_vn": "Cô xào nấm bơ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a pale pinkish-brown color.",
+      "definitions_ex_en": "a mushroom leather bag",
+      "definitions_ex_vn": "một túi da nấm",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "increase, spread, or develop rapidly.",
+      "definitions_ex_en": "environmental concern mushroomed in the 1960s",
+      "definitions_ex_vn": "Mối quan tâm về môi trường mọc lên trong những năm 1960",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of the smoke, fire, or flames produced by an explosion) spread into the air in a shape resembling that of a mushroom.",
+      "definitions_ex_en": "the grenade mushroomed into red fire as it hit the hillside",
+      "definitions_ex_vn": "Lựu đạn rơi vào lửa đỏ khi nó đâm vào sườn đồi",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "gather mushrooms.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375697_33e2264790_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375697_16da7a8257_o.png",
+      "id_image": "mushroom_1135746"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375667_78334638f7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375667_fd26bb508c_o.png",
+      "id_image": "mushroom_1408997"
+    }
+  ]
+}

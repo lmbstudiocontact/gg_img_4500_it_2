@@ -1,0 +1,126 @@
+{
+  "english": "indent",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chổ hũng vào",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dấu lõm vào",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chổ lõm xuống",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "còm măng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đơn đặt mua hàng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lịnh sung công",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lún xuống",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mộng gỗ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cắt khía răng cưa",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đặt hàng hóa",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "in lõm xuống",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm móp",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lõm vào",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ráp mộng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "sắp chữ",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "start (a line of text) or position (a block of text, table, etc.) further from the margin than the main part of the text.",
+      "definitions_ex_en": "type a paragraph of text and indent the first line",
+      "definitions_ex_vn": "Nhập một đoạn văn bản và thụt lề dòng đầu tiên",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "form deep recesses or notches in (a line or surface).",
+      "definitions_ex_en": "a coastline indented by many fjords",
+      "definitions_ex_vn": "một đường bờ biển thụt bởi nhiều vịnh hẹp",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "divide (a document drawn up in duplicate) into its two copies with a zigzag line, thus ensuring identification.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "make a dent or impression in (something).",
+      "definitions_ex_en": "his chin was firm and slightly indented",
+      "definitions_ex_vn": "cằm của anh ấy cứng và hơi thụt lề",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a space left by indenting a line or block of text.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an indentation.",
+      "definitions_ex_en": "every indent in the coastline",
+      "definitions_ex_vn": "mỗi vết lõm trong bờ biển",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an indenture.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809673174_24e46b6606_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809673174_ae2baa9ac5_o.png",
+      "id_image": "indent_2844368"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810054990_d3913d1f44_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810054990_01bffd5f4d_o.png",
+      "id_image": "indent_930228"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809673194_02e16f75bc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809673194_222c88b242_o.png",
+      "id_image": "indent_930229"
+    }
+  ]
+}

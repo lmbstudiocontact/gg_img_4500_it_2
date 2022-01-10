@@ -1,0 +1,144 @@
+{
+  "english": "house",
+  "list_translation_mean": [
+    {
+      "translate_mean": "căn nhà",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chổ ở",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhà",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhà cửa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cất lúa vào kho",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cất vào vựa",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cho ở",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cho trọ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chứa",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đuổi súc vật vào chuồng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "dẹp xe vào ga ra",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "hạ xuống",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nuôi trong nhà",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ở",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trú",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a building for human habitation, especially one that is lived in by a family or small group of people.",
+      "definitions_ex_en": "my wife and I are moving to a new house",
+      "definitions_ex_vn": "Vợ tôi và tôi đang chuyển đến một ngôi nhà mới",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a building in which people meet for a particular activity.",
+      "definitions_ex_en": "a house of prayer",
+      "definitions_ex_vn": "một ngôi nhà cầu nguyện",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a religious community that occupies a particular building.",
+      "definitions_ex_en": "the Cistercian house at Clairvaux",
+      "definitions_ex_vn": "Nhà Cistercian tại Clairvaux",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a legislative or deliberative assembly.",
+      "definitions_ex_en": "the sixty-member National Council, the country's upper house",
+      "definitions_ex_vn": "Hội đồng quốc gia sáu mươi thành phần, nhà trên của đất nước",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a style of popular dance music typically using synthesized drum and bass lines, sparse repetitive vocals, and a fast beat.",
+      "definitions_ex_en": "DJs specializing in techno, garage, and house",
+      "definitions_ex_vn": "DJ chuyên về Techno, Garage và House",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "any of the twelve divisions of the celestial sphere, based on the positions of the ascendant and midheaven at a given time and place, and determined by any of a number of methods.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(of an animal or plant) kept in, frequenting, or infesting buildings.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "relating to a business, institution, or society.",
+      "definitions_ex_en": "a house journal",
+      "definitions_ex_vn": "một tạp chí nhà",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "provide (a person or animal) with shelter or living quarters.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "provide space for; accommodate.",
+      "definitions_ex_en": "the museum houses a collection of Roman sculpture",
+      "definitions_ex_vn": "Bảo tàng chứa một bộ sưu tập điêu khắc La Mã",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809684539_d2191bd11a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809684539_94063a0422_o.png",
+      "id_image": "house_123619"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810066295_942e775430_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810066295_e7238a0b57_o.png",
+      "id_image": "house_243265"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809329506_e52da3bf06_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809329506_a6231a100c_o.png",
+      "id_image": "house_288566"
+    }
+  ]
+}

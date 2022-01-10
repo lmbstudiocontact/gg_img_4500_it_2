@@ -1,0 +1,34 @@
+{
+  "english": "mausoleum",
+  "list_translation_mean": [
+    {
+      "translate_mean": "lăng tẩm",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a building, especially a large and stately one, housing a tomb or tombs.",
+      "definitions_ex_en": "the cathedral was built in 1517 as a royal mausoleum",
+      "definitions_ex_vn": "Nhà thờ được xây dựng vào năm 1517 như một lăng mộ hoàng gia",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808364347_26da0eeb95_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808364347_011ec08c58_o.png",
+      "id_image": "mausoleum_1450725"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809674539_4c7dbb780d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809674539_af3b750e63_o.png",
+      "id_image": "mausoleum_2457978"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809674489_7e2ea08ebe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809674489_4fe4375158_o.png",
+      "id_image": "mausoleum_6000988"
+    }
+  ]
+}

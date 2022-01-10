@@ -1,0 +1,52 @@
+{
+  "english": "intersection",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ngả tư đường",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự cắt tréo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự giao nhau",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a point or line common to lines or surfaces that intersect.",
+      "definitions_ex_en": "the intersection of a plane and a cone",
+      "definitions_ex_vn": "giao điểm của một mặt phẳng và một hình nón",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810078430_0d239bd6f8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810078430_da9eeb5836_o.png",
+      "id_image": "intersection_3058436"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809341031_76a4399f6d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809341031_6bdbf9e1d7_o.png",
+      "id_image": "intersection_3330734"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809455823_c1d3e93cf5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809455823_495cb91fc0_o.png",
+      "id_image": "intersection_3393544"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809455803_c17c170656_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809455803_974258aa74_o.png",
+      "id_image": "intersection_3680632"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808386107_c2499b6739_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808386107_82577e5619_o.png",
+      "id_image": "intersection_803225"
+    }
+  ]
+}

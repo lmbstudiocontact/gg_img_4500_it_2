@@ -1,0 +1,46 @@
+{
+  "english": "palace",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đại lữ quán",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "cung điện",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dinh thự",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhà hàng lớn",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the official residence of a sovereign, archbishop, bishop, or other exalted person.",
+      "definitions_ex_en": "the royal palace",
+      "definitions_ex_vn": "cung điện Hoàng gia",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335951_c24333974d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335951_1462410805_o.png",
+      "id_image": "palace_1065521"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335921_b7cf7607ae_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335921_22029c4bf0_o.png",
+      "id_image": "palace_2572020"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335881_65e20b7a8a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335881_91ea9342ae_o.png",
+      "id_image": "palace_4209592"
+    }
+  ]
+}

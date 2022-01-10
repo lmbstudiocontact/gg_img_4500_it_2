@@ -1,0 +1,36 @@
+{
+  "english": "inflammation",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự bắt lửa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự cháy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự kích thích",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự phát hỏa",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a localized physical condition in which part of the body becomes reddened, swollen, hot, and often painful, especially as a reaction to injury or infection.",
+      "definitions_ex_en": "chronic inflammation of the nasal cavities",
+      "definitions_ex_vn": "Viêm dữ liệu mãn tính của sâu răng mũi",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809431948_c1b160f24f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809431948_59a3130141_o.png",
+      "id_image": "inflammation_2037245"
+    }
+  ]
+}

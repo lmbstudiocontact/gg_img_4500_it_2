@@ -1,0 +1,89 @@
+{
+  "english": "lose",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thua",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "bỏ phí",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đánh mất",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lạc đường",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm cho mất vật gì",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "mất",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "mất thời gian",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thất kiện",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thất lạc",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trể",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "be deprived of or cease to have or retain (something).",
+      "definitions_ex_en": "I've lost my appetite",
+      "definitions_ex_vn": "Tôi đã mất sự thèm ăn của tôi",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "become unable to find (something or someone).",
+      "definitions_ex_en": "I've lost the car keys",
+      "definitions_ex_vn": "Tôi đã mất chìa khóa xe",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "fail to win (a game or contest).",
+      "definitions_ex_en": "they lost by one vote",
+      "definitions_ex_vn": "họ bị mất bởi một phiếu bầu",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "earn less (money) than one is spending or has spent.",
+      "definitions_ex_en": "the paper is losing $500,000 a month",
+      "definitions_ex_vn": "Bài viết đang mất 500.000 đô la một tháng",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "waste or fail to take advantage of (time or an opportunity).",
+      "definitions_ex_en": "they lost every chance to score in the first inning",
+      "definitions_ex_vn": "họ đã mất mỗi cơ hội để ghi điểm trong hiệp đầu tiên",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335351_a01bcec6ea_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335351_b9a27ce70c_o.png",
+      "id_image": "lose_4372342"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808380387_67e31b3db0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808380387_54140e4fdd_o.png",
+      "id_image": "lose_6329133"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "english": "lava",
+  "list_translation_mean": [
+    {
+      "translate_mean": "phún thạch",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "hot molten or semifluid rock erupted from a volcano or fissure, or solid rock resulting from cooling of this.",
+      "definitions_ex_en": "tablelands of lava",
+      "definitions_ex_vn": "TUBA CỦA LAVA.",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809434033_5a7032796e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809434033_b335c7d16e_o.png",
+      "id_image": "lava_1999812"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810055340_78d3d54754_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810055340_55af3ea3a5_o.png",
+      "id_image": "lava_3436620"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "english": "nausea",
+  "list_translation_mean": [
+    {
+      "translate_mean": "buồn mữa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "buồn nôn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự buồn nôn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự say sóng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a feeling of sickness with an inclination to vomit.",
+      "definitions_ex_en": "a wave of nausea engulfed him",
+      "definitions_ex_vn": "một làn sóng buồn nôn nhấn chìm anh ta",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808372032_13e2b5db51_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808372032_8e292dcaa8_o.png",
+      "id_image": "nausea_1805163"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809327281_6318714b81_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809327281_d346bf5ccc_o.png",
+      "id_image": "nausea_6349870"
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "english": "job",
+  "list_translation_mean": [
+    {
+      "translate_mean": "công việc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "việc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "việc làm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "việc làm khoán",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "việc làm thuê",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a paid position of regular employment.",
+      "definitions_ex_en": "a part-time job",
+      "definitions_ex_vn": "công việc bán thời gian",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a task or piece of work, especially one that is paid.",
+      "definitions_ex_en": "she wants to be left alone to get on with the job",
+      "definitions_ex_vn": "Cô ấy muốn bị bỏ lại một mình để hòa nhập với công việc",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a thing of a specified kind.",
+      "definitions_ex_en": "the car was a blue malevolent-looking job",
+      "definitions_ex_vn": "Chiếc xe là một công việc có vẻ độc ác màu xanh",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an act of prodding, thrusting, or wrenching.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "do casual or occasional work.",
+      "definitions_ex_en": "she jobbed as a waitress until her first role in a movie",
+      "definitions_ex_vn": "Cô đã làm việc như một cô hầu bàn cho đến khi vai diễn đầu tiên của mình trong một bộ phim",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "buy and sell (stocks) as a broker-dealer, especially on a small scale.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "turn a public office or a position of trust to private advantage.",
+      "definitions_ex_en": "if left unfettered he would job",
+      "definitions_ex_vn": "Nếu còn lại, anh ta sẽ làm việc",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "prod or stab.",
+      "definitions_ex_en": "he prepared to job the huge brute",
+      "definitions_ex_vn": "Anh chuẩn bị làm việc vũ phu khổng lồ",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810070575_77601cf1fd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810070575_dc99199822_o.png",
+      "id_image": "job_1418575"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688709_f68a1588a4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688709_96333d4a26_o.png",
+      "id_image": "job_5928334"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809448683_17c0817d73_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809448683_6f3b33b42c_o.png",
+      "id_image": "job_5928348"
+    }
+  ]
+}

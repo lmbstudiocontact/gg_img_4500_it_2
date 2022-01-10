@@ -1,0 +1,57 @@
+{
+  "english": "luxury",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đồ xa xí",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự lộng lẩy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự xa hoa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tính dâm dục",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the state of great comfort and extravagant living.",
+      "definitions_ex_en": "he lived a life of luxury",
+      "definitions_ex_vn": "anh ấy đã sống một cuộc sống xa xỉ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "luxurious or of the nature of a luxury.",
+      "definitions_ex_en": "a luxury yacht",
+      "definitions_ex_vn": "một du thuyền sang trọng.",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809446948_414a0aa306_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809446948_93b5af97b1_o.png",
+      "id_image": "luxury_4952989"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808376642_ce241c6ba7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808376642_a1d9757729_o.png",
+      "id_image": "luxury_4954412"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686884_b9c1a50401_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686884_b03ce4883c_o.png",
+      "id_image": "luxury_4954436"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686839_f77fdc3d6d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686839_dd29058a3f_o.png",
+      "id_image": "luxury_4954442"
+    }
+  ]
+}

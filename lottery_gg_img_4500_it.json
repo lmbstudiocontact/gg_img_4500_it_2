@@ -1,0 +1,39 @@
+{
+  "english": "lottery",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cuộc đánh số",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a means of raising money by selling numbered tickets and giving prizes to the holders of numbers drawn at random.",
+      "definitions_ex_en": "the introduction of a national lottery",
+      "definitions_ex_vn": "sự ra đời của một xổ số quốc gia",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809334716_a935f16b63_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809334716_19392d1c23_o.png",
+      "id_image": "lottery_218353"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809449708_9f0cc2bb03_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809449708_22aa7715ef_o.png",
+      "id_image": "lottery_218355"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810071615_de35729bf8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810071615_fa1197125e_o.png",
+      "id_image": "lottery_4658201"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809449623_799777e3ee_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809449623_c0df41b5c5_o.png",
+      "id_image": "lottery_4658208"
+    }
+  ]
+}

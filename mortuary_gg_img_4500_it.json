@@ -1,0 +1,42 @@
+{
+  "english": "mortuary",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đám ma",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "đám táng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thuộc về sự chết",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thuộc về sự chôn cất",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a funeral home or morgue.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "relating to burial or tombs.",
+      "definitions_ex_en": "mortuary rituals",
+      "definitions_ex_vn": "nghi lễ xác chết",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809691094_91e08b1fda_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809691094_f9550a1487_o.png",
+      "id_image": "mortuary_5967445"
+    }
+  ]
+}

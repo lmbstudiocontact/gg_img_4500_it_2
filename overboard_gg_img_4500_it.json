@@ -1,0 +1,28 @@
+{
+  "english": "overboard",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ngoài mạn",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "trên mạn",
+      "type_word": "adverb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "from a ship into the water.",
+      "definitions_ex_en": "the severe storm washed a man overboard",
+      "definitions_ex_vn": "Cơn bão dữ dội đã rửa một người đàn ông trên mạn",
+      "definitions_type_word": "adverb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809455558_25c65a166e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809455558_b8d5c19109_o.png",
+      "id_image": "overboard_168281"
+    }
+  ]
+}

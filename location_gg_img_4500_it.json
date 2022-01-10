@@ -1,0 +1,71 @@
+{
+  "english": "location",
+  "list_translation_mean": [
+    {
+      "translate_mean": "nơi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chổ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "quyền khai thác mỏ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự cho mướn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự cho thuê",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự đặt vào một chổ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự nuôi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự tìm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vị trí",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a particular place or position.",
+      "definitions_ex_en": "the property is set in a convenient location",
+      "definitions_ex_vn": "Tài sản được đặt ở một vị trí thuận tiện",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809693274_38ef67e00e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809693274_53fc9f43a7_o.png",
+      "id_image": "location_1149050"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809452898_9e3651c26d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809452898_3340fd04c6_o.png",
+      "id_image": "location_1284357"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809452863_f047c76275_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809452863_9d808d740d_o.png",
+      "id_image": "location_1284362"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809452953_8a8a65bcba_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809452953_7cb51a63d0_o.png",
+      "id_image": "location_495480"
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "english": "import",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ảnh hưởng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giá trị",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hàng hóa nhập cảng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nội dung",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự đem vào",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự nhập cảng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự quan trọng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "báo trước",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cho biết",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nghĩa là",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nhập cảng",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "bring (goods or services) into a country from abroad for sale.",
+      "definitions_ex_en": "Japan's reluctance to import more cars",
+      "definitions_ex_vn": "Sự miễn cưỡng của Nhật Bản để nhập khẩu nhiều ô tô",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "indicate or signify.",
+      "definitions_ex_en": "having thus seen, what is imported in a Man's trusting his Heart",
+      "definitions_ex_vn": "Do đó, đã thấy, những gì được nhập khẩu trong một người đàn ông đang tin tưởng vào trái tim anh ấy",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a commodity, article, or service brought in from abroad for sale.",
+      "definitions_ex_en": "cheap imports from eastern Europe",
+      "definitions_ex_vn": "Nhập khẩu giá rẻ từ Đông Âu",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the meaning or significance of something, especially when not directly stated.",
+      "definitions_ex_en": "the import of her message is clear",
+      "definitions_ex_vn": "Nhập thông điệp của cô ấy là rõ ràng",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809436113_5da15f6228_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809436113_8b87868f08_o.png",
+      "id_image": "import_384023"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365787_fdd2491e73_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365787_f621a2ab9b_o.png",
+      "id_image": "import_384025"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810057605_5553c7d0f1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810057605_50cd22c389_o.png",
+      "id_image": "import_4459833"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809320821_3e65175619_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809320821_ccaea972c6_o.png",
+      "id_image": "import_5132447"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810057555_21ca5b1bfe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810057555_dcea01f20c_o.png",
+      "id_image": "import_5496784"
+    }
+  ]
+}

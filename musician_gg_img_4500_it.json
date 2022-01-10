@@ -1,0 +1,46 @@
+{
+  "english": "musician",
+  "list_translation_mean": [
+    {
+      "translate_mean": "người soạn nhạc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người thích nhạc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người viết nhạc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhạc sĩ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person who plays a musical instrument, especially as a profession, or is musically talented.",
+      "definitions_ex_en": "your father was a fine musician",
+      "definitions_ex_vn": "Cha của bạn là một nhạc sĩ tốt",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809445603_b61f66ccae_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809445603_0b1ae77635_o.png",
+      "id_image": "musician_2637951"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375297_59d3169f79_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375297_72d94682bc_o.png",
+      "id_image": "musician_3044072"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809445538_49c4834d38_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809445538_73b4857018_o.png",
+      "id_image": "musician_4125075"
+    }
+  ]
+}

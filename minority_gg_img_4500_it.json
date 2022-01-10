@@ -1,0 +1,34 @@
+{
+  "english": "minority",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thiểu số",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vị thành niên",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the smaller number or part, especially a number that is less than half the whole number.",
+      "definitions_ex_en": "a minority party",
+      "definitions_ex_vn": "một đảng thiểu số",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the state or period of being under the age of full legal responsibility.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809341731_fe9a4ce26f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809341731_24a8ebc520_o.png",
+      "id_image": "minority_6334000"
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "english": "material",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cụ thể",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "hữu hình",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "không cao thượng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "quan trọng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "tục tằn",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thuộc về nhục về",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thuộc về vật chất",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "trọng yếu",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "vật chất",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "vật chất",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the matter from which a thing is or can be made.",
+      "definitions_ex_en": "goats can eat more or less any plant material",
+      "definitions_ex_vn": "Dê có thể ăn nhiều hơn hoặc ít vật liệu thực vật",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "facts, information, or ideas for use in creating a book or other work.",
+      "definitions_ex_en": "there is much good material here for priests to use in sermons",
+      "definitions_ex_vn": "Có nhiều tài liệu tốt ở đây để các linh mục sử dụng trong bài giảng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "cloth or fabric.",
+      "definitions_ex_en": "a piece of dark material",
+      "definitions_ex_vn": "một mảnh vật liệu tối",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "denoting or consisting of physical objects rather than the mind or spirit.",
+      "definitions_ex_en": "the material world",
+      "definitions_ex_vn": "thế giới vật chất",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "important; essential; relevant.",
+      "definitions_ex_en": "the insects did not do any material damage to the crop",
+      "definitions_ex_vn": "Côn trùng không làm bất kỳ thiệt hại vật chất nào cho cây trồng",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365212_f89425192a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365212_859b2fab3b_o.png",
+      "id_image": "material_1556235"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365167_643e3976c8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365167_c8c29b2478_o.png",
+      "id_image": "material_2137379"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809320271_a691b754b0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809320271_521f79bab9_o.png",
+      "id_image": "material_2137542"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809675324_19c4e6a3f2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809675324_497892d56c_o.png",
+      "id_image": "material_416213"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "english": "negotiate",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đàm phán",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "điều đình",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đổi chác",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "giao dịch",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm môi giới",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thương lượng",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "obtain or bring about by discussion.",
+      "definitions_ex_en": "he negotiated a new contract with the sellers",
+      "definitions_ex_vn": "Ông đã đàm phán một hợp đồng mới với người bán hàng",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "find a way over or through (an obstacle or difficult path).",
+      "definitions_ex_en": "there was a puddle to be negotiated",
+      "definitions_ex_vn": "Có một vũng nước được đàm phán",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "transfer (a check, bill, or other document) to the legal ownership of another person.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809440283_9be326b1de_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809440283_475d5645c4_o.png",
+      "id_image": "negotiate_4133549"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809680349_b5ee95aa45_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809680349_69dd33ede5_o.png",
+      "id_image": "negotiate_5965826"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "english": "mid",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chính giữa",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "khoảng giữa",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "ở giữa",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "of or in the middle part or position of a range.",
+      "definitions_ex_en": "the mid 17th century",
+      "definitions_ex_vn": "Thế kỷ 17",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "in the middle of.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "preposition"
+    },
+    {
+      "definitions_word_en": "denoting the middle of.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "combining form"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808389142_63011f61a2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808389142_ec23f67ac9_o.png",
+      "id_image": "mid_3014430"
+    }
+  ]
+}

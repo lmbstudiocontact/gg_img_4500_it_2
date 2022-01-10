@@ -1,0 +1,77 @@
+{
+  "english": "machine",
+  "list_translation_mean": [
+    {
+      "translate_mean": "phi cơ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cơ giới",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "guồng máy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "xe cộ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "máy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "máy may",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "máy móc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chế tạo",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trau lại",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an apparatus using or applying mechanical power and having several parts, each with a definite function and together performing a particular task.",
+      "definitions_ex_en": "a fax machine",
+      "definitions_ex_vn": "một cái máy fax",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(especially in manufacturing) make or operate on with a machine.",
+      "definitions_ex_en": "the cylinder covers are waiting to be machined",
+      "definitions_ex_vn": "Các nắp xi lanh đang chờ để được gia công",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809446293_01413e4d66_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809446293_33ec321903_o.png",
+      "id_image": "machine_297355"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067990_1c7172af85_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067990_6742e29b1b_o.png",
+      "id_image": "machine_416209"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067955_891114f3d1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067955_a6affbd5b9_o.png",
+      "id_image": "machine_416232"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809331216_5cb32b0687_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809331216_30d33fd993_o.png",
+      "id_image": "machine_830018"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "english": "municipality",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hội đồng thành phố",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thành phố",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thị trấn",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a city or town that has corporate status and local government.",
+      "definitions_ex_en": "voters in each municipality choose between four candidates",
+      "definitions_ex_vn": "Cử tri trong mỗi đô thị chọn giữa bốn ứng cử viên",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810068435_44b371732d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810068435_cde33025fb_o.png",
+      "id_image": "municipality_4430746"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "english": "lovesick",
+  "list_translation_mean": [
+    {
+      "translate_mean": "si tình",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thất tình",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "in love, or missing the person one loves, so much that one is unable to act normally.",
+      "definitions_ex_en": "a lovesick teenager",
+      "definitions_ex_vn": "một thiếu niên lovesick.",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808378832_54b4767418_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808378832_bb59803a5e_o.png",
+      "id_image": "lovesick_2651094"
+    }
+  ]
+}

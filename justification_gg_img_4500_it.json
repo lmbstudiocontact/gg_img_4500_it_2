@@ -1,0 +1,48 @@
+{
+  "english": "justification",
+  "list_translation_mean": [
+    {
+      "translate_mean": "lý lẽ bào chữa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự bào chữa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự biện hộ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự chứng minh là đúng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the action of showing something to be right or reasonable.",
+      "definitions_ex_en": "the justification of revolutionary action",
+      "definitions_ex_vn": "sự biện minh của hành động cách mạng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the action of declaring or making righteous in the sight of God.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the action or manner of justifying a line of type or piece of text.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809445068_18e0785a51_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809445068_b598c73995_o.png",
+      "id_image": "justice_1750503"
+    }
+  ]
+}

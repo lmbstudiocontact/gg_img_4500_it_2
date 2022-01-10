@@ -1,0 +1,80 @@
+{
+  "english": "ledger",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cây đàn ngang của cái giàn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hồ sơ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mộ thạch",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sổ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sổ cái",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sổ lớn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sổ sách",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a book or other collection of financial accounts of a particular type.",
+      "definitions_ex_en": "the total balance of the purchases ledger",
+      "definitions_ex_vn": "Tổng số dư của sổ cái mua hàng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a flat stone slab covering a grave.",
+      "definitions_ex_en": "the ledger stone of William Averie",
+      "definitions_ex_vn": "Đá sổ cái của William Averie",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a horizontal scaffolding pole, parallel to the face of the building.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810084530_b43a167593_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810084530_95e160f132_o.png",
+      "id_image": "ledger_1349753"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809461883_91d072e702_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809461883_2d7500380c_o.png",
+      "id_image": "ledger_1728971"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809461858_c837ed6c74_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809461858_68e0df1592_o.png",
+      "id_image": "ledger_1751739"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808391977_81ba90b3c6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808391977_4538173ed9_o.png",
+      "id_image": "ledger_5848083"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808391927_59d4375f66_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808391927_8590aaf542_o.png",
+      "id_image": "ledger_6139963"
+    }
+  ]
+}

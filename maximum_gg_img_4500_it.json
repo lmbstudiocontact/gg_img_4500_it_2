@@ -1,0 +1,36 @@
+{
+  "english": "maximum",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cực điểm",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "as great, high, or intense as possible or permitted.",
+      "definitions_ex_en": "the vehicle's maximum speed",
+      "definitions_ex_vn": "tốc độ tối đa của xe",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "the greatest or highest amount possible or attained.",
+      "definitions_ex_en": "the school takes a maximum of 32 students",
+      "definitions_ex_vn": "Trường học có tối đa 32 sinh viên",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "at the most.",
+      "definitions_ex_en": "it has a length of 4 feet maximum",
+      "definitions_ex_vn": "Nó có chiều dài tối đa 4 feet",
+      "definitions_type_word": "adverb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809674369_493638b08b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809674369_287612500b_o.png",
+      "id_image": "maximum_4745557"
+    }
+  ]
+}

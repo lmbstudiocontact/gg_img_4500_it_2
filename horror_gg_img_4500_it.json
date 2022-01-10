@@ -1,0 +1,53 @@
+{
+  "english": "horror",
+  "list_translation_mean": [
+    {
+      "translate_mean": "điều ghê sợ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "rùng rợn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự kinh khủng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an intense feeling of fear, shock, or disgust.",
+      "definitions_ex_en": "children screamed in horror",
+      "definitions_ex_vn": "Trẻ em hét lên kinh hoàng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a bad or mischievous person, especially a child.",
+      "definitions_ex_en": "that little horror Zach was around",
+      "definitions_ex_vn": "mà zach khủng khiếp đó đã ở xung quanh",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809331641_ef14440d5f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809331641_b205bab3ac_o.png",
+      "id_image": "horror_2040686"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809331596_5b48e55581_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809331596_b8f30205e8_o.png",
+      "id_image": "horror_2123879"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808376252_77d43cbf55_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808376252_d1ba83ff73_o.png",
+      "id_image": "horror_2446915"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809331516_32d03eb2f7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809331516_ac250c712e_o.png",
+      "id_image": "horror_6150434"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "english": "industry",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sở chế tạo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự chuyên cần",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự hết lòng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự siêng năng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "xưởng công nghiệp",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "economic activity concerned with the processing of raw materials and manufacture of goods in factories.",
+      "definitions_ex_en": "the competitiveness of American industry",
+      "definitions_ex_vn": "Khả năng cạnh tranh của ngành công nghiệp Mỹ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "hard work.",
+      "definitions_ex_en": "the kitchen became a hive of industry",
+      "definitions_ex_vn": "Nhà bếp đã trở thành một tổ ong của ngành công nghiệp",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808361752_0314a3839a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808361752_5cf7b3e1a5_o.png",
+      "id_image": "industry_1437238"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810053805_9082685e00_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810053805_d06fc8b5d2_o.png",
+      "id_image": "industry_1437239"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809432473_536f87c659_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809432473_b6731a850f_o.png",
+      "id_image": "industry_2143482"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809672059_357e84a7ba_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809672059_192ee1b063_o.png",
+      "id_image": "industry_2994350"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809317306_c81c4e12ab_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809317306_2d3a2a6f9d_o.png",
+      "id_image": "industry_5434557"
+    }
+  ]
+}

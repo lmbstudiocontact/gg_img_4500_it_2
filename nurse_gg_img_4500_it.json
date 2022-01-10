@@ -1,0 +1,113 @@
+{
+  "english": "nurse",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chị vú",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "kiến thợ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nữ điều dưỡng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nữ khán hộ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vú em",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "y tá",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người đàn bà giữ trẻ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người điều dưỡng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người khán hộ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhũ mẫu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ong thợ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nuôi cảm tình",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nuôi hy vọng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "rán săn sóc cho mau hết",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "săn sóc",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nuôi vú một đứa nhỏ",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person trained to care for the sick or infirm, especially in a hospital.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a grayish Australian shark of shallow inshore waters.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "give medical and other attention to (a sick person).",
+      "definitions_ex_en": "she nursed the girl through a dangerous illness",
+      "definitions_ex_vn": "Cô ấy nuôi con gái thông qua một căn bệnh nguy hiểm",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "feed (a baby) at the breast.",
+      "definitions_ex_en": "the women nursed their babies",
+      "definitions_ex_vn": "Những người phụ nữ chăm sóc em bé của họ",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "try to play strokes which keep (the balls) close together.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809319616_8a5f7e0644_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809319616_5101915ab0_o.png",
+      "id_image": "nurse_203108"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809434688_330506ca29_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809434688_7f8412ab92_o.png",
+      "id_image": "nurse_822111"
+    }
+  ]
+}

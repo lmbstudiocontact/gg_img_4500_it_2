@@ -1,0 +1,30 @@
+{
+  "english": "judgment",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự xét xử",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the ability to make considered decisions or come to sensible conclusions.",
+      "definitions_ex_en": "an error of judgment",
+      "definitions_ex_vn": "một lỗi đánh giá",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a misfortune or calamity viewed as a divine punishment.",
+      "definitions_ex_en": "the crash had been a judgment on the parents for wickedness",
+      "definitions_ex_vn": "Vụ tai nạn đã là một bản án về cha mẹ vì sự xấu xa",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808376342_832db08024_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808376342_107d571e03_o.png",
+      "id_image": "judgment_5411061"
+    }
+  ]
+}

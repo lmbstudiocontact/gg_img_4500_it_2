@@ -1,0 +1,48 @@
+{
+  "english": "medieval",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thuộc về trung cổ",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "trung cổ",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "relating to the Middle Ages.",
+      "definitions_ex_en": "a medieval castle",
+      "definitions_ex_vn": "một lâu đài thời trung cổ",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810086330_662ffb7c64_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810086330_35f9f5bef7_o.png",
+      "id_image": "medieval_1425387"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808393807_68e605b7b7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808393807_4103de2b24_o.png",
+      "id_image": "medieval_1800233"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809463723_ee0a86c7dc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809463723_d18dcdd93c_o.png",
+      "id_image": "medieval_1902287"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810086235_ccdbd59915_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810086235_2dc3232722_o.png",
+      "id_image": "medieval_4127113"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809463693_e3061d3cb6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809463693_7e346582c4_o.png",
+      "id_image": "medieval_5234363"
+    }
+  ]
+}

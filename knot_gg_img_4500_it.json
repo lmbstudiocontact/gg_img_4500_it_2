@@ -1,0 +1,140 @@
+{
+  "english": "knot",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chủ yếu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dây tơ hồng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mắt cây",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mối khó",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nút",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nghĩa vợ chồng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "yếu điểm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đám người",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "gút dây",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hải lý",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "làm tréo",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nối hai sợi dây lại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thắt gút",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thắt nút",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a fastening made by tying a piece of string, rope, or something similar.",
+      "definitions_ex_en": "tie a knot at the end of the cord",
+      "definitions_ex_vn": "buộc một nút ở cuối dây",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a tangled mass in something such as hair.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a knob, protuberance, or node in a stem, branch, or root.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an unpleasant feeling of tightness or tension in a part of the body.",
+      "definitions_ex_en": "her stomach was in knots as she unlocked the door",
+      "definitions_ex_vn": "Dạ dày của cô là trong các nút thắt khi cô mở khóa cửa",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a small tightly packed group of people.",
+      "definitions_ex_en": "the little knot of people clustered around the doorway",
+      "definitions_ex_vn": "Knot nhỏ của những người tụ tập quanh ngưỡng cửa",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a unit of speed equivalent to one nautical mile per hour, used especially of ships, aircraft, or winds.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a small, relatively short-billed sandpiper, with a reddish-brown or blackish breast in the breeding season.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "fasten with a knot.",
+      "definitions_ex_en": "the scarves were knotted loosely around their throats",
+      "definitions_ex_vn": "Những chiếc khăn bị thắt nút lỏng lẻo xung quanh cổ họng của họ",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "make (something, especially hair) tangled.",
+      "definitions_ex_en": "the shampoo knotted my hair terribly",
+      "definitions_ex_vn": "Dầu gội thắt tóc của tôi khủng khiếp",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "cause (a muscle) to become tense and hard.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810061845_c5e3f150aa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810061845_f1ffa15ec2_o.png",
+      "id_image": "knot_2485126"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809324951_7c906f45f7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809324951_6d097cf8e0_o.png",
+      "id_image": "knot_2485183"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809440033_5c309f4ee2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809440033_2d9b2628e7_o.png",
+      "id_image": "knot_486366"
+    }
+  ]
+}

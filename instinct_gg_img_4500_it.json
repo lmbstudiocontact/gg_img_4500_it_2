@@ -1,0 +1,39 @@
+{
+  "english": "instinct",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thiên tính",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "bản năng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an innate, typically fixed pattern of behavior in animals in response to certain stimuli.",
+      "definitions_ex_en": "birds have an instinct to build nests",
+      "definitions_ex_vn": "Chim có một bản năng để xây dựng tổ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "imbued or filled with (a quality, especially a desirable one).",
+      "definitions_ex_en": "these canvases are instinct with passion",
+      "definitions_ex_vn": "Những bức tranh này là bản năng với niềm đam mê",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809459183_bf939200b8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809459183_378474b106_o.png",
+      "id_image": "instinct_188972"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809699469_f68daafdae_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809699469_333021571a_o.png",
+      "id_image": "instinct_189010"
+    }
+  ]
+}

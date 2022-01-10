@@ -1,0 +1,72 @@
+{
+  "english": "hug",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ôm",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "giữ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "không bỏ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ôm vào lòng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "siết chặt",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ôm nhau",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "siết chặt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự ôm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự ôm chặt",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "squeeze (someone) tightly in one's arms, typically to express affection.",
+      "definitions_ex_en": "he hugged her close to him",
+      "definitions_ex_vn": "Anh ôm cô gần anh",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "an act of holding someone tightly in one's arms, typically to express affection.",
+      "definitions_ex_en": "there were hugs and tears as they were reunited",
+      "definitions_ex_vn": "Có những cái ôm và nước mắt khi họ được đoàn tụ",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809443483_d7c3db96fb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809443483_29ae80a3e9_o.png",
+      "id_image": "hug_1141114"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683539_33c1fc1fb7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683539_e54e482b8d_o.png",
+      "id_image": "hug_4099052"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809443433_661d573dbc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809443433_5c1ea4542a_o.png",
+      "id_image": "hug_5065458"
+    }
+  ]
+}

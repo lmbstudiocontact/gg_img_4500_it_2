@@ -1,0 +1,82 @@
+{
+  "english": "lumber",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đồ đạc cũ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đồ kềnh càng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiệm bán gổ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trại cưa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "gổ để cất nhà",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bày kềnh càng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chất bừa bải",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đi ra cách nặng nề",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đi vào",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm bề bộn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm choán chổ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm cho chật chọi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm lộn xộn",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "move in a slow, heavy, awkward way.",
+      "definitions_ex_en": "a truck filled his mirror and lumbered past",
+      "definitions_ex_vn": "một chiếc xe tải chứa đầy gương của mình và vượt qua quá khứ",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809447843_5dbc253b10_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809447843_6e3dc093d2_o.png",
+      "id_image": "lumber_2559448"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809447798_7bb0f92faa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809447798_d250367b70_o.png",
+      "id_image": "lumber_4104463"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809447748_6237740171_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809447748_ebe25291ee_o.png",
+      "id_image": "lumber_4251853"
+    }
+  ]
+}

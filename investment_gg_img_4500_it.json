@@ -1,0 +1,86 @@
+{
+  "english": "investment",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bỏ vốn đầu tư",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự bao vây",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự bỏ vốn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự đặt tiền có lời",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự đặt tiền đầu tư",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự mặc quần áo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự vây",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự xuất vốn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiền đầu tư",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "xuất vốn đầu tư",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the action or process of investing money for profit or material result.",
+      "definitions_ex_en": "a debate over private investment in road-building",
+      "definitions_ex_vn": "một cuộc tranh luận về đầu tư tư nhân vào tòa nhà đường bộ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the surrounding of a place by a hostile force in order to besiege or blockade it.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809453658_6bf11fcf50_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809453658_d6033f479a_o.png",
+      "id_image": "investment_1329491"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809338576_ec266681b6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809338576_c44eff94b7_o.png",
+      "id_image": "investment_1441962"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808383452_2c212977fc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808383452_56e2e97f70_o.png",
+      "id_image": "investment_1442358"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808383527_ed70aab310_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808383527_e99c7dddcb_o.png",
+      "id_image": "investment_180816"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808383427_0bde9fe1aa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808383427_15dd4d937f_o.png",
+      "id_image": "investment_2761055"
+    }
+  ]
+}

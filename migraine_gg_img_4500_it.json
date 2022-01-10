@@ -1,0 +1,33 @@
+{
+  "english": "migraine",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chứng nhức đầu một bên",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đau nửa đầu",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a recurrent throbbing headache that typically affects one side of the head and is often accompanied by nausea and disturbed vision.",
+      "definitions_ex_en": "I'm getting a migraine",
+      "definitions_ex_vn": "Tôi đang bị đau nửa đầu",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809458853_9eca02daf4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809458853_46de011f92_o.png",
+      "id_image": "migraine_1546180"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809699234_69d8208240_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809699234_2cf9a2e1ec_o.png",
+      "id_image": "migraine_3998088"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "english": "keyboard",
+  "list_translation_mean": [
+    {
+      "translate_mean": "máy đánh chữ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mặt dương cầm",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a panel of keys that operate a computer or typewriter.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a set of keys on a piano or similar musical instrument.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "enter (data) by means of a keyboard.",
+      "definitions_ex_en": "entries would be keyboarded",
+      "definitions_ex_vn": "Bài dự thi sẽ được bàn phím",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808373512_1f11949ba5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808373512_056c321b4b_o.png",
+      "id_image": "keyboard_417601"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683789_9cfe15eed2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683789_c77c43f79d_o.png",
+      "id_image": "keyboard_420990"
+    }
+  ]
+}

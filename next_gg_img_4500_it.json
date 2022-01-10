@@ -1,0 +1,95 @@
+{
+  "english": "next",
+  "list_translation_mean": [
+    {
+      "translate_mean": "gần bên",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "kế bên",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "ở gần",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "tới",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "kế tiếp",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "bên cạnh",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "chỉ thời gian sau",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "lần sau",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "nơi gần hơn hết",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "chỉ việc sắp tới",
+      "type_word": "adverb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "(of a time or season) coming immediately after the time of writing or speaking.",
+      "definitions_ex_en": "we'll go next year",
+      "definitions_ex_vn": "Chúng tôi sẽ đi vào năm tới",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "coming immediately after the present one in order, rank, or space.",
+      "definitions_ex_en": "the woman in the next room",
+      "definitions_ex_vn": "Người phụ nữ ở phòng bên cạnh",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "on the first or soonest occasion after the present; immediately afterwards.",
+      "definitions_ex_en": "he wondered what would happen next",
+      "definitions_ex_vn": "Anh tự hỏi chuyện gì sẽ xảy ra tiếp theo",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "following in the specified order.",
+      "definitions_ex_en": "Jo was the next oldest after Martin",
+      "definitions_ex_vn": "Jo là lâu đời nhất tiếp theo sau Martin",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "the next person or thing.",
+      "definitions_ex_en": "the week after next",
+      "definitions_ex_vn": "tuần sau",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "next to.",
+      "definitions_ex_en": "he plodded along next him",
+      "definitions_ex_vn": "anh ấy đã tập trung vào anh ấy tiếp theo",
+      "definitions_type_word": "preposition"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809438153_26f0a37824_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809438153_48baec11d6_o.png",
+      "id_image": "next_452320"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809438113_32497c3687_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809438113_db30d70c43_o.png",
+      "id_image": "next_6321842"
+    }
+  ]
+}

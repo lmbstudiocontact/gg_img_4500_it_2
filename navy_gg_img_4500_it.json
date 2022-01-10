@@ -1,0 +1,39 @@
+{
+  "english": "navy",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hải quân",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hạm đội của một nước",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the branch of a nation's armed services that conducts military operations at sea.",
+      "definitions_ex_en": "she joined the navy in 1990",
+      "definitions_ex_vn": "Cô gia nhập Hải quân vào năm 1990",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a dark blue color.",
+      "definitions_ex_en": "a navy-blue suit",
+      "definitions_ex_vn": "một bộ đồ màu xanh hải quân",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809441913_3177ba75a3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809441913_5231de5cb0_o.png",
+      "id_image": "navy_2642269"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809326841_8a9419cff9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809326841_90bed23845_o.png",
+      "id_image": "navy_3856868"
+    }
+  ]
+}

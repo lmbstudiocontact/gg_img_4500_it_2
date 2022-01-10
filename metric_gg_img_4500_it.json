@@ -1,0 +1,60 @@
+{
+  "english": "metric",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thuộc về thước tây",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "of or based on the meter as a unit of length; relating to the metric system.",
+      "definitions_ex_en": "all measurements are given in metric form",
+      "definitions_ex_vn": "Tất cả các phép đo được đưa ra theo dạng số liệu",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "relating to or denoting a metric.",
+      "definitions_ex_en": "the metric equation of Minkowski space–time",
+      "definitions_ex_vn": "Phương trình số liệu của không gian Minkowski",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "relating to or composed in a poetic meter.",
+      "definitions_ex_en": "the public recitation of metric, rhyming verse",
+      "definitions_ex_vn": "bài đọc công khai của số liệu, vần điệu",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a system or standard of measurement.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "metric units, or the metric system.",
+      "definitions_ex_en": "it's easier to work in metric",
+      "definitions_ex_vn": "Nó dễ dàng hơn để làm việc theo số liệu",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the meter of a poem.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "in adjectives corresponding to nouns ending in -meter (such as geometric corresponding to geometer and geometry ).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "combining form"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809700024_50ee3a4316_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809700024_8b9d67ed85_o.png",
+      "id_image": "metric_5488030"
+    }
+  ]
+}

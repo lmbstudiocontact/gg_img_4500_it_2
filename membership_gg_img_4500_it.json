@@ -1,0 +1,56 @@
+{
+  "english": "membership",
+  "list_translation_mean": [
+    {
+      "translate_mean": "nhân viên",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đảng viên",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "số hội viên",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tư cách hội viên",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the fact of being a member of a group.",
+      "definitions_ex_en": "I was selected for membership in the National Honor Society",
+      "definitions_ex_vn": "Tôi đã được chọn để thành viên trong Hiệp hội danh dự quốc gia",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809347771_8162974897_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809347771_d49929ed1e_o.png",
+      "id_image": "membership_2016300"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809462513_9834557d46_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809462513_0f94f83e71_o.png",
+      "id_image": "membership_5072000"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809347691_f2b62a6cec_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809347691_44dc565412_o.png",
+      "id_image": "membership_5301441"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809462443_f28e1026a3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809462443_8a02f51740_o.png",
+      "id_image": "membership_5455944"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808392557_efd23385f2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808392557_97b001b04b_o.png",
+      "id_image": "membership_5983730"
+    }
+  ]
+}

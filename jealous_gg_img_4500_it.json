@@ -1,0 +1,57 @@
+{
+  "english": "jealous",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ghen tuông",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "hay ghen",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "bo bo giữ chặt",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "đố kỵ",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "ghen tị",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "ghen ghét",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "hết sức giữ gìn",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "tha thiết bảo vệ",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "feeling or showing envy of someone or their achievements and advantages.",
+      "definitions_ex_en": "he grew jealous of her success",
+      "definitions_ex_vn": "Anh ấy đã ghen tị với thành công của cô ấy",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335236_38be49b55d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335236_12aefdbd0a_o.png",
+      "id_image": "jealous_5259980"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809450238_90fe432912_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809450238_65eeb87aa7_o.png",
+      "id_image": "jealous_6010276"
+    }
+  ]
+}

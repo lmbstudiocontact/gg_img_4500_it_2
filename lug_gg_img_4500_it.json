@@ -1,0 +1,86 @@
+{
+  "english": "lug",
+  "list_translation_mean": [
+    {
+      "translate_mean": "tai",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "buồm bốn gốc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cái tai",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phần nhô ra",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự giật mạnh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự kéo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự thình lình",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vật chỉa ra",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giật mạnh",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "giật thình lình",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "kéo vật gì",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lôi vật gì",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "carry or drag (a heavy or bulky object) with great effort.",
+      "definitions_ex_en": "she began to lug her suitcase down the stairs",
+      "definitions_ex_vn": "Cô bắt đầu vỗ vali xuống cầu thang",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a box or crate used for transporting fruit.",
+      "definitions_ex_en": "a truck piled high with wooden lugs of grapes",
+      "definitions_ex_vn": "một chiếc xe tải chất đống với những vệt gỗ của nho",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a projection on an object by which it may be carried or fixed in place.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "short for lugworm.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688144_38b08f4d51_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688144_ecc9fa7f2d_o.png",
+      "id_image": "lug_1772564"
+    }
+  ]
+}

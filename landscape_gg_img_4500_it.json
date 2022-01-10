@@ -1,0 +1,60 @@
+{
+  "english": "landscape",
+  "list_translation_mean": [
+    {
+      "translate_mean": "người làm vườn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cắt cỏ",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "all the visible features of an area of countryside or land, often considered in terms of their aesthetic appeal.",
+      "definitions_ex_en": "a bleak urban landscape",
+      "definitions_ex_vn": "một cảnh quan đô thị ảm đạm",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(of a page, book, or illustration, or the manner in which it is set or printed) wider than it is high.",
+      "definitions_ex_en": "landscape format",
+      "definitions_ex_vn": "định dạng cảnh",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "make (a piece of land) more attractive by altering the existing design, adding ornamental features, and planting trees and shrubs.",
+      "definitions_ex_en": "the site has been tastefully landscaped",
+      "definitions_ex_vn": "Trang web đã được cảnh quan trang nhã",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809676274_0d46224df3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809676274_b1dca68f65_o.png",
+      "id_image": "landscape_1283681"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809321161_b2e455ac50_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809321161_79ba9cc7c0_o.png",
+      "id_image": "landscape_2191445"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810057880_764bfaf66c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810057880_bda6d54706_o.png",
+      "id_image": "landscape_4647939"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809436338_1cb84a7905_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809436338_b6ac4d5fe3_o.png",
+      "id_image": "landscape_4966252"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365982_a5f3e314dd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365982_d7978735eb_o.png",
+      "id_image": "landscape_4968163"
+    }
+  ]
+}

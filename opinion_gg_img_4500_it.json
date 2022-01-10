@@ -1,0 +1,48 @@
+{
+  "english": "opinion",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự coi mạch",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ý kiến",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a view or judgment formed about something, not necessarily based on fact or knowledge.",
+      "definitions_ex_en": "I'm writing to voice my opinion on an issue of great importance",
+      "definitions_ex_vn": "Tôi đang viết để nói lên ý kiến của mình về một vấn đề có tầm quan trọng lớn",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809345731_a4eaeffba1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809345731_3f854ff797_o.png",
+      "id_image": "opinion_1162293"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809700809_8fea0941a4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809700809_6792939f63_o.png",
+      "id_image": "opinion_1396604"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810083230_9e4894f2e3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810083230_6a0673a810_o.png",
+      "id_image": "opinion_171693"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809700789_95c603ca04_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809700789_11f3a97eac_o.png",
+      "id_image": "opinion_5226377"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809700764_b026f8b560_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809700764_92042b07e8_o.png",
+      "id_image": "opinion_5779045"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "english": "oversee",
+  "list_translation_mean": [
+    {
+      "translate_mean": "trông nom",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "coi sóc",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "giám thị",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "supervise (a person or work), especially in an official capacity.",
+      "definitions_ex_en": "a trustee appointed to oversee Corrie's finances",
+      "definitions_ex_vn": "Một ủy thác được bổ nhiệm để giám sát tài chính của Corrie",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809454913_8750f27eb7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809454913_a85abe5860_o.png",
+      "id_image": "oversee_6041210"
+    }
+  ]
+}

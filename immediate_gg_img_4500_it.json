@@ -1,0 +1,52 @@
+{
+  "english": "immediate",
+  "list_translation_mean": [
+    {
+      "translate_mean": "gấp",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "lập tức",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "tức thì",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "trực tiếp",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "vội",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "occurring or done at once; instant.",
+      "definitions_ex_en": "the authorities took no immediate action",
+      "definitions_ex_vn": "Các cơ quan chức năng không có hành động ngay lập tức",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "nearest in time, relationship, or rank.",
+      "definitions_ex_en": "a funeral with only the immediate family in attendance",
+      "definitions_ex_vn": "một đám tang chỉ có gia đình ngay lập tức tham dự",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of knowledge or reaction) gained or shown without reasoning; intuitive.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809437613_61a4fa05d0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809437613_feb0a2e26a_o.png",
+      "id_image": "immediate_5361451"
+    }
+  ]
+}

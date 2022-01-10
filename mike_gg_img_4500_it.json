@@ -1,0 +1,44 @@
+{
+  "english": "mike",
+  "list_translation_mean": [
+    {
+      "translate_mean": "trốn trạm dịch",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chữ tắt của microphone",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm biếng",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a microphone.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a code word representing the letter M, used in radio communication.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "place a microphone close to (someone or something) or in (a place).",
+      "definitions_ex_en": "the minister was already miked up for the interview",
+      "definitions_ex_vn": "Bộ trưởng đã được Miked cho cuộc phỏng vấn",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809699159_58779b756f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809699159_f70f811da6_o.png",
+      "id_image": "mike_6388866"
+    }
+  ]
+}

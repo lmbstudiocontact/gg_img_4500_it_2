@@ -1,0 +1,53 @@
+{
+  "english": "influence",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ảnh hưởng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thế lực",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "làm có ảnh hưởng",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the capacity to have an effect on the character, development, or behavior of someone or something, or the effect itself.",
+      "definitions_ex_en": "the influence of television violence",
+      "definitions_ex_vn": "ảnh hưởng của bạo lực truyền hình",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "have an influence on.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809431853_a630ef8312_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809431853_d2ff39850c_o.png",
+      "id_image": "influence_1622692"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809431823_1935ae9e83_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809431823_6c5f02cbe7_o.png",
+      "id_image": "influence_3391572"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810053240_beaedcd720_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810053240_b9a1cf53b2_o.png",
+      "id_image": "influence_4412638"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809671489_71c0647511_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809671489_faf24c913a_o.png",
+      "id_image": "influence_4412696"
+    }
+  ]
+}

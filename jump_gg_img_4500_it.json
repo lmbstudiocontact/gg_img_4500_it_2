@@ -1,0 +1,68 @@
+{
+  "english": "jump",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bước nhảy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự nhảy",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "push oneself off a surface and into the air by using the muscles in one's legs and feet.",
+      "definitions_ex_en": "the cat jumped off his lap",
+      "definitions_ex_vn": "Con mèo nhảy khỏi lòng",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of a person) move suddenly and quickly in a specified way.",
+      "definitions_ex_en": "Juliet jumped to her feet",
+      "definitions_ex_vn": "Juliet nhảy xuống chân",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "attack (someone) suddenly and unexpectedly.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of a place) be full of lively activity.",
+      "definitions_ex_en": "the bar is jumping on Fridays and Saturdays",
+      "definitions_ex_vn": "Thanh đang nhảy vào thứ Sáu và thứ Bảy",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "an act of jumping from a surface by pushing upward with one's legs and feet.",
+      "definitions_ex_en": "in making the short jump across the gully he lost his balance",
+      "definitions_ex_vn": "Trong việc nhảy nhanh trên khe, anh ta mất thăng bằng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a sudden involuntary movement caused by shock or surprise.",
+      "definitions_ex_en": "I woke up with a jump",
+      "definitions_ex_vn": "Tôi thức dậy với một cú nhảy",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067765_9fb14ea411_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067765_d8280acd02_o.png",
+      "id_image": "jump_4524533"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809685949_82186280cc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809685949_5697ce2d6f_o.png",
+      "id_image": "jump_5524975"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067685_5f90d083c6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067685_8054852771_o.png",
+      "id_image": "jump_5775865"
+    }
+  ]
+}

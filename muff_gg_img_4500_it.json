@@ -1,0 +1,61 @@
+{
+  "english": "muff",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cú đánh trật",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khâu để nối hai đầu ống",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người khờ dại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người ngu ngốc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thứ bao tay bằng lông",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đánh hụt",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a tube made of fur or other warm material into which the hands are placed for warmth.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a mistake or failure, especially a failure to catch or receive a ball cleanly.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "handle (a situation, task, or opportunity) clumsily or badly.",
+      "definitions_ex_en": "they muffed several of their biggest projects",
+      "definitions_ex_vn": "họ làm cho một số dự án lớn nhất của họ",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809447863_744dab417e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809447863_2a7e2e5174_o.png",
+      "id_image": "muff_5234208"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809332801_de6afb6379_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809332801_73066e21a2_o.png",
+      "id_image": "muff_5776512"
+    }
+  ]
+}

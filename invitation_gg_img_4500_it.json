@@ -1,0 +1,42 @@
+{
+  "english": "invitation",
+  "list_translation_mean": [
+    {
+      "translate_mean": "lời mời",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự mời",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thỉnh cầu",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a written or verbal request inviting someone to go somewhere or to do something.",
+      "definitions_ex_en": "a wedding invitation",
+      "definitions_ex_vn": "một lời mời đám cưới",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810075215_0acd261bb2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810075215_62932d5c87_o.png",
+      "id_image": "invitation_1660235"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809453043_7f42568a7c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809453043_6958895bd9_o.png",
+      "id_image": "invitation_1711925"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809338181_2f71a6f043_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809338181_aacb5813e8_o.png",
+      "id_image": "invitation_443586"
+    }
+  ]
+}

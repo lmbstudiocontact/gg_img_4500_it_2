@@ -1,0 +1,59 @@
+{
+  "english": "lamp",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đèn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đèn lồng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đèn xe hơi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chiếu sáng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nhìn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "soi sáng",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a device for giving light, either one consisting of an electric bulb together with its holder and shade or cover, or one burning gas or a liquid fuel and consisting of a wick or mantle and a glass shade.",
+      "definitions_ex_en": "a table lamp",
+      "definitions_ex_vn": "một cái bàn",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808367072_8c3233a6a7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808367072_00b31f6135_o.png",
+      "id_image": "lamp_1108652"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809437503_7b24c3dbac_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809437503_30034d307f_o.png",
+      "id_image": "lamp_164353"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810059015_bb1067f831_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810059015_a7779ab184_o.png",
+      "id_image": "lamp_168635"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809437438_25b6d89575_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809437438_df172a622b_o.png",
+      "id_image": "lamp_292025"
+    }
+  ]
+}

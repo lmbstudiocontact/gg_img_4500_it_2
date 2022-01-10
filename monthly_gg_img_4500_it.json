@@ -1,0 +1,64 @@
+{
+  "english": "monthly",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hằng tháng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "mỗi tháng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "hằng tháng",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "báo xuất bản hàng tháng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "done, produced, or occurring once a month.",
+      "definitions_ex_en": "the Council held monthly meetings",
+      "definitions_ex_vn": "Hội đồng tổ chức các cuộc họp hàng tháng",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "once a month; every month; from month to month.",
+      "definitions_ex_en": "most of us get paid monthly",
+      "definitions_ex_vn": "Hầu hết chúng ta được trả tiền hàng tháng",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "a magazine that is published once a month.",
+      "definitions_ex_en": "an Anglo-American monthly whose appeal was always international",
+      "definitions_ex_vn": "một hàng tháng của người Mỹ gốc Hoa có sự hấp dẫn luôn quốc tế",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a menstrual period.",
+      "definitions_ex_en": "cramps from your monthlies so bad you could weep",
+      "definitions_ex_vn": "chuột rút từ tháng của bạn rất tệ, bạn có thể khóc",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809452073_300395bcba_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809452073_53e90ce61d_o.png",
+      "id_image": "monthly_2390318"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808382237_0c561d0a80_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808382237_32dcd7c8d6_o.png",
+      "id_image": "monthly_4334665"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810074220_81b95e1040_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810074220_163f252718_o.png",
+      "id_image": "monthly_5571536"
+    }
+  ]
+}

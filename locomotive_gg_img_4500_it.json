@@ -1,0 +1,60 @@
+{
+  "english": "locomotive",
+  "list_translation_mean": [
+    {
+      "translate_mean": "di động",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "tự động",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thích đi du lịch",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thuộc về sự vận động",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "đầu máy xe lửa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự đi du lịch",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a powered rail vehicle used for pulling trains.",
+      "definitions_ex_en": "a diesel locomotive",
+      "definitions_ex_vn": "một đầu máy diesel",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "relating to or effecting locomotion.",
+      "definitions_ex_en": "locomotive power",
+      "definitions_ex_vn": "điện đầu máy",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808382477_5c2d0e8c61_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808382477_a6fec7bb87_o.png",
+      "id_image": "locomotive_4967174"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809692804_9df8a452ca_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809692804_586ba63c33_o.png",
+      "id_image": "locomotive_827159"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809452293_1833dd402c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809452293_1c8580e67f_o.png",
+      "id_image": "locomotive_895536"
+    }
+  ]
+}

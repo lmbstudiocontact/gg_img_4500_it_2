@@ -1,0 +1,58 @@
+{
+  "english": "horse",
+  "list_translation_mean": [
+    {
+      "translate_mean": "kỵ binh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ngựa",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a large plant-eating domesticated mammal with solid hoofs and a flowing mane and tail, used for riding, racing, and to carry and pull loads.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a frame or structure on which something is mounted or supported, especially a sawhorse.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a unit of horsepower.",
+      "definitions_ex_en": "the huge 63-horse 701-cc engine",
+      "definitions_ex_vn": "Động cơ khổng lồ 63-ngựa 701-CC",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "heroin.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an obstruction in a vein.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "provide (a person or vehicle) with a horse or horses.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809446478_46a20e027f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809446478_bd5c7afef8_o.png",
+      "id_image": "horse_239262"
+    }
+  ]
+}

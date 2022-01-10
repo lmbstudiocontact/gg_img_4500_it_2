@@ -1,0 +1,24 @@
+{
+  "english": "literacy",
+  "list_translation_mean": [
+    {
+      "translate_mean": "trình độ học vấn",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the ability to read and write.",
+      "definitions_ex_en": "tests of literacy and numeracy",
+      "definitions_ex_vn": "Các bài kiểm tra biết chữ và số",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808384697_9883ce7243_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808384697_460b6c9d63_o.png",
+      "id_image": "literacy_4984303"
+    }
+  ]
+}

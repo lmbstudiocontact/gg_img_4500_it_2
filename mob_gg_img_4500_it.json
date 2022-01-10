@@ -1,0 +1,46 @@
+{
+  "english": "mob",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bao vây",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "xô đẩy",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "bọn bất lương",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bọn người hạ lưu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bọn du côn",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a large crowd of people, especially one that is disorderly and intent on causing trouble or violence.",
+      "definitions_ex_en": "a mob of protesters",
+      "definitions_ex_vn": "một đám đông người biểu tình",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "crowd around (someone) in an unruly and excitable way in order to admire or attack them.",
+      "definitions_ex_en": "he was mobbed by autograph hunters",
+      "definitions_ex_vn": "Anh ta đã bị huy động bởi những người thợ săn chữ ký",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808385047_13c0656660_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808385047_9f721842bc_o.png",
+      "id_image": "mob_3292647"
+    }
+  ]
+}

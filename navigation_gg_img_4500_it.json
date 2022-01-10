@@ -1,0 +1,48 @@
+{
+  "english": "navigation",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự đi biển",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự đi tàu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự vượt biển",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the process or activity of accurately ascertaining one's position and planning and following a route.",
+      "definitions_ex_en": "Columbus corrected his westward course by celestial navigation",
+      "definitions_ex_vn": "Columbus đã sửa khóa học về phía tây của mình bằng cách điều hướng Celestial",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the passage of ships.",
+      "definitions_ex_en": "bridges to span rivers without hindering navigation",
+      "definitions_ex_vn": "Cầu để span Rivers mà không cần điều hướng cản trở",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808371742_4538e3762c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808371742_f60c5cc3db_o.png",
+      "id_image": "navigation_280069"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809442063_88ee4b9275_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809442063_d17391d108_o.png",
+      "id_image": "navigation_2879024"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810063870_c3d1b3f875_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810063870_039b5c0414_o.png",
+      "id_image": "navigation_4735966"
+    }
+  ]
+}

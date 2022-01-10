@@ -1,0 +1,49 @@
+{
+  "english": "orphan",
+  "list_translation_mean": [
+    {
+      "translate_mean": "mồ côi",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "mồ côi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trở thành mồ côi",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a child whose parents are dead.",
+      "definitions_ex_en": "he was left an orphan as a small boy",
+      "definitions_ex_vn": "Anh ta bị bỏ lại một đứa trẻ mồ côi như một cậu bé nhỏ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the first line of a paragraph set as the last line of a page or column, considered undesirable.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "make (a person or animal) an orphan.",
+      "definitions_ex_en": "John was orphaned at 12",
+      "definitions_ex_vn": "John đã mồ côi ở 12 tuổi",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809697744_ba051a5640_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809697744_0933741401_o.png",
+      "id_image": "orphanage_5759350"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808387567_e7b44f146a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808387567_ea9f4ecf41_o.png",
+      "id_image": "orphan_2453601"
+    }
+  ]
+}

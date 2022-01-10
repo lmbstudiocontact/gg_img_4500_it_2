@@ -1,0 +1,58 @@
+{
+  "english": "imperial",
+  "list_translation_mean": [
+    {
+      "translate_mean": "mui xe",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nóc xe",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hoàng đế",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thuộc về đế quốc",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "vua chúa",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "relating to an empire.",
+      "definitions_ex_en": "Britain's imperial era",
+      "definitions_ex_vn": "Thời đại đế quốc của Anh",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "relating to or denoting the system of nonmetric weights and measures (the ounce, pound, stone, inch, foot, yard, mile, acre, pint, gallon, etc.) formerly used for all measures in the UK, and still used for some.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a size of paper) measuring roughly 762 × 559 mm (30 × 22 inches).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a small pointed beard growing below the lower lip (associated with Napoleon III of France).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810058155_af4cf25295_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810058155_1f07145d1d_o.png",
+      "id_image": "imperial_2201848"
+    }
+  ]
+}

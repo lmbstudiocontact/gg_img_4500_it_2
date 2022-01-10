@@ -1,0 +1,41 @@
+{
+  "english": "jeweler",
+  "list_translation_mean": [
+    {
+      "translate_mean": "người bán đồ châu báu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người bán đồ kim hoàn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người làm đồ nữ trang",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thợ kim hoàn",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person or company that makes or sells jewels or jewelry.",
+      "definitions_ex_en": "he is managing director of Britain's biggest jeweler",
+      "definitions_ex_vn": "Ông là Giám đốc điều hành viên kim hoàn lớn nhất của Anh",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809334501_da9492d1e4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809334501_707733c250_o.png",
+      "id_image": "jeweler_1426204"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809689499_a45bc949fb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809689499_91164aaacc_o.png",
+      "id_image": "jeweler_1426208"
+    }
+  ]
+}

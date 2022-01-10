@@ -1,0 +1,44 @@
+{
+  "english": "jaw",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hàm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "quai hàm",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "each of the upper and lower bony structures in vertebrates forming the framework of the mouth and containing the teeth.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "talk at length; chatter.",
+      "definitions_ex_en": "he could still hear men jawing away about the vacuum cleaners",
+      "definitions_ex_vn": "Anh vẫn có thể nghe thấy đàn ông đi xa về máy hút bụi",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808380552_4d8697eb3d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808380552_85e82c49db_o.png",
+      "id_image": "jaw_3465304"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809690659_2fbdf28263_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809690659_55841266c7_o.png",
+      "id_image": "jaw_5737402"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335426_baa96fa654_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335426_c85f7c526b_o.png",
+      "id_image": "jaw_6408745"
+    }
+  ]
+}

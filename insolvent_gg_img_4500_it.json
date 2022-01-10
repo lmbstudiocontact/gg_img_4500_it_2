@@ -1,0 +1,38 @@
+{
+  "english": "insolvent",
+  "list_translation_mean": [
+    {
+      "translate_mean": "phá sản",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "trả nợ không nổi",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "vở nợ",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "unable to pay debts owed.",
+      "definitions_ex_en": "the company became insolvent",
+      "definitions_ex_vn": "Công ty trở nên mất khả năng thanh toán",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "an insolvent person.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810082470_146a38b232_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810082470_8243d16c9c_o.png",
+      "id_image": "insolvent_2719761"
+    }
+  ]
+}

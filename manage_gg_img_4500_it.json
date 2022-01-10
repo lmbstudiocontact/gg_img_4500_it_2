@@ -1,0 +1,86 @@
+{
+  "english": "manage",
+  "list_translation_mean": [
+    {
+      "translate_mean": "trông nom",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "áp phục người nào",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chế ngự",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chỉnh đốn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "coi sóc",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "điều khiển",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "giám đốc",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "quản lý",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tuần hóa",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thu xếp",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "be in charge of (a company, establishment, or undertaking); administer; run.",
+      "definitions_ex_en": "their elder son managed the farm",
+      "definitions_ex_vn": "Người đàn ông của họ quản lý trang trại",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "succeed in surviving or in attaining one's aims, especially against heavy odds; cope.",
+      "definitions_ex_en": "Catherine managed on five hours' sleep a night",
+      "definitions_ex_vn": "Catherine quản lý trong năm giờ ngủ một đêm",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808371732_873792f688_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808371732_d95af64b05_o.png",
+      "id_image": "manage_1768879"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808371712_eff14b33d5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808371712_e2a55a5484_o.png",
+      "id_image": "manage_1768889"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809442008_a147e2ca76_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809442008_e4b4eeed71_o.png",
+      "id_image": "manage_1768897"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808371652_b95d8df91a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808371652_e4e63df6d0_o.png",
+      "id_image": "manage_4751891"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808371612_5c8e89ab05_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808371612_4949dff168_o.png",
+      "id_image": "manage_5132697"
+    }
+  ]
+}

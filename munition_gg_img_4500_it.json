@@ -1,0 +1,43 @@
+{
+  "english": "munition",
+  "list_translation_mean": [
+    {
+      "translate_mean": "quân nhu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đạn dược",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cung cấp quân nhu",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "military weapons, ammunition, equipment, and stores.",
+      "definitions_ex_en": "reserves of nuclear, chemical, and conventional munitions",
+      "definitions_ex_vn": "Dự trữ đạn dược, hóa học và đạn dược thông thường",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "supply with munitions.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686714_caccfeaf59_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686714_b34d832829_o.png",
+      "id_image": "munition_1280470"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809446723_627044241b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809446723_f05b422003_o.png",
+      "id_image": "munition_588833"
+    }
+  ]
+}

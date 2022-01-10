@@ -1,0 +1,34 @@
+{
+  "english": "obstacle",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự ngăn trở",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a thing that blocks one's way or prevents or hinders progress.",
+      "definitions_ex_en": "the major obstacle to achieving that goal is money",
+      "definitions_ex_vn": "trở ngại lớn để đạt được mục tiêu đó là tiền bạc",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809349256_8565fec8dd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809349256_8e9bc001c3_o.png",
+      "id_image": "obstacle_1141794"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809703919_e9417b1980_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809703919_a00f24865d_o.png",
+      "id_image": "obstacle_2219046"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809349216_ae298952c0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809349216_aef8aa3d01_o.png",
+      "id_image": "obstacle_3751980"
+    }
+  ]
+}

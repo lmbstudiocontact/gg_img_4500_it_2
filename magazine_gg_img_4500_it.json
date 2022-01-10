@@ -1,0 +1,62 @@
+{
+  "english": "magazine",
+  "list_translation_mean": [
+    {
+      "translate_mean": "kho chứa súng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "kho đạn dược",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "xưởng chứa hàng hóa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "xưởng súng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "kho thuốc súng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a periodical publication containing articles and illustrations, typically covering a particular subject or area of interest.",
+      "definitions_ex_en": "a women's magazine",
+      "definitions_ex_vn": "Tạp chí phụ nữ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a chamber for holding a supply of cartridges to be fed automatically to the breech of a gun.",
+      "definitions_ex_en": "he took the machine gun and a spare magazine",
+      "definitions_ex_vn": "Anh lấy súng máy và một tạp chí dự phòng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a store for arms, ammunition, explosives, and provisions for use in military operations.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809330296_ec009e75a2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809330296_568f279870_o.png",
+      "id_image": "magazine_2620913"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808374952_8d0171093b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808374952_0773ea7939_o.png",
+      "id_image": "magazine_2621257"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067090_a76fd997c4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067090_7f1516737d_o.png",
+      "id_image": "magazine_5318943"
+    }
+  ]
+}

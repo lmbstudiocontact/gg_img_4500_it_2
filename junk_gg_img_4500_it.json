@@ -1,0 +1,64 @@
+{
+  "english": "junk",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ghe mành",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thuyền mành",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chặt thành từng mảng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chia thành từng khúc",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "vứt bỏ đi",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "old or discarded articles that are considered useless or of little value.",
+      "definitions_ex_en": "the cellars are full of junk",
+      "definitions_ex_vn": "Các hầm chứa đầy rác",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "heroin.",
+      "definitions_ex_en": "you do anything for junk—cheat, lie, steal",
+      "definitions_ex_vn": "Bạn làm bất cứ điều gì cho rác gian lận, nói dối, ăn cắp",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the lump of oily fibrous tissue in a sperm whale's head, containing spermaceti.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a flat-bottomed sailing vessel typical in China and the East Indies, with a prominent stem, a high stern, and lugsails.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "discard or abandon unceremoniously.",
+      "definitions_ex_en": "sort out what could be sold off and junk the rest",
+      "definitions_ex_vn": "Sắp xếp những gì có thể được bán và rác phần còn lại",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809685389_9355eb3f85_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809685389_5c77f65c0a_o.png",
+      "id_image": "junk_1410449"
+    }
+  ]
+}

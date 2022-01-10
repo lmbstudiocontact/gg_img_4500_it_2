@@ -1,0 +1,28 @@
+{
+  "english": "leakage",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự rỉ ra",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự tiết lộ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the accidental admission or escape of a fluid or gas through a hole or crack.",
+      "definitions_ex_en": "we're saving water by reducing leakage",
+      "definitions_ex_vn": "Chúng tôi đang tiết kiệm nước bằng cách giảm rò rỉ",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809317346_494f0eb660_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809317346_ee10075f2f_o.png",
+      "id_image": "leakage_4633785"
+    }
+  ]
+}

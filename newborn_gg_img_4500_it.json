@@ -1,0 +1,34 @@
+{
+  "english": "newborn",
+  "list_translation_mean": [
+    {
+      "translate_mean": "mới đẻ",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "mới sanh",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "(of a child or animal) recently or just born.",
+      "definitions_ex_en": "a picture of the happy couple and their newborn baby",
+      "definitions_ex_vn": "một hình ảnh của cặp đôi hạnh phúc và em bé sơ sinh của họ",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a recently born child or animal.",
+      "definitions_ex_en": "she's incapable of looking after a newborn",
+      "definitions_ex_vn": "cô ấy không có khả năng chăm sóc một đứa trẻ sơ sinh",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809323281_83b446370c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809323281_a23bf00135_o.png",
+      "id_image": "newborn_388350"
+    }
+  ]
+}

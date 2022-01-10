@@ -1,0 +1,46 @@
+{
+  "english": "missile",
+  "list_translation_mean": [
+    {
+      "translate_mean": "khí giới để bắn",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "đạn bắn ra",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hỏa tiển bắn ra",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tên bắn ra",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an object which is forcibly propelled at a target, either by hand or from a mechanical weapon.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809696474_7139a688ac_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809696474_ee71cbae60_o.png",
+      "id_image": "missile_1033022"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809696439_34d8b61127_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809696439_a63080fee3_o.png",
+      "id_image": "missile_1280964"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809455988_11fd0e140f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809455988_7250f07ca7_o.png",
+      "id_image": "missile_4469603"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "english": "merge",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hòa hợp",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "hỗn hợp",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "hợp nhau làm một",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "hợp nhứt",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "combine or cause to combine to form a single entity.",
+      "definitions_ex_en": "the utility companies are cutting costs and merging with other companies",
+      "definitions_ex_vn": "Các công ty tiện ích đang cắt giảm chi phí và sáp nhập với các công ty khác",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808391297_a5474a49bb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808391297_b072acb1ce_o.png",
+      "id_image": "merge_1809011"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809701259_de2b3c7cf2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809701259_3f5fbf7af1_o.png",
+      "id_image": "merge_4505128"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809461183_46cbcc4055_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809461183_ddcaf18469_o.png",
+      "id_image": "merge_589590"
+    }
+  ]
+}

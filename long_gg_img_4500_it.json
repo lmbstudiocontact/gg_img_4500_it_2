@@ -1,0 +1,157 @@
+{
+  "english": "long",
+  "list_translation_mean": [
+    {
+      "translate_mean": "lâu",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "đã lâu",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "không bao lâu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "kỳ nghĩ hè",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sắp xong bây giờ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "có thân dài",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "dài",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "giá cao",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "nghĩ lâu",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "sự sống lâu",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "ao ước",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ham muốn",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "measuring a great distance from end to end.",
+      "definitions_ex_en": "a long corridor",
+      "definitions_ex_vn": "một hành lang dài.",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "lasting or taking a great amount of time.",
+      "definitions_ex_en": "a long and distinguished career",
+      "definitions_ex_vn": "một sự nghiệp lâu dài và nổi bật",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "relatively great in extent.",
+      "definitions_ex_en": "write a long report",
+      "definitions_ex_vn": "Viết một báo cáo dài",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a vowel) categorized as long with regard to quality and length is long (e.g. in standard British English the vowel /uː/ in food is long as distinct from the short vowel /ʊ/ in good ).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of odds or a chance) reflecting or representing a low level of probability.",
+      "definitions_ex_en": "winning against long odds",
+      "definitions_ex_vn": "CHIẾN THẮNG chống lại tỷ lệ cược dài",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of shares, bonds, or other assets) bought in advance, with the expectation of a rise in price.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "well-supplied with.",
+      "definitions_ex_en": "an industry that seems long on ideas but short on cash",
+      "definitions_ex_vn": "một ngành công nghiệp có vẻ dài về ý tưởng nhưng rút ngắn tiền mặt",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a long interval or period.",
+      "definitions_ex_en": "see you before long",
+      "definitions_ex_vn": "Hẹn gặp lại trước",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a long sound such as a long signal in Morse code or a long vowel or syllable.",
+      "definitions_ex_en": "two longs and a short",
+      "definitions_ex_vn": "hai dài và ngắn",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "long-dated securities, especially gilt-edged securities.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "for a long time.",
+      "definitions_ex_en": "we hadn't known them long",
+      "definitions_ex_vn": "Chúng tôi đã không biết họ lâu",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "(with reference to the ball in sports) at, to, or over a great distance, or further than expected or intended.",
+      "definitions_ex_en": "the quarterback dropped back and threw the ball long",
+      "definitions_ex_vn": "Quý hồi thả lại và ném bóng dài",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "have a strong wish or desire.",
+      "definitions_ex_en": "she longed for a little more excitement",
+      "definitions_ex_vn": "Cô khao khát một chút phấn khích hơn",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "longitude.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "abbreviation"
+    },
+    {
+      "definitions_word_en": "(added to nouns) for the duration of.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "combining form"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809336046_b3cd5b6d06_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809336046_ea569a6cee_o.png",
+      "id_image": "long_2785392"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809691279_20b01fdb18_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809691279_8f0d85e102_o.png",
+      "id_image": "long_5966419"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "english": "overdose",
+  "list_translation_mean": [
+    {
+      "translate_mean": "có hại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phân lượng quá mạnh",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an excessive and dangerous dose of a drug.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "take an overdose of a drug.",
+      "definitions_ex_en": "he was admitted to the hospital after overdosing on cocaine",
+      "definitions_ex_vn": "Ông được nhận vào bệnh viện sau khi quá liều với cocaine",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809695764_86e5f3a92c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809695764_6746a7ca9a_o.png",
+      "id_image": "overdose_2688333"
+    }
+  ]
+}

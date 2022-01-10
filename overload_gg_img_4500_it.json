@@ -1,0 +1,44 @@
+{
+  "english": "overload",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chất nặng thêm",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cho mang nặng thêm",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "load with too great a burden or cargo.",
+      "definitions_ex_en": "both boats were overloaded and low in the water",
+      "definitions_ex_vn": "Cả hai thuyền đều quá tải và thấp trong nước",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "an excessive load or amount.",
+      "definitions_ex_en": "an overload of stress",
+      "definitions_ex_vn": "một sự quá tải căng thẳng",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809340206_38db362516_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809340206_e963d6bdc2_o.png",
+      "id_image": "overload_4813733"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810077420_958497498b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810077420_52a5254271_o.png",
+      "id_image": "overload_4827281"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810077390_5e161aecd8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810077390_bf2f190f56_o.png",
+      "id_image": "overload_4994789"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "english": "identification",
+  "list_translation_mean": [
+    {
+      "translate_mean": "như nhau",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chứng minh thư",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "điều tra",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giống nhau",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khám phá",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhận biết",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhận ra",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phát giác",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tìm thấy",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the action or process of identifying someone or something or the fact of being identified.",
+      "definitions_ex_en": "each child was tagged with a number for identification",
+      "definitions_ex_vn": "Mỗi đứa trẻ được gắn thẻ với một số để nhận dạng",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810061320_fdd7177aaa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810061320_2f9098894c_o.png",
+      "id_image": "identification_1813792"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809679529_6c26cde106_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809679529_e6cc9f625b_o.png",
+      "id_image": "identification_3447638"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809324331_f847f08f87_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809324331_f9dbe1f81c_o.png",
+      "id_image": "identification_5982040"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809324466_f29acc287c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809324466_4023c74e15_o.png",
+      "id_image": "identification_741900"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "english": "obsolete",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bỏ",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "ít dùng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "kiểu xưa",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "không dùng nữa",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "vật củ",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "no longer produced or used; out of date.",
+      "definitions_ex_en": "the disposal of old and obsolete machinery",
+      "definitions_ex_vn": "Việc xử lý máy móc cũ và lỗi thời",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a part or characteristic of an organism) less developed than formerly or in a related species; rudimentary; vestigial.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809703984_cf25ab12b4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809703984_bb001e7424_o.png",
+      "id_image": "obsolete_1610496"
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "english": "lick",
+  "list_translation_mean": [
+    {
+      "translate_mean": "mau",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đánh người nào",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "gấp",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "liếm",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "xu nịnh",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cú đánh người nào",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hết tốc lực",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "một cái liếm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "một chút",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "một phần ít",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "một phần nhỏ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trang điểm qua loa",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "pass the tongue over (something) in order to taste, moisten, or clean it.",
+      "definitions_ex_en": "he licked the stamp and stuck it on the envelope",
+      "definitions_ex_vn": "Anh liếm tem và dán nó vào phong bì",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "defeat (someone) comprehensively.",
+      "definitions_ex_en": "all right Mary, I know when I'm licked",
+      "definitions_ex_vn": "tất cả đều đúng Mary, tôi biết khi nào tôi liếm",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "an act of licking something with the tongue.",
+      "definitions_ex_en": "Sammy gave his fingers a long lick",
+      "definitions_ex_vn": "Sammy đã cho ngón tay của mình một liếm lâu",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a light coating or quick application of something, especially paint.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a short phrase or solo in jazz or popular music.",
+      "definitions_ex_en": "cool guitar licks",
+      "definitions_ex_vn": "Cool Guitar Licks.",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a smart blow.",
+      "definitions_ex_en": "his mother gave him several licks for daring to blaspheme",
+      "definitions_ex_vn": "Mẹ anh đã cho anh một số liếm vì dám đến Blaspheme",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809458088_f057fc17bc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809458088_85ec0b9536_o.png",
+      "id_image": "lick_1128930"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809458038_f4eba1c956_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809458038_a3b1bedb10_o.png",
+      "id_image": "lick_4893358"
+    }
+  ]
+}

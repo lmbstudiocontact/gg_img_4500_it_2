@@ -1,0 +1,33 @@
+{
+  "english": "newspaper",
+  "list_translation_mean": [
+    {
+      "translate_mean": "báo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhựt trình",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a printed publication (usually issued daily or weekly) consisting of folded unstapled sheets and containing news, feature articles, advertisements, and correspondence.",
+      "definitions_ex_en": "all the newspapers carried the story",
+      "definitions_ex_vn": "Tất cả các tờ báo mang câu chuyện",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808368067_84a223eabe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808368067_c9543b9f28_o.png",
+      "id_image": "newspaper_168668"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809438263_e717f6bde6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809438263_820783a614_o.png",
+      "id_image": "newspaper_420448"
+    }
+  ]
+}

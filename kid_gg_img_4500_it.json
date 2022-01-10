@@ -1,0 +1,103 @@
+{
+  "english": "kid",
+  "list_translation_mean": [
+    {
+      "translate_mean": "dê con",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "da dê dùng làm bao tay",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "da dê dùng làm giày",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đối đải từ tế",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khoan hậu với người nào",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "những bịnh của trẻ con",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thằng bé",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dê sanh",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "dê đẻ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đẻ dê con",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nói đùa",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a child or young person.",
+      "definitions_ex_en": "she collected the kids from school",
+      "definitions_ex_vn": "Cô thu thập những đứa trẻ từ trường học",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a young goat.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a small wooden tub, especially a sailor's mess tub for grog or rations.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(of a goat) give birth.",
+      "definitions_ex_en": "milk fever usually occurs in heavy milkers shortly after kidding",
+      "definitions_ex_vn": "Sốt sữa thường xảy ra trong các bộ sữa nặng trong thời gian ngắn sau khi đùa",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "deceive (someone) in a playful or teasing way.",
+      "definitions_ex_en": "you're kidding me!",
+      "definitions_ex_vn": "Bạn đang đùa tôi!",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810064900_7bf52a5f8e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810064900_cfca37876e_o.png",
+      "id_image": "kid_3372910"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328116_6af7e0a163_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328116_d043af70e2_o.png",
+      "id_image": "kid_5233559"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328061_aa4cd0c27e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328061_dbd8b270a7_o.png",
+      "id_image": "kid_5333174"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808372937_ec55b19a8c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808372937_1456b08860_o.png",
+      "id_image": "kid_616027"
+    }
+  ]
+}

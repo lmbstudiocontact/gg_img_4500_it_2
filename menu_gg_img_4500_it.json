@@ -1,0 +1,38 @@
+{
+  "english": "menu",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bảng kê những món ăn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thực đơn",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a list of dishes available in a restaurant.",
+      "definitions_ex_en": "the waiter handed her a menu",
+      "definitions_ex_vn": "Người phục vụ đưa cho cô ấy một thực đơn",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810084120_494b0b4830_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810084120_03f59ff32c_o.png",
+      "id_image": "menu_129166"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808391637_14e52f7f26_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808391637_da47801963_o.png",
+      "id_image": "menu_325597"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808391632_89979ffb08_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808391632_ea92216f3d_o.png",
+      "id_image": "menu_325629"
+    }
+  ]
+}

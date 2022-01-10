@@ -1,0 +1,44 @@
+{
+  "english": "interaction",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hổ tương tác dụng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "reciprocal action or influence.",
+      "definitions_ex_en": "ongoing interaction between the two languages",
+      "definitions_ex_vn": "Tương tác liên tục giữa hai ngôn ngữ",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809457363_b7905c4106_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809457363_822ca9060a_o.png",
+      "id_image": "interaction_1508889"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809697764_346f9bfd1c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809697764_f2ee134e97_o.png",
+      "id_image": "interaction_1589513"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810079960_f006d3b602_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810079960_b3deefb385_o.png",
+      "id_image": "interaction_1622693"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810079930_f88fa52cfb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810079930_51db6b4507_o.png",
+      "id_image": "interaction_1791997"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809457233_b516a192c7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809457233_047b269c86_o.png",
+      "id_image": "interaction_2620785"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "english": "improvement",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sửa cho tốt thêm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự cải thiện",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự sửa sang",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự tiến triển",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự trau giồi",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an example or instance of improving or being improved.",
+      "definitions_ex_en": "an improvement in East–West relations",
+      "definitions_ex_vn": "một sự cải thiện trong quan hệ Đông-Tây",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365202_fa67c486a1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365202_36c19320df_o.png",
+      "id_image": "improvement_5361137"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365172_7d85170809_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365172_b9bf118fe3_o.png",
+      "id_image": "improvement_6040861"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "english": "liver",
+  "list_translation_mean": [
+    {
+      "translate_mean": "gan",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người có thứ tự",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người ngăn nắp",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a large lobed glandular organ in the abdomen of vertebrates, involved in many metabolic processes.",
+      "definitions_ex_en": "cholesterol may accumulate in the liver",
+      "definitions_ex_vn": "Cholesterol có thể tích lũy trong gan",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a person who lives in a specified way.",
+      "definitions_ex_en": "a clean liver",
+      "definitions_ex_vn": "một gan sạch",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809339271_f5b8156495_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809339271_b08efdcebb_o.png",
+      "id_image": "liver_245278"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809694354_ab8831bb44_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809694354_2f8fa42ca2_o.png",
+      "id_image": "liver_6147604"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808384142_3b57c54b71_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808384142_9202f3c894_o.png",
+      "id_image": "liver_6350266"
+    }
+  ]
+}

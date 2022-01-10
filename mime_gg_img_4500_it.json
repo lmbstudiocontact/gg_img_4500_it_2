@@ -1,0 +1,59 @@
+{
+  "english": "mime",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hí kịch",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người diển hí kịch",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "diển tuồng câm",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tuồng bộ",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the theatrical technique of suggesting action, character, or emotion without words, using only gesture, expression, and movement.",
+      "definitions_ex_en": "mime is part of our cultural heritage",
+      "definitions_ex_vn": "MIME là một phần của di sản văn hóa của chúng tôi",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(in ancient Greece and Rome) a simple farcical drama including mimicry.",
+      "definitions_ex_en": "the Dorian mimes first began to lay the foundations of the theater",
+      "definitions_ex_vn": "Dorian Mimes lần đầu tiên bắt đầu đặt nền móng của nhà hát",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a standard for formatting files of different types, such as text, graphics, or audio, so they can be sent over the internet and seen or played by a web browser or email application.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "use gesture and movement without words in the acting of (a play or role).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808387902_ebab78430e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808387902_6d093764c2_o.png",
+      "id_image": "mime_3530999"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809342956_69d6bf557e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809342956_cb999408ec_o.png",
+      "id_image": "mime_773391"
+    }
+  ]
+}

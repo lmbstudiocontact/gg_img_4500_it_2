@@ -1,0 +1,50 @@
+{
+  "english": "money",
+  "list_translation_mean": [
+    {
+      "translate_mean": "tiền",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiền bạc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiền của",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiền tệ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiền vốn",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a current medium of exchange in the form of coins and banknotes; coins and banknotes collectively.",
+      "definitions_ex_en": "I counted the money before putting it in my wallet",
+      "definitions_ex_vn": "Tôi đếm tiền trước khi đưa nó vào ví của tôi",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809337836_f22b406f53_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809337836_f46de1b317_o.png",
+      "id_image": "money_144902"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809337806_b27cb4ae3d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809337806_bac0f880b1_o.png",
+      "id_image": "money_144904"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808382767_0022f0b68c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808382767_85ba55de80_o.png",
+      "id_image": "money_171689"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "english": "option",
+  "list_translation_mean": [
+    {
+      "translate_mean": "quyền tự do chọn lựa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự chọn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự lựa",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a thing that is or may be chosen.",
+      "definitions_ex_en": "choose the cheapest options for supplying energy",
+      "definitions_ex_vn": "Chọn các tùy chọn rẻ nhất để cung cấp năng lượng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an offensive play in which the ball carrier has the option to run, pass, hand off, or lateral.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "buy or sell an option on (something).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809344971_70e60124b9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809344971_14b9eec8bf_o.png",
+      "id_image": "option_1179102"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809496783_e805b120c3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809496783_1487af84ba_o.png",
+      "id_image": "option_1589510"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809344906_cb0dd3fa2c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809344906_2ceb877980_o.png",
+      "id_image": "option_5116333"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808389792_a6de5ba301_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808389792_1f8e0d388a_o.png",
+      "id_image": "option_6388845"
+    }
+  ]
+}

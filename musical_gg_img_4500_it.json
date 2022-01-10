@@ -1,0 +1,58 @@
+{
+  "english": "musical",
+  "list_translation_mean": [
+    {
+      "translate_mean": "tiếng nhạc êm tai",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thuộc về âm nhạc",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "buổi nhạc hội",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vở kịch nhạc",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "relating to music.",
+      "definitions_ex_en": "they shared similar musical tastes",
+      "definitions_ex_vn": "Họ chia sẻ hương vị âm nhạc tương tự",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "having a pleasant sound; melodious or tuneful.",
+      "definitions_ex_en": "they burst out into rich, musical laughter",
+      "definitions_ex_vn": "Họ nổ tung thành những tiếng cười giàu có, âm nhạc",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a play or movie in which singing and dancing play an essential part. Musicals developed from light opera in the early 20th century.",
+      "definitions_ex_en": "a hit West End musical, Miss Saigon",
+      "definitions_ex_vn": "Một hit West End Music, Miss Saigon",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375447_4edfbc9c6c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375447_2ca6ddc912_o.png",
+      "id_image": "musical_1902007"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809685804_19064a359f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809685804_32e745efd8_o.png",
+      "id_image": "musical_2267700"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067510_98961e21e6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067510_50be30fb96_o.png",
+      "id_image": "musical_5105523"
+    }
+  ]
+}

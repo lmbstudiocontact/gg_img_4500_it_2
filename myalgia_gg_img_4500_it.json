@@ -1,0 +1,24 @@
+{
+  "english": "myalgia",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chứng nhứt gân",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "pain in a muscle or group of muscles.",
+      "definitions_ex_en": "he complained of weakness and myalgia",
+      "definitions_ex_vn": "Ông phàn nàn về điểm yếu và đau cơ",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809329911_ae66b3c4aa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809329911_093769aa9a_o.png",
+      "id_image": "myalgia_2746463"
+    }
+  ]
+}

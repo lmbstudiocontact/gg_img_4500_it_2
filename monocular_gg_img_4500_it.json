@@ -1,0 +1,35 @@
+{
+  "english": "monocular",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bằng một mắt",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "with, for, or in one eye.",
+      "definitions_ex_en": "he had only monocular vision",
+      "definitions_ex_vn": "anh ta chỉ có tầm nhìn một mắt",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "an optical instrument for viewing distant objects with one eye, like one half of a pair of binoculars.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809452378_d79b58b3b4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809452378_a0050b69b0_o.png",
+      "id_image": "monocular_4690442"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809692799_533a2761f3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809692799_5e569e69f3_o.png",
+      "id_image": "monocular_5566323"
+    }
+  ]
+}

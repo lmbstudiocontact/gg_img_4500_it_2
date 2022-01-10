@@ -1,0 +1,40 @@
+{
+  "english": "optimism",
+  "list_translation_mean": [
+    {
+      "translate_mean": "lạc quan chủ nghĩa",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "hopefulness and confidence about the future or the successful outcome of something.",
+      "definitions_ex_en": "the talks had been amicable and there were grounds for optimism",
+      "definitions_ex_vn": "Các cuộc đàm phán đã thân thiện và có căn cứ để lạc quan",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the doctrine, especially as set forth by Leibniz, that this world is the best of all possible worlds.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809496803_8d1f502ec9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809496803_9a170aeea0_o.png",
+      "id_image": "optimism_4729485"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809460028_58688097b5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809460028_0747edc660_o.png",
+      "id_image": "optimism_6001075"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809345146_4e8cb6259e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809345146_7e465754df_o.png",
+      "id_image": "optimism_6002947"
+    }
+  ]
+}

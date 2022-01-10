@@ -1,0 +1,75 @@
+{
+  "english": "hour",
+  "list_translation_mean": [
+    {
+      "translate_mean": "giờ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lúc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiếng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thì giờ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a period of time equal to a twenty-fourth part of a day and night and divided into 60 minutes.",
+      "definitions_ex_en": "a two-hour operation",
+      "definitions_ex_vn": "một hoạt động kéo dài hai giờ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a time of day specified as an exact number of hours from midnight or midday.",
+      "definitions_ex_en": "the clock in the sitting room struck the hour",
+      "definitions_ex_vn": "Đồng hồ trong phòng khách đánh vào giờ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a fixed period of time for an activity, such as work, use of a building, etc.",
+      "definitions_ex_en": "the dinner hour",
+      "definitions_ex_vn": "giờ ăn tối",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(in the Western Church) a short service of psalms and prayers to be said at a particular time of day, especially in religious communities.",
+      "definitions_ex_en": "an organized life of prayer including the canonical hours",
+      "definitions_ex_vn": "một cuộc sống của lời cầu nguyện có tổ chức bao gồm các giờ kinh điển",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "15° of longitude or right ascension (one twenty-fourth part of a circle).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808374357_4cd15562bf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808374357_919886af79_o.png",
+      "id_image": "hours_1010949"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808374332_e98c2f9038_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808374332_0b61968676_o.png",
+      "id_image": "hours_1195639"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810066420_8bf814d811_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810066420_c44500a467_o.png",
+      "id_image": "hours_3603834"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809329611_8f497d09ef_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809329611_88f0bd033c_o.png",
+      "id_image": "hours_4745511"
+    }
+  ]
+}

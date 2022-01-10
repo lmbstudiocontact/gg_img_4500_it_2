@@ -1,0 +1,46 @@
+{
+  "english": "mountain",
+  "list_translation_mean": [
+    {
+      "translate_mean": "dãy núi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đống lớn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đống to",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "núi",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a large natural elevation of the earth's surface rising abruptly from the surrounding level; a large steep hill.",
+      "definitions_ex_en": "the village is backed by awe-inspiring mountains",
+      "definitions_ex_vn": "Ngôi làng được hỗ trợ bởi những ngọn núi đầy kinh ngạc",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809689424_ed8b52424c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809689424_334df6faa4_o.png",
+      "id_image": "mountain_183977"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810071315_30e487f666_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810071315_c8e0a653cb_o.png",
+      "id_image": "mountain_661299"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809334261_f37a4b897e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809334261_9ef4c01013_o.png",
+      "id_image": "mountain_661933"
+    }
+  ]
+}

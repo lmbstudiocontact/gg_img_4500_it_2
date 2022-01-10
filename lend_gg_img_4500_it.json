@@ -1,0 +1,56 @@
+{
+  "english": "lend",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cho vay",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cho mượn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cho thuê sách",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "giúp sức",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thích đáng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thích hợp",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "grant to (someone) the use of (something) on the understanding that it shall be returned.",
+      "definitions_ex_en": "Stewart asked me to lend him my car",
+      "definitions_ex_vn": "Stewart yêu cầu tôi mượn xe của tôi",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "contribute or add (something, especially a quality) to.",
+      "definitions_ex_en": "the smile lent his face a boyish charm",
+      "definitions_ex_vn": "Nụ cười cho mượn khuôn mặt của mình một nét quyến rũ của Boyish",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "accommodate or adapt oneself to.",
+      "definitions_ex_en": "John stiffly lent himself to her enthusiastic embraces",
+      "definitions_ex_vn": "John cứng nhắc cho phép mình đến những vòng tay nhiệt tình của mình",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809460493_8f6651f9f9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809460493_ed8603e1ba_o.png",
+      "id_image": "lend_2781121"
+    }
+  ]
+}

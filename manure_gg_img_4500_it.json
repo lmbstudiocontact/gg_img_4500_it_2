@@ -1,0 +1,49 @@
+{
+  "english": "manure",
+  "list_translation_mean": [
+    {
+      "translate_mean": "phân để bón cây",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bón phân",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "animal dung used for fertilizing land.",
+      "definitions_ex_en": "plenty of fully rotted horse manure can be dug in this fall",
+      "definitions_ex_vn": "Rất nhiều phân ngựa riaied hoàn toàn có thể được đào trong mùa thu này",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "apply manure to (land).",
+      "definitions_ex_en": "the ground should be well dug and manured",
+      "definitions_ex_vn": "mặt đất nên được đào và chăm sóc tốt",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809679634_a5211bbb30_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809679634_5034a4d452_o.png",
+      "id_image": "manure_1946222"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809439463_677f704b0d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809439463_bf836d1a93_o.png",
+      "id_image": "manure_4148599"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809324501_b96da93e92_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809324501_e517fc6583_o.png",
+      "id_image": "manure_439988"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810061290_1e3ac31c9c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810061290_0a8edb40b2_o.png",
+      "id_image": "manure_4455470"
+    }
+  ]
+}

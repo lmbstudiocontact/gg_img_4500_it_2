@@ -1,0 +1,73 @@
+{
+  "english": "officer",
+  "list_translation_mean": [
+    {
+      "translate_mean": "công chức",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sĩ quan",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cấp chỉ huy",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chỉ quan",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cung cấp sĩ quan",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person holding a position of command or authority in the armed services, in the merchant marine, or on a passenger ship.",
+      "definitions_ex_en": "he is also a serving officer in the army",
+      "definitions_ex_vn": "Ông cũng là một sĩ quan phục vụ trong quân đội",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a holder of a public, civil, or ecclesiastical office.",
+      "definitions_ex_en": "a probation officer",
+      "definitions_ex_vn": "một sĩ quan quản chế.",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a member of a certain grade in some honorary orders.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "provide with military officers.",
+      "definitions_ex_en": "the aristocracy continued to wield considerable political power, officering the army",
+      "definitions_ex_vn": "quý tộc tiếp tục sử dụng quyền lực chính trị đáng kể, Cán bộ quân đội",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809703054_f232ff2af4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809703054_e2304f9a24_o.png",
+      "id_image": "officer_1876787"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810085615_1faeeb05e5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810085615_2145d7070f_o.png",
+      "id_image": "officer_2053970"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809348271_985c8d0367_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809348271_007bdc2d76_o.png",
+      "id_image": "officer_6036782"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809702994_f88cc44075_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809702994_0861e40396_o.png",
+      "id_image": "officer_6417642"
+    }
+  ]
+}

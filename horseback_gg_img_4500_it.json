@@ -1,0 +1,34 @@
+{
+  "english": "horseback",
+  "list_translation_mean": [
+    {
+      "translate_mean": "lưng ngựa",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "mình ngựa",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "done while mounted on a horse.",
+      "definitions_ex_en": "a daring horseback rescue",
+      "definitions_ex_vn": "một cuộc giải cứu ngựa táo bạo",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "on a horse.",
+      "definitions_ex_en": "they rode horseback along the trail",
+      "definitions_ex_vn": "Họ cưỡi ngựa dọc theo đường mòn",
+      "definitions_type_word": "adverb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809331411_b79c8228c0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809331411_7a3154a827_o.png",
+      "id_image": "horseback_625477"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "english": "livingroom",
+  "list_translation_mean": [
+    {
+      "translate_mean": "phòng khách",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a room in a house for general and informal everyday use.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809339036_d257377451_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809339036_d9ae46e68b_o.png",
+      "id_image": "livingroom_1375638"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809453968_6d8f729aba_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809453968_d007389449_o.png",
+      "id_image": "livingroom_2624434"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809694164_de244e6d31_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809694164_4e0d9e8970_o.png",
+      "id_image": "livingroom_311755"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "english": "loss",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bị lúng túng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự bỏ mất",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự đánh mất",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự hao tổn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự không trông thấy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự mất",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the fact or process of losing something or someone.",
+      "definitions_ex_en": "avoiding loss of time",
+      "definitions_ex_vn": "tránh mất thời gian",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809690379_2d3b774a9f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809690379_38c44ef3ed_o.png",
+      "id_image": "loss_1809623"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808380277_7372755b78_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808380277_7b6700a553_o.png",
+      "id_image": "loss_267973"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809690349_82be555bf2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809690349_a9925bd95e_o.png",
+      "id_image": "loss_5692328"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335156_04bf8bbc52_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335156_532542313e_o.png",
+      "id_image": "loss_6299670"
+    }
+  ]
+}

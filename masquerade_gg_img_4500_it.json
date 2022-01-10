@@ -1,0 +1,48 @@
+{
+  "english": "masquerade",
+  "list_translation_mean": [
+    {
+      "translate_mean": "dạ hội hóa trang",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giả trang",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "mang mặt nạ",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a false show or pretense.",
+      "definitions_ex_en": "his masquerade ended when he was arrested",
+      "definitions_ex_vn": "Giả trang của anh đã kết thúc khi anh bị bắt",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "pretend to be someone one is not.",
+      "definitions_ex_en": "a journalist masquerading as a man in distress",
+      "definitions_ex_vn": "một nhà báo giả mạo như một người đàn ông gặp nạn",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810058085_1f4c047c8d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810058085_106673beeb_o.png",
+      "id_image": "masquerade_1711941"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809436538_29e3c83141_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809436538_4092b270dc_o.png",
+      "id_image": "masquerade_4576100"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810058125_e7bcb104a8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810058125_a8ce286683_o.png",
+      "id_image": "masquerade_863129"
+    }
+  ]
+}

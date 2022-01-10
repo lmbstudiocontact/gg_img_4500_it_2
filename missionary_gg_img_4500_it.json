@@ -1,0 +1,38 @@
+{
+  "english": "missionary",
+  "list_translation_mean": [
+    {
+      "translate_mean": "nhà truyền giáo",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thuộc về hội truyền giáo",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "người được phái đi công cán",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person sent on a religious mission, especially one sent to promote Christianity in a foreign country.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "relating to or characteristic of a missionary or a religious mission.",
+      "definitions_ex_en": "missionary work",
+      "definitions_ex_vn": "công việc truyền giáo",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809340801_b03ca3abcd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809340801_7a1b9b756f_o.png",
+      "id_image": "missionary_1075070"
+    }
+  ]
+}

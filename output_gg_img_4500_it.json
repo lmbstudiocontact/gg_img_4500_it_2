@@ -1,0 +1,44 @@
+{
+  "english": "output",
+  "list_translation_mean": [
+    {
+      "translate_mean": "phát ra tiếng nói",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sức sản xuất",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự phát âm",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the amount of something produced by a person, machine, or industry.",
+      "definitions_ex_en": "efficiency can lead to higher outputs",
+      "definitions_ex_vn": "Hiệu quả có thể dẫn đến đầu ra cao hơn",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a place where power or information leaves a system.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "produce, deliver, or supply (data) using a computer or other device.",
+      "definitions_ex_en": "you can output the image directly to a video recording system",
+      "definitions_ex_vn": "Bạn có thể xuất hình ảnh trực tiếp vào hệ thống quay video",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810078680_9f343770c7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810078680_4dd0511262_o.png",
+      "id_image": "output_338107"
+    }
+  ]
+}

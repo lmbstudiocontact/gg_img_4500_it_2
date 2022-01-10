@@ -1,0 +1,24 @@
+{
+  "english": "masterpiece",
+  "list_translation_mean": [
+    {
+      "translate_mean": "kiệt tác",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a work of outstanding artistry, skill, or workmanship.",
+      "definitions_ex_en": "a great literary masterpiece",
+      "definitions_ex_vn": "một kiệt tác văn học tuyệt vời",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809675939_898025f80b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809675939_315ac549c4_o.png",
+      "id_image": "masterpiece_1221974"
+    }
+  ]
+}

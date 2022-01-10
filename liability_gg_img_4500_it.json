@@ -1,0 +1,52 @@
+{
+  "english": "liability",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bổn phận",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khuynh hướng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tổng số những món nợ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trách nhiệm",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the state of being responsible for something, especially by law.",
+      "definitions_ex_en": "the partners accept unlimited liability for any risks they undertake",
+      "definitions_ex_vn": "Các đối tác chấp nhận trách nhiệm không giới hạn đối với bất kỳ rủi ro nào họ thực hiện",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a person or thing whose presence or behavior is likely to cause embarrassment or put one at a disadvantage.",
+      "definitions_ex_en": "he has become a political liability",
+      "definitions_ex_vn": "anh ấy đã trở thành một trách nhiệm chính trị",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809344196_47de1dbbfd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809344196_92d0974aca_o.png",
+      "id_image": "liability_1622614"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809344176_a8e1fe4ce7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809344176_81974eab34_o.png",
+      "id_image": "liability_2361650"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809344121_74d6b12940_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809344121_474f69a7c8_o.png",
+      "id_image": "liability_6418224"
+    }
+  ]
+}

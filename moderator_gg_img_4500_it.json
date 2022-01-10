@@ -1,0 +1,49 @@
+{
+  "english": "moderator",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chủ tịch",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giáo sư thần học",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "máy điều tiết",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an arbitrator or mediator.",
+      "definitions_ex_en": "Egypt managed to assert its role as a regional moderator",
+      "definitions_ex_vn": "Ai Cập đã cố gắng khẳng định vai trò của nó là người điều hành khu vực",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a person who moderates an internet forum or online discussion.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a substance used in a nuclear reactor to retard neutrons.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809339101_c470628168_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809339101_d234379f7f_o.png",
+      "id_image": "moderator_4010411"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809454003_7c80f8ac87_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809454003_a3c3c760e8_o.png",
+      "id_image": "moderator_4643268"
+    }
+  ]
+}

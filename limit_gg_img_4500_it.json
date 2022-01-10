@@ -1,0 +1,81 @@
+{
+  "english": "limit",
+  "list_translation_mean": [
+    {
+      "translate_mean": "biên khu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "biên cảnh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "biên giới",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giới hạn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hạn chế",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "hạn định",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tiết chế",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a point or level beyond which something does not or may not extend or pass.",
+      "definitions_ex_en": "the 10-minute limit on speeches",
+      "definitions_ex_vn": "Giới hạn 10 phút về bài phát biểu",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a restriction on the size or amount of something permissible or possible.",
+      "definitions_ex_en": "an age limit",
+      "definitions_ex_vn": "một giới hạn tuổi",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a point or value that a sequence, function, or sum of a series can be made to approach progressively, until it is as close to the point or value as desired.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "set or serve as a limit to.",
+      "definitions_ex_en": "try to limit the amount you drink",
+      "definitions_ex_vn": "Cố gắng giới hạn số tiền bạn uống",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808386712_88cb5bab88_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808386712_1f43695198_o.png",
+      "id_image": "limit_2867806"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810079035_d91f8f32dd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810079035_789cfc601f_o.png",
+      "id_image": "limit_3590347"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810078995_265c92fb84_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810078995_25519d8ca8_o.png",
+      "id_image": "limit_3898120"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809696764_32f56ee697_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809696764_434cd0136b_o.png",
+      "id_image": "limit_6306394"
+    }
+  ]
+}

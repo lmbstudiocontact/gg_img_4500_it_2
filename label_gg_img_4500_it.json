@@ -1,0 +1,97 @@
+{
+  "english": "label",
+  "list_translation_mean": [
+    {
+      "translate_mean": "miếng giấy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "miếng vải",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhản hiệu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phần đá nhô ra ngoài",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phòng xạ kế",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tên của nhản hiệu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dán nhản hiệu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đóng nhản hiệu",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a small piece of paper, fabric, plastic, or similar material attached to an object and giving information about it.",
+      "definitions_ex_en": "the alcohol content is clearly stated on the label",
+      "definitions_ex_vn": "Hàm lượng cồn được nêu rõ trên nhãn",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a classifying phrase or name applied to a person or thing, especially one that is inaccurate or restrictive.",
+      "definitions_ex_en": "my reluctance to stick a label on myself politically",
+      "definitions_ex_vn": "sự miễn cưỡng của tôi để dán nhãn một cách chính trị",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a narrow horizontal strip, typically with three downward projections, that is superimposed on a coat of arms by an eldest son during the life of his father.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "another term for dripstone.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "attach a label to (something).",
+      "definitions_ex_en": "she labeled the parcels neatly, writing the addresses in capital letters",
+      "definitions_ex_vn": "Cô ấy dán nhãn các bưu kiện gọn gàng, viết các địa chỉ bằng chữ in hoa",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "assign to a category, especially inaccurately or restrictively.",
+      "definitions_ex_en": "the critics labeled him a loser",
+      "definitions_ex_vn": "Các nhà phê bình có nhãn cho anh ta một kẻ thua cuộc",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809324216_663bce0685_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809324216_5202160980_o.png",
+      "id_image": "label_1168128"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809324166_733de47a2b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809324166_3b4d8f4db2_o.png",
+      "id_image": "label_3120698"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810061235_e2336468bd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810061235_5f2abb030f_o.png",
+      "id_image": "label_618040"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810061180_cb2c023ed5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810061180_0c441f64d0_o.png",
+      "id_image": "label_618060"
+    }
+  ]
+}

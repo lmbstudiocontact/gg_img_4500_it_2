@@ -1,0 +1,70 @@
+{
+  "english": "hut",
+  "list_translation_mean": [
+    {
+      "translate_mean": "trại",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "cái chòi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lều",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trại bằng ván",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cho lính ở trại ván tạm",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ở trại ván tạm",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a small, simple, single-story house or shelter.",
+      "definitions_ex_en": "a beach hut",
+      "definitions_ex_vn": "một túp lều bãi biển",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "provide with huts.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810063275_7c09df9692_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810063275_3e894e7187_o.png",
+      "id_image": "hut_1328148"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809326331_c4908c03b9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809326331_3fb88872ab_o.png",
+      "id_image": "hut_2614589"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808371022_360b666e7b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808371022_5df096f293_o.png",
+      "id_image": "hut_3025629"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808370997_7610a04e4b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808370997_ba25558683_o.png",
+      "id_image": "hut_4082425"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809681449_e4645c3f6e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809681449_fb2900257e_o.png",
+      "id_image": "hut_434559"
+    }
+  ]
+}

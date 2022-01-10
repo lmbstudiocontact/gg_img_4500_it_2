@@ -1,0 +1,50 @@
+{
+  "english": "lab",
+  "list_translation_mean": [
+    {
+      "translate_mean": "phòng thí nghiệm",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a laboratory.",
+      "definitions_ex_en": "a science lab",
+      "definitions_ex_vn": "một phòng thí nghiệm khoa học",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a Labrador dog.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808369332_7ca019b104_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808369332_6a22b61bd1_o.png",
+      "id_image": "lab_1974488"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809439558_970a450c6e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809439558_209e7038ae_o.png",
+      "id_image": "lab_353574"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809679609_0c59439342_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809679609_327a50e646_o.png",
+      "id_image": "lab_4681558"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810061305_3164bc8f43_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810061305_195acc3598_o.png",
+      "id_image": "lab_4681603"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809324351_63111c5b43_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809324351_3b6f6da803_o.png",
+      "id_image": "lab_4681659"
+    }
+  ]
+}

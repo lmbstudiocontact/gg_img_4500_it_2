@@ -1,0 +1,50 @@
+{
+  "english": "limitation",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự giới hạn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự hạn chế",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự hạn định",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự hiểu biết",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thời hạn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thời kỳ có hiệu lực",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a limiting rule or circumstance; a restriction.",
+      "definitions_ex_en": "severe limitations on water use",
+      "definitions_ex_vn": "Hạn chế nghiêm trọng về sử dụng nước",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a legally specified period beyond which an action may be defeated or a property right is not to continue.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809341506_1a73db4e64_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809341506_9b80d87bf8_o.png",
+      "id_image": "limitation_5387129"
+    }
+  ]
+}

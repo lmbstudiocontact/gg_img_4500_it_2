@@ -1,0 +1,104 @@
+{
+  "english": "image",
+  "list_translation_mean": [
+    {
+      "translate_mean": "tranh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ảnh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ảnh tượng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hình",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hình ảnh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tượng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tư tưởng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ý tưởng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bóng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "quan niệm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chiếu ra",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tiêu biểu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tượng trưng bằng ảnh",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "vẻ hình",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a representation of the external form of a person or thing in art.",
+      "definitions_ex_en": "her work juxtaposed images from serious and popular art",
+      "definitions_ex_vn": "công việc của cô ấy hình ảnh được ghép đôi từ nghệ thuật nghiêm túc và phổ biến",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the general impression that a person, organization, or product presents to the public.",
+      "definitions_ex_en": "she strives to project an image of youth",
+      "definitions_ex_vn": "Cô phấn đấu để chiếu một hình ảnh của tuổi trẻ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a simile or metaphor.",
+      "definitions_ex_en": "he uses the image of a hole to describe emotional emptiness",
+      "definitions_ex_vn": "Anh ta sử dụng hình ảnh của một lỗ để mô tả sự trống rỗng cảm xúc",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "make a representation of the external form of.",
+      "definitions_ex_en": "artworks that imaged women's bodies",
+      "definitions_ex_vn": "tác phẩm nghệ thuật mà cơ thể phụ nữ bắt chước",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808367752_d0012bea06_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808367752_59cabb748a_o.png",
+      "id_image": "image_222132"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809437983_caa8b4bed3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809437983_f60769e577_o.png",
+      "id_image": "image_506870"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809322726_ff92a59d2d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809322726_644c53046a_o.png",
+      "id_image": "image_627535"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "english": "military",
+  "list_translation_mean": [
+    {
+      "translate_mean": "quân nhân",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lực lượng quân đội",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "quân đội",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thuộc về quân sự",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "relating to or characteristic of soldiers or armed forces.",
+      "definitions_ex_en": "both leaders condemned the buildup of military activity",
+      "definitions_ex_vn": "Cả hai nhà lãnh đạo đều lên án sự tích tụ của hoạt động quân sự",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "the armed forces of a country.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809458478_fcc21b3618_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809458478_17921e9d88_o.png",
+      "id_image": "military_3191044"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810081130_b283f75d25_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810081130_359ab80b54_o.png",
+      "id_image": "military_6250548"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809698984_7351555aed_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809698984_7f37736d61_o.png",
+      "id_image": "military_771344"
+    }
+  ]
+}

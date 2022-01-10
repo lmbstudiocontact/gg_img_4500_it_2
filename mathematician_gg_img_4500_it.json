@@ -1,0 +1,29 @@
+{
+  "english": "mathematician",
+  "list_translation_mean": [
+    {
+      "translate_mean": "nhà toán học",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an expert in or student of mathematics.",
+      "definitions_ex_en": "one of the world's foremost theoretical mathematicians",
+      "definitions_ex_vn": "một trong những nhà toán học lý thuyết hàng đầu thế giới",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808364622_9d1147929a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808364622_2c983e4769_o.png",
+      "id_image": "mathematician_1876932"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809674949_d31f4149d8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809674949_31fa088445_o.png",
+      "id_image": "mathematician_827371"
+    }
+  ]
+}

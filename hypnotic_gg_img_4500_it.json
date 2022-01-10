@@ -1,0 +1,50 @@
+{
+  "english": "hypnotic",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thôi miên",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "làm cho ngũ",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thụy miên",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "of, producing, or relating to hypnosis.",
+      "definitions_ex_en": "a hypnotic state",
+      "definitions_ex_vn": "một trạng thái thôi miên",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a drug) sleep-inducing.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a sleep-inducing drug.",
+      "definitions_ex_en": "hypnotics may be prescribed",
+      "definitions_ex_vn": "Hypnotics có thể được quy định",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a person under or open to the influence of hypnotism.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808370212_ca216fbfd1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808370212_3b0b7cbd6f_o.png",
+      "id_image": "hypnotic_3480026"
+    }
+  ]
+}

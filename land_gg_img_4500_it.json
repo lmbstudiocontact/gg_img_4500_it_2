@@ -1,0 +1,161 @@
+{
+  "english": "land",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bất động sản",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đất",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đất đai",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "địa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "địa phương",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lục địa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sở đất",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "xứ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đất ruộng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "điền địa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "luống đất",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhà cho mướn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bắt xuống đất",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "dìu dắt",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đáp xuống đất",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đặt xuống đất",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đậu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đem hàng hóa xuống xe",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đổ bộ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "phi cơ đáp xuống",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "té xuống đất",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the part of the earth's surface that is not covered by water, as opposed to the sea or the air.",
+      "definitions_ex_en": "the reptiles lay their eggs on land",
+      "definitions_ex_vn": "Các loài bò sát đẻ trứng trên đất liền",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a country.",
+      "definitions_ex_en": "the valley is one of the most beautiful in the land",
+      "definitions_ex_vn": "Thung lũng là một trong những người đẹp nhất trong đất",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the space between the rifling grooves in a gun.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(in Germany or Austria) a state.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "put (someone or something) on land from a boat.",
+      "definitions_ex_en": "the lifeboat landed the survivors safely ashore",
+      "definitions_ex_vn": "Thuyền cứu sinh đã hạ cánh những người sống sót một cách an toàn lên bờ",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "come down through the air and alight on the ground.",
+      "definitions_ex_en": "planes landing at the rate of two a minute",
+      "definitions_ex_vn": "máy bay hạ cánh với tỷ lệ hai phút một phút",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "inflict (a blow) on someone.",
+      "definitions_ex_en": "I won the fight without landing a single punch",
+      "definitions_ex_vn": "Tôi đã thắng cuộc chiến mà không cần đổ một cú đấm duy nhất",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "forming nouns denoting a particular sphere of activity or group of people.",
+      "definitions_ex_en": "the blunt, charmless climate of technoland",
+      "definitions_ex_vn": "Khí hậu cùn, quyến rũ của Technoland",
+      "definitions_type_word": "combining form"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809321871_f1939d8865_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809321871_f8b69e909e_o.png",
+      "id_image": "land_2118981"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810058605_b122246a89_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810058605_b241f747fb_o.png",
+      "id_image": "land_2119012"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810058570_4669b956dc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810058570_c0ba0825e2_o.png",
+      "id_image": "land_2194831"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809321761_35ecb046c1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809321761_6615b77272_o.png",
+      "id_image": "land_4215135"
+    }
+  ]
+}

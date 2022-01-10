@@ -1,0 +1,40 @@
+{
+  "english": "modem",
+  "list_translation_mean": [
+    {
+      "translate_mean": "modem",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a combined device for modulation and demodulation, for example, between the digital data of a computer and the analog signal of a phone line.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "send (data) by modem.",
+      "definitions_ex_en": "Iva and Bill were modeming new programs to New Orleans",
+      "definitions_ex_vn": "Iva và Bill đã modeming các chương trình mới cho New Orleans",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810076350_c928938b6c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810076350_bb44e419e5_o.png",
+      "id_image": "modem_194433"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808384072_2cca2bb13b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808384072_005fe2ca19_o.png",
+      "id_image": "modem_6303413"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810076290_c9b73a6b2a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810076290_f2bc1b54d2_o.png",
+      "id_image": "modem_860260"
+    }
+  ]
+}

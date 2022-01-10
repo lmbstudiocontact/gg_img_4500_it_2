@@ -1,0 +1,54 @@
+{
+  "english": "moor",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bãi hoang",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dây cột thuyền",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đất lầy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đất hoang",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đồng hoang",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khu cấm săn bắn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cột thuyền",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "make fast (a boat) by attaching it by cable or rope to the shore or to an anchor.",
+      "definitions_ex_en": "twenty or so fishing boats were moored to the pier",
+      "definitions_ex_vn": "Hai mươi hoặc lâu hơn tàu đánh cá được neo đậu đến bến tàu",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a member of a northwestern African Muslim people of mixed Berber and Arab descent. In the 8th century they conquered the Iberian peninsula, but were finally driven out of their last stronghold in Granada at the end of the 15th century.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809336671_7af54ab658_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809336671_77d1eee43c_o.png",
+      "id_image": "moor_2000317"
+    }
+  ]
+}

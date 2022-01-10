@@ -1,0 +1,42 @@
+{
+  "english": "manufacturer",
+  "list_translation_mean": [
+    {
+      "translate_mean": "người chế tạo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người sáng tác",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhà chế tạo",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person or company that makes goods for sale.",
+      "definitions_ex_en": "the manufacturers supply the goods to the distribution center",
+      "definitions_ex_vn": "Các nhà sản xuất cung cấp hàng hóa cho trung tâm phân phối",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809439883_5434d390ca_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809439883_493752dcb3_o.png",
+      "id_image": "manufacturer_1353751"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808369602_d661f8f48f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808369602_ab3000e89f_o.png",
+      "id_image": "manufacturer_1857062"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809679919_9fdf50e187_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809679919_1713e7609b_o.png",
+      "id_image": "manufacturer_2761089"
+    }
+  ]
+}

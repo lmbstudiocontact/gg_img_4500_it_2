@@ -1,0 +1,58 @@
+{
+  "english": "outbreak",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bạo động",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khởi loạn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự bộc phát",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự bùng nổ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự nổi loạn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự phun lửa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nổi cơn giận",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the sudden or violent start of something unwelcome, such as war, disease, etc.",
+      "definitions_ex_en": "the outbreak of World War II",
+      "definitions_ex_vn": "Sự bùng nổ của Thế chiến II",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808387057_d8350ba8c9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808387057_10fd314f0d_o.png",
+      "id_image": "outbreak_2785845"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810079415_fc7da27f76_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810079415_3526ca4dcc_o.png",
+      "id_image": "outbreak_2834380"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809456803_3fed1e89ac_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809456803_c0eb2b765a_o.png",
+      "id_image": "outbreak_2927330"
+    }
+  ]
+}

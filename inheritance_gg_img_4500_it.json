@@ -1,0 +1,46 @@
+{
+  "english": "inheritance",
+  "list_translation_mean": [
+    {
+      "translate_mean": "di sản",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự thừa hưởng tài sản",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự thừa kế",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tài sản kế thừa",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a thing that is inherited.",
+      "definitions_ex_en": "he came into a comfortable inheritance",
+      "definitions_ex_vn": "anh ấy đã đi vào một tài sản thừa kế thoải mái",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808392347_41c0322a45_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808392347_7df1796363_o.png",
+      "id_image": "inheritance_1087549"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809462093_528c64b01f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809462093_3aa5d345c7_o.png",
+      "id_image": "inheritance_5904096"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809347276_dddc67283d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809347276_4c253ba1ce_o.png",
+      "id_image": "inheritance_6000962"
+    }
+  ]
+}

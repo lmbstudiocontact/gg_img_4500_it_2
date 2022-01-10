@@ -1,0 +1,51 @@
+{
+  "english": "milky",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thuộc về sữa",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "containing or mixed with a large amount of milk.",
+      "definitions_ex_en": "a cup of sweet milky coffee",
+      "definitions_ex_vn": "một tách cà phê sữa ngọt ngào",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "resembling milk in color.",
+      "definitions_ex_en": "not a blemish marred her milky skin",
+      "definitions_ex_vn": "không phải là một nhược điểm của làn da sữa",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "weak and compliant.",
+      "definitions_ex_en": "they just talk that way to make you turn milky",
+      "definitions_ex_vn": "Họ chỉ nói chuyện như làm cho bạn biến Milky",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809698624_a836c63200_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809698624_c265896325_o.png",
+      "id_image": "milky_258312"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808388272_22a4d8a209_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808388272_157e2f46af_o.png",
+      "id_image": "milky_334149"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809343286_117864abe6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809343286_8d3b8f59ab_o.png",
+      "id_image": "milky_334191"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809698509_4b28ce0d1b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809698509_dfbc85c85d_o.png",
+      "id_image": "milky_757001"
+    }
+  ]
+}

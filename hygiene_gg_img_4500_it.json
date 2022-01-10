@@ -1,0 +1,39 @@
+{
+  "english": "hygiene",
+  "list_translation_mean": [
+    {
+      "translate_mean": "phép vệ sinh",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "conditions or practices conducive to maintaining health and preventing disease, especially through cleanliness.",
+      "definitions_ex_en": "poor standards of food hygiene",
+      "definitions_ex_vn": "Tiêu chuẩn kém về vệ sinh thực phẩm",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325816_0bc1b3a5de_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325816_0f83b8c22c_o.png",
+      "id_image": "hygiene_2720295"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810062585_54d481acac_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810062585_8d6a17e149_o.png",
+      "id_image": "hygiene_2927564"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809680849_40992fa524_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809680849_7c98557ab7_o.png",
+      "id_image": "hygiene_2949990"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325711_01deb08b7a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325711_e55b19f69c_o.png",
+      "id_image": "hygiene_3035083"
+    }
+  ]
+}

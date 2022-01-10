@@ -1,0 +1,47 @@
+{
+  "english": "nationality",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ái quốc chủ nghĩa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dân tộc tính",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "quốc gia tính",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "quốc tịch",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the status of belonging to a particular nation.",
+      "definitions_ex_en": "they changed their nationality and became Lebanese",
+      "definitions_ex_vn": "họ đã thay đổi quốc tịch của họ và trở thành Lebanon",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an ethnic group forming a part of one or more political nations.",
+      "definitions_ex_en": "all the main nationalities of Ethiopia",
+      "definitions_ex_vn": "Tất cả các quốc tịch chính của Ethiopia",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683054_ee5e203707_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683054_59398d5c66_o.png",
+      "id_image": "national_3014423"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809443008_22b915d42d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809443008_b25f1c1bf6_o.png",
+      "id_image": "national_5189458"
+    }
+  ]
+}

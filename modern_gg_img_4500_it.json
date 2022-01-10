@@ -1,0 +1,58 @@
+{
+  "english": "modern",
+  "list_translation_mean": [
+    {
+      "translate_mean": "mới",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "tân thời",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "hiện đại",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "relating to the present or recent times as opposed to the remote past.",
+      "definitions_ex_en": "the pace of modern life",
+      "definitions_ex_vn": "Tốc độ của cuộc sống hiện đại",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a person who advocates or practices a departure from traditional styles or values.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809339011_9b4fd81124_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809339011_348e502f26_o.png",
+      "id_image": "modern_1430743"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810076050_b19bbb23fb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810076050_dd379d0f7d_o.png",
+      "id_image": "modern_3335668"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810076015_a92b943d86_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810076015_64b775015b_o.png",
+      "id_image": "modern_4412728"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809694049_43c7fd963a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809694049_acd9b1a935_o.png",
+      "id_image": "modern_4698454"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810075915_6e0933eee1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810075915_67f7eebe6e_o.png",
+      "id_image": "modern_6377221"
+    }
+  ]
+}

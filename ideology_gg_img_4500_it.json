@@ -1,0 +1,30 @@
+{
+  "english": "ideology",
+  "list_translation_mean": [
+    {
+      "translate_mean": "tư tưởng học",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a system of ideas and ideals, especially one which forms the basis of economic or political theory and policy.",
+      "definitions_ex_en": "the ideology of democracy",
+      "definitions_ex_vn": "hệ tư tưởng của nền dân chủ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the science of ideas; the study of their origin and nature.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810060815_d0334ee739_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810060815_53046c2872_o.png",
+      "id_image": "ideology_2473091"
+    }
+  ]
+}

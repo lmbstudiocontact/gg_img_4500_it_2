@@ -1,0 +1,40 @@
+{
+  "english": "mocha",
+  "list_translation_mean": [
+    {
+      "translate_mean": "một thứ mã nảo",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a fine-quality coffee.",
+      "definitions_ex_en": "Kenyan, Colombian or mocha coffee",
+      "definitions_ex_vn": "Cà phê Kenya, Colombia hoặc Mocha",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a soft kind of leather made from sheepskin.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810077135_9516dfcd27_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810077135_df00b51e41_o.png",
+      "id_image": "mocha_190963"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810077085_59bda8bb5a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810077085_e10d36ac0b_o.png",
+      "id_image": "mocha_263736"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808384722_ca5d0f6b60_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808384722_9c3159fc50_o.png",
+      "id_image": "mocha_265369"
+    }
+  ]
+}

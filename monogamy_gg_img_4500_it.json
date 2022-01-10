@@ -1,0 +1,28 @@
+{
+  "english": "monogamy",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chế độ một chồng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chế độ một vợ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the practice or state of being married to one person at a time.",
+      "definitions_ex_en": "Judaism has journeyed from polygamy to strict monogamy",
+      "definitions_ex_vn": "Do Thái giáo đã đi từ đa thê đến một phần tử giả nghiêm ngặt",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808382512_4ab987ebcd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808382512_c2ddaac14b_o.png",
+      "id_image": "monogamy_5526338"
+    }
+  ]
+}

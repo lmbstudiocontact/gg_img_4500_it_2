@@ -1,0 +1,60 @@
+{
+  "english": "knife",
+  "list_translation_mean": [
+    {
+      "translate_mean": "dao",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "con dao",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dao găm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lưởi để cắt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chém bằng dao",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đâm bằng dao",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an instrument composed of a blade fixed into a handle, used for cutting or as a weapon.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "stab (someone) with a knife.",
+      "definitions_ex_en": "he was knifed to death during the argument",
+      "definitions_ex_vn": "Anh ta bị chết người trong cuộc tranh luận",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809440693_f8428469ab_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809440693_fb3ae84225_o.png",
+      "id_image": "knife_297832"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809440673_7d0396a57d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809440673_522d8d1981_o.png",
+      "id_image": "knife_333549"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808370422_571ec1dcc2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808370422_f4569a4727_o.png",
+      "id_image": "knife_535039"
+    }
+  ]
+}

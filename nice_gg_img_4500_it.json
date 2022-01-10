@@ -1,0 +1,85 @@
+{
+  "english": "nice",
+  "list_translation_mean": [
+    {
+      "translate_mean": "tinh vi",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "dể thương",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "đáng yêu",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "kỷ càng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "khó tánh",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "người tử tế",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "quá cẩn thận",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "tỉ mỉ",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "tinh tế",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "vật đẹp",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "vật tốt",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "vật xinh",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "pleasant; agreeable; satisfactory.",
+      "definitions_ex_en": "we had a nice time",
+      "definitions_ex_vn": "Chúng tôi đã có một thời gian tốt đẹp",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "fine or subtle.",
+      "definitions_ex_en": "a nice distinction",
+      "definitions_ex_vn": "một sự khác biệt tốt đẹp",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "fastidious; scrupulous.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809322956_9357d30a7d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809322956_64f1bac896_o.png",
+      "id_image": "nice_3159075"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809438063_4a9d841acc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809438063_f3f1b22dfa_o.png",
+      "id_image": "nice_3770792"
+    }
+  ]
+}

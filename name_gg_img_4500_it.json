@@ -1,0 +1,103 @@
+{
+  "english": "name",
+  "list_translation_mean": [
+    {
+      "translate_mean": "tên",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "danh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thanh danh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "danh giá",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tên của tuồng hát",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "danh tánh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tên của vật gì",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "danh tiếng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiếng tăm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "kêu tên",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "gọi tên",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a word or set of words by which a person, animal, place, or thing is known, addressed, or referred to.",
+      "definitions_ex_en": "my name is Parsons, John Parsons",
+      "definitions_ex_vn": "Tên tôi là Parsons, John Parsons",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a famous person.",
+      "definitions_ex_en": "as usual, the big race will lure the top names",
+      "definitions_ex_vn": "Như thường lệ, cuộc đua lớn sẽ thu hút những cái tên hàng đầu",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "give a name to.",
+      "definitions_ex_en": "hundreds of diseases had not yet been isolated or named",
+      "definitions_ex_vn": "Hàng trăm bệnh chưa được cách ly hoặc được đặt tên",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "specify (an amount, time, or place) as something desired, suggested, or decided on.",
+      "definitions_ex_en": "he showed them the picture and named a price",
+      "definitions_ex_vn": "Anh ấy chỉ cho họ hình ảnh và đặt tên là một mức giá",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of a person or commercial product) having a name that is widely known.",
+      "definitions_ex_en": "countless specialized name brands geared to niche markets",
+      "definitions_ex_vn": "Vô số thương hiệu tên chuyên biệt hướng đến thị trường thích hợp",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808373842_73d83642c4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808373842_67004ef369_o.png",
+      "id_image": "name_1655593"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810065940_cc35096411_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810065940_0a274a47ba_o.png",
+      "id_image": "name_1828413"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808373792_163be229b9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808373792_7c30a2fe93_o.png",
+      "id_image": "name_4060911"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809329021_753f531158_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809329021_b439543242_o.png",
+      "id_image": "name_6135265"
+    }
+  ]
+}

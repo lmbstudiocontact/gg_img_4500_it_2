@@ -1,0 +1,46 @@
+{
+  "english": "inbound",
+  "list_translation_mean": [
+    {
+      "translate_mean": "không giới hạn",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "traveling toward a particular place, especially when returning to the original point of departure.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "toward a particular place, especially when returning to the original point of departure.",
+      "definitions_ex_en": "we continued inbound to the ship",
+      "definitions_ex_vn": "Chúng tôi tiếp tục gửi đến tàu",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "throw (the ball) from out of bounds, putting it into play.",
+      "definitions_ex_en": "Ohio State inbounded the ball against the swarming defenders",
+      "definitions_ex_vn": "Trạng thái Ohio đã gây ra bóng chống lại những người bảo vệ tràn ngập",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808364957_e8e9f3cd10_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808364957_a4e3b7c0be_o.png",
+      "id_image": "inbound_2706903"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809675064_2828a7aa12_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809675064_994bf1cc2d_o.png",
+      "id_image": "inbound_3922207"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808364847_04a82629fb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808364847_44f836dfe8_o.png",
+      "id_image": "inbound_5672966"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "english": "local",
+  "list_translation_mean": [
+    {
+      "translate_mean": "địa phương",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thuộc về chổ",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "chổ địa phương",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dân ở địa phương nào",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "belonging or relating to a particular area or neighborhood, typically exclusively so.",
+      "definitions_ex_en": "researching local history",
+      "definitions_ex_vn": "Nghiên cứu lịch sử địa phương",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "an inhabitant of a particular area or neighborhood.",
+      "definitions_ex_en": "the street was full of locals and tourists",
+      "definitions_ex_vn": "Con đường đầy người dân địa phương và khách du lịch",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809453168_ec156a8f81_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809453168_01a12cb31e_o.png",
+      "id_image": "local_997681"
+    }
+  ]
+}

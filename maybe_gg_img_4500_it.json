@@ -1,0 +1,35 @@
+{
+  "english": "maybe",
+  "list_translation_mean": [
+    {
+      "translate_mean": "có thể",
+      "type_word": "adverb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "perhaps; possibly.",
+      "definitions_ex_en": "maybe I won't go back",
+      "definitions_ex_vn": "có lẽ tôi sẽ không quay trở lại",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "a mere possibility or probability.",
+      "definitions_ex_en": "no ifs, buts, or maybes",
+      "definitions_ex_vn": "KHÔNG IFS, NHƯNG, HOẶC MAYBES",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809674344_26ff816a87_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809674344_371dde3f76_o.png",
+      "id_image": "maybe_5359964"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808364092_82f16fa59a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808364092_9f343a2a08_o.png",
+      "id_image": "maybe_5650824"
+    }
+  ]
+}

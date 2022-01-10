@@ -1,0 +1,46 @@
+{
+  "english": "infant",
+  "list_translation_mean": [
+    {
+      "translate_mean": "công chúa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hoàng tử",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trẻ con",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trẻ con dưới bảy tuổi",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a very young child or baby.",
+      "definitions_ex_en": "healthy infants",
+      "definitions_ex_vn": "Trẻ sơ sinh khỏe mạnh",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809317246_e24578e1db_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809317246_28ff610bc7_o.png",
+      "id_image": "infant_2621483"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809432293_4fdca057b5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809432293_f68e73c367_o.png",
+      "id_image": "infant_2621728"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808361477_b5a065cbc0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808361477_baf715c1df_o.png",
+      "id_image": "infant_5233937"
+    }
+  ]
+}

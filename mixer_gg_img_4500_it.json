@@ -1,0 +1,60 @@
+{
+  "english": "mixer",
+  "list_translation_mean": [
+    {
+      "translate_mean": "máy nhồi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "máy trộn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người bồi pha rượu",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a machine or device for mixing things, especially an electrical appliance for mixing foods.",
+      "definitions_ex_en": "a food mixer",
+      "definitions_ex_vn": "một máy trộn thực phẩm",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a person considered in terms of their ability to mix socially with others.",
+      "definitions_ex_en": "media people need to be good mixers",
+      "definitions_ex_vn": "Media People cần phải là máy trộn tốt",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a soft drink that can be mixed with alcohol.",
+      "definitions_ex_en": "use low-calorie mixers in your cocktails",
+      "definitions_ex_vn": "Sử dụng máy trộn calo thấp trong cocktail của bạn",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(in sound recording and cinematography) a device for merging input signals to produce a combined output in the form of sound or pictures.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808385302_86b06e90a9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808385302_5cd4c05bf9_o.png",
+      "id_image": "mixer_259161"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809695619_e6eb5d2a50_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809695619_b0402bdf2d_o.png",
+      "id_image": "mixer_259163"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809455173_76cc8bd738_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809455173_60aa380caa_o.png",
+      "id_image": "mixer_294629"
+    }
+  ]
+}

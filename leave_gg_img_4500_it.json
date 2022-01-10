@@ -1,0 +1,130 @@
+{
+  "english": "leave",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ly khai",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "bỏ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "bỏ lại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "khởi hành",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "từ giả",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "buông thả",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "rời bỏ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "còn lại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "rời khỏi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "để lại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "giấy phép",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự cáo biệt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự cho phép",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trốn khỏi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự được nghĩ phép",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự từ giả",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "go away from.",
+      "definitions_ex_en": "she left New York on June 6",
+      "definitions_ex_vn": "Cô rời New York vào ngày 6 tháng 6",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "allow to remain.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "cause (someone or something) to be in a particular state or position.",
+      "definitions_ex_en": "he'll leave you in no doubt about what he thinks",
+      "definitions_ex_vn": "anh ấy sẽ khiến bạn không nghi ngờ gì về những gì anh ấy nghĩ",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of a plant) put out new leaves.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(in pool, billiards, snooker, croquet, and other games) the position of the balls after a shot.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "time when one has permission to be absent from work or from duty in the armed forces.",
+      "definitions_ex_en": "Joe was home on leave",
+      "definitions_ex_vn": "Joe ở nhà nghỉ phép",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "permission.",
+      "definitions_ex_en": "he is seeking leave to appeal the injunction",
+      "definitions_ex_vn": "Anh đang tìm cách nghỉ phép để kháng cáo lệnh cấm",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810084875_5eb23df294_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810084875_8ac00b97fc_o.png",
+      "id_image": "leave_1409016"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808392482_278acc9c42_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808392482_26f32237da_o.png",
+      "id_image": "leave_3387188"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808392462_656ebecdf6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808392462_17e3bdd8b9_o.png",
+      "id_image": "leave_4157730"
+    }
+  ]
+}

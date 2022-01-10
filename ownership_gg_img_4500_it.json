@@ -1,0 +1,43 @@
+{
+  "english": "ownership",
+  "list_translation_mean": [
+    {
+      "translate_mean": "quyền sở hửu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự sở hửu",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the act, state, or right of possessing something.",
+      "definitions_ex_en": "the ownership of land",
+      "definitions_ex_vn": "Quyền sở hữu đất đai",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809694504_3fefdb3324_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809694504_f8bcd9fbf6_o.png",
+      "id_image": "ownership_2329886"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809694439_a3e69fe16d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809694439_4e4f9d94c9_o.png",
+      "id_image": "ownership_2361731"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809694424_9be8c1c137_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809694424_a559ac384c_o.png",
+      "id_image": "ownership_4813547"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810076395_eb0550c68b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810076395_5a832c122d_o.png",
+      "id_image": "ownership_4999481"
+    }
+  ]
+}

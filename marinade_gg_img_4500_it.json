@@ -1,0 +1,38 @@
+{
+  "english": "marinade",
+  "list_translation_mean": [
+    {
+      "translate_mean": "gia vị",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thịt muối bằng nước mắm",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ướp gia vị vào cá thịt",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a sauce, typically made of oil, vinegar, spices, and herbs, in which meat, fish, or other food is soaked before cooking in order to flavor or soften it.",
+      "definitions_ex_en": "remove the trout from the marinade with a slotted spoon",
+      "definitions_ex_vn": "Loại bỏ cá hồi từ ướp với một cái muỗng có rãnh",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "another term for marinate.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809678559_1c5a81070d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809678559_043cab9f24_o.png",
+      "id_image": "marinade_3828305"
+    }
+  ]
+}

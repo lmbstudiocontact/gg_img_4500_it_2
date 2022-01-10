@@ -1,0 +1,40 @@
+{
+  "english": "momentum",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sức xung kích",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the quantity of motion of a moving body, measured as a product of its mass and velocity.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the impetus gained by a moving object.",
+      "definitions_ex_en": "the vehicle gained momentum as the road dipped",
+      "definitions_ex_vn": "Xe tăng đà khi đường nhúng",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809453068_fb6b96b8be_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809453068_fb5e708b82_o.png",
+      "id_image": "momentum_1284098"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808383097_dc1ff580d9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808383097_0a88b62e8a_o.png",
+      "id_image": "momentum_1474387"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808383077_9032d53603_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808383077_96893dea96_o.png",
+      "id_image": "momentum_2050282"
+    }
+  ]
+}

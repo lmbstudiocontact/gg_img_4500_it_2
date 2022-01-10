@@ -1,0 +1,42 @@
+{
+  "english": "opponent",
+  "list_translation_mean": [
+    {
+      "translate_mean": "địch thủ",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "phản đối",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "trái nhau",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "someone who competes against or fights another in a contest, game, or argument; a rival or adversary.",
+      "definitions_ex_en": "he beat his opponent by a landslide margin",
+      "definitions_ex_vn": "anh ta đánh bại đối thủ của mình bằng một lề lở đất",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809460383_ba1961a0cf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809460383_4718f4c628_o.png",
+      "id_image": "opponent_1622537"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809345581_a50b350764_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809345581_6fb675df0d_o.png",
+      "id_image": "opponent_4144468"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809700689_3a47ee088c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809700689_430ed65f84_o.png",
+      "id_image": "opponent_5087858"
+    }
+  ]
+}

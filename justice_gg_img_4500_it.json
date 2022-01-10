@@ -1,0 +1,45 @@
+{
+  "english": "justice",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự công bằng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "just behavior or treatment.",
+      "definitions_ex_en": "a concern for justice, peace, and genuine respect for people",
+      "definitions_ex_vn": "một mối quan tâm cho công lý, hòa bình và tôn trọng người dân",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a judge or magistrate, in particular a judge of the Supreme Court of a country or state.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809445068_18e0785a51_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809445068_b598c73995_o.png",
+      "id_image": "justice_1750503"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808374722_6bc5139fe1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808374722_e984dfa050_o.png",
+      "id_image": "justice_3142982"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809685119_3a73504da3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809685119_b11d68a1c8_o.png",
+      "id_image": "justice_325672"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809684949_126b436dac_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809684949_eddfeed40a_o.png",
+      "id_image": "justice_4729343"
+    }
+  ]
+}

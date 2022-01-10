@@ -1,0 +1,29 @@
+{
+  "english": "manifesto",
+  "list_translation_mean": [
+    {
+      "translate_mean": "tuyên ngôn",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a public declaration of policy and aims, especially one issued before an election by a political party or candidate.",
+      "definitions_ex_en": "a manifesto for gay liberation",
+      "definitions_ex_vn": "một tuyên ngôn để giải phóng đồng tính",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325611_bfbb1c57fb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325611_a7f973d24a_o.png",
+      "id_image": "manifesto_3122426"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809680649_4652cb51a6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809680649_42170eb2eb_o.png",
+      "id_image": "manifesto_6009841"
+    }
+  ]
+}

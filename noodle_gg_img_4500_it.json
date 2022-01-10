@@ -1,0 +1,71 @@
+{
+  "english": "noodle",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bún",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mì",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người đần độn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người khờ dại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người ngớ ngẫn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người ngu ngốc",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a strip, ring, or tube of pasta or a similar dough, typically made with egg and usually eaten with a sauce or in a soup.",
+      "definitions_ex_en": "cook the noodles in a large pan of boiling water",
+      "definitions_ex_vn": "Nấu mì trong chảo lớn nước sôi",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a stupid or silly person.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "improvise or play casually on a musical instrument.",
+      "definitions_ex_en": "tapes of him noodling on his guitar",
+      "definitions_ex_vn": "Băng của anh Noodling trên cây đàn guitar của mình",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808366667_22e2a53d3d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808366667_2d0ea3ce4d_o.png",
+      "id_image": "noodle_1019380"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808366632_7a4194fe54_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808366632_75dc85a0ce_o.png",
+      "id_image": "noodle_3447858"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810058615_2244d3100a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810058615_22976a40e5_o.png",
+      "id_image": "noodle_590724"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809676839_24e95806ef_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809676839_ef8991a645_o.png",
+      "id_image": "noodle_995879"
+    }
+  ]
+}

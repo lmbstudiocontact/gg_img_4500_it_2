@@ -1,0 +1,94 @@
+{
+  "english": "love",
+  "list_translation_mean": [
+    {
+      "translate_mean": "yêu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ái tình",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cảm tình",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự âu yếm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự trìu mếm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tình thương",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tình yêu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "yêu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thương",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "luyến ái",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thích",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an intense feeling of deep affection.",
+      "definitions_ex_en": "babies fill parents with feelings of love",
+      "definitions_ex_vn": "Em bé lấp đầy cha mẹ với cảm xúc của tình yêu",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a great interest and pleasure in something.",
+      "definitions_ex_en": "his love for football",
+      "definitions_ex_vn": "Tình yêu của anh dành cho bóng đá",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a person or thing that one loves.",
+      "definitions_ex_en": "she was the love of his life",
+      "definitions_ex_vn": "Cô ấy là tình yêu của đời mình",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(in tennis, squash, and some other sports) a score of zero; nil.",
+      "definitions_ex_en": "love fifteen",
+      "definitions_ex_vn": "yêu mười lăm",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "feel deep affection for (someone).",
+      "definitions_ex_en": "he loved his sister dearly",
+      "definitions_ex_vn": "Anh yêu em gái thân yêu",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "like or enjoy very much.",
+      "definitions_ex_en": "I just love dancing",
+      "definitions_ex_vn": "Tôi chỉ thích nhảy múa",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808378907_bd235ab77b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808378907_ca8e548478_o.png",
+      "id_image": "love_708692"
+    }
+  ]
+}

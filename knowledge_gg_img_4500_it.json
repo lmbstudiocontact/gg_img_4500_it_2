@@ -1,0 +1,77 @@
+{
+  "english": "knowledge",
+  "list_translation_mean": [
+    {
+      "translate_mean": "biết tường tận",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "biết rỏ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "biết rỏ ràng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "học thức",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "kiến thức",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự biết",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự hiểu biết",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự thông hiểu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trí thức",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "facts, information, and skills acquired by a person through experience or education; the theoretical or practical understanding of a subject.",
+      "definitions_ex_en": "a thirst for knowledge",
+      "definitions_ex_vn": "khát khao về kiến thức",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "awareness or familiarity gained by experience of a fact or situation.",
+      "definitions_ex_en": "the program had been developed without his knowledge",
+      "definitions_ex_vn": "Chương trình đã được phát triển mà không có kiến thức của mình",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809324876_80fc7cbb58_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809324876_8837453f77_o.png",
+      "id_image": "knowledge_2070946"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809324916_52938335a9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809324916_bce306c63f_o.png",
+      "id_image": "knowledge_207314"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809680004_c7c6a8a95d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809680004_04260dcb1d_o.png",
+      "id_image": "knowledge_2861728"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809324781_37206170ac_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809324781_d3eef7b227_o.png",
+      "id_image": "knowledge_3930428"
+    }
+  ]
+}

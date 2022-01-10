@@ -1,0 +1,59 @@
+{
+  "english": "massage",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự thoa bóp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "xoa bóp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đấm bóp",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the rubbing and kneading of muscles and joints of the body with the hands, especially to relieve tension or pain.",
+      "definitions_ex_en": "massage can ease tiredness and jet lag",
+      "definitions_ex_vn": "Massage có thể giảm mệt mỏi và độ trễ máy bay phản lực",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "rub and knead (a person or part of the body) with the hands.",
+      "definitions_ex_en": "she massaged his tired muscles",
+      "definitions_ex_vn": "Cô mát xa cơ bắp mệt mỏi của mình",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "manipulate (figures) to give a more acceptable result.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808366052_d57001cf6a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808366052_cf32ba86e4_o.png",
+      "id_image": "massage_3511860"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808366102_6bdfaa7efa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808366102_276f0da5dd_o.png",
+      "id_image": "massage_409209"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809321071_91a24a86b8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809321071_2597d04f0d_o.png",
+      "id_image": "massage_5362182"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809436298_86e87e287b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809436298_1b51032330_o.png",
+      "id_image": "massage_5775840"
+    }
+  ]
+}

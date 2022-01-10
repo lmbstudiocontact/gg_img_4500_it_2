@@ -1,0 +1,94 @@
+{
+  "english": "mouth",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cửa cảng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cửa lò",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cửa sông",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hà khẩu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lổ để bỏ thơ vào thùng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "miệng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "miệng của con vật",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "miệng của loài cá",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "miệng giếng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "miệng núi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "miệng người",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nói to",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nói với giọng hùng hồn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nhăn nhó",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the opening in the lower part of the human face, surrounded by the lips, through which food is taken in and from which speech and other sounds are emitted.",
+      "definitions_ex_en": "Ben stood transfixed with disbelief, his mouth open",
+      "definitions_ex_vn": "Ben đứng bị hoài nghi với sự hoài nghi, miệng anh mở ra",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an opening or entrance to a structure that is hollow, concave, or almost completely enclosed.",
+      "definitions_ex_en": "standing before the mouth of a cave",
+      "definitions_ex_vn": "đứng trước miệng một hang động",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "say (something dull or unoriginal), especially in a pompous or affected way.",
+      "definitions_ex_en": "this clergyman mouths platitudes in breathy, soothing tones",
+      "definitions_ex_vn": "Giáo sĩ giáo sĩ này nói theo tinh thể trong hơi thở, êm dịu",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "take in or touch with the mouth.",
+      "definitions_ex_en": "puppies may mouth each other's collars during play",
+      "definitions_ex_vn": "Chó con có thể miệng vòng cổ của nhau trong khi chơi",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810070870_070d39c797_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810070870_fa2920cdb4_o.png",
+      "id_image": "mouth_2731397"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "english": "motherhood",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thân phận của người mẹ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the state of being a mother.",
+      "definitions_ex_en": "she juggles motherhood with a demanding career",
+      "definitions_ex_vn": "Cô ấy tung hứng làm mẹ với sự nghiệp đòi hỏi khắt khe",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810072265_57aaa6438a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810072265_8a32924963_o.png",
+      "id_image": "motherhood_388351"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335321_3f754b39c3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335321_211205542b_o.png",
+      "id_image": "motherhood_394438"
+    }
+  ]
+}

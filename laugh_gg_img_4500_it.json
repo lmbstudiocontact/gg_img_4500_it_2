@@ -1,0 +1,63 @@
+{
+  "english": "laugh",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bật cười",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiếng cười",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cười",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cười rộ lên",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "make the spontaneous sounds and movements of the face and body that are the instinctive expressions of lively amusement and sometimes also of contempt or derision.",
+      "definitions_ex_en": "she couldn't help laughing at his jokes",
+      "definitions_ex_vn": "Cô không thể giúp cười đùa với những câu chuyện cười của mình",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "an act of laughing.",
+      "definitions_ex_en": "she gave a loud, silly laugh",
+      "definitions_ex_vn": "Cô ấy cười to, ngớ ngẩn",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "something that causes laughter; a source of fun, amusement, or derision.",
+      "definitions_ex_en": "she decided to play along with him for a laugh",
+      "definitions_ex_vn": "Cô quyết định chơi cùng anh để cười",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810056235_71f661fdbe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810056235_bd0a5b9f52_o.png",
+      "id_image": "laugh_1464026"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809319641_cea4177606_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809319641_b325319d3b_o.png",
+      "id_image": "laugh_1464042"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808364307_a0e05a7496_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808364307_a90f239a8e_o.png",
+      "id_image": "laugh_3561590"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810056115_e61c29754b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810056115_0f3d9ff5ca_o.png",
+      "id_image": "laugh_3632583"
+    }
+  ]
+}

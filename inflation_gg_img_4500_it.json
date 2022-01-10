@@ -1,0 +1,66 @@
+{
+  "english": "inflation",
+  "list_translation_mean": [
+    {
+      "translate_mean": "lên giá",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "rườm rà",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự lạm phát",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tăng giá quá đáng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "văn dài dòng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the action of inflating something or the condition of being inflated.",
+      "definitions_ex_en": "the inflation of a balloon",
+      "definitions_ex_vn": "Lạm phát của một quả bóng bay",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a general increase in prices and fall in the purchasing value of money.",
+      "definitions_ex_en": "policies aimed at controlling inflation",
+      "definitions_ex_vn": "Chính sách nhằm mục đích kiểm soát lạm phát",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810053300_a6cc5cfc47_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810053300_5be0d37f8e_o.png",
+      "id_image": "inflation_1753681"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808361152_0500cb2922_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808361152_ce392d5e52_o.png",
+      "id_image": "inflation_2361928"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809316876_72fa2c9ff6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809316876_ee2b25ba1e_o.png",
+      "id_image": "inflation_3310646"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809431883_a00926e20c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809431883_caa3140d9c_o.png",
+      "id_image": "inflation_5116485"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810053255_ef8736a68b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810053255_31c0949106_o.png",
+      "id_image": "inflation_6203227"
+    }
+  ]
+}

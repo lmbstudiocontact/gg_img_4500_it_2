@@ -1,0 +1,34 @@
+{
+  "english": "oatmeal",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bột lúa kiều mạch",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cháo bột yến mạch",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "meal made from ground oats, used in breakfast cereals or other food.",
+      "definitions_ex_en": "oatmeal porridge",
+      "definitions_ex_vn": "bột yến mạch cháo",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a grayish-beige color flecked with brown.",
+      "definitions_ex_en": "an oatmeal jacket",
+      "definitions_ex_vn": "một chiếc áo khoác bột yến mạch",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810055820_24ef10f167_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810055820_c83ff86c7a_o.png",
+      "id_image": "oatmeal_5098762"
+    }
+  ]
+}

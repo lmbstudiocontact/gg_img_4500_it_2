@@ -1,0 +1,78 @@
+{
+  "english": "mail",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bao thơ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "xe thơ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "áo giáp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhà bưu điện",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bưu chánh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thơ tín",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bưu cục",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "xe trạm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mặc áo giáp",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "letters and packages conveyed by the postal system.",
+      "definitions_ex_en": "I did not receive any mail",
+      "definitions_ex_vn": "Tôi đã không nhận được bất kỳ thư nào",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "armor made of metal rings or plates joined together flexibly.",
+      "definitions_ex_en": "a coat of mail",
+      "definitions_ex_vn": "một bộ lông của thư",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "send (a letter or package) using the postal system.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808373637_93abaee141_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808373637_d5b7e5dc1d_o.png",
+      "id_image": "mail_194350"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328821_0d2373a7cf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328821_4c5b00f702_o.png",
+      "id_image": "mail_673817"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328781_3ffc144082_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328781_7beb4707c7_o.png",
+      "id_image": "mail_696380"
+    }
+  ]
+}

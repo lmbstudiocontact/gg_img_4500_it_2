@@ -1,0 +1,36 @@
+{
+  "english": "markup",
+  "list_translation_mean": [
+    {
+      "translate_mean": "lên giá vật gì",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the amount added to the cost price of goods to cover overhead and profit.",
+      "definitions_ex_en": "a markup of 50 percent",
+      "definitions_ex_vn": "đánh dấu 50 phần trăm",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the process or result of correcting text in preparation for printing.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a set of tags assigned to elements of a text to indicate their relation to the rest of the text or dictate how they should be displayed.",
+      "definitions_ex_en": "markup languages",
+      "definitions_ex_vn": "Ngôn ngữ đánh dấu",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809322576_7d002ddccf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809322576_ccd176771c_o.png",
+      "id_image": "markup_2472193"
+    }
+  ]
+}

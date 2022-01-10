@@ -1,0 +1,54 @@
+{
+  "english": "jury",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ban bồi thẩm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ban hội thẩm",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a body of people (typically twelve in number) sworn to give a verdict in a legal case on the basis of evidence submitted to them in court.",
+      "definitions_ex_en": "the jury returned unanimous guilty verdicts",
+      "definitions_ex_vn": "bồi thẩm đoàn đã trả lại những người phán quyết có tội nhất",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(of a mast or other fitting) improvised or temporary.",
+      "definitions_ex_en": "we need to get that jury rudder fixed",
+      "definitions_ex_vn": "chúng ta cần phải cố định bánh lái ban giám khảo đó",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809685289_5da47ef0f8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809685289_3517035b47_o.png",
+      "id_image": "jury_1284697"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809445173_67eed6f35b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809445173_5d92c77c6a_o.png",
+      "id_image": "jury_1865618"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809685229_26028003e5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809685229_37c1f849a0_o.png",
+      "id_image": "jury_2861271"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067130_f632c18ed8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067130_ed3ceb3ba9_o.png",
+      "id_image": "jury_372308"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808374827_0f9bf41d2a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808374827_bd0cef7900_o.png",
+      "id_image": "jury_4391491"
+    }
+  ]
+}

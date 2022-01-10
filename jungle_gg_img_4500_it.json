@@ -1,0 +1,49 @@
+{
+  "english": "jungle",
+  "list_translation_mean": [
+    {
+      "translate_mean": "mớ hỗn độn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "rừng nhiệt đới",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an area of land overgrown with dense forest and tangled vegetation, typically in the tropics.",
+      "definitions_ex_en": "we set off into the jungle",
+      "definitions_ex_vn": "Chúng tôi lên đường vào rừng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a style of dance music incorporating elements of ragga, hip-hop, and hard core and consisting almost exclusively of very fast electronic drum tracks and slower synthesized bass lines, originating in Britain in the early 1990s.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809445438_2c3e030ede_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809445438_ac5cd07ef8_o.png",
+      "id_image": "jungle_1777015"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067345_3e2e51db80_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067345_cd7f342e0e_o.png",
+      "id_image": "jungle_190905"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809330391_24c924b97f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809330391_ba5a934f9c_o.png",
+      "id_image": "jungle_2169392"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375092_e9b217f3f7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375092_a33f73c440_o.png",
+      "id_image": "jungle_2417585"
+    }
+  ]
+}

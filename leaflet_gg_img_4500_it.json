@@ -1,0 +1,59 @@
+{
+  "english": "leaflet",
+  "list_translation_mean": [
+    {
+      "translate_mean": "lá nhỏ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tờ giấy cáo bạch",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tờ giấy nhỏ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a printed sheet of paper, sometimes folded, containing information or advertising and usually distributed free.",
+      "definitions_ex_en": "pick up a leaflet from your local branch",
+      "definitions_ex_vn": "Nhặt một tờ rơi từ chi nhánh địa phương của bạn",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "each of the leaflike structures that together make up a compound leaf, such as in the ash and horse chestnut.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "distribute leaflets to (people or an area).",
+      "definitions_ex_en": "I won't be leafleting neighborhoods",
+      "definitions_ex_vn": "Tôi sẽ không rơi vào các khu phố",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809672289_4c040de89c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809672289_2fe6035abe_o.png",
+      "id_image": "leaflet_1902205"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808361887_5bc7c2384d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808361887_ca69dfbecc_o.png",
+      "id_image": "leaflet_2388872"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809672274_aeb30dd3ce_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809672274_08b879b37c_o.png",
+      "id_image": "leaflet_5365780"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808361897_ef27e9163b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808361897_9a3b317fb0_o.png",
+      "id_image": "leaflet_805151"
+    }
+  ]
+}

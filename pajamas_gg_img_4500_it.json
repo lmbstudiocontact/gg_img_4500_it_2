@@ -1,0 +1,42 @@
+{
+  "english": "pajamas",
+  "list_translation_mean": [
+    {
+      "translate_mean": "áo ngủ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "áo py ja ma",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "quần áo mặc trong nhà",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a suit of loose pants and jacket or shirt for sleeping in.",
+      "definitions_ex_en": "a pair of pajamas",
+      "definitions_ex_vn": "một cặp đồ ngủ",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809450958_6456ec148d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809450958_53dd41dbb5_o.png",
+      "id_image": "pajamas_1607296"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808381072_014b040daa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808381072_785436957f_o.png",
+      "id_image": "pajamas_819104"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809336041_ff15273c3d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809336041_796ed635c4_o.png",
+      "id_image": "pajamas_819105"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "english": "hump",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cái bướu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chổ cao chổ thấp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đường gồ ghề",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "gù lưng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bẻ cong",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a rounded raised mass of earth or land.",
+      "definitions_ex_en": "they sat on a hump of cropped grass",
+      "definitions_ex_vn": "Họ ngồi trên một đống cỏ bị cắt xén",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a rounded protuberance on the back of a camel or other animal or as an abnormality on the back of a person.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "make hump-shaped.",
+      "definitions_ex_en": "the cat humped himself into a different shape and purred",
+      "definitions_ex_vn": "Con mèo humped mình thành một hình dạng khác và purred",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809682919_dd2a3b307c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809682919_814f9e8cf8_o.png",
+      "id_image": "hump_2439672"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809442853_c5f414a7ba_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809442853_88e9e0789b_o.png",
+      "id_image": "hump_4344740"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "english": "opacity",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự đục",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự trì độn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự u mê",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tính mờ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the condition of lacking transparency or translucence; opaqueness.",
+      "definitions_ex_en": "thinner paints need black added to increase opacity",
+      "definitions_ex_vn": "Sơn mỏng hơn cần màu đen được thêm vào để tăng độ mờ",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809701549_9d9d2ea46d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809701549_baab5b272a_o.png",
+      "id_image": "opacity_2135013"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809346746_16e37f2ac4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809346746_ec11f9ea33_o.png",
+      "id_image": "opacity_681617"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809346721_60deffc118_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809346721_5986b88e1a_o.png",
+      "id_image": "opacity_828561"
+    }
+  ]
+}

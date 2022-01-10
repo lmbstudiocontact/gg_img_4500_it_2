@@ -1,0 +1,166 @@
+{
+  "english": "level",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bằng phẳng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "ngang mực nước",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "ngang với",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "nhẳn",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "trình độ",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "chặng đường bằng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đồng bằng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mực nược",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ống thăng bằng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vị trí ngang nhau",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chỉa thẳng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm bằng phẳng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm cho ngang nhau",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nhắm vào",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trắc định bề cao",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a horizontal plane or line with respect to the distance above or below a given point.",
+      "definitions_ex_en": "the front garden is on a level with this floor",
+      "definitions_ex_vn": "Khu vườn phía trước nằm ở tầng lớp với tầng này",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a position on a real or imaginary scale of amount, quantity, extent, or quality.",
+      "definitions_ex_en": "a high level of unemployment",
+      "definitions_ex_vn": "một mức độ thất nghiệp cao",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(in a video game) each of a series of stages of increasing difficulty through which a player may progress, completing one stage in order to reach the next.",
+      "definitions_ex_en": "I've now reached level 106 on Candy Crush Saga",
+      "definitions_ex_vn": "Bây giờ tôi đã đến cấp 106 trên Candy Crush Saga",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a device consisting of a sealed glass tube partially filled with alcohol or other liquid, containing an air bubble whose position reveals whether a surface is perfectly level or plumb.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a flat tract of land.",
+      "definitions_ex_en": "flooded levels",
+      "definitions_ex_vn": "cấp độ ngập nước",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "having a flat and even surface without slopes or bumps.",
+      "definitions_ex_en": "we had reached level ground",
+      "definitions_ex_vn": "Chúng tôi đã đạt đến mặt đất cấp",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "at the same height as someone or something else.",
+      "definitions_ex_en": "his eyes were level with hers",
+      "definitions_ex_vn": "đôi mắt của anh ấy ở mức độ với cô ấy",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "having the same relative position; not in front of or behind.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "calm and steady.",
+      "definitions_ex_en": "“Adrian,” she said in her most level voice",
+      "definitions_ex_vn": "\"Adrian,\" cô nói với giọng nói cấp độ nhất của mình",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "give a flat and even surface to.",
+      "definitions_ex_en": "contractors started leveling the ground for the new power station",
+      "definitions_ex_vn": "Các nhà thầu bắt đầu san bằng mặt đất cho nhà máy điện mới",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "aim (a weapon).",
+      "definitions_ex_en": "he leveled a long-barreled pistol at us",
+      "definitions_ex_vn": "Ông san bằng một khẩu súng lục dài hạn tại Mỹ",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "ascertain differences in the height of (land).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808389657_a2fcc951da_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808389657_0ccc6f4603_o.png",
+      "id_image": "level_1146851"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809344681_41ab490561_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809344681_a678fe7e4d_o.png",
+      "id_image": "level_2014983"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808389597_7de92c11c1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808389597_63c97ca498_o.png",
+      "id_image": "level_2823975"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809344636_8cce22b70d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809344636_45c46cb337_o.png",
+      "id_image": "level_5391524"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810082240_5d8225bbf3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810082240_c7766807a4_o.png",
+      "id_image": "level_706017"
+    }
+  ]
+}

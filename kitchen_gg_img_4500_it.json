@@ -1,0 +1,59 @@
+{
+  "english": "kitchen",
+  "list_translation_mean": [
+    {
+      "translate_mean": "nơi nấu nướng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhà bếp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phòng nấu ăn",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a room or area where food is prepared and cooked.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the percussion section of an orchestra.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(of a language) in an uneducated or domestic form.",
+      "definitions_ex_en": "kitchen Swahili",
+      "definitions_ex_vn": "Nhà bếp Swilian.",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809326406_a5a6289e5d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809326406_2db50ba0a8_o.png",
+      "id_image": "kitchen_1408047"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809326356_beca2659f2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809326356_da2c9129c8_o.png",
+      "id_image": "kitchen_1472340"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808371197_532b6b048b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808371197_b2f5337ac6_o.png",
+      "id_image": "kitchen_417435"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809441413_c6e07f43b8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809441413_07f74ee755_o.png",
+      "id_image": "kitchen_963810"
+    }
+  ]
+}

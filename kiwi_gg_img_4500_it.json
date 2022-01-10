@@ -1,0 +1,55 @@
+{
+  "english": "kiwi",
+  "list_translation_mean": [
+    {
+      "translate_mean": "kiwi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giống chim ở úc châu",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a flightless New Zealand bird with hairlike feathers, having a long down-curved bill with sensitive nostrils at the tip.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a New Zealander, especially a soldier or member of a national sports team.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "kiwi fruit.",
+      "definitions_ex_en": "a bowl of cherries and kiwis",
+      "definitions_ex_vn": "một bát anh đào và kiwis",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809681214_22c06c1bac_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809681214_087770ebe1_o.png",
+      "id_image": "kiwi_1410997"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809441023_bf8582479f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809441023_a93136449a_o.png",
+      "id_image": "kiwi_1461486"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810063025_60630f1226_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810063025_28343afa6d_o.png",
+      "id_image": "kiwi_371924"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809681244_a50a8559fe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809681244_b12e567553_o.png",
+      "id_image": "kiwi_427443"
+    }
+  ]
+}

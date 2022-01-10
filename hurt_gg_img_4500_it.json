@@ -1,0 +1,94 @@
+{
+  "english": "hurt",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đau",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "bị đau",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm hư",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm người nào bị thương",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm thiệt hại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm khổ người nào",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "bị gì",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "làm người nào bị thương",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mối hại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nỗi đau đớn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự tổn hại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thương tích",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vết thương",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "cause physical pain or injury to.",
+      "definitions_ex_en": "Ow! You're hurting me!",
+      "definitions_ex_vn": "Ow! Bạn đang làm tổn thương tôi!",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "physically injured.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "physical injury; harm.",
+      "definitions_ex_en": "rolling properly into a fall minimizes hurt",
+      "definitions_ex_vn": "lăn đúng cách thành một mùa thu giảm thiểu tổn thương",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809441698_747b0e5db4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809441698_1b792de0bb_o.png",
+      "id_image": "hurt_214241"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810063550_b0d6148897_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810063550_cd5d5a5035_o.png",
+      "id_image": "hurt_3362282"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809441598_7e757544f1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809441598_3e022cc055_o.png",
+      "id_image": "hurt_3561448"
+    }
+  ]
+}

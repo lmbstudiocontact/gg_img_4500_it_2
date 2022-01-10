@@ -1,0 +1,77 @@
+{
+  "english": "jade",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bất kham",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cẩm thạch",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ngọc bích",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ngựa chứng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "không biết xấu hổ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ngựa gầy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ngựa xấu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tánh trơ tráo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bắt làm mệt qúa",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm mệt đừ",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a hard, typically green stone used for ornaments and implements and consisting of the minerals jadeite or nephrite.",
+      "definitions_ex_en": "a jade figurine",
+      "definitions_ex_vn": "một bức tượng ngọc bích",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a bad-tempered or disreputable woman.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an inferior or worn-out horse.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809336066_6b3b4b529c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809336066_3dd4f3f5a7_o.png",
+      "id_image": "jade_4158430"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809450973_25699bd291_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809450973_158a3ce77f_o.png",
+      "id_image": "jade_5023474"
+    }
+  ]
+}

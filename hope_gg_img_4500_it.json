@@ -1,0 +1,66 @@
+{
+  "english": "hope",
+  "list_translation_mean": [
+    {
+      "translate_mean": "mong",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trông mông",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "hy vọng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "kỳ vọng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự trông mong",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ước vọng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a feeling of expectation and desire for a certain thing to happen.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a feeling of trust.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "want something to happen or be the case.",
+      "definitions_ex_en": "he's hoping for an offer of compensation",
+      "definitions_ex_vn": "Anh ấy hy vọng cho một lời đề nghị bồi thường",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809332346_e27321df6d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809332346_cacc43feb2_o.png",
+      "id_image": "hope_2858443"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809687284_9091e8b6a7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809687284_228dabf166_o.png",
+      "id_image": "hope_5110805"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808377147_2b3796260a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808377147_226db92272_o.png",
+      "id_image": "hope_708639"
+    }
+  ]
+}

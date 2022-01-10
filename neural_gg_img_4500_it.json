@@ -1,0 +1,33 @@
+{
+  "english": "neural",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thuốc trị bịnh thần kinh",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thuộc về thần kinh",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "relating to a nerve or the nervous system.",
+      "definitions_ex_en": "patterns of neural activity",
+      "definitions_ex_vn": "mô hình hoạt động thần kinh",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809438903_65417f5d9f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809438903_1fb87e733a_o.png",
+      "id_image": "neural_1671635"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808368667_d4f8d83f69_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808368667_f32cacdb6a_o.png",
+      "id_image": "neural_2103658"
+    }
+  ]
+}

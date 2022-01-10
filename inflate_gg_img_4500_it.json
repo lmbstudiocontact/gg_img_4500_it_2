@@ -1,0 +1,52 @@
+{
+  "english": "inflate",
+  "list_translation_mean": [
+    {
+      "translate_mean": "tăng lên",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lạm phát",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm phồng ra",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "phồng lên",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thổi hơi vào",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "fill (a balloon, tire, or other expandable structure) with air or gas so that it becomes distended.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "increase (something) by a large or excessive amount.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "bring about inflation of (a currency) or in (an economy).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808361177_05fd8a0aff_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808361177_c9356e8efc_o.png",
+      "id_image": "inflate_4637035"
+    }
+  ]
+}

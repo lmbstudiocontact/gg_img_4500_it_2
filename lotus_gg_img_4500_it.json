@@ -1,0 +1,61 @@
+{
+  "english": "lotus",
+  "list_translation_mean": [
+    {
+      "translate_mean": "giống bạch liên",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sen trắng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "any of a number of large water lilies.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(in Greek mythology) a legendary plant whose fruit induces a dreamy forgetfulness and an unwillingness to depart.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the flower of the sacred lotus as a symbol in Asian art and religion.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "short for lotus position.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810071545_7a518f01e4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810071545_96a34cc1dc_o.png",
+      "id_image": "lotus_1019363"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809449523_816a88094f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809449523_e5b9c6e1d3_o.png",
+      "id_image": "lotus_2647635"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809449488_299e0bcfa3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809449488_8588d67678_o.png",
+      "id_image": "lotus_2917463"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808379527_2091a5d98d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808379527_d7e9c5bc8f_o.png",
+      "id_image": "lotus_909139"
+    }
+  ]
+}

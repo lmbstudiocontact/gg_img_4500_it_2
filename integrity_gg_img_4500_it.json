@@ -1,0 +1,62 @@
+{
+  "english": "integrity",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thanh liêm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tánh ngay thẳng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "toàn vẹn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trạng thái nguyên lành",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the quality of being honest and having strong moral principles; moral uprightness.",
+      "definitions_ex_en": "he is known to be a man of integrity",
+      "definitions_ex_vn": "Ông được biết đến là một người đàn ông của sự liêm chính",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the state of being whole and undivided.",
+      "definitions_ex_en": "upholding territorial integrity and national sovereignty",
+      "definitions_ex_vn": "Giữ vững toàn vẹn lãnh thổ và chủ quyền quốc gia",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810080680_9259236acb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810080680_247583da10_o.png",
+      "id_image": "integrity_3317711"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810080630_f9812a1f0e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810080630_260ae586a1_o.png",
+      "id_image": "integrity_3966419"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809698359_44fb2f7ab6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809698359_5c70d85371_o.png",
+      "id_image": "integrity_4729308"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809343091_7d98805061_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809343091_6e6dd31d62_o.png",
+      "id_image": "integrity_5267374"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808388022_fbe186f0ac_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808388022_b6d009860c_o.png",
+      "id_image": "integrity_5307795"
+    }
+  ]
+}

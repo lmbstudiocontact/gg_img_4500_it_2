@@ -1,0 +1,69 @@
+{
+  "english": "jigger",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ly rượu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người nhảy điệu jig",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a machine or vehicle with a part that rocks or moves back and forth, e.g., a jigsaw.",
+      "definitions_ex_en": "they invented a jigger that pulls nets under the ice",
+      "definitions_ex_vn": "Họ đã phát minh ra một jigger kéo lưới dưới băng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a person who dances a jig.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a small fore-and-aft sail set at the stern of a ship.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a measure or small glass of spirits or wine.",
+      "definitions_ex_en": "a jigger or two of rum",
+      "definitions_ex_vn": "một hoặc hai hoặc hai rum",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a metal golf club with a narrow face.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "variant spelling of chigger.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "rearrange or tamper with.",
+      "definitions_ex_en": "conventional price indexes often jigger the market basket's content",
+      "definitions_ex_vn": "Chỉ số giá thông thường thường mặc đồ lót nội dung của thị trường",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809448963_994b0051fc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809448963_79940398af_o.png",
+      "id_image": "jigger_2742936"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809689074_a8c519f56a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809689074_59556686dc_o.png",
+      "id_image": "jigger_763097"
+    }
+  ]
+}

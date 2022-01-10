@@ -1,0 +1,48 @@
+{
+  "english": "magnetism",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự truyền từ tính cho",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "từ lực",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "từ tính",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a physical phenomenon produced by the motion of electric charge, resulting in attractive and repulsive forces between objects.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the ability to attract and charm people.",
+      "definitions_ex_en": "his personal magnetism attracted men to the brotherhood",
+      "definitions_ex_vn": "Từ tính cá nhân của anh đã thu hút những người đàn ông đến Brotherhood",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809684484_0b41f1cba4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809684484_47f8957522_o.png",
+      "id_image": "magnetism_1974414"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809444433_32fa73030f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809444433_b84fb4542a_o.png",
+      "id_image": "magnetism_2286215"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810066210_5c06089ac3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810066210_f00abcc0d3_o.png",
+      "id_image": "magnetism_5008251"
+    }
+  ]
+}

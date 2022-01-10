@@ -1,0 +1,115 @@
+{
+  "english": "inside",
+  "list_translation_mean": [
+    {
+      "translate_mean": "trong",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ẩn tình",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giấy tốt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ở trong",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phần trong",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phía trong",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phía trong nhà",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phía trong xe",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ruột",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ở bên trong",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "ở trong",
+      "type_word": "adverb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the inner side or surface of something.",
+      "definitions_ex_en": "she ran a finger around the inside of the bowl",
+      "definitions_ex_vn": "Cô chạy một ngón tay quanh bên trong bát",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the inner part; the interior.",
+      "definitions_ex_en": "the inside of the car was like an oven",
+      "definitions_ex_vn": "Bên trong chiếc xe giống như một lò nướng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a position affording private information.",
+      "definitions_ex_en": "will you be my spy on the inside?",
+      "definitions_ex_vn": "Bạn sẽ là gián điệp của tôi ở bên trong?",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "situated on or in, or derived from, the inside.",
+      "definitions_ex_en": "an inside pocket",
+      "definitions_ex_vn": "một túi bên trong",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "situated with the boundaries or confines of.",
+      "definitions_ex_en": "a radio was playing inside the apartment",
+      "definitions_ex_vn": "Một đài phát thanh đang chơi bên trong căn hộ",
+      "definitions_type_word": "preposition"
+    },
+    {
+      "definitions_word_en": "in less than (the period of time specified).",
+      "definitions_ex_en": "the oven will have paid for itself inside 18 months",
+      "definitions_ex_vn": "Lò nướng sẽ được trả cho chính nó trong 18 tháng",
+      "definitions_type_word": "preposition"
+    },
+    {
+      "definitions_word_en": "within the boundaries or confines of a place.",
+      "definitions_ex_en": "Mr. Jackson is waiting for you inside",
+      "definitions_ex_vn": "Ông Jackson đang đợi bạn bên trong",
+      "definitions_type_word": "adverb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809345421_35682cee1c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809345421_9413172baf_o.png",
+      "id_image": "inside_1827202"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808390357_0c22e4b3fb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808390357_863bdc656b_o.png",
+      "id_image": "inside_1827206"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808390312_9cfcaa5f34_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808390312_86c2d2b261_o.png",
+      "id_image": "inside_1827214"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809460128_c6f505b853_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809460128_749509da7e_o.png",
+      "id_image": "inside_1828560"
+    }
+  ]
+}

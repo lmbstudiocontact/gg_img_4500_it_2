@@ -1,0 +1,46 @@
+{
+  "english": "maximize",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đưa lên",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tăng lên tới cực độ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tột bực",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tột điểm",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "make as large or great as possible.",
+      "definitions_ex_en": "the company was aiming to maximize profits",
+      "definitions_ex_vn": "Công ty đang hướng tới tối đa hóa lợi nhuận",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808364262_08503efa7f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808364262_158121c9b1_o.png",
+      "id_image": "maximize_2748462"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809319556_58aab63d14_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809319556_b701f3f732_o.png",
+      "id_image": "maximize_3094414"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809674419_2dcb43ce2d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809674419_7b76005461_o.png",
+      "id_image": "maximize_5068482"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "english": "mobile",
+  "list_translation_mean": [
+    {
+      "translate_mean": "di động",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "không ở một chổ",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "tánh hay thay đổi",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "lưu động",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "người hay thay đổi",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "able to move or be moved freely or easily.",
+      "definitions_ex_en": "he has a major weight problem and is not very mobile",
+      "definitions_ex_vn": "anh ta có một vấn đề trọng lượng lớn và không di động lắm",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "relating to mobile phones, handheld computers, and similar technology.",
+      "definitions_ex_en": "the next generation of mobile networks",
+      "definitions_ex_vn": "Thế hệ mạng di động tiếp theo",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "able or willing to move easily or freely between occupations, places of residence, or social classes.",
+      "definitions_ex_en": "an increasingly mobile and polarized society",
+      "definitions_ex_vn": "một xã hội ngày càng di động và phân cực",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a decorative structure that is suspended so as to turn freely in the air.",
+      "definitions_ex_en": "brightly colored mobiles rotated from the ceiling",
+      "definitions_ex_vn": "điện thoại di động rực rỡ xoay từ trần nhà",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the internet as accessed via smartphones or other mobile devices, especially when regarded as a market sector.",
+      "definitions_ex_en": "the biggest growth area in games right now is in mobile",
+      "definitions_ex_vn": "Khu vực tăng trưởng lớn nhất trong các trò chơi ngay bây giờ là trong điện thoại di động",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809454958_23ed7f7175_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809454958_efd24ae1f3_o.png",
+      "id_image": "mobile_1443110"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809340041_8ecf2aae5a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809340041_590826dfe8_o.png",
+      "id_image": "mobile_1447580"
+    }
+  ]
+}

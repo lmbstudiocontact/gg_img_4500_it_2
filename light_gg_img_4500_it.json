@@ -1,0 +1,236 @@
+{
+  "english": "light",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bước đi nhẹ nhàng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "đất xốp",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "nhẹ",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "sáng sủa",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "nửa ngũ nửa thức",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "tỉnh ngũ",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "ánh sáng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ánh sáng đèn điện",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đèn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hiện rỏ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự chiếu sáng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự soi sáng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tia sáng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cháy",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chiếu sáng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đốt đèn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm cho nhẹ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm cho nhẹ bớt",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ngã xuống",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "soi sáng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thắp đèn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "xà xuống",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm một cách nhẹ nhàng",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the natural agent that stimulates sight and makes things visible.",
+      "definitions_ex_en": "the light of the sun",
+      "definitions_ex_vn": "ánh sáng của mặt trời",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an expression in someone's eyes indicating a particular emotion or mood.",
+      "definitions_ex_en": "a shrewd light entered his eyes",
+      "definitions_ex_vn": "Một ánh sáng sắc sảo bước vào mắt anh",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "understanding of a problem or mystery; enlightenment.",
+      "definitions_ex_en": "she saw light dawn on the woman's face",
+      "definitions_ex_vn": "Cô nhìn thấy ánh sáng bình minh trên khuôn mặt của người phụ nữ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an area of something that is brighter or paler than its surroundings.",
+      "definitions_ex_en": "sunshine will brighten the natural lights in your hair",
+      "definitions_ex_vn": "Ánh nắng mặt trời sẽ làm sáng những ánh sáng tự nhiên trên tóc của bạn",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a device that makes something start burning, as a match, lighter, or flame.",
+      "definitions_ex_en": "he asked me for a light",
+      "definitions_ex_vn": "Anh ấy hỏi tôi một ánh sáng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a window or opening in a wall to let light in.",
+      "definitions_ex_en": "the bedroom has a wide bay with leaded lights",
+      "definitions_ex_vn": "Phòng ngủ có một vịnh rộng với đèn chì",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a person notable or eminent in a particular sphere of activity or place.",
+      "definitions_ex_en": "volunteers have been the shining lights of the community",
+      "definitions_ex_vn": "Tình nguyện viên đã là ánh sáng sáng của cộng đồng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "provide with light or lighting; illuminate.",
+      "definitions_ex_en": "the room was lighted by a number of small lamps",
+      "definitions_ex_vn": "Căn phòng được thắp sáng bởi một số đèn nhỏ",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "make (something) start burning; ignite.",
+      "definitions_ex_en": "Allen gathered sticks and lit a fire",
+      "definitions_ex_vn": "Allen thu thập gậy và châm lửa",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "come upon or discover by chance.",
+      "definitions_ex_en": "he lit on a possible solution",
+      "definitions_ex_vn": "anh ấy thắp sáng một giải pháp khả thi",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "descend.",
+      "definitions_ex_en": "from the horse he lit down",
+      "definitions_ex_vn": "từ con ngựa anh thắp lại",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "having a considerable or sufficient amount of natural light; not dark.",
+      "definitions_ex_en": "the bedrooms are light and airy",
+      "definitions_ex_vn": "Các phòng ngủ là ánh sáng và thoáng mát",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a color) pale.",
+      "definitions_ex_en": "her eyes were light blue",
+      "definitions_ex_vn": "Đôi mắt cô màu xanh nhạt",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "of little weight; not heavy.",
+      "definitions_ex_en": "they are very light and portable",
+      "definitions_ex_vn": "Chúng rất nhẹ và di động",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "not strongly or heavily built or constructed.",
+      "definitions_ex_en": "light, impractical clothes",
+      "definitions_ex_vn": "Ánh sáng, quần áo không thực tế",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "relatively low in density, amount, or intensity.",
+      "definitions_ex_en": "passenger traffic was light",
+      "definitions_ex_vn": "giao thông hành khách là ánh sáng",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of food or a meal) small in quantity and easy to digest.",
+      "definitions_ex_en": "a light supper",
+      "definitions_ex_vn": "một bữa ăn tối nhẹ",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "gentle or delicate.",
+      "definitions_ex_en": "she planted a light kiss on his cheek",
+      "definitions_ex_vn": "Cô ấy trồng một nụ hôn nhẹ trên má anh ấy",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of entertainment) requiring little mental effort; not profound or serious.",
+      "definitions_ex_en": "pop is thought of as light entertainment",
+      "definitions_ex_vn": "POP được coi là giải trí nhẹ",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a woman) having many casual sexual encounters or relationships.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808387602_72ccc426b8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808387602_2f878e2468_o.png",
+      "id_image": "light_3102361"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809457348_28a1f45396_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809457348_864bc4c749_o.png",
+      "id_image": "light_3562935"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809342601_9ff482c069_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809342601_a785767f31_o.png",
+      "id_image": "light_546020"
+    }
+  ]
+}

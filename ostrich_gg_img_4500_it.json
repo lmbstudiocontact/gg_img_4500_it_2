@@ -1,0 +1,40 @@
+{
+  "english": "ostrich",
+  "list_translation_mean": [
+    {
+      "translate_mean": "con đà điểu",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a flightless swift-running African bird with a long neck, long legs, and two toes on each foot. It is the largest living bird, with males reaching an average height of 8 feet (2.5 m).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a person who refuses to face reality or accept facts.",
+      "definitions_ex_en": "don't be an ostrich when it comes to security systems",
+      "definitions_ex_vn": "Đừng là một con đà điểu khi nói đến hệ thống an ninh",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809342286_c888346c6b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809342286_fc0e66ed7a_o.png",
+      "id_image": "ostrich_194947"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808387242_fa2e9020bf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808387242_1d8a864a1d_o.png",
+      "id_image": "ostrich_434542"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809697424_d35e79570b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809697424_7e55bafc12_o.png",
+      "id_image": "ostrich_4497917"
+    }
+  ]
+}

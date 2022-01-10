@@ -1,0 +1,39 @@
+{
+  "english": "joke",
+  "list_translation_mean": [
+    {
+      "translate_mean": "câu nói đùa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lời nói đùa",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a thing that someone says to cause amusement or laughter, especially a story with a funny punchline.",
+      "definitions_ex_en": "she was in a mood to tell jokes",
+      "definitions_ex_vn": "Cô ấy đang có tâm trạng để kể chuyện cười",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "make jokes; talk humorously or flippantly.",
+      "definitions_ex_en": "she could laugh and joke with her colleagues",
+      "definitions_ex_vn": "Cô có thể cười và đùa với các đồng nghiệp của mình",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810069535_ae8318d2d2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810069535_40f6c39a8b_o.png",
+      "id_image": "joke_3839479"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809332686_d5d0b9b936_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809332686_98745f0702_o.png",
+      "id_image": "joke_4373958"
+    }
+  ]
+}

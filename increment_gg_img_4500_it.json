@@ -1,0 +1,47 @@
+{
+  "english": "increment",
+  "list_translation_mean": [
+    {
+      "translate_mean": "lời",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lợi tức",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự lớn lên",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự thêm",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an increase or addition, especially one of a series on a fixed scale.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "cause a discrete increase in (a numerical quantity).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808363117_d1fdec776b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808363117_91a5d0cf72_o.png",
+      "id_image": "increment_1933944"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809318531_9687692ce8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809318531_87f2b0f1d5_o.png",
+      "id_image": "increment_5672051"
+    }
+  ]
+}

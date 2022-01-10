@@ -1,0 +1,43 @@
+{
+  "english": "mental",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thuộc về cằm",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thuộc về tinh thần",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "trí óc",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "relating to the mind.",
+      "definitions_ex_en": "mental faculties",
+      "definitions_ex_vn": "khoa tâm thần",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "relating to disorders of the mind.",
+      "definitions_ex_en": "mental health",
+      "definitions_ex_vn": "sức khỏe tinh thần",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809701894_3904a31ae2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809701894_27832532dd_o.png",
+      "id_image": "mental_1683128"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809701864_8f1a8cc6bd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809701864_7a590a2902_o.png",
+      "id_image": "mental_2773087"
+    }
+  ]
+}

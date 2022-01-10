@@ -1,0 +1,29 @@
+{
+  "english": "investor",
+  "list_translation_mean": [
+    {
+      "translate_mean": "người đầu tư",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person or organization that puts money into financial plans, property, etc. with the expectation of achieving a profit.",
+      "definitions_ex_en": "foreign investors in the British commercial property sector",
+      "definitions_ex_vn": "Nhà đầu tư nước ngoài trong lĩnh vực bất động sản thương mại Anh",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808383392_e6fd6c9c1a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808383392_dfed619f6f_o.png",
+      "id_image": "investor_2590552"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809693624_8e40c3db00_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809693624_8d74130b48_o.png",
+      "id_image": "investor_3310664"
+    }
+  ]
+}

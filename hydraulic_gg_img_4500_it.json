@@ -1,0 +1,40 @@
+{
+  "english": "hydraulic",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thuộc về nước",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thuộc về thủy lợi",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "denoting, relating to, or operated by a liquid moving in a confined space under pressure.",
+      "definitions_ex_en": "hydraulic fluid",
+      "definitions_ex_vn": "chất lỏng thủy lực.",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "relating to the science of hydraulics.",
+      "definitions_ex_en": "hydraulic analysis of streams",
+      "definitions_ex_vn": "Phân tích thủy lực của suối",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of cement) hardening under water.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325896_6fedd9a89d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325896_021b255f2f_o.png",
+      "id_image": "hydraulic_2387907"
+    }
+  ]
+}

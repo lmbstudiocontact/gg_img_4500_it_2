@@ -1,0 +1,63 @@
+{
+  "english": "installation",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự đặt vào",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự để vào",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự gắn vào",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự lắp vào",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự lập nên",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự ráp vào",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự sắp đặt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự dựng lên",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the action or process of installing someone or something, or of being installed.",
+      "definitions_ex_en": "the installation of a central air-conditioning system",
+      "definitions_ex_vn": "Việc lắp đặt một hệ thống điều hòa trung tâm",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a large piece of equipment installed for use.",
+      "definitions_ex_en": "computer installations",
+      "definitions_ex_vn": "cài đặt máy tính",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810081945_26d07acbd0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810081945_cec0dd292f_o.png",
+      "id_image": "installation_2568922"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809699569_75b10d6400_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809699569_482b9a8699_o.png",
+      "id_image": "installation_2714631"
+    }
+  ]
+}

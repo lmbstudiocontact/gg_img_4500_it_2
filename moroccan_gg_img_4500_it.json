@@ -1,0 +1,34 @@
+{
+  "english": "moroccan",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thuộc về xứ Ma rốc",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "người Ma rốc",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "relating to Morocco or its people.",
+      "definitions_ex_en": "a Moroccan tagine",
+      "definitions_ex_vn": "một Tagine Ma-rốc",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a native or inhabitant of Morocco, or a person of Moroccan descent.",
+      "definitions_ex_en": "an urbane Moroccan who has lived all over the world",
+      "definitions_ex_vn": "Một người Urbane Ma-rốc đã sống trên toàn thế giới",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809691464_8c2557a253_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809691464_bfb5a02585_o.png",
+      "id_image": "moroccan_4366797"
+    }
+  ]
+}

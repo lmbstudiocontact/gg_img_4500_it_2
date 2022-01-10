@@ -1,0 +1,44 @@
+{
+  "english": "justify",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bào chữa",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "biện hộ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chứng minh là đúng",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "show or prove to be right or reasonable.",
+      "definitions_ex_en": "the person appointed has fully justified our confidence",
+      "definitions_ex_vn": "Người được bổ nhiệm đã hoàn toàn biện minh cho sự tự tin của chúng tôi",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "declare or make righteous in the sight of God.",
+      "definitions_ex_en": "one of the elect, justified by faith",
+      "definitions_ex_vn": "một trong những người bầu, biện minh bằng đức tin",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "adjust (a line of type or piece of text) so that the print fills a space evenly or forms a straight edge at one or both margins.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809445068_18e0785a51_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809445068_b598c73995_o.png",
+      "id_image": "justice_1750503"
+    }
+  ]
+}

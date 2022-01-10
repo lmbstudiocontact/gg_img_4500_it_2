@@ -1,0 +1,36 @@
+{
+  "english": "mourn",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đã tàn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "phàn nàn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tiếc",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thương tiếc",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "feel or show deep sorrow or regret for (someone or their death), typically by following conventions such as the wearing of black clothes.",
+      "definitions_ex_en": "Isabel mourned her husband",
+      "definitions_ex_vn": "Isabel thương tiếc chồng",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808378937_a6c308d442_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808378937_6430d31c9c_o.png",
+      "id_image": "mourn_3768716"
+    }
+  ]
+}

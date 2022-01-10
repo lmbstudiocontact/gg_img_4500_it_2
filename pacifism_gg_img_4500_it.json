@@ -1,0 +1,29 @@
+{
+  "english": "pacifism",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chủ nghĩa bình định",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the belief that any violence, including war, is unjustifiable under any circumstances, and that all disputes should be settled by peaceful means.",
+      "definitions_ex_en": "there remains a powerful undercurrent of pacifism",
+      "definitions_ex_vn": "vẫn còn một sự phục bá mạnh mẽ của chủ nghĩa hòa bình",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808383717_8859307161_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808383717_3940bdbd88_o.png",
+      "id_image": "pacifism_366479"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809693914_8c8b073459_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809693914_9e37259612_o.png",
+      "id_image": "pacifism_734891"
+    }
+  ]
+}

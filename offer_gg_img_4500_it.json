@@ -1,0 +1,72 @@
+{
+  "english": "offer",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cung hiến",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự biếu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự dâng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự cho",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự đề nghị",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự tặng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "biếu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cung hiến",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tặng",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "present or proffer (something) for (someone) to accept or reject as so desired.",
+      "definitions_ex_en": "may I offer you a drink?",
+      "definitions_ex_vn": "Tôi có thể cung cấp cho bạn một thức uống?",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "an expression of readiness to do or give something if desired.",
+      "definitions_ex_en": "he had accepted Mallory's offer to buy him a drink",
+      "definitions_ex_vn": "Ông đã chấp nhận đề nghị của Mallory để mua cho anh ta một thức uống",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808393522_a988bbabf8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808393522_2589bec7e1_o.png",
+      "id_image": "offer_1110177"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808393497_6101ceb3dc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808393497_53e94e704f_o.png",
+      "id_image": "offer_5002109"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809703329_1106810b23_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809703329_49d641d640_o.png",
+      "id_image": "offer_5434154"
+    }
+  ]
+}

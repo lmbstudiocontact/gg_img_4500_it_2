@@ -1,0 +1,129 @@
+{
+  "english": "load",
+  "list_translation_mean": [
+    {
+      "translate_mean": "điều lo lắng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "điều lo ngại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự bỏ vào",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sức nặng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sức trọng tải của tàu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự nạp súng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trách nhiệm nặng nề",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vật gánh nặng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vật mang nặng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chất hàng hóa",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chở hàng hóa",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nạp súng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "pha rượu",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a heavy or bulky thing that is being carried or is about to be carried.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a weight or source of pressure borne by someone or something.",
+      "definitions_ex_en": "the increased load on the heart caused by a raised arterial pressure",
+      "definitions_ex_vn": "tải trọng tăng lên trên tim gây ra bởi một áp lực động mạch tăng lên",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a lot of (often used to express disapproval or dislike of something).",
+      "definitions_ex_en": "she was talking a load of garbage",
+      "definitions_ex_vn": "cô ấy đang nói về một đống rác",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the amount of power supplied by a source; the resistance of moving parts to be overcome by a motor.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "put a load or large amount of something on or in (a vehicle, ship, container, etc.).",
+      "definitions_ex_en": "they load up their dugout canoes",
+      "definitions_ex_vn": "Họ tải lên ca nô đào hầm của họ",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "make (someone or something) carry or hold a large or excessive amount of heavy things.",
+      "definitions_ex_en": "Elaine was loaded down with bags full of shopping",
+      "definitions_ex_vn": "Elaine đã được tải xuống với túi đầy mua sắm",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "charge (a firearm) with ammunition.",
+      "definitions_ex_en": "he began to load the gun",
+      "definitions_ex_vn": "Anh bắt đầu tải súng",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "add an extra charge to (an insurance premium) in the case of a poorer risk.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808383842_4134726587_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808383842_c92792337c_o.png",
+      "id_image": "load_1558167"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809694034_4813e73f64_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809694034_3927a97c42_o.png",
+      "id_image": "load_1768885"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808383757_556fa64b4b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808383757_870674f60b_o.png",
+      "id_image": "load_4176367"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809338976_9621906416_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809338976_a201f3a804_o.png",
+      "id_image": "load_554512"
+    }
+  ]
+}

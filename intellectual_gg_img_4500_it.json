@@ -1,0 +1,61 @@
+{
+  "english": "intellectual",
+  "list_translation_mean": [
+    {
+      "translate_mean": "tinh thần",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thuộc về lý trí",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "trí năng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "người trí thức",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhà học giả",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "relating to the intellect.",
+      "definitions_ex_en": "children need intellectual stimulation",
+      "definitions_ex_vn": "Trẻ em cần sự kích thích trí tuệ",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a person possessing a highly developed intellect.",
+      "definitions_ex_en": "a prominent political thinker and intellectual",
+      "definitions_ex_vn": "một nhà tư tưởng chính trị và trí tuệ nổi bật",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809457748_f1d42885da_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809457748_117e1bff0c_o.png",
+      "id_image": "intellectual_1354755"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808387927_48ba63f5fa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808387927_f025d853f6_o.png",
+      "id_image": "intellectual_2329248"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809457703_de64e0526f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809457703_b59c89c09e_o.png",
+      "id_image": "intellectual_2361675"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810080485_cd6f2cb45e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810080485_a6c703977b_o.png",
+      "id_image": "intellectual_992632"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "english": "ignore",
+  "list_translation_mean": [
+    {
+      "translate_mean": "không chấp nhận",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm bộ không biết",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "refuse to take notice of or acknowledge; disregard intentionally.",
+      "definitions_ex_en": "he ignored her outraged question",
+      "definitions_ex_vn": "Anh bỏ qua câu hỏi phẫn nộ của cô",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809323586_acfbe21922_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809323586_0100062909_o.png",
+      "id_image": "ignore_2419645"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809678809_db6059791b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809678809_8d8334e31f_o.png",
+      "id_image": "ignore_5772623"
+    }
+  ]
+}

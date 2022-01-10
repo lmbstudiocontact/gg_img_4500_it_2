@@ -1,0 +1,34 @@
+{
+  "english": "horoscope",
+  "list_translation_mean": [
+    {
+      "translate_mean": "lá số tử vi",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a forecast of a person's future, typically including a delineation of character and circumstances, based on the relative positions of the stars and planets at the time of that person's birth.",
+      "definitions_ex_en": "he gave lectures on astrology and cast horoscopes in his spare time",
+      "definitions_ex_vn": "Ông đã giảng bài về chiêm tinh học và tử vi trong thời gian rảnh rỗi",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810068385_402703e73a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810068385_1e2713f18a_o.png",
+      "id_image": "horoscope_4839249"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808376407_d4dd1cca9f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808376407_dcaba4b4f4_o.png",
+      "id_image": "horoscope_5803831"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808376492_803b64952f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808376492_50c31b34c4_o.png",
+      "id_image": "horoscope_678952"
+    }
+  ]
+}

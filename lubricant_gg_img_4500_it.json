@@ -1,0 +1,54 @@
+{
+  "english": "lubricant",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chất làm cho trơn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dầu",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a substance, such as oil or grease, used for minimizing friction, especially in an engine or component.",
+      "definitions_ex_en": "squirt in a lubricant on a regular basis",
+      "definitions_ex_vn": "Squirt trong một chất bôi trơn một cách thường xuyên",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "lubricating.",
+      "definitions_ex_en": "a thin lubricant film",
+      "definitions_ex_vn": "một bộ phim bôi trơn mỏng",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808378412_79b431e8dd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808378412_1231a06e6f_o.png",
+      "id_image": "lubricant_1280471"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808378362_b3096578a7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808378362_04fcf483dc_o.png",
+      "id_image": "lubricant_1947501"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809333486_20878e31f5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809333486_79fc276424_o.png",
+      "id_image": "lubricant_3347656"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810070305_43332d5c9e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810070305_cb1f2cf01f_o.png",
+      "id_image": "lubricant_4380221"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808378262_4e7cd947a3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808378262_2e5916d7e5_o.png",
+      "id_image": "lubricant_4805799"
+    }
+  ]
+}

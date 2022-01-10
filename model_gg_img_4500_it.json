@@ -1,0 +1,126 @@
+{
+  "english": "model",
+  "list_translation_mean": [
+    {
+      "translate_mean": "kiểu áo",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "kiểu lớn bằng đồ thật",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "kiểu mẫu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người dùng làm kiểu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người làm gương mẫu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "kiểu thức kiến trúc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tượng cây dùng làm kiểu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vật dùng làm kiểu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bắt chước theo kiểu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "bắt chước theo mẫu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nặn kiểu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "vẻ kiểu",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a three-dimensional representation of a person or thing or of a proposed structure, typically on a smaller scale than the original.",
+      "definitions_ex_en": "a model of St. Paul's Cathedral",
+      "definitions_ex_vn": "một mô hình của Nhà thờ St. Paul",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a system or thing used as an example to follow or imitate.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a simplified description, especially a mathematical one, of a system or process, to assist calculations and predictions.",
+      "definitions_ex_en": "a statistical model used for predicting the survival rates of endangered species",
+      "definitions_ex_vn": "một mô hình thống kê được sử dụng để dự đoán tỷ lệ sống động của các loài có nguy cơ tuyệt chủng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a person employed to display clothes by wearing them.",
+      "definitions_ex_en": "a fashion model",
+      "definitions_ex_vn": "một mô hình thời trang",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a particular design or version of a product.",
+      "definitions_ex_en": "trading your car in for a newer model",
+      "definitions_ex_vn": "Giao dịch chiếc xe của bạn cho một mô hình mới hơn",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "fashion or shape (a three-dimensional figure or object) in a malleable material such as clay or wax.",
+      "definitions_ex_en": "use the icing to model a house",
+      "definitions_ex_vn": "Sử dụng Icing để mô hình một ngôi nhà",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "use (a system, procedure, etc.) as an example to follow or imitate.",
+      "definitions_ex_en": "the research method will be modeled on previous work",
+      "definitions_ex_vn": "Phương pháp nghiên cứu sẽ được mô hình hóa trong công việc trước đó",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "devise a representation, especially a mathematical one, of (a phenomenon or system).",
+      "definitions_ex_en": "a computer program that can model how smoke behaves",
+      "definitions_ex_vn": "một chương trình máy tính có thể mô hình hóa khói hoạt động như thế nào",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "display (clothes) by wearing them.",
+      "definitions_ex_en": "the clothes were modeled by celebrities",
+      "definitions_ex_vn": "Quần áo được mô phỏng bởi những người nổi tiếng",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810076810_19c270fb9b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810076810_44f8d14065_o.png",
+      "id_image": "model_4213112"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810076765_4ac157a835_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810076765_b8a8856298_o.png",
+      "id_image": "model_4695756"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810076710_6eb123d75a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810076710_f22b83e449_o.png",
+      "id_image": "model_6036762"
+    }
+  ]
+}

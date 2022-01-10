@@ -1,0 +1,79 @@
+{
+  "english": "mystery",
+  "list_translation_mean": [
+    {
+      "translate_mean": "huyền bí",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "điều bí ẩn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "điều bí mật",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lẽ mầu nhiệm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phép thần bí",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "something that is difficult or impossible to understand or explain.",
+      "definitions_ex_en": "the mysteries of outer space",
+      "definitions_ex_vn": "những bí ẩn của không gian bên ngoài",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a novel, play, or movie dealing with a puzzling crime, especially a murder.",
+      "definitions_ex_en": "the 1920s murder mystery, The Ghost Train",
+      "definitions_ex_vn": "Bí ẩn giết người những năm 1920, tàu ma",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the secret rites of Greek and Roman pagan religion, or of any ancient or tribal religion, to which only initiates are admitted.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a religious belief based on divine revelation, especially one regarded as beyond human understanding.",
+      "definitions_ex_en": "the mystery of Christ",
+      "definitions_ex_vn": "Bí ẩn của Chúa Kitô",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a handicraft or trade.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809444698_fba16b3bc6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809444698_bef4e14760_o.png",
+      "id_image": "mystery_2040703"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809684659_6ca58591cf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809684659_a3ccc0898a_o.png",
+      "id_image": "mystery_2178097"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809684614_18babe74bb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809684614_5c99378688_o.png",
+      "id_image": "mystery_3079241"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809329626_563ea9e013_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809329626_16e0996cbc_o.png",
+      "id_image": "mystery_4114763"
+    }
+  ]
+}

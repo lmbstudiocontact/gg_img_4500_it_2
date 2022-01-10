@@ -1,0 +1,64 @@
+{
+  "english": "initiative",
+  "list_translation_mean": [
+    {
+      "translate_mean": "phần chủ động",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "quyền đề nghị",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sáng kiến",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự khởi đầu",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the ability to assess and initiate things independently.",
+      "definitions_ex_en": "use your initiative, imagination, and common sense",
+      "definitions_ex_vn": "Sử dụng sáng kiến, trí tưởng tượng và ý thức chung của bạn",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the power or opportunity to act or take charge before others do.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an act or strategy intended to resolve a difficulty or improve a situation; a fresh approach to something.",
+      "definitions_ex_en": "a new initiative against car crime",
+      "definitions_ex_vn": "một sáng kiến mới chống lại tội phạm xe hơi",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(especially in some US states and Switzerland) the right of citizens outside the legislature to originate legislation.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808392212_0b89420d79_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808392212_7ccd027d71_o.png",
+      "id_image": "initiative_1055358"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809702049_77d209a8f0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809702049_8509b326bb_o.png",
+      "id_image": "initiative_1838330"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810084625_d5b11c1aa4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810084625_28fe05cc8e_o.png",
+      "id_image": "initiative_3317703"
+    }
+  ]
+}

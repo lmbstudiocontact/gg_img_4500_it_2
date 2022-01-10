@@ -1,0 +1,112 @@
+{
+  "english": "low",
+  "list_translation_mean": [
+    {
+      "translate_mean": "không cao",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "địa ngục",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "hèn mọn",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thấp kém",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thức ăn thiếu thốn",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thấp",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thấp",
+      "type_word": "adverb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "of less than average height from top to bottom or to the top from the ground.",
+      "definitions_ex_en": "the school is a long, low building",
+      "definitions_ex_vn": "Trường học là một tòa nhà dài, thấp",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "below average in amount, extent, or intensity; small.",
+      "definitions_ex_en": "bringing up children on a low income",
+      "definitions_ex_vn": "đưa trẻ em lên thu nhập thấp",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "ranking below other people or things in importance or class.",
+      "definitions_ex_en": "jobs with low status",
+      "definitions_ex_vn": "việc làm có địa vị thấp",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a sound or voice) not loud or high.",
+      "definitions_ex_en": "his low, husky voice",
+      "definitions_ex_vn": "giọng nói thấp, khàn khàn của anh ấy",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "depressed or lacking in energy.",
+      "definitions_ex_en": "I was feeling low",
+      "definitions_ex_vn": "Tôi đã cảm thấy thấp",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a low point, level or figure.",
+      "definitions_ex_en": "his popularity ratings are at an all-time low",
+      "definitions_ex_vn": "Xếp hạng phổ biến của ông là ở mức thấp mọi thời đại",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a sound made by cattle; a moo.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "in or into a low position or state.",
+      "definitions_ex_en": "she pressed on, bent low to protect her face",
+      "definitions_ex_vn": "Cô ấn vào, cúi thấp để bảo vệ mặt cô",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "in a low voice or at a low pitch.",
+      "definitions_ex_en": "we were talking low so we wouldn't wake Dean",
+      "definitions_ex_vn": "Chúng tôi đã nói chuyện thấp nên chúng tôi sẽ không đánh thức trưởng khoa",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "(of a cow) make a characteristic deep sound.",
+      "definitions_ex_en": "the lowing of cattle",
+      "definitions_ex_vn": "con bò thấp",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810070770_09c38436f4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810070770_98bb743726_o.png",
+      "id_image": "low_3103546"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810070735_58c120021c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810070735_effb62e2cc_o.png",
+      "id_image": "low_5692344"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810070685_c0e943377d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810070685_4d2764aa3f_o.png",
+      "id_image": "low_6418233"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "english": "legend",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thánh truyện",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a traditional story sometimes popularly regarded as historical but unauthenticated.",
+      "definitions_ex_en": "the legend of King Arthur",
+      "definitions_ex_vn": "Truyền thuyết về vua Arthur",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an extremely famous or notorious person, especially in a particular field.",
+      "definitions_ex_en": "the man was a living legend",
+      "definitions_ex_vn": "Người đàn ông là một huyền thoại sống",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "very well known.",
+      "definitions_ex_en": "his speed and ferocity in attack were legend",
+      "definitions_ex_vn": "Tốc độ và sự hung dữ của anh ấy trong cuộc tấn công là huyền thoại",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809701354_e891e3c98e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809701354_8fb7544e4e_o.png",
+      "id_image": "legend_2178114"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809346481_36e3f065e5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809346481_0d3b11298f_o.png",
+      "id_image": "legend_5234407"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809346436_80e9865744_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809346436_be488a8563_o.png",
+      "id_image": "legend_5234409"
+    }
+  ]
+}

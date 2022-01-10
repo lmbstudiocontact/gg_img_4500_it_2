@@ -1,0 +1,38 @@
+{
+  "english": "incandescent",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cháu đỏ",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "chiếu sáng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "chói sáng",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "emitting light as a result of being heated.",
+      "definitions_ex_en": "plumes of incandescent liquid rock",
+      "definitions_ex_vn": "Mối của đá sợi đốt",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "full of strong emotion; passionate.",
+      "definitions_ex_en": "Mravinsky's incandescent performance of Siegfried's Funeral March",
+      "definitions_ex_vn": "Hiệu suất sợi đốt của Mravinsky trong tháng ba tang lễ của Siegfried",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808364597_db49ae2b5b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808364597_7bf159060b_o.png",
+      "id_image": "incandescent_2605879"
+    }
+  ]
+}

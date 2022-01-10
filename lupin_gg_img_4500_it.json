@@ -1,0 +1,57 @@
+{
+  "english": "lupin",
+  "list_translation_mean": [
+    {
+      "translate_mean": "một giống đậu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "một loại đậu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chó sói",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thuộc về chó sói",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a plant of the pea family with deeply divided leaves and tall colorful tapering spikes of flowers.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "of, like, or relating to a wolf or wolves.",
+      "definitions_ex_en": "a lupine howl",
+      "definitions_ex_vn": "một lupine howl.",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809447288_afc2bf8993_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809447288_257ea75605_o.png",
+      "id_image": "lupin_1497099"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810069035_db93984f27_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810069035_b58d46969e_o.png",
+      "id_image": "lupin_204699"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809447253_7e4d9b0fca_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809447253_1777c4115e_o.png",
+      "id_image": "lupin_2599664"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808376947_5888a9c0be_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808376947_43f51376cd_o.png",
+      "id_image": "lupin_4391890"
+    }
+  ]
+}

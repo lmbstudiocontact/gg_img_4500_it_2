@@ -1,0 +1,66 @@
+{
+  "english": "injection",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự bơm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự bơm vào",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự chích",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự tiêm thuốc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự thụt nước",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an instance of injecting or being injected.",
+      "definitions_ex_en": "painkilling injections",
+      "definitions_ex_vn": "Tiêm thuốc giảm đau",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the entry or placing of a spacecraft or other object into an orbit or trajectory.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808391982_425cd87732_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808391982_3d5484190d_o.png",
+      "id_image": "injection_4417978"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809461803_d6b98c39c1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809461803_2da93f18dc_o.png",
+      "id_image": "injection_5154735"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810084425_d244e83faf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810084425_91994012a2_o.png",
+      "id_image": "injection_533918"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809346936_030b7bf7b3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809346936_9cf122d212_o.png",
+      "id_image": "injection_5715079"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809461778_2985d4a81d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809461778_ab10d4e22e_o.png",
+      "id_image": "injection_5730307"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "english": "masonry",
+  "list_translation_mean": [
+    {
+      "translate_mean": "vật thợ hồ xây",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vật thợ nề xây",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "stonework.",
+      "definitions_ex_en": "cracks in the finished masonry",
+      "definitions_ex_vn": "vết nứt trong xây hoàn thành",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "freemasonry.",
+      "definitions_ex_en": "the “degrees” found in Masonry are symbolic practices",
+      "definitions_ex_vn": "\"độ\" được tìm thấy trong Masonry là các thực hành tượng trưng",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808366337_5de7067548_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808366337_d92f529b13_o.png",
+      "id_image": "masonry_1615457"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809321416_4261e4513f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809321416_af838ee72c_o.png",
+      "id_image": "masonry_4646902"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809321326_b2cc75f76f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809321326_d91f5797c9_o.png",
+      "id_image": "masonry_4646949"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "english": "internal",
+  "list_translation_mean": [
+    {
+      "translate_mean": "trong thâm tâm",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "ở trong",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "sự nội thương",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "of or situated on the inside.",
+      "definitions_ex_en": "the tube had an internal diameter of 1.1 mm",
+      "definitions_ex_vn": "ống có đường kính trong 1,1 mm",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "inner parts or features.",
+      "definitions_ex_en": "all the weapon's internals are well finished and highly polished",
+      "definitions_ex_vn": "Tất cả các nội bộ của vũ khí đã hoàn thành và đánh bóng cao",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809341631_61809b2035_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809341631_cf04171d35_o.png",
+      "id_image": "internal_2712160"
+    }
+  ]
+}

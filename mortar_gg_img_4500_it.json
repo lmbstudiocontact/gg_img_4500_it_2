@@ -1,0 +1,83 @@
+{
+  "english": "mortar",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cối để giả thuốc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cối tán muối",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "súng cối",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "súng mọt chê",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tô hồ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trét hồ",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a short smoothbore gun for firing shells (technically called bombs) at high angles.",
+      "definitions_ex_en": "mortars and machine guns",
+      "definitions_ex_vn": "súng cối và súng máy",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a cup-shaped receptacle made of hard material, in which ingredients are crushed or ground, used especially in cooking or pharmacy.",
+      "definitions_ex_en": "a mortar and pestle",
+      "definitions_ex_vn": "một cối và chày",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a mixture of lime with cement, sand, and water, used in building to bond bricks or stones.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "attack or bombard with shells fired from a mortar.",
+      "definitions_ex_en": "the Commando positions were being heavily mortared",
+      "definitions_ex_vn": "Các vị trí đặc công đã được vòm mạnh",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "fix or join using mortar.",
+      "definitions_ex_en": "the pipe can be mortared in place",
+      "definitions_ex_vn": "đường ống có thể được vôi tại chỗ",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808381087_beef1dae31_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808381087_2ce30631b3_o.png",
+      "id_image": "mortar_1411842"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808381042_ba82371370_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808381042_9265dbc9b7_o.png",
+      "id_image": "mortar_1682100"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809691294_e9e2f666d1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809691294_302604751d_o.png",
+      "id_image": "mortar_3857526"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809691399_df036a2e9a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809691399_52b79fe59e_o.png",
+      "id_image": "mortar_963300"
+    }
+  ]
+}

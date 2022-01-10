@@ -1,0 +1,53 @@
+{
+  "english": "meal",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bột",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bữa ăn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ăn cơm với người nào",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "any of the regular occasions in a day when a reasonably large amount of food is eaten, such as breakfast, lunch, or dinner.",
+      "definitions_ex_en": "the evening meal",
+      "definitions_ex_vn": "bữa ăn tối",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the edible part of any grain or pulse ground to powder, such as cornmeal.",
+      "definitions_ex_en": "she called to Judith to bring some meal for the hens",
+      "definitions_ex_vn": "Cô gọi Judith để mang một ít bữa ăn cho gà mái",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810055500_6a037d319c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810055500_ce3977f31f_o.png",
+      "id_image": "meal_3274099"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810055465_f571e1625b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810055465_6245d5071a_o.png",
+      "id_image": "meal_3595881"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808363467_6296004f79_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808363467_963d0fd29c_o.png",
+      "id_image": "meal_3967376"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809318946_68f6013639_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809318946_6a6026318a_o.png",
+      "id_image": "meal_649067"
+    }
+  ]
+}

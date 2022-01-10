@@ -1,0 +1,44 @@
+{
+  "english": "murder",
+  "list_translation_mean": [
+    {
+      "translate_mean": "tội giết người",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ám sát",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the unlawful premeditated killing of one human being by another.",
+      "definitions_ex_en": "the stabbing murder of an off-Broadway producer",
+      "definitions_ex_vn": "vụ giết người đâm vào một nhà sản xuất ngoài sân khấu",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "kill (someone) unlawfully and with premeditation.",
+      "definitions_ex_en": "somebody tried to murder Joe",
+      "definitions_ex_vn": "Ai đó đã cố giết Joe",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809446668_2446a4b6df_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809446668_be17fc64f1_o.png",
+      "id_image": "murder_1256809"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809446623_46f776888d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809446623_6b82757c10_o.png",
+      "id_image": "murder_2323041"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809446608_c17ac7735e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809446608_80d4b1f4bf_o.png",
+      "id_image": "murder_5411101"
+    }
+  ]
+}

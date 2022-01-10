@@ -1,0 +1,29 @@
+{
+  "english": "interviewer",
+  "list_translation_mean": [
+    {
+      "translate_mean": "người phỏng vấn",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person who interviews someone, especially as a job.",
+      "definitions_ex_en": "she took time to answer questions from radio interviewers",
+      "definitions_ex_vn": "Cô đã dành thời gian để trả lời câu hỏi từ những người phỏng vấn vô tuyến",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808385647_957ca05045_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808385647_9a22bd9cae_o.png",
+      "id_image": "interviewer_2303808"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808385627_43984e126a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808385627_224f7ca9e1_o.png",
+      "id_image": "interviewer_2427265"
+    }
+  ]
+}

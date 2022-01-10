@@ -1,0 +1,66 @@
+{
+  "english": "oblique",
+  "list_translation_mean": [
+    {
+      "translate_mean": "xiên",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "nghiêng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "cơ xiên",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "bất chánh",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "tà",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "tà khuất",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "nghiêng về",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "neither parallel nor at a right angle to a specified or implied line; slanting.",
+      "definitions_ex_en": "we sat on the settee oblique to the fireplace",
+      "definitions_ex_vn": "Chúng tôi ngồi trên khu định cư xiên vào lò sưởi",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "denoting any case other than the nominative or vocative.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "not explicit or done in a direct way.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a muscle neither parallel nor perpendicular to the long axis of a body or limb.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810086805_f8b32e6e2b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810086805_73034bd993_o.png",
+      "id_image": "oblique_2548519"
+    }
+  ]
+}

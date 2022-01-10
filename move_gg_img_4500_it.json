@@ -1,0 +1,155 @@
+{
+  "english": "move",
+  "list_translation_mean": [
+    {
+      "translate_mean": "di cư",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lung lay",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cho máy chạy",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chuyển động",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "dọn đi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nhúc nhích",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "vận động",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cử động",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "dời chổ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "dời đi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "động đậy",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "hành động",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "rục rịch",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "kéo đi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm lay chuyển ý định",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm người nào đổi ý",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lay động vật gì",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lúc lắc đầu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nước cờ đi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự chuyển động",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự đi cờ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự động đậy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự di động",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự lung lay",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự rục rịch",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "go in a specified direction or manner; change position.",
+      "definitions_ex_en": "she stood up and moved to the door",
+      "definitions_ex_vn": "Cô đứng dậy và di chuyển đến cửa",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "make progress; develop in a particular manner or direction.",
+      "definitions_ex_en": "aircraft design had moved forward a long way",
+      "definitions_ex_vn": "Thiết kế máy bay đã tiến về phía trước một chặng đường dài",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "influence or prompt (someone) to do something.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "propose for discussion and resolution at a meeting or legislative assembly.",
+      "definitions_ex_en": "she intends to move an amendment to the Bill",
+      "definitions_ex_vn": "Cô dự định sẽ chuyển đổi một sửa đổi cho dự luật",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "empty (one's bowels).",
+      "definitions_ex_en": "if you haven't moved your bowels today you'd better do it now",
+      "definitions_ex_vn": "Nếu bạn không di chuyển ruột của bạn ngày hôm nay, bạn nên làm điều đó tốt hơn bây giờ",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a change of place, position, or state.",
+      "definitions_ex_en": "she made a sudden move toward me",
+      "definitions_ex_vn": "Cô ấy đột nhiên di chuyển về phía tôi",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808378687_d7fc984dcd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808378687_534021d15e_o.png",
+      "id_image": "move_1083106"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810070715_563627857a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810070715_ca5c3502d1_o.png",
+      "id_image": "move_1558171"
+    }
+  ]
+}

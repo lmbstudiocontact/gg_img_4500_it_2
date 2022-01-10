@@ -1,0 +1,55 @@
+{
+  "english": "machinery",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cơ quan bộ máy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "gọi chung tất cả máy móc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "máy móc dùng về việc gì",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "máy phát động",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phát động cơ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "machines collectively.",
+      "definitions_ex_en": "farm machinery",
+      "definitions_ex_vn": "máy móc nông nghiệp",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375807_4a87be524c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375807_6a64f4ce87_o.png",
+      "id_image": "machinery_2761086"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067850_60b6247a30_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067850_ae3dab0153_o.png",
+      "id_image": "machinery_4646936"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375722_2c6c7e4e3f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375722_c6166dd3a3_o.png",
+      "id_image": "machinery_4668487"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375847_25bb36ee3c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375847_71c62e9f84_o.png",
+      "id_image": "machinery_566145"
+    }
+  ]
+}

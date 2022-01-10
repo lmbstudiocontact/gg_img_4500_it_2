@@ -1,0 +1,54 @@
+{
+  "english": "mead",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bải cỏ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đồng cỏ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an alcoholic drink of fermented honey and water.",
+      "definitions_ex_en": "the tavern stocks beer, cider, perry, and mead",
+      "definitions_ex_vn": "Các cổ phiếu quán rượu bia, rượu táo, Perry và Mead",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a meadow.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808363782_9f609db12e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808363782_209fbcd5a6_o.png",
+      "id_image": "mead_1489759"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809674004_bc3b00b094_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809674004_d018c55496_o.png",
+      "id_image": "mead_2534024"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809434273_3976ec3151_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809434273_fcd7a0e4ac_o.png",
+      "id_image": "mead_3469107"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808363667_296c00c808_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808363667_0c535e878a_o.png",
+      "id_image": "mead_4145417"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808363642_61f1ef316b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808363642_8ceb44dfef_o.png",
+      "id_image": "mead_5840661"
+    }
+  ]
+}

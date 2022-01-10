@@ -1,0 +1,70 @@
+{
+  "english": "idea",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cãm nghĩ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "điều nghĩ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "quan niệm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sáng kiến",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tư tưởng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ý kiến",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ý niệm",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a thought or suggestion as to a possible course of action.",
+      "definitions_ex_en": "the idea of linking pay to performance has caught on",
+      "definitions_ex_vn": "Ý tưởng liên kết trả tiền cho hiệu suất đã bắt kịp",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the aim or purpose.",
+      "definitions_ex_en": "I took a job with the idea of getting some money together",
+      "definitions_ex_vn": "Tôi đã có một công việc với ý tưởng nhận được một số tiền với nhau",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(in Platonic thought) an eternally existing pattern of which individual things in any class are imperfect copies.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808369562_9b20384c92_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808369562_a0bb8820f5_o.png",
+      "id_image": "idea_166375"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809679889_fdfc2b10e2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809679889_74327d2d9c_o.png",
+      "id_image": "idea_287501"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808369517_da99442294_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808369517_b755777950_o.png",
+      "id_image": "idea_554796"
+    }
+  ]
+}

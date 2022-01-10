@@ -1,0 +1,70 @@
+{
+  "english": "mace",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cái chùy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đầu to của gậy thục bida",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "kim đầu trượng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người mang kim đầu trượng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người mang trượng nầy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trượng đầu bịt bạc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trượng đầu bịt vàng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a heavy club, typically having a metal head and spikes.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a ceremonial staff of office.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "spray (someone) with Mace.",
+      "definitions_ex_en": "three individuals were Maced by an unknown male",
+      "definitions_ex_vn": "Ba cá nhân được gọi bởi một người đàn ông vô danh",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809446438_f2a6c37ba9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809446438_585c4db410_o.png",
+      "id_image": "mace_1339617"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809331351_a202595275_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809331351_bd32237c4a_o.png",
+      "id_image": "mace_1396584"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810068055_f1faf91e2b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810068055_1996099d23_o.png",
+      "id_image": "mace_4456585"
+    }
+  ]
+}

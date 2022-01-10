@@ -1,0 +1,47 @@
+{
+  "english": "magnify",
+  "list_translation_mean": [
+    {
+      "translate_mean": "làm tiếng nói to thêm",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm thấy lớn ra",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nói khoác",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "phóng đại",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "make (something) appear larger than it is, especially with a lens or microscope.",
+      "definitions_ex_en": "the camera's zoom mode can magnify a certain area if required",
+      "definitions_ex_vn": "Chế độ thu phóng của máy ảnh có thể phóng to một khu vực nhất định nếu được yêu cầu",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "extol; glorify.",
+      "definitions_ex_en": "praise the Lord and magnify Him",
+      "definitions_ex_vn": "Ca ngợi Chúa và phóng đại anh ta",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809444298_3ed9d252f4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809444298_28181b8933_o.png",
+      "id_image": "magnify_2455867"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809444238_6bab83ccfb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809444238_603ec193b0_o.png",
+      "id_image": "magnify_5236225"
+    }
+  ]
+}

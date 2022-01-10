@@ -1,0 +1,92 @@
+{
+  "english": "little",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bé",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "chút ít",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "không quan trọng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "nhỏ",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "nhỏ mọn",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "ít được biết",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "ít lắm",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "không mấy khi",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "ít",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lần lần",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "một chút",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "một lát",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "small in size, amount, or degree (often used to convey an appealing diminutiveness or express an affectionate or condescending attitude).",
+      "definitions_ex_en": "the plants will grow into little bushes",
+      "definitions_ex_vn": "Cây sẽ mọc thành ít bụi rậm",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a small amount of.",
+      "definitions_ex_en": "we got a little help from my sister",
+      "definitions_ex_vn": "Chúng tôi có một chút giúp đỡ từ chị tôi",
+      "definitions_type_word": "article"
+    },
+    {
+      "definitions_word_en": "used to emphasize how small an amount is.",
+      "definitions_ex_en": "I have little doubt of their identity",
+      "definitions_ex_vn": "Tôi có chút nghi ngờ về danh tính của họ",
+      "definitions_type_word": "article"
+    },
+    {
+      "definitions_word_en": "to a small extent.",
+      "definitions_ex_en": "he reminded me a little of my parents",
+      "definitions_ex_vn": "anh ấy đã nhắc nhở tôi một chút của cha mẹ tôi",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "(used for emphasis) only to a small extent; not much or often.",
+      "definitions_ex_en": "he was little known in this country",
+      "definitions_ex_vn": "Anh ít được biết đến ở đất nước này",
+      "definitions_type_word": "adverb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809339391_b9fc3bd229_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809339391_d4698fe0f3_o.png",
+      "id_image": "little_4866835"
+    }
+  ]
+}

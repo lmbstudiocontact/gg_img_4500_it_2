@@ -1,0 +1,94 @@
+{
+  "english": "knock",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cái đánh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cái đấm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đập",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự đụng chạm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiếng gỏ cửa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cú đánh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đánh",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đụng chạm",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đụng phải",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm cho sửng sốt",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nói xấu",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "strike a surface noisily to attract attention, especially when waiting to be let in through a door.",
+      "definitions_ex_en": "I knocked on the kitchen door",
+      "definitions_ex_vn": "Tôi gõ cửa bếp",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "collide with (someone or something), giving them a hard blow.",
+      "definitions_ex_en": "he deliberately ran into her, knocking her shoulder",
+      "definitions_ex_vn": "Anh cố tình chạy vào cô, gõ vai cô.",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "talk disparagingly about; criticize.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a sudden short sound caused by a blow, especially on a door to attract attention or gain entry.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a blow or collision.",
+      "definitions_ex_en": "the casing is tough enough to withstand knocks",
+      "definitions_ex_vn": "Vỏ đủ cứng để chịu được tiếng gõ cửa",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a critical comment.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810061885_1fa397d94b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810061885_7c3d17227d_o.png",
+      "id_image": "knock_4223167"
+    }
+  ]
+}

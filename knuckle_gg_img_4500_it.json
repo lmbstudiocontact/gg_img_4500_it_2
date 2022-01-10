@@ -1,0 +1,47 @@
+{
+  "english": "knuckle",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chà bằng khớp xương",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khớp xương của ngón tay",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mắng nhiếc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trấy thịt ở đùi trừu",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a part of a finger at a joint where the bone is near the surface, especially where the finger joins the hand.",
+      "definitions_ex_en": "Charlotte rapped on the window with her knuckles",
+      "definitions_ex_vn": "Charlotte gõ cửa sổ với đốt ngón tay của mình",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "rub or press (something, especially the eyes) with the knuckles.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808369547_08f2d377f9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808369547_bdcdfbdea6_o.png",
+      "id_image": "knuckle_2758829"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809439808_3c67e84e71_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809439808_d951e41437_o.png",
+      "id_image": "knuckle_460556"
+    }
+  ]
+}

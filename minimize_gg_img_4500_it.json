@@ -1,0 +1,42 @@
+{
+  "english": "minimize",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đến mục tối thiểu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm cho ít",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm cho nhỏ",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "reduce (something, especially something unwanted or unpleasant) to the smallest possible amount or degree.",
+      "definitions_ex_en": "the aim is to minimize costs",
+      "definitions_ex_vn": "Mục đích là để giảm thiểu chi phí",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810079465_7c25db1ee9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810079465_69082291c0_o.png",
+      "id_image": "minimize_1828563"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809456873_22d14550a1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809456873_ef31d098f7_o.png",
+      "id_image": "minimize_3058484"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810079510_27a091e91d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810079510_b58566e0c6_o.png",
+      "id_image": "minimize_376873"
+    }
+  ]
+}

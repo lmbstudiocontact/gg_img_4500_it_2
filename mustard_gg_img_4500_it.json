@@ -1,0 +1,53 @@
+{
+  "english": "mustard",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hột cải",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mù tạc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mù tạt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tương hột cải",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a pungent-tasting yellow or brown paste made from the crushed seeds of certain plants, typically eaten with meat or used as a cooking ingredient.",
+      "definitions_ex_en": "Dijon mustard",
+      "definitions_ex_vn": "mù tạt Dijon",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the yellow-flowered Eurasian plant of the cabbage family whose seeds are used to make this paste.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a dark yellow color.",
+      "definitions_ex_en": "a mustard sweater",
+      "definitions_ex_vn": "một chiếc áo len mù tạt",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809445333_9ba9d182d3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809445333_0abac81c64_o.png",
+      "id_image": "mustard_1811990"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809685499_b9b29c09cb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809685499_6762a2306c_o.png",
+      "id_image": "mustard_877720"
+    }
+  ]
+}

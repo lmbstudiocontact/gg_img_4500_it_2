@@ -1,0 +1,34 @@
+{
+  "english": "immunization",
+  "list_translation_mean": [
+    {
+      "translate_mean": "làm cho khỏi bị truyền nhiểm",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the action of making a person or animal immune to infection, typically by inoculation.",
+      "definitions_ex_en": "we recommend influenza immunization for all employees",
+      "definitions_ex_vn": "Chúng tôi khuyên bạn nên tiêm chủng cúm cho tất cả nhân viên",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809437038_745d2a41a1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809437038_651187d5f3_o.png",
+      "id_image": "immunization_2621722"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809321836_e1829caaf3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809321836_d3deef6e13_o.png",
+      "id_image": "immunization_2621895"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809321796_0751a72a80_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809321796_f29e827a86_o.png",
+      "id_image": "immunization_4310174"
+    }
+  ]
+}

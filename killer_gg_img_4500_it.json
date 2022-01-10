@@ -1,0 +1,60 @@
+{
+  "english": "killer",
+  "list_translation_mean": [
+    {
+      "translate_mean": "kẻ giết người",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người giết",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người giết người mướn",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person or thing that kills.",
+      "definitions_ex_en": "police are still searching for the killer",
+      "definitions_ex_vn": "Cảnh sát vẫn đang tìm kiếm kẻ giết người",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an extremely difficult or unpleasant thing.",
+      "definitions_ex_en": "that wind's a killer",
+      "definitions_ex_vn": "Gió đó là kẻ giết người",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "denoting a person or thing that kills.",
+      "definitions_ex_en": "a killer virus",
+      "definitions_ex_vn": "một virus sát thủ",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "extremely difficult or unpleasant.",
+      "definitions_ex_en": "I woke up with a killer hangover",
+      "definitions_ex_vn": "Tôi thức dậy với một kẻ giết người",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809327526_815651535f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809327526_e41885efc8_o.png",
+      "id_image": "killer_1074414"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809442523_08829460dd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809442523_778b45e9bb_o.png",
+      "id_image": "killer_2230873"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809442478_e88d1ffa91_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809442478_9e1341e800_o.png",
+      "id_image": "killer_2436887"
+    }
+  ]
+}

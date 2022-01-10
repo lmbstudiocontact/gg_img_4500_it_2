@@ -1,0 +1,69 @@
+{
+  "english": "leverage",
+  "list_translation_mean": [
+    {
+      "translate_mean": "làm lợi cho người",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sức mạnh của đòn cân",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sức mạnh của xà beng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự nện xuống",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the exertion of force by means of a lever or an object used in the manner of a lever.",
+      "definitions_ex_en": "my spade hit something solid that wouldn't respond to leverage",
+      "definitions_ex_vn": "thuổng của tôi đánh một cái gì đó rắn sẽ không phản ứng với đòn bẩy",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the ratio of a company's loan capital (debt) to the value of its common stock (equity).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "use borrowed capital for (an investment), expecting the profits made to be greater than the interest payable.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "use (something) to maximum advantage.",
+      "definitions_ex_en": "the organization needs to leverage its key resources",
+      "definitions_ex_vn": "Tổ chức cần tận dụng các tài nguyên chính của nó",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809459143_b7697afd5a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809459143_9b7e40ea6e_o.png",
+      "id_image": "leverage_2654593"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809344331_c3b0dcffc9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809344331_f8859419ca_o.png",
+      "id_image": "leverage_3449213"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809459083_f0ccb8c08c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809459083_602a585cfd_o.png",
+      "id_image": "leverage_4335848"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809459028_98d216639b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809459028_20e04a0223_o.png",
+      "id_image": "leverage_4695221"
+    }
+  ]
+}

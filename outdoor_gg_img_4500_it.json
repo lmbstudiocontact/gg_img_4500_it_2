@@ -1,0 +1,47 @@
+{
+  "english": "outdoor",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ngoài cửa",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "ngoài trời",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "ở ngoài",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "done, situated, or used out of doors.",
+      "definitions_ex_en": "a huge outdoor concert",
+      "definitions_ex_vn": "một buổi hòa nhạc ngoài trời lớn",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809456678_1a8920beac_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809456678_4785ae2efd_o.png",
+      "id_image": "outdoor_2689865"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809341766_ee3c915ec5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809341766_ae4e08210a_o.png",
+      "id_image": "outdoor_4244666"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809696984_c30507d515_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809696984_023a880901_o.png",
+      "id_image": "outdoor_5779063"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808386782_ed538ce380_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808386782_34da3c2a5b_o.png",
+      "id_image": "outdoor_6135653"
+    }
+  ]
+}

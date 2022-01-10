@@ -1,0 +1,47 @@
+{
+  "english": "leadership",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chức lảnh tụ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự chỉ dẩn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự hướng dẩn",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the action of leading a group of people or an organization.",
+      "definitions_ex_en": "different styles of leadership",
+      "definitions_ex_vn": "Phong cách lãnh đạo khác nhau",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808362007_4ab046313c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808362007_42061c2fec_o.png",
+      "id_image": "leadership_166910"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809432783_c016b776bc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809432783_fff8d7603d_o.png",
+      "id_image": "leadership_3310143"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808361977_579d17d4aa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808361977_6b0412bf38_o.png",
+      "id_image": "leadership_3449352"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810054135_f14cd3761a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810054135_6c6e48b318_o.png",
+      "id_image": "leadership_3449356"
+    }
+  ]
+}

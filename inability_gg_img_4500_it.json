@@ -1,0 +1,28 @@
+{
+  "english": "inability",
+  "list_translation_mean": [
+    {
+      "translate_mean": "không đủ sức",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự bất tài",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the state of being unable to do something.",
+      "definitions_ex_en": "his inability to accept new ideas",
+      "definitions_ex_vn": "không thể chấp nhận những ý tưởng mới",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810056910_a2870c25e9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810056910_d6beaf1237_o.png",
+      "id_image": "inability_1401413"
+    }
+  ]
+}

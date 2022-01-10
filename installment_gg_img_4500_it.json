@@ -1,0 +1,56 @@
+{
+  "english": "installment",
+  "list_translation_mean": [
+    {
+      "translate_mean": "người trả nợ góp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự trả góp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự trả nợ từng kỳ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trả góp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trả nợ hàng tháng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trả nhiều lần",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a sum of money due as one of several equal payments for something, spread over an agreed period of time.",
+      "definitions_ex_en": "the first installment of a grant for housing",
+      "definitions_ex_vn": "Phần đầu tiên của một khoản trợ cấp cho nhà ở",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "any of several parts of something which are published, broadcast, or made public in sequence at intervals.",
+      "definitions_ex_en": "filming the final installment in his Vietnam trilogy",
+      "definitions_ex_vn": "Quay phim trả góp cuối cùng trong bộ ba Việt Nam của mình",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the process of installing something; installation.",
+      "definitions_ex_en": "installment will begin early next year",
+      "definitions_ex_vn": "trả góp sẽ bắt đầu vào đầu năm tới",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810081870_3343e56398_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810081870_d347b34e9c_o.png",
+      "id_image": "installment_2643299"
+    }
+  ]
+}

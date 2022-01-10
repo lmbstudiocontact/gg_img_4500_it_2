@@ -1,0 +1,52 @@
+{
+  "english": "manicure",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cắt móng tay",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự săn sóc bàn tay",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự săn sóc móng tay",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự săn sóc ngón tay",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a cosmetic treatment of the hands involving shaping and often painting of the nails, removal of the cuticles, and softening of the skin.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "give a manicure to.",
+      "definitions_ex_en": "she manicured Esther's fingernails",
+      "definitions_ex_vn": "Cô chăm sóc móng tay của Esther",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809681069_c6fe02384d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809681069_2db8a909db_o.png",
+      "id_image": "manicure_223963"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810062715_96de56db87_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810062715_fd7a7b442f_o.png",
+      "id_image": "manicure_224041"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809440853_eed2da1598_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809440853_241b0d7bcd_o.png",
+      "id_image": "manicure_2377422"
+    }
+  ]
+}

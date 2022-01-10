@@ -1,0 +1,33 @@
+{
+  "english": "lifetime",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cuộc đời",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sanh tiền",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the duration of a person's life.",
+      "definitions_ex_en": "a reward for a lifetime's work",
+      "definitions_ex_vn": "một phần thưởng cho một công việc của cả đời",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810080305_5622a679c3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810080305_8894833c30_o.png",
+      "id_image": "lifetime_2254867"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810080285_3aece88200_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810080285_653116e636_o.png",
+      "id_image": "lifetime_2302785"
+    }
+  ]
+}

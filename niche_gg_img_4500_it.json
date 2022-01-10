@@ -1,0 +1,65 @@
+{
+  "english": "niche",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chỗ xây thủng vào tường",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "núp trong góc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đặt tượng vào trong tường",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trốn trong góc",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a comfortable or suitable position in life or employment.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a specialized segment of the market for a particular kind of product or service.",
+      "definitions_ex_en": "he believes he has found a niche in the market",
+      "definitions_ex_vn": "Ông tin rằng anh ta đã tìm thấy một hốc trên thị trường",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a shallow recess, especially one in a wall to display a statue or other ornament.",
+      "definitions_ex_en": "each niche held a shepherdess in Dresden china",
+      "definitions_ex_vn": "Mỗi hốc giữ một người chăn cừu ở Droesden Trung Quốc",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "denoting products, services, or interests that appeal to a small, specialized section of the population.",
+      "definitions_ex_en": "other companies in this space had to adapt to being niche players",
+      "definitions_ex_vn": "Các công ty khác trong không gian này đã phải thích nghi với việc là người chơi thích hợp",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "place (something) in a niche or recess.",
+      "definitions_ex_en": "these elements were niched within the shadowy reaches",
+      "definitions_ex_vn": "Những yếu tố này được niched trong tầm bóng của bóng tối",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809322861_b3052225c0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809322861_ef4056af0d_o.png",
+      "id_image": "niche_2457976"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810059560_ab85ea9ce7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810059560_a8ebdbf869_o.png",
+      "id_image": "niche_5965893"
+    }
+  ]
+}

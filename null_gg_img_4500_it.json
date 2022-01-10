@@ -1,0 +1,60 @@
+{
+  "english": "null",
+  "list_translation_mean": [
+    {
+      "translate_mean": "không có hiệu lực nữa",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "vô công hiệu",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "vô giá trị",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "vô hiệu lực",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "having no legal or binding force; invalid.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "having or associated with the value zero.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "lacking distinctive qualities; having no positive substance or content.",
+      "definitions_ex_en": "his curiously null life",
+      "definitions_ex_vn": "cuộc sống null tò mò của anh ấy",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a zero.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "combine (a signal) with another in order to create a null; cancel out.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809319831_256740c7d0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809319831_047e9209e7_o.png",
+      "id_image": "null_5108591"
+    }
+  ]
+}

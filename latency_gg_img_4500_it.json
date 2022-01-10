@@ -1,0 +1,49 @@
+{
+  "english": "latency",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ngày vừa qua",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thời kỳ vừa qua",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the state of existing but not yet being developed or manifest; concealment.",
+      "definitions_ex_en": "tension, and the latency of violence, make the greatest impressions",
+      "definitions_ex_vn": "căng thẳng, và độ trễ của bạo lực, tạo ấn tượng lớn nhất",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the delay before a transfer of data begins following an instruction for its transfer.",
+      "definitions_ex_en": "poor performance due to network latency",
+      "definitions_ex_vn": "Hiệu suất kém do độ trễ mạng",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809674874_ea6ce99db1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809674874_3899023498_o.png",
+      "id_image": "latency_2040986"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810056495_30ae087ca5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810056495_fb12b3626c_o.png",
+      "id_image": "latency_2620524"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809674799_8c175c22b6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809674799_6e01811e6f_o.png",
+      "id_image": "latency_3883802"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810056410_55026cb279_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810056410_03ae20d86c_o.png",
+      "id_image": "latency_5087689"
+    }
+  ]
+}

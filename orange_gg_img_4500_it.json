@@ -1,0 +1,57 @@
+{
+  "english": "orange",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cây cam",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trái cam",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a round juicy citrus fruit with a tough bright reddish-yellow rind.",
+      "definitions_ex_en": "eat plenty of oranges",
+      "definitions_ex_vn": "Ăn nhiều cam",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the leathery-leaved evergreen tree that bears the orange, native to warm regions of South and Southeast Asia. Oranges are a major commercial crop in many warm regions of the world.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a bright reddish-yellow color like that of the skin of a ripe orange.",
+      "definitions_ex_en": "tones of golden brown and orange",
+      "definitions_ex_vn": "tông màu nâu vàng và cam",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "reddish yellow.",
+      "definitions_ex_en": "there was an orange glow in the sky",
+      "definitions_ex_vn": "Có một ánh sáng màu cam trên bầu trời",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "relating to the Orange Order.",
+      "definitions_ex_en": "Orange marches",
+      "definitions_ex_vn": "Orange Marches.",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809344581_9eafbfe816_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809344581_53c06075b1_o.png",
+      "id_image": "orange_170327"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808389497_c3a07e338c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808389497_b3c977e4e3_o.png",
+      "id_image": "orange_501324"
+    }
+  ]
+}

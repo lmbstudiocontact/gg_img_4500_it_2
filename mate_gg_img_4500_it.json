@@ -1,0 +1,145 @@
+{
+  "english": "mate",
+  "list_translation_mean": [
+    {
+      "translate_mean": "phu thê",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bạn cùng sở",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bạn đồng học",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đánh cờ chiếu tướng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đôi lứa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sĩ quan",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bầu bạn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giống cây trà",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vợ chồng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chung đôi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cặp đôi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chim đẹp mái",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "kết đôi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "kết hôn với người nào",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cho chim rập nhau",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cho hai người lấy nhau",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "phối hợp",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "each of a pair of birds or other animals.",
+      "definitions_ex_en": "a male bird sings to court a mate",
+      "definitions_ex_vn": "một con chim đực hát lên tòa án một người bạn đời",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a fellow member or joint occupant of a specified thing.",
+      "definitions_ex_en": "his tablemates",
+      "definitions_ex_vn": "tablemates của anh ấy",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "short for checkmate (noun).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an infusion of the leaves of a South American shrub, which is high in caffeine and bitter.",
+      "definitions_ex_en": "maté has an agreeable slightly aromatic odor",
+      "definitions_ex_vn": "Maté có mùi thơm hơi dễ chịu",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the South American shrub of the holly family which produces maté leaves.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(of animals or birds) come together for breeding; copulate.",
+      "definitions_ex_en": "successful males may mate with many females",
+      "definitions_ex_vn": "Con đực thành công có thể giao phối với nhiều nữ",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "connect or be connected mechanically.",
+      "definitions_ex_en": "a four-cylinder engine mated to a five-speed gearbox",
+      "definitions_ex_vn": "một động cơ bốn xi-lanh được giao phối với một hộp số năm tốc độ",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "short for checkmate (verb).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809675479_7fe73e3649_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809675479_dd8a22d104_o.png",
+      "id_image": "mate_4235569"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809435628_9d479bb066_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809435628_1604a8d048_o.png",
+      "id_image": "mate_4457201"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809435583_94e85d9beb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809435583_bd5660efbb_o.png",
+      "id_image": "mate_4633938"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365327_42286801c1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365327_ccf9e2018d_o.png",
+      "id_image": "mate_6255810"
+    }
+  ]
+}

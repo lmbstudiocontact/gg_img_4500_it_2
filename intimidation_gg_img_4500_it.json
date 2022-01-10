@@ -1,0 +1,44 @@
+{
+  "english": "intimidation",
+  "list_translation_mean": [
+    {
+      "translate_mean": "người hăm dọa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự hăm dọa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự la lối",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự làm người ta sợ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự dọa nạt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự thị oai",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the action of intimidating someone, or the state of being intimidated.",
+      "definitions_ex_en": "the intimidation of witnesses and jurors",
+      "definitions_ex_vn": "sự đe dọa của các nhân chứng và bồi thẩm",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809695594_8831c299b3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809695594_b61aeb95f9_o.png",
+      "id_image": "intimidation_2473099"
+    }
+  ]
+}

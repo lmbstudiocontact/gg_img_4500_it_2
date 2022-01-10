@@ -1,0 +1,58 @@
+{
+  "english": "infusion",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chế bằng nước sôi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nước pha",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự đổ vào",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự rót vào",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a drink, remedy, or extract prepared by soaking the leaves of a plant or herb in liquid.",
+      "definitions_ex_en": "a strong rosemary infusion",
+      "definitions_ex_vn": "một sự truyền hích lan mạnh mẽ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the introduction of a new element or quality into something.",
+      "definitions_ex_en": "the infusion of $6.3 million for improvements",
+      "definitions_ex_vn": "Truyền 6,3 triệu đô la để cải thiện",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the slow injection of a substance into a vein or tissue.",
+      "definitions_ex_en": "a four-hour intravenous infusion",
+      "definitions_ex_vn": "một truyền tĩnh mạch bốn giờ",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808360802_df4835db9a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808360802_a5c560ab45_o.png",
+      "id_image": "infusion_5986749"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809316546_5cec909aa5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809316546_69d0b52a62_o.png",
+      "id_image": "infusion_5986782"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809431458_dff05b6815_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809431458_0ea70841b3_o.png",
+      "id_image": "infusion_6181889"
+    }
+  ]
+}

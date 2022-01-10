@@ -1,0 +1,56 @@
+{
+  "english": "northeast",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thuộc về hướng đông bắc",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "về hướng đông bắc",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "đông bắc",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the direction toward the point of the horizon midway between north and east.",
+      "definitions_ex_en": "I pointed to the northeast",
+      "definitions_ex_vn": "Tôi chỉ về phía đông bắc",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the northeastern part of a country, region, or town.",
+      "definitions_ex_en": "the northeast of Brazil",
+      "definitions_ex_vn": "phía đông bắc của Brazil",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "lying toward, near, or facing the northeast.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "of or denoting the northeastern part of a specified country, region, or town.",
+      "definitions_ex_en": "northeast Baltimore",
+      "definitions_ex_vn": "Đông Bắc Baltimore.",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "to or toward the northeast.",
+      "definitions_ex_en": "the ship sailed northeast",
+      "definitions_ex_vn": "Con tàu đi về phía đông bắc",
+      "definitions_type_word": "adverb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810058120_702668b7be_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810058120_5349342810_o.png",
+      "id_image": "northeast_5515126"
+    }
+  ]
+}

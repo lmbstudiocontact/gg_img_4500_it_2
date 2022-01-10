@@ -1,0 +1,55 @@
+{
+  "english": "necklace",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chuỗi hạt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vòng đeo cổ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an ornamental chain or string of beads, jewels, or links worn around the neck.",
+      "definitions_ex_en": "a diamond necklace",
+      "definitions_ex_vn": "một vòng cổ kim cương",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(chiefly in South Africa) a tire doused or filled with gasoline, placed around a victim's neck, and set on fire.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(in South Africa) kill (someone) with a tire necklace.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810063430_ec7786f29e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810063430_81b0bc4d52_o.png",
+      "id_image": "necklace_315206"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810063385_6d7181587b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810063385_815247293b_o.png",
+      "id_image": "necklace_332038"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809441423_80fd41fd8b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809441423_f53e96c17b_o.png",
+      "id_image": "necklace_488338"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809681464_df0b0a3424_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809681464_4c0cbfcd5f_o.png",
+      "id_image": "necklace_688325"
+    }
+  ]
+}

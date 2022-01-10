@@ -1,0 +1,58 @@
+{
+  "english": "jelly",
+  "list_translation_mean": [
+    {
+      "translate_mean": "mứt cô đặc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nước quả nấu đông",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thạch",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thịt nấu đông",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a sweet, clear, semisolid spread or preserve made from fruit juice and sugar boiled to a thick consistency.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "jelly shoes.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "set (food) as or in a jelly.",
+      "definitions_ex_en": "the eels are stewed and jellied",
+      "definitions_ex_vn": "Con lươn được hầm và jellied",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335096_9e605a4f47_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335096_990cf958d4_o.png",
+      "id_image": "jelly_1398525"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809690204_4395617076_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809690204_399ac94cee_o.png",
+      "id_image": "jelly_2002748"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808380082_68158b1afa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808380082_ba92a55b5f_o.png",
+      "id_image": "jelly_6299706"
+    }
+  ]
+}

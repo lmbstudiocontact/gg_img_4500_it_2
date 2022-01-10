@@ -1,0 +1,63 @@
+{
+  "english": "juggle",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự lừa bịp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự lừa gạt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trò múa rối",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trò tung hứng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dùng mánh khoé để lừa",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lừa bịp",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "múa rối",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tung hứng",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "continuously toss into the air and catch (a number of objects) so as to keep at least one in the air while handling the others, typically for the entertainment of others.",
+      "definitions_ex_en": "Charles juggled five tangerines, his hands a frantic blur",
+      "definitions_ex_vn": "Charles tung hứng năm quả quýt, bàn tay của anh ta một Blur điên cuồng",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "an act of juggling.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808376082_5ffbd5957d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808376082_64f16e0857_o.png",
+      "id_image": "juggle_1680803"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686434_229f2eaa94_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686434_c33c1e6d13_o.png",
+      "id_image": "juggle_947861"
+    }
+  ]
+}

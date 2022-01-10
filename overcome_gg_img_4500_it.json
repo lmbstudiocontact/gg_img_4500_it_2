@@ -1,0 +1,40 @@
+{
+  "english": "overcome",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hơn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chiến thắng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thắng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ức chế",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "vượt qua",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "succeed in dealing with (a problem or difficulty).",
+      "definitions_ex_en": "she worked hard to overcome her paralyzing shyness",
+      "definitions_ex_vn": "Cô ấy làm việc chăm chỉ để vượt qua sự nhút nhát tê liệt của mình",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810077785_c917117382_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810077785_3822620580_o.png",
+      "id_image": "overcome_1935506"
+    }
+  ]
+}

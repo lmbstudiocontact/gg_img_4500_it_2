@@ -1,0 +1,54 @@
+{
+  "english": "hostess",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bà chủ nhà",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bà chủ quán trọ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nữ chiêu đãi viên",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nữ tiếp viên hàng không",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người đàn bà tiếp khách",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người tiếp khách",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a woman who receives or entertains guests.",
+      "definitions_ex_en": "the perfect dinner-party hostess",
+      "definitions_ex_vn": "Nữ tiếp viên bữa tiệc hoàn hảo",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809685384_e0ba4e95fd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809685384_1bbe9cda69_o.png",
+      "id_image": "hostess_1659462"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808374962_32e483b348_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808374962_5b50c25bf9_o.png",
+      "id_image": "hostess_1876926"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808374907_0e6dfec909_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808374907_596ea9639c_o.png",
+      "id_image": "hostess_4633117"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "english": "nap",
+  "list_translation_mean": [
+    {
+      "translate_mean": "giấc ngũ ngắn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "làm cho dợn tuyết",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "sleep lightly or briefly, especially during the day.",
+      "definitions_ex_en": "she took to napping on the beach in the afternoons",
+      "definitions_ex_vn": "Cô ấy đã chụp ngủ trên bãi biển vào buổi chiều",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of a horse) refuse, especially habitually, to go on at the rider's instruction; jib.",
+      "definitions_ex_en": "horses which nap should be dealt with by professionals",
+      "definitions_ex_vn": "Ngựa ngủ trưa nên được giải quyết bởi các chuyên gia",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a short sleep, especially during the day.",
+      "definitions_ex_en": "excuse me, I'll just take a little nap",
+      "definitions_ex_vn": "Xin lỗi, tôi sẽ ngủ một chút",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the raised hairs, threads, or similar small projections on the surface of fabric or suede (used especially with reference to the direction in which they naturally lie).",
+      "definitions_ex_en": "carefully machine the seam, following the direction of the nap",
+      "definitions_ex_vn": "Cẩn thận máy may, theo hướng nap",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a card game resembling whist in which players declare the number of tricks they expect to take, up to five.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809443683_39e4c80ea9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809443683_1ceb6ddcd5_o.png",
+      "id_image": "nap_1702344"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328666_c1dc2171df_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328666_7a829b9b17_o.png",
+      "id_image": "nap_2964763"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683684_fce40481a3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683684_3c8a30ab4d_o.png",
+      "id_image": "nap_3310318"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808373327_4566cd57fb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808373327_d45643ebe1_o.png",
+      "id_image": "nap_3310321"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808373302_be5dcc008b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808373302_a30bd1ddac_o.png",
+      "id_image": "nap_5775901"
+    }
+  ]
+}

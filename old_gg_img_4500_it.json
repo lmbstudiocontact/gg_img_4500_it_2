@@ -1,0 +1,64 @@
+{
+  "english": "old",
+  "list_translation_mean": [
+    {
+      "translate_mean": "xưa",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "cổ",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "cũ",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "già",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "having lived for a long time; no longer young.",
+      "definitions_ex_en": "the old man lay propped up on cushions",
+      "definitions_ex_vn": "Ông lão nằm nghiêng trên đệm",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "belonging only or chiefly to the past; former or previous.",
+      "definitions_ex_en": "valuation under the old rating system was inexact",
+      "definitions_ex_vn": "Định giá theo hệ thống xếp hạng cũ không chính xác",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "of a specified age.",
+      "definitions_ex_en": "he was fourteen years old",
+      "definitions_ex_vn": "anh ấy mười bốn tuổi",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "used to express affection, familiarity, or contempt.",
+      "definitions_ex_en": "it gets the old adrenaline going",
+      "definitions_ex_vn": "nó được adrenaline cũ đi",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808392417_84feb6a88a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808392417_e33a35e19c_o.png",
+      "id_image": "old_1141117"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808427502_4d5904bdcb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808427502_c6ac3c503b_o.png",
+      "id_image": "old_1588867"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809347366_47f45c4258_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809347366_a55fc7a3e7_o.png",
+      "id_image": "old_2446919"
+    }
+  ]
+}

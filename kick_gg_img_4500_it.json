@@ -1,0 +1,163 @@
+{
+  "english": "kick",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cú đá",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đá dở",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khí lực",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lời phàn nàn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự chống lại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự đá hậu của ngựa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lời than phiền",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự giựt lùi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự hăng hái",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự kháng cự",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự phản kháng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thối hậu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chống lại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đá",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đá đít người nào",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đạp",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đạp vật gì",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "phản đối việc gì",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "phản kháng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thối hậu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trở mặt",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đá hậu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "giựt lùi",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "strike or propel forcibly with the foot.",
+      "definitions_ex_en": "I think someone just kicked down my door",
+      "definitions_ex_vn": "Tôi nghĩ ai đó vừa đá xuống cửa của tôi",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "succeed in giving up (a habit or addiction).",
+      "definitions_ex_en": "smokers may soon have new help to kick the habit",
+      "definitions_ex_vn": "Những người hút thuốc có thể sớm có sự giúp đỡ mới để đá thói quen",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of a gun) recoil when fired.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a blow or forceful thrust with the foot.",
+      "definitions_ex_en": "a kick in the head",
+      "definitions_ex_vn": "một cú đá vào đầu",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a sudden forceful jolt.",
+      "definitions_ex_en": "the shuttle accelerated with a kick",
+      "definitions_ex_vn": "Xe đưa đón tăng tốc bằng một cú đá",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the sharp stimulant effect of something, especially alcohol.",
+      "definitions_ex_en": "strong stuff, this brew: he felt the kick",
+      "definitions_ex_vn": "Những thứ mạnh mẽ, bia này: anh cảm thấy đá",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an indentation in the bottom of a glass bottle, diminishing the internal capacity.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328241_e8725b9a39_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328241_6fea9534c3_o.png",
+      "id_image": "kicking_1505381"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328201_6f99413eb9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328201_eb1a080e75_o.png",
+      "id_image": "kicking_2333270"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808373152_eb0878ae46_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808373152_f0155be1c8_o.png",
+      "id_image": "kick_4020306"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683474_e6f4f21bcc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683474_bc124369d1_o.png",
+      "id_image": "kick_5965812"
+    }
+  ]
+}

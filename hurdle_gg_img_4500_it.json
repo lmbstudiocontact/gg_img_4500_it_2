@@ -1,0 +1,66 @@
+{
+  "english": "hurdle",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hàng rào",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhảy qua rào",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "rào",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chạy nhảy rào",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm hàng rào",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm hàng rào xung quanh",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nhảy qua rào",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "one of a series of upright frames over which athletes in a race must jump.",
+      "definitions_ex_en": "a hurdle race",
+      "definitions_ex_vn": "một cuộc đua vượt rào",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an obstacle or difficulty.",
+      "definitions_ex_en": "there are many hurdles to overcome",
+      "definitions_ex_vn": "Có nhiều rào cản để vượt qua",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "take part in a race that involves jumping hurdles.",
+      "definitions_ex_en": "this gelding hurdled fluently",
+      "definitions_ex_vn": "Gelding này trở nên trôi chảy",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "enclose or fence off with hurdles.",
+      "definitions_ex_en": "a maze of individual hurdled pens",
+      "definitions_ex_vn": "Một mê cung của những cây bút vướng ngại cá nhân",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809442003_ffda753003_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809442003_16a4da5d9b_o.png",
+      "id_image": "hurdle_2042607"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "english": "inject",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bơm thuốc",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chích",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chích thuốc",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tiêm thuốc",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "drive or force (a liquid, especially a drug or vaccine) into a person or animal's body with a syringe or similar device.",
+      "definitions_ex_en": "the doctor injected a painkilling drug",
+      "definitions_ex_vn": "Bác sĩ tiêm thuốc giảm đau",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "introduce (something) into a passage, cavity, or solid material under pressure.",
+      "definitions_ex_en": "inject the foam and allow it to expand",
+      "definitions_ex_vn": "Tiêm bọt và cho phép nó mở rộng",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "introduce (a new or different element) into something, especially as a boost or interruption.",
+      "definitions_ex_en": "she tried to inject scorn into her tone",
+      "definitions_ex_vn": "Cô cố tiêm khinh miệt vào giọng điệu của mình",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "place (a spacecraft or other object) into an orbit or trajectory.",
+      "definitions_ex_en": "many meteoroids are injected into hyperbolic orbits",
+      "definitions_ex_vn": "Nhiều thiên thạch được tiêm vào quỹ đạo Hyperbolic",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808392102_75afdc05eb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808392102_da7b3fe2ac_o.png",
+      "id_image": "inject_1364805"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809461913_bbd5b1c592_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809461913_867f15b9fc_o.png",
+      "id_image": "inject_5252576"
+    }
+  ]
+}

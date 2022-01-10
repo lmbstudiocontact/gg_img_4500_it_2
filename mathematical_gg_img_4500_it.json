@@ -1,0 +1,24 @@
+{
+  "english": "mathematical",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thuộc về toán học",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "relating to mathematics.",
+      "definitions_ex_en": "mathematical equations",
+      "definitions_ex_vn": "phương trình toán học.",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810056605_236b68024f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810056605_f1e59ee70b_o.png",
+      "id_image": "mathematical_329786"
+    }
+  ]
+}

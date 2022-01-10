@@ -1,0 +1,52 @@
+{
+  "english": "outfit",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đại đội",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đồ trang bị",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ê kíp thợ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "quần áo",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a set of clothes worn together, typically for a particular occasion or purpose.",
+      "definitions_ex_en": "a riding outfit",
+      "definitions_ex_vn": "một trang phục cưỡi",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "provide (someone) with a set of clothes.",
+      "definitions_ex_en": "an auction of dolls outfitted by world-famous designers",
+      "definitions_ex_vn": "một cuộc đấu giá búp bê được trang bị bởi các nhà thiết kế nổi tiếng thế giới",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809341471_fb5876a4af_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809341471_cf740f2a94_o.png",
+      "id_image": "outfit_1283441"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809341541_8ae0b19633_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809341541_ecde255bbf_o.png",
+      "id_image": "outfit_387411"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809341501_27644ae0cb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809341501_41f508afa3_o.png",
+      "id_image": "outfit_649063"
+    }
+  ]
+}

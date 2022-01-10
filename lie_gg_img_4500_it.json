@@ -1,0 +1,113 @@
+{
+  "english": "lie",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bịa chuyện",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chuyện bịa đặt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chuyện láo khoét",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sạo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự nói dối",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "điều nói dối",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hành động giả dối",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lời nói láo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bịa chuyện",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nói dóc",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nói láo",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nói dối",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nói sạo",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "(of a person or animal) be in or assume a horizontal or resting position on a supporting surface.",
+      "definitions_ex_en": "the man lay face downward on the grass",
+      "definitions_ex_vn": "Người đàn ông nằm ngửa xuống trên cỏ",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "be, remain, or be kept in a specified state.",
+      "definitions_ex_en": "the church lies in ruins today",
+      "definitions_ex_vn": "Nhà thờ nằm trong đống đổ nát ngày hôm nay",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of a place) be situated in a specified position or direction.",
+      "definitions_ex_en": "the small town of Swampscott lies about ten miles north of Boston",
+      "definitions_ex_vn": "Thị trấn nhỏ của Swampscott nằm nghiêng khoảng mười dặm về phía bắc của Boston",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of an action, charge, or claim) be admissible or sustainable.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "tell a lie or lies.",
+      "definitions_ex_en": "why had Wesley lied about his visit to Philadelphia?",
+      "definitions_ex_vn": "Tại sao Wesley đã nói dối về chuyến thăm của mình đến Philadelphia?",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "the way, direction, or position in which something lies.",
+      "definitions_ex_en": "he was familiarizing himself with the lie of the streets",
+      "definitions_ex_vn": "Anh ta đã làm quen với lời nói dối của những con đường",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an intentionally false statement.",
+      "definitions_ex_en": "the whole thing is a pack of lies",
+      "definitions_ex_vn": "Toàn bộ sự vật là một gói dối trá",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809343291_3049ec54ac_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809343291_ff2b01942c_o.png",
+      "id_image": "lie_3798350"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809343266_8f0ef6bc14_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809343266_78ddfe6320_o.png",
+      "id_image": "lie_5526267"
+    }
+  ]
+}

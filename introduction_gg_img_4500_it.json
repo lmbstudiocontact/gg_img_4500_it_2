@@ -1,0 +1,70 @@
+{
+  "english": "introduction",
+  "list_translation_mean": [
+    {
+      "translate_mean": "lời nói đầu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lời tựa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự đem cho vật gì",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự đút vào",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự giới thiệu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự nhét",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự tiến dẩn",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the action of introducing something.",
+      "definitions_ex_en": "issues arising from the introduction of new technology",
+      "definitions_ex_vn": "Các vấn đề phát sinh từ việc giới thiệu công nghệ mới",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a formal presentation of one person to another, in which each is told the other's name.",
+      "definitions_ex_en": "he returned to his desk, leaving Michael to make the introductions",
+      "definitions_ex_vn": "Anh trở về bàn làm việc, khiến Michael đưa ra những lời giới thiệu",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a thing preliminary to something else, especially an explanatory section at the beginning of a book, report, or speech.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808385022_13ab03c1a8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808385022_e3eaa614c4_o.png",
+      "id_image": "introduction_4223094"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809695359_3b8ca8a992_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809695359_5f5ebb2d85_o.png",
+      "id_image": "introduction_4784973"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809340051_57ee271617_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809340051_d8b30d9b36_o.png",
+      "id_image": "introduction_4797119"
+    }
+  ]
+}

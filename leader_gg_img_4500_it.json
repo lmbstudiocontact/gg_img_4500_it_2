@@ -1,0 +1,99 @@
+{
+  "english": "leader",
+  "list_translation_mean": [
+    {
+      "translate_mean": "lảnh tụ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mầm cây",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người cầm đầu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người chỉ dẩn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người chỉ huy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người chủ mưu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người hướng đạo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người lảnh đạo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ống dẩn nước",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ở ngọn",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the person who leads or commands a group, organization, or country.",
+      "definitions_ex_en": "the leader of a protest group",
+      "definitions_ex_vn": "Người lãnh đạo của một nhóm phản đối",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the principal player in a music group.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a short strip of nonfunctioning material at each end of a reel of film or recording tape for connection to the spool.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a shoot of a plant at the apex of a stem or main branch.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a series of dots or dashes across the page to guide the eye, especially in tabulated material.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809672424_a78db9b0ce_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809672424_2a626fc797_o.png",
+      "id_image": "leader_1441964"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809432823_6f4f73b967_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809432823_77c2e54dac_o.png",
+      "id_image": "leader_3281359"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808362012_f2bc01c063_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808362012_d0cbf4e32a_o.png",
+      "id_image": "leader_5542037"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808362067_14a4112860_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808362067_7b5583ebec_o.png",
+      "id_image": "leader_567505"
+    }
+  ]
+}

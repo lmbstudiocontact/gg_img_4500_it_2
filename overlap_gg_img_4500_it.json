@@ -1,0 +1,42 @@
+{
+  "english": "overlap",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đè khớp nhau",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự lấn lên nhau",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự lợp ngói",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự phủ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "extend over so as to cover partly.",
+      "definitions_ex_en": "the canopy overlaps the house roof at one end",
+      "definitions_ex_vn": "tán cây phủ lên mái nhà ở một đầu",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a part or amount which overlaps.",
+      "definitions_ex_en": "an overlap of about half an inch",
+      "definitions_ex_vn": "một sự chồng chéo khoảng nửa inch",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809455118_a86779e171_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809455118_8db5c74f9b_o.png",
+      "id_image": "overlap_979798"
+    }
+  ]
+}

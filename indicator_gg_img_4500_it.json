@@ -1,0 +1,49 @@
+{
+  "english": "indicator",
+  "list_translation_mean": [
+    {
+      "translate_mean": "người bày tỏ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người chỉ thị",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người trình bày",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a thing, especially a trend or fact, that indicates the state or level of something.",
+      "definitions_ex_en": "car ownership is frequently used as an indicator of affluence",
+      "definitions_ex_vn": "Quyền sở hữu xe hơi thường được sử dụng như một chỉ số của sự sung túc",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a gauge or meter of a specified kind.",
+      "definitions_ex_en": "a speed indicator",
+      "definitions_ex_vn": "một chỉ số tốc độ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a compound that changes color at a specific pH value or in the presence of a particular substance, and can be used to monitor acidity, alkalinity, or the progress of a reaction.",
+      "definitions_ex_en": "the remaining alkali is titrated against standard acid using phenolphthalein as indicator",
+      "definitions_ex_vn": "Kiềm còn lại được chuẩn độ chống lại axit tiêu chuẩn bằng cách sử dụng phenolphthalein làm chỉ số",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809672799_253131a8d0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809672799_a62057f78f_o.png",
+      "id_image": "indicator_2191443"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809672769_0a83a30262_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809672769_e8fb5889f9_o.png",
+      "id_image": "indicator_6255712"
+    }
+  ]
+}

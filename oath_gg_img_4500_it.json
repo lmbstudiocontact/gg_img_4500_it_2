@@ -1,0 +1,52 @@
+{
+  "english": "oath",
+  "list_translation_mean": [
+    {
+      "translate_mean": "lời chưởi thề",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lời nguyền rủa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lời thề",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tuyên thệ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a solemn promise, often invoking a divine witness, regarding one's future action or behavior.",
+      "definitions_ex_en": "they took an oath of allegiance to the king",
+      "definitions_ex_vn": "Họ đã có một lời thề trung thành với nhà vua",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a profane or offensive expression used to express anger or other strong emotions.",
+      "definitions_ex_en": "he exploded with a mouthful of oaths",
+      "definitions_ex_vn": "Anh bùng nổ với một lời thề",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810055870_97dc3b5364_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810055870_edc12a8072_o.png",
+      "id_image": "oath_2646684"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810055865_c2ae9f9110_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810055865_1a636f46bd_o.png",
+      "id_image": "oath_372292"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809434383_0c2c1b5692_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809434383_a7d9c6cedf_o.png",
+      "id_image": "oath_4474008"
+    }
+  ]
+}

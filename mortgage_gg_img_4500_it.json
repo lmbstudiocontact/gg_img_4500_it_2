@@ -1,0 +1,65 @@
+{
+  "english": "mortgage",
+  "list_translation_mean": [
+    {
+      "translate_mean": "quyền để áp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự cầm đồ thế nợ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự cho mượn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự cho vay",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cầm đồ thế nợ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "để áp",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a legal agreement by which a bank or other creditor lends money at interest in exchange for taking title of the debtor's property, with the condition that the conveyance of title becomes void upon the payment of the debt.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "convey (a property) to a creditor as security on a loan.",
+      "definitions_ex_en": "the estate was mortgaged up to the hilt",
+      "definitions_ex_vn": "bất động sản đã được thế chấp lên đến chuôi kiếm",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810072900_a3ba44dca1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810072900_e1ccfa802d_o.png",
+      "id_image": "mortgage_554340"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809450883_677c640eb3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809450883_a0f7d78b70_o.png",
+      "id_image": "mortgage_554453"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809691144_2db8121343_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809691144_dfacf40503_o.png",
+      "id_image": "mortgage_5571446"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808380957_bbcc41775a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808380957_709b273b5b_o.png",
+      "id_image": "mortgage_646635"
+    }
+  ]
+}

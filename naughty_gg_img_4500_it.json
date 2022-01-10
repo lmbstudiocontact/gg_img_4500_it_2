@@ -1,0 +1,53 @@
+{
+  "english": "naughty",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hung ác",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "không vâng lời",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "nghịch ngợm",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "tinh quái",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "(especially of children) disobedient; badly behaved.",
+      "definitions_ex_en": "you've been a really naughty boy",
+      "definitions_ex_vn": "Bạn đã là một cậu bé thực sự nghịch ngợm",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "mildly rude or indecent, typically because related to sex.",
+      "definitions_ex_en": "naughty goings-on",
+      "definitions_ex_vn": "Goings nghịch ngợm trên",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "wicked.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809442428_5388548a8a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809442428_1a3fdcdb0d_o.png",
+      "id_image": "naughty_3362346"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809327396_72f1b6e9cd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809327396_9a0dd68780_o.png",
+      "id_image": "naughty_4138811"
+    }
+  ]
+}

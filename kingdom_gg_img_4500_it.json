@@ -1,0 +1,40 @@
+{
+  "english": "kingdom",
+  "list_translation_mean": [
+    {
+      "translate_mean": "nước có vua",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nước quân chủ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a country, state, or territory ruled by a king or queen.",
+      "definitions_ex_en": "the Kingdom of the Netherlands",
+      "definitions_ex_vn": "Vương quốc Hà Lan",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the spiritual reign or authority of God.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "each of the three traditional divisions (animal, vegetable, and mineral) in which natural objects have conventionally been classified.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809682114_47b56bd75f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809682114_c478997216_o.png",
+      "id_image": "kingdom_4545234"
+    }
+  ]
+}

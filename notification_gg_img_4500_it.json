@@ -1,0 +1,46 @@
+{
+  "english": "notification",
+  "list_translation_mean": [
+    {
+      "translate_mean": "báo cho người nào hay biết",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự báo cáo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự báo cho biết",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự thông báo",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the action of notifying someone or something.",
+      "definitions_ex_en": "we have yet to receive formal notification of the announcement",
+      "definitions_ex_vn": "Chúng tôi vẫn chưa nhận được thông báo chính thức về thông báo",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809675504_2f58d9b267_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809675504_befc2c982a_o.png",
+      "id_image": "notification_1580265"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365512_2b74f6dd88_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365512_094f42438e_o.png",
+      "id_image": "notification_778810"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365482_f918cdecdf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365482_b80f049567_o.png",
+      "id_image": "notification_814115"
+    }
+  ]
+}

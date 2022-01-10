@@ -1,0 +1,164 @@
+{
+  "english": "like",
+  "list_translation_mean": [
+    {
+      "translate_mean": "như",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "như nhau",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "giống",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "giống nhau",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thật giống",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "như",
+      "type_word": "preposition"
+    },
+    {
+      "translate_mean": "cũng như",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "giống như",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "người giống nhau",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "như khuôn đúc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sở thích",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vật giống nhau",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "có thiện cảm",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thích",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "having the same characteristics or qualities as; similar to.",
+      "definitions_ex_en": "they were like brothers",
+      "definitions_ex_vn": "họ giống như anh em",
+      "definitions_type_word": "preposition"
+    },
+    {
+      "definitions_word_en": "used to draw attention to the nature of an action or event.",
+      "definitions_ex_en": "I apologize for coming over unannounced like this",
+      "definitions_ex_vn": "Tôi xin lỗi vì đã không báo trước như thế này",
+      "definitions_type_word": "preposition"
+    },
+    {
+      "definitions_word_en": "such as; for example.",
+      "definitions_ex_en": "the cautionary vision of works like Animal Farm and 1984",
+      "definitions_ex_vn": "Tầm nhìn cảnh báo về các tác phẩm như trang trại động vật và 1984",
+      "definitions_type_word": "preposition"
+    },
+    {
+      "definitions_word_en": "in the same way that; as.",
+      "definitions_ex_en": "people who change countries like they change clothes",
+      "definitions_ex_vn": "Những người thay đổi các quốc gia như họ thay quần áo",
+      "definitions_type_word": "conjunction"
+    },
+    {
+      "definitions_word_en": "as though; as if.",
+      "definitions_ex_en": "I felt like I'd been kicked by a camel",
+      "definitions_ex_vn": "Tôi cảm thấy như mình bị một con lạc đà đá",
+      "definitions_type_word": "conjunction"
+    },
+    {
+      "definitions_word_en": "used with reference to a person or thing of the same kind as another.",
+      "definitions_ex_en": "the quotations could be arranged to put like with like",
+      "definitions_ex_vn": "Các trích dẫn có thể được sắp xếp để đặt như với",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the things one likes or prefers.",
+      "definitions_ex_en": "a wide variety of likes, dislikes, tastes, and income levels",
+      "definitions_ex_vn": "Một loạt các lượt thích, không thích, thị hiếu và mức thu nhập",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(of a person or thing) having similar qualities or characteristics to another person or thing.",
+      "definitions_ex_en": "I responded in like manner",
+      "definitions_ex_vn": "Tôi đã trả lời theo cách tương tự",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "used in speech as a meaningless filler or to signify the speaker's uncertainty about an expression just used.",
+      "definitions_ex_en": "I was, like, so hyped up I couldn't go to sleep",
+      "definitions_ex_vn": "Tôi đã, như, như vậy, tôi không thể đi ngủ",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "used to convey a person's reported attitude or feelings in the form of direct speech (whether or not representing an actual quotation).",
+      "definitions_ex_en": "so she comes into the room and she's like “Where is everybody?”",
+      "definitions_ex_vn": "Vì vậy, cô ấy đi vào phòng và cô ấy giống như \"mọi người ở đâu?\"",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "in the manner of.",
+      "definitions_ex_en": "like as a ship with dreadful storm long tossed",
+      "definitions_ex_vn": "Giống như một con tàu với cơn bão đáng sợ Long quăng",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "find agreeable, enjoyable, or satisfactory.",
+      "definitions_ex_en": "people who don't like reading books",
+      "definitions_ex_vn": "những người không thích đọc sách",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "wish for; want.",
+      "definitions_ex_en": "would you like a cup of coffee?",
+      "definitions_ex_vn": "bạn muốn có một tách cà phê?",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(added to nouns) similar to; characteristic of.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "combining form"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808387062_2289dddb2b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808387062_8efd8969f0_o.png",
+      "id_image": "like_241827"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810079385_5bbc5d6263_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810079385_710e079ea5_o.png",
+      "id_image": "like_4149768"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809341996_e2545a2cbd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809341996_da9d78dd1d_o.png",
+      "id_image": "like_951435"
+    }
+  ]
+}

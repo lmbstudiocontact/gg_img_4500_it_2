@@ -1,0 +1,72 @@
+{
+  "english": "olive",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ôliu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cây cảm lãm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sắc vàng lục",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a small oval fruit with a hard pit and bitter flesh, green when unripe and brownish black when ripe, used as food and as a source of oil.",
+      "definitions_ex_en": "a dish of cauliflower with black olives",
+      "definitions_ex_vn": "một món súp lơ với ô liu đen",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the widely cultivated evergreen tree that yields the olive, native to warm regions of the Old World.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a grayish-green color like that of an unripe olive.",
+      "definitions_ex_en": "shades of gold, olive, and black",
+      "definitions_ex_vn": "sắc thái của vàng, ô liu và màu đen",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a marine mollusk with a smooth, roughly cylindrical shell which is typically brightly colored.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a metal ring or fitting which is tightened under a threaded nut to form a seal, as in a compression joint.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "grayish-green, like an unripe olive.",
+      "definitions_ex_en": "a small figure in olive fatigues",
+      "definitions_ex_vn": "một hình nhỏ trong mệt mỏi ô liu",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809702129_c48ca4b412_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809702129_7945bf8d10_o.png",
+      "id_image": "olive_328039"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809702094_3c753a785f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809702094_224b50dfec_o.png",
+      "id_image": "olive_3461970"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809347246_c41d4c6833_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809347246_7a8b051633_o.png",
+      "id_image": "olive_5830518"
+    }
+  ]
+}

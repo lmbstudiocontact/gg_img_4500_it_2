@@ -1,0 +1,48 @@
+{
+  "english": "human",
+  "list_translation_mean": [
+    {
+      "translate_mean": "loài người",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thuộc về người",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "nhân loại",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "relating to or characteristic of people or human beings.",
+      "definitions_ex_en": "the human body",
+      "definitions_ex_vn": "cơ thể con người",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a human being, especially a person as distinguished from an animal or (in science fiction) an alien.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328256_c79a70402b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328256_5fa3d6f4e4_o.png",
+      "id_image": "human_1742013"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328206_257bb525a6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328206_0a1daab851_o.png",
+      "id_image": "human_1761554"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809443193_3fde63a518_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809443193_b3649455ef_o.png",
+      "id_image": "human_3382602"
+    }
+  ]
+}

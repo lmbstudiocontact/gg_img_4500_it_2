@@ -1,0 +1,86 @@
+{
+  "english": "joint",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chung",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "chỗ nối",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đầu nối",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khớp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mối nối",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a point at which parts of an artificial structure are joined.",
+      "definitions_ex_en": "seal the joint between the roof and the house wall",
+      "definitions_ex_vn": "Niêm phong khớp giữa mái nhà và tường nhà",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a structure in the human or animal body at which two parts of the skeleton are fitted together.",
+      "definitions_ex_en": "she suffers from stiff joints and finds bending difficult",
+      "definitions_ex_vn": "cô ấy bị các khớp cứng và thấy uốn cong khó khăn",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an establishment of a specified kind, especially one where people meet for eating, drinking, or entertainment.",
+      "definitions_ex_en": "a burger joint",
+      "definitions_ex_vn": "một khớp burger.",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a marijuana cigarette.",
+      "definitions_ex_en": "he rolled a joint",
+      "definitions_ex_vn": "anh ấy cuộn một khớp",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "shared, held, or made by two or more people, parties, or organizations together.",
+      "definitions_ex_en": "the companies issued a joint statement",
+      "definitions_ex_vn": "Các công ty đã đưa ra một tuyên bố chung",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "provide or fasten (something) with joints.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "cut (the body of an animal) into joints.",
+      "definitions_ex_en": "use a sharp knife to joint the bird",
+      "definitions_ex_vn": "Sử dụng một con dao sắc để khớp chim",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809447903_faec61c704_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809447903_b80ee36c51_o.png",
+      "id_image": "joint_2865381"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809687869_53afd7939a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809687869_136233d2f9_o.png",
+      "id_image": "joint_605652"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809687819_09c4c0bf20_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809687819_a1dbdb20da_o.png",
+      "id_image": "joint_6147488"
+    }
+  ]
+}

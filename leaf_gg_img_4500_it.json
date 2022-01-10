@@ -1,0 +1,89 @@
+{
+  "english": "leaf",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cánh cửa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cánh hoa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tấm bình phong",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tờ giấy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lá",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "miếng giấy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "miếng vàng lá",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mọc lá",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "sanh lá",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a flattened structure of a higher plant, typically green and blade-like, that is attached to a stem directly or via a stalk. Leaves are the main organs of photosynthesis and transpiration.",
+      "definitions_ex_en": "many of the trees had lost their leaves",
+      "definitions_ex_vn": "nhiều cây đã mất lá",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a thing that resembles a leaf in being flat and thin, typically something that is one of two or more similar items forming a set or stack.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(of a plant, especially a deciduous one in spring) put out new leaves.",
+      "definitions_ex_en": "many plants need a period of dormancy before they leaf and flower",
+      "definitions_ex_vn": "nhiều cây cần một khoảng thời gian ngủ đông trước khi chúng lá và hoa",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "turn over (the pages of a book or the papers in a pile), reading them quickly or casually.",
+      "definitions_ex_en": "he leafed through the stack of notes",
+      "definitions_ex_vn": "anh ta lá qua đống ghi chú",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808361922_74dc81c82a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808361922_852dcbb632_o.png",
+      "id_image": "leaf_169819"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809317596_37fc531d06_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809317596_421a92d12d_o.png",
+      "id_image": "leaf_263930"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809432693_8e7066c15b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809432693_549551f064_o.png",
+      "id_image": "leaf_692063"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809317561_dbbf8a4d1d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809317561_4dfa43004d_o.png",
+      "id_image": "leaf_921825"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "english": "lantern",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đèn lồng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đèn ở nóc nhà",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đèn rọi bóng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a lamp with a transparent case protecting the flame or electric bulb, and typically having a handle by which it can be carried or hung.",
+      "definitions_ex_en": "a paper lantern",
+      "definitions_ex_vn": "một chiếc đèn lồng giấy",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a square, curved, or polygonal structure on the top of a dome or a room, with the sides glazed or open so as to admit light.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809320571_18472bbdfd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809320571_e717b7e9b6_o.png",
+      "id_image": "lantern_1504621"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365472_806be68edd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365472_23469d50fb_o.png",
+      "id_image": "lantern_1775613"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809435683_6db7cb0d11_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809435683_9e818237f7_o.png",
+      "id_image": "lantern_2119293"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809675459_3df7edcdae_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809675459_8c9ab419af_o.png",
+      "id_image": "lantern_2136685"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809435578_bf0bce36d0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809435578_66c9ba6761_o.png",
+      "id_image": "lantern_2707564"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "english": "immortal",
+  "list_translation_mean": [
+    {
+      "translate_mean": "không chết",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "living forever; never dying or decaying.",
+      "definitions_ex_en": "our mortal bodies are inhabited by immortal souls",
+      "definitions_ex_vn": "cơ thể phàm trần của chúng ta có những linh hồn bất tử",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "an immortal being, especially a god of ancient Greece or Rome.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809437343_a8d299244d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809437343_a23ed07e25_o.png",
+      "id_image": "immortal_2453716"
+    }
+  ]
+}

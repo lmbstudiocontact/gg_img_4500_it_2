@@ -1,0 +1,65 @@
+{
+  "english": "organization",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cơ quan",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cách cấu tạo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cách tổ chức",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự chăm nom",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự giữ gìn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tổ chức chánh trị",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an organized body of people with a particular purpose, especially a business, society, association, etc.",
+      "definitions_ex_en": "a research organization",
+      "definitions_ex_vn": "một tổ chức nghiên cứu",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the action of organizing something.",
+      "definitions_ex_en": "the organization of conferences and seminars",
+      "definitions_ex_vn": "Tổ chức hội nghị và hội thảo",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809343566_2b747375bf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809343566_62e80ab8bb_o.png",
+      "id_image": "organization_171020"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809381876_8e903abfcd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809381876_d02c83f913_o.png",
+      "id_image": "organization_2654507"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809343461_176daa883a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809343461_71a1481d8e_o.png",
+      "id_image": "organization_3985220"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809698739_442d6d8497_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809698739_f83756aeea_o.png",
+      "id_image": "organization_943777"
+    }
+  ]
+}

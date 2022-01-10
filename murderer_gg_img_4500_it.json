@@ -1,0 +1,33 @@
+{
+  "english": "murderer",
+  "list_translation_mean": [
+    {
+      "translate_mean": "kẻ giết người",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "kẻ sát nhân",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person who commits murder; a killer.",
+      "definitions_ex_en": "convicted murderers",
+      "definitions_ex_vn": "kẻ giết người bị kết án",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686554_b2f83404ae_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686554_baf5640bce_o.png",
+      "id_image": "murderer_3427124"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809331511_554b574c41_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809331511_1c7a728d70_o.png",
+      "id_image": "murderer_5781048"
+    }
+  ]
+}

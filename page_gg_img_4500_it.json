@@ -1,0 +1,92 @@
+{
+  "english": "page",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bồi sai vặt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người hầu hạ vua",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trang giấy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trang sách",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đánh số trang",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đếm số trang",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "phục dịch",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "hầu hạ",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "one side of a sheet of paper in a collection of sheets bound together, especially as a book, magazine, or newspaper.",
+      "definitions_ex_en": "a book of not less than 40 pages",
+      "definitions_ex_vn": "Một cuốn sách không ít hơn 40 trang",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a young person employed in a hotel or other establishment to run errands, open doors, etc.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "leaf through (a book, magazine, or newspaper).",
+      "definitions_ex_en": "she was paging through an immense pile of Sunday newspapers",
+      "definitions_ex_vn": "Cô ấy đã phân trang thông qua một đống báo chủ nhật rộng rãi",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "divide (a piece of software or data) into sections, keeping the most frequently accessed in main memory and storing the rest in virtual memory.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "assign numbers to the pages in (a book or periodical); paginate.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "summon (someone) over a public address system, so as to pass on a message.",
+      "definitions_ex_en": "no need to interrupt the background music just to page the concierge",
+      "definitions_ex_vn": "không cần phải làm gián đoạn nhạc nền chỉ để trang hướng dẫn viên",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809452158_1c11bdfb19_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809452158_ac5d20d19d_o.png",
+      "id_image": "page_485245"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808382297_375621451d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808382297_d53bf58130_o.png",
+      "id_image": "page_4905252"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809452123_79412d1b67_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809452123_de12c829ea_o.png",
+      "id_image": "page_893427"
+    }
+  ]
+}

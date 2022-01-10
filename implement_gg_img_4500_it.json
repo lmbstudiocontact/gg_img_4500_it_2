@@ -1,0 +1,56 @@
+{
+  "english": "implement",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đồ dùng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khí cụ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vật dụng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bổ sung",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "hoàn thành",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a tool, utensil, or other piece of equipment, especially as used for a particular purpose.",
+      "definitions_ex_en": "agricultural implements",
+      "definitions_ex_vn": "dụng cụ nông nghiệp",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "put (a decision, plan, agreement, etc.) into effect.",
+      "definitions_ex_en": "the regulations implement a 1954 treaty",
+      "definitions_ex_vn": "Các quy định thực hiện một hiệp ước năm 1954",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809321156_98f0a13cba_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809321156_4e476d4938_o.png",
+      "id_image": "implement_2654586"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808366057_69769bfddd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808366057_8fd152eea4_o.png",
+      "id_image": "implement_4133499"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808366017_42551dfcf8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808366017_d0a5a30f7d_o.png",
+      "id_image": "implement_5361228"
+    }
+  ]
+}

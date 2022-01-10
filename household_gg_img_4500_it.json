@@ -1,0 +1,52 @@
+{
+  "english": "household",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chỉ những tôi tớ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chung gia đình",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chung một nhà",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a house and its occupants regarded as a unit.",
+      "definitions_ex_en": "the whole household was asleep",
+      "definitions_ex_vn": "Cả hộ ngủ đã ngủ",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810066245_aa12f7d50b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810066245_bfe233f7be_o.png",
+      "id_image": "household_1998563"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809684384_9df5edeb36_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809684384_362f0e53a0_o.png",
+      "id_image": "household_2421811"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809684329_4388a7be36_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809684329_7dcee5715f_o.png",
+      "id_image": "household_4232424"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810066125_1c36af3854_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810066125_d7739438cb_o.png",
+      "id_image": "household_4433802"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810066080_3d3d473ee6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810066080_49b3a3402a_o.png",
+      "id_image": "household_5459489"
+    }
+  ]
+}

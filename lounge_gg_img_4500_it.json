@@ -1,0 +1,78 @@
+{
+  "english": "lounge",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đi lang thang",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đi cà rỏng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đi dong dài",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nằm dài",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chổ có thể đi dạo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dáng điệu uể oải",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự đi cà rỏng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự đi lang thang",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "lie, sit, or stand in a relaxed or lazy way.",
+      "definitions_ex_en": "several students were lounging about reading papers",
+      "definitions_ex_vn": "Một số sinh viên đang đi lang thang về việc đọc giấy tờ",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a public room, as in a hotel, theater, or club, in which to sit and relax.",
+      "definitions_ex_en": "the hotel has a pleasant lounge and bar",
+      "definitions_ex_vn": "Khách sạn có một phòng khách và quán bar dễ chịu",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809689394_a7d4cda0de_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809689394_8369465dd5_o.png",
+      "id_image": "lounge_1060313"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809449308_e9cd6996d4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809449308_467529922e_o.png",
+      "id_image": "lounge_3168625"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809449278_0e6fd8b18e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809449278_d545b9d837_o.png",
+      "id_image": "lounge_3379257"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809449223_1a664e1838_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809449223_cced861e19_o.png",
+      "id_image": "lounge_3476285"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809689254_3d02b7160e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809689254_bc09971b94_o.png",
+      "id_image": "lounge_4686181"
+    }
+  ]
+}

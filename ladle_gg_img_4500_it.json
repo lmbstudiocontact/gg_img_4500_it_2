@@ -1,0 +1,48 @@
+{
+  "english": "ladle",
+  "list_translation_mean": [
+    {
+      "translate_mean": "môi múc canh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vá múc canh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "múc bằng vá",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a large long-handled spoon with a cup-shaped bowl, used for serving soup, stew, or sauce.",
+      "definitions_ex_en": "she dipped the ladle into the casserole dish",
+      "definitions_ex_vn": "Cô nhúng muôi vào đĩa soong",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "serve (soup, stew, or sauce) with a ladle.",
+      "definitions_ex_en": "she ladled out onion soup",
+      "definitions_ex_vn": "Cô ấy múc súp hành tây",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808367947_5914fa2aa9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808367947_49952ede75_o.png",
+      "id_image": "ladle_4975117"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809438218_4800f44533_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809438218_a4a4862c23_o.png",
+      "id_image": "ladle_628152"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809438173_03c3515cc1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809438173_6f5c80067f_o.png",
+      "id_image": "ladle_904632"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "english": "insignia",
+  "list_translation_mean": [
+    {
+      "translate_mean": "dấu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dấu hiệu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dấu hiệu nhận ra",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "điểm đặt biệt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hiệu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự ra hiệu",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a badge or distinguishing mark of military rank, office, or membership of an organization; an official emblem.",
+      "definitions_ex_en": "a khaki uniform with colonel's insignia on the collar",
+      "definitions_ex_vn": "Một đồng phục Khaki với phù hiệu của Đại tá trên cổ áo",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809700269_dfe3a63131_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809700269_a4bd5c604f_o.png",
+      "id_image": "insignia_189015"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809345106_a1ffa7d817_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809345106_2c6918779d_o.png",
+      "id_image": "insignia_2614555"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808390022_5b82016401_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808390022_aa5c3495b9_o.png",
+      "id_image": "insignia_3199398"
+    }
+  ]
+}

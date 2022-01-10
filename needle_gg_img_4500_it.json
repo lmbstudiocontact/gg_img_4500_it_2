@@ -1,0 +1,139 @@
+{
+  "english": "needle",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cây kim",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cơn động kinh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "kích động",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "kim chỉ nam",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nổi giận",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phát giận",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cơn thần kinh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "kim địa bàn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "kim hát máy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lẩn qua đám đông",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lể mắt bằng kim",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nhể mắt bằng kim",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "luồn qua đám đông",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "may áo quần",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a very fine slender piece of metal with a point at one end and a hole or eye for thread at the other, used in sewing.",
+      "definitions_ex_en": "a darning needle",
+      "definitions_ex_vn": "một cây kim đực",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the pointed hollow end of a hypodermic syringe.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a thin pointer on a dial, compass, or other instrument.",
+      "definitions_ex_en": "the meter needle barely moved",
+      "definitions_ex_vn": "kim mét hầu như không di chuyển",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a stylus used to play records.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the sharp, stiff, slender leaf of a fir or pine tree.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a pointed rock or peak.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a beam used as a temporary support during underpinning.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "prick or pierce (something) with or as if with a needle.",
+      "definitions_ex_en": "dust needled his eyes",
+      "definitions_ex_vn": "Bụi cần mắt",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "provoke or annoy (someone) by continual criticism or questioning.",
+      "definitions_ex_en": "I just said that to Charlie to needle him",
+      "definitions_ex_vn": "Tôi chỉ nói rằng để Charlie để kim anh ta",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808370912_5d05664dbb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808370912_d7dbf559a7_o.png",
+      "id_image": "needle_3604951"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808370847_4eed63f664_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808370847_1286b80030_o.png",
+      "id_image": "needle_4637193"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809326036_8a005c2282_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809326036_68117a0238_o.png",
+      "id_image": "needle_4647418"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809441123_98bc45b4b1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809441123_e27fc52408_o.png",
+      "id_image": "needle_890983"
+    }
+  ]
+}

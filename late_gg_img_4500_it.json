@@ -1,0 +1,86 @@
+{
+  "english": "late",
+  "list_translation_mean": [
+    {
+      "translate_mean": "khuya",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "trưa",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "cũ",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "cựu",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "mới xảy ra",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "muộn",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "qua đời",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "trễ",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "chậm",
+      "type_word": "adverb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "doing something or taking place after the expected, proper, or usual time.",
+      "definitions_ex_en": "his late arrival",
+      "definitions_ex_vn": "sự đến muộn của anh ấy",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "belonging or taking place near the end of a particular time or period.",
+      "definitions_ex_en": "they won the game with a late goal",
+      "definitions_ex_vn": "Họ đã thắng trận đấu với một mục tiêu muộn",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a specified person) no longer alive.",
+      "definitions_ex_en": "her late husband's grave",
+      "definitions_ex_vn": "ngôi mộ của chồng quá cố của cô",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "after the expected, proper, or usual time.",
+      "definitions_ex_en": "she arrived late",
+      "definitions_ex_vn": "Cô đến khuya",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "far on in time; toward the end of a period.",
+      "definitions_ex_en": "it happened late in 1984",
+      "definitions_ex_vn": "Nó đã xảy ra vào cuối năm 1984",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "formerly but not now living or working in a specified place or institution.",
+      "definitions_ex_en": "Captain Falconer, late of the British army",
+      "definitions_ex_vn": "Captain Falconer, Lừa Quân đội Anh",
+      "definitions_type_word": "adverb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809319946_40867f49a5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809319946_36a3074a2c_o.png",
+      "id_image": "late_5929501"
+    }
+  ]
+}

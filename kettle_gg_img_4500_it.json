@@ -1,0 +1,64 @@
+{
+  "english": "kettle",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ấm đun nước",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ấm nấu nước",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bình nấu nước",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tình trạng rắc rối",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tình trạng rối beng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "việc phiền phức",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "việc rắc rối",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a container or device in which water is boiled, having a lid, spout, and handle; a teakettle.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a depression in the ground thought to have been formed by the melting of an ice block trapped in glacial deposits, especially one that is circular and deep.",
+      "definitions_ex_en": "our lake is probably a kettle",
+      "definitions_ex_vn": "Hồ của chúng tôi có lẽ là một ấm đun nước",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810065840_361756c387_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810065840_b01b936e7f_o.png",
+      "id_image": "kettle_307443"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808373692_d0db67194e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808373692_ace2d89cec_o.png",
+      "id_image": "kettle_447173"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810065760_fc959115ee_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810065760_c9d8cfe333_o.png",
+      "id_image": "kettle_447215"
+    }
+  ]
+}

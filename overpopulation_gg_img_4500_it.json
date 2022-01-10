@@ -1,0 +1,29 @@
+{
+  "english": "overpopulation",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự quá đông",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the condition of being populated with excessively large numbers.",
+      "definitions_ex_en": "overpopulation is a serious problem the world needs to deal with",
+      "definitions_ex_vn": "Khối lưu quá mức là một vấn đề nghiêm trọng mà thế giới cần phải đối phó với",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809340076_705ddb7d3e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809340076_3d32945912_o.png",
+      "id_image": "overpopulation_1889975"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808384947_8b587228a2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808384947_6ea10ec14a_o.png",
+      "id_image": "overpopulation_3937279"
+    }
+  ]
+}

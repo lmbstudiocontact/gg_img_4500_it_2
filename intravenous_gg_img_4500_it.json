@@ -1,0 +1,38 @@
+{
+  "english": "intravenous",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ở trong tỉnh mạch",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "trong tĩnh mạch",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "existing or taking place within, or administered into, a vein or veins.",
+      "definitions_ex_en": "an intravenous drip",
+      "definitions_ex_vn": "một giọt tĩnh mạch",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810077455_04a2d6d30a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810077455_cc55818053_o.png",
+      "id_image": "intravenous_3215713"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809455053_7ecb118f2e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809455053_3847a26546_o.png",
+      "id_image": "intravenous_3215719"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809695414_5ea859faac_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809695414_c7c44c7319_o.png",
+      "id_image": "intravenous_5266709"
+    }
+  ]
+}

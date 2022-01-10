@@ -1,0 +1,90 @@
+{
+  "english": "nose",
+  "list_translation_mean": [
+    {
+      "translate_mean": "khứu giác",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mõn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mũi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vị thơm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mũi thuyền",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bắt hơi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chuyện gì cũng xen vào",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lục lọi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tọc mạch",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đánh hơi",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the part projecting above the mouth on the face of a person or animal, containing the nostrils and used for breathing and smelling.",
+      "definitions_ex_en": "he slowly breathed out the air through his nose",
+      "definitions_ex_vn": "Anh từ từ thở ra khỏi mũi qua mũi anh.",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the front end of an aircraft, car, or other vehicle.",
+      "definitions_ex_en": "the plane's nose dipped as it started descending toward the runway",
+      "definitions_ex_vn": "Mũi của máy bay nhúng khi nó bắt đầu từ đường băng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a look, especially out of curiosity.",
+      "definitions_ex_en": "she wanted a good nose around the house",
+      "definitions_ex_vn": "Cô ấy muốn có một cái mũi tốt quanh nhà",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(of an animal) thrust its nose against or into something, especially in order to smell it.",
+      "definitions_ex_en": "the pony nosed at the straw",
+      "definitions_ex_vn": "con ngựa mũi ỉ",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "investigate or pry into something.",
+      "definitions_ex_en": "I was anxious to get inside and nose around her house",
+      "definitions_ex_vn": "Tôi đã lo lắng để có được bên trong và mũi quanh nhà",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of a vehicle or its driver) make one's way cautiously forward.",
+      "definitions_ex_en": "he turned left and nosed into an empty parking space",
+      "definitions_ex_vn": "Anh rẽ trái và mũi vào một chỗ đậu xe trống",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809436483_bdd909ebc4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809436483_5c33f44db4_o.png",
+      "id_image": "nose_6147559"
+    }
+  ]
+}

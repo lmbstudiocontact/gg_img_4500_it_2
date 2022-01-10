@@ -1,0 +1,62 @@
+{
+  "english": "night",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đêm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ban đêm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "buổi tối",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khoảng tối tăm",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thuộc về đêm",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the period of darkness in each twenty-four hours; the time from sunset to sunrise.",
+      "definitions_ex_en": "a moonless night",
+      "definitions_ex_vn": "Một đêm không trăng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the period of time between afternoon and bedtime; an evening.",
+      "definitions_ex_en": "he was not allowed to go out on weekday nights",
+      "definitions_ex_vn": "Ông không được phép ra ngoài vào tối ngày",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "short for goodnight.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "exclamation"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810059420_f941407059_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810059420_dc6d93ed26_o.png",
+      "id_image": "night_203768"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809437888_ca2404361e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809437888_8db8407a99_o.png",
+      "id_image": "night_203808"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809322571_a1b1f5c96f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809322571_3ba651eb51_o.png",
+      "id_image": "night_5079909"
+    }
+  ]
+}

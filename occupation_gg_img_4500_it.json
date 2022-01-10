@@ -1,0 +1,57 @@
+{
+  "english": "occupation",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chiếm cái nhà",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chức nghiệp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nghề",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự chiếm hửu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "việc làm",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a job or profession.",
+      "definitions_ex_en": "his prime occupation was as editor",
+      "definitions_ex_vn": "nghề nghiệp chính của anh ấy là biên tập viên",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the action, state, or period of occupying or being occupied by military force.",
+      "definitions_ex_en": "the Roman occupation of Britain",
+      "definitions_ex_vn": "Nghề nghiệp La Mã của Anh",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the action or fact of living in or using a building or other place.",
+      "definitions_ex_en": "a property suitable for occupation by older people",
+      "definitions_ex_vn": "một tài sản phù hợp cho nghề nghiệp của người già",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808393957_fa606ee78e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808393957_6bac7e0dbd_o.png",
+      "id_image": "occupation_4524947"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808393932_6d98086202_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808393932_9b3ebb72cc_o.png",
+      "id_image": "occupation_6213918"
+    }
+  ]
+}

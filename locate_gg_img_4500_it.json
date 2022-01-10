@@ -1,0 +1,50 @@
+{
+  "english": "locate",
+  "list_translation_mean": [
+    {
+      "translate_mean": "định chổ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "định vị trí",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ở",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tìm chổ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trú",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "discover the exact place or position of.",
+      "definitions_ex_en": "engineers were working to locate the fault",
+      "definitions_ex_vn": "Các kỹ sư đã làm việc để xác định lỗi",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809453103_4ea8af134b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809453103_5510e17178_o.png",
+      "id_image": "locate_1189843"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808383132_6724e42c53_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808383132_b9f9c4f40f_o.png",
+      "id_image": "locate_2621941"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809693384_cfa881513e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809693384_a7bc6c7e3a_o.png",
+      "id_image": "locate_5744745"
+    }
+  ]
+}

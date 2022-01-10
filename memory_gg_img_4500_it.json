@@ -1,0 +1,68 @@
+{
+  "english": "memory",
+  "list_translation_mean": [
+    {
+      "translate_mean": "kỷ niệm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ký ức",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sức nhớ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trí nhớ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the faculty by which the mind stores and remembers information.",
+      "definitions_ex_en": "I've a great memory for faces",
+      "definitions_ex_vn": "Tôi có một trí nhớ tuyệt vời cho khuôn mặt",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "something remembered from the past; a recollection.",
+      "definitions_ex_en": "one of my earliest memories is of sitting on his knee",
+      "definitions_ex_vn": "Một trong những ký ức sớm nhất của tôi là ngồi trên đầu gối của mình",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the part of a computer in which data or program instructions can be stored for retrieval.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809347306_28e2217e2b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809347306_09164e964b_o.png",
+      "id_image": "memory_1783697"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808392262_ae37815429_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808392262_d63abde8a7_o.png",
+      "id_image": "memory_2513343"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808392202_de48002784_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808392202_6b168752f1_o.png",
+      "id_image": "memory_3079232"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809462003_47fa934efb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809462003_d6d934e82b_o.png",
+      "id_image": "memory_3981111"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810084705_e5913b9ce7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810084705_7cee6cdd46_o.png",
+      "id_image": "memory_969351"
+    }
+  ]
+}

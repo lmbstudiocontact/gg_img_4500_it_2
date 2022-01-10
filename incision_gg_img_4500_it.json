@@ -1,0 +1,32 @@
+{
+  "english": "incision",
+  "list_translation_mean": [
+    {
+      "translate_mean": "dấu khắc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đường mổ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự cắt ra",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a surgical cut made in skin or flesh.",
+      "definitions_ex_en": "an abdominal incision",
+      "definitions_ex_vn": "một vết mổ bụng",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808364167_7f0321e640_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808364167_c9e580c85a_o.png",
+      "id_image": "incision_2317712"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "english": "medalist",
+  "list_translation_mean": [
+    {
+      "translate_mean": "người khắc huy chương",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người thích huy chương",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an athlete or other person awarded a medal.",
+      "definitions_ex_en": "an Olympic gold medalist",
+      "definitions_ex_vn": "một huy chương vàng Olympic",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an engraver or designer of medals.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the lowest scorer in a qualifying round of a golf tournament.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809433588_105921a61c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809433588_258a7fe6a6_o.png",
+      "id_image": "medalist_1867152"
+    }
+  ]
+}

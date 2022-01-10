@@ -1,0 +1,38 @@
+{
+  "english": "liquidity",
+  "list_translation_mean": [
+    {
+      "translate_mean": "tính trong suốt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trạng thái nước",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the availability of liquid assets to a market or company.",
+      "definitions_ex_en": "the banks closed, causing serious liquidity problems for smaller companies",
+      "definitions_ex_vn": "Các ngân hàng đóng cửa, gây ra vấn đề thanh khoản nghiêm trọng đối với các công ty nhỏ hơn",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809695659_310a6e4066_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809695659_2796ed64b8_o.png",
+      "id_image": "liquidity_2719769"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809340301_ee886c1dda_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809340301_052e9b4477_o.png",
+      "id_image": "liquidity_3490236"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809340281_c67e5d394a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809340281_6a68c0b3c3_o.png",
+      "id_image": "liquidity_6159741"
+    }
+  ]
+}

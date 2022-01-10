@@ -1,0 +1,41 @@
+{
+  "english": "morality",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đạo đức",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "luân lý",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phẩm hạnh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tánh hạnh",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "principles concerning the distinction between right and wrong or good and bad behavior.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808381457_d56b6eb3e4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808381457_8af9a79041_o.png",
+      "id_image": "morality_3062487"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809336426_eb9d6f0f3f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809336426_2c5655e169_o.png",
+      "id_image": "morality_6203283"
+    }
+  ]
+}

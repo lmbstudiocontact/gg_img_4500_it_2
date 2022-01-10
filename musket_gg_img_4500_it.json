@@ -1,0 +1,33 @@
+{
+  "english": "musket",
+  "list_translation_mean": [
+    {
+      "translate_mean": "súng mút",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "súng trường",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an infantryman's light gun with a long barrel, typically smooth-bored, muzzleloading, and fired from the shoulder.",
+      "definitions_ex_en": "a volley of musket fire",
+      "definitions_ex_vn": "một loạt đạn súng musket",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809330506_4a4a15d760_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809330506_f9a758d3e8_o.png",
+      "id_image": "musket_123984"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809330471_c2c0a202b5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809330471_62b9ac51cf_o.png",
+      "id_image": "musket_2570044"
+    }
+  ]
+}

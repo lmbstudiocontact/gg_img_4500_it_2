@@ -1,0 +1,58 @@
+{
+  "english": "joy",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự hân hoan",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự vui mừng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự vui sướng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a feeling of great pleasure and happiness.",
+      "definitions_ex_en": "tears of joy",
+      "definitions_ex_vn": "nước mắt của niềm vui",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "rejoice.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809446963_e943f56694_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809446963_5e55a51b19_o.png",
+      "id_image": "joy_2341866"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810068570_1fc57c3f9c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810068570_c961308f35_o.png",
+      "id_image": "joy_3508730"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686889_9d38fe95e5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686889_a1997c4cbf_o.png",
+      "id_image": "joy_6000975"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809332031_9af3cbc5a2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809332031_7257d917bd_o.png",
+      "id_image": "joy_708669"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810068640_03fa592fcf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810068640_05e03ae926_o.png",
+      "id_image": "joy_708677"
+    }
+  ]
+}

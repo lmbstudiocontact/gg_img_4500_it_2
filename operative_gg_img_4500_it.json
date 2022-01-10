@@ -1,0 +1,56 @@
+{
+  "english": "operative",
+  "list_translation_mean": [
+    {
+      "translate_mean": "có hiệu lực",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "công hiệu",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thuộc về sự mổ xẻ",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thuộc về thợ thuyền",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thực hành",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thợ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "functioning or having effect.",
+      "definitions_ex_en": "the transmitter is operative",
+      "definitions_ex_vn": "Máy phát là phẫu thuật",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "relating to surgery.",
+      "definitions_ex_en": "they had wounds needing operative treatment",
+      "definitions_ex_vn": "Họ đã có vết thương cần điều trị phẫu thuật",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a worker, especially a skilled one in a manufacturing industry.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809700964_0a1d4d079d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809700964_e29b3097c0_o.png",
+      "id_image": "operative_1622617"
+    }
+  ]
+}

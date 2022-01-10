@@ -1,0 +1,175 @@
+{
+  "english": "pack",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bành",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bộ bài",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đàn chim bay",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đất đắp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đoàn người",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "gói",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "kiện",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khối băng ở sông",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "một gói thuốc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "một xâu bia",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chất",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chêm vào",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đóng hộp",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đóng thành bành",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "gói lại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "họp thành đàn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm cho đầy",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lấp cho đầy",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "vô hộp",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cuốn thành bó",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đóng thành kiện",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đóng vào thùng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đóng yên trên lưng lừa",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a small cardboard or paper container and the items contained within it.",
+      "definitions_ex_en": "a pack of cigarettes",
+      "definitions_ex_vn": "một gói thuốc lá",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a group of wild animals, especially wolves, living and hunting together.",
+      "definitions_ex_en": "a pack of wolves will encircle an ailing prey",
+      "definitions_ex_vn": "Một gói sói sẽ bao vây một con mồi ốm yếu",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a knapsack or backpack.",
+      "definitions_ex_en": "we picked up our packs and trudged off",
+      "definitions_ex_vn": "Chúng tôi đã chọn gói của chúng tôi và bỏ qua",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "short for pack ice.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a hot or cold pad of absorbent material, especially as used for treating an injury.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "fill (a suitcase or bag), especially with clothes and other items needed when away from home.",
+      "definitions_ex_en": "she had packed and checked out of the hotel",
+      "definitions_ex_vn": "Cô đã đóng gói và kiểm tra khỏi khách sạn",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "cram a large number of things into (a container or space).",
+      "definitions_ex_en": "it was a large room, packed with beds jammed side by side",
+      "definitions_ex_vn": "Đó là một căn phòng lớn, đóng gói với những chiếc giường bị kẹt cạnh nhau",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "carry (a gun).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "fill (a jury, committee, etc.) with people likely to support a particular verdict or decision.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809693849_6dd58cf9c2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809693849_985719d179_o.png",
+      "id_image": "pack_2421559"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809693814_c3795843be_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809693814_c1ce30783d_o.png",
+      "id_image": "pack_2435613"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808383522_9c5b0a6364_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808383522_e5ac265baa_o.png",
+      "id_image": "pack_4329019"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808383642_ef30086046_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808383642_82a436c4d7_o.png",
+      "id_image": "pack_618097"
+    }
+  ]
+}

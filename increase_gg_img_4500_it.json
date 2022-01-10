@@ -1,0 +1,82 @@
+{
+  "english": "increase",
+  "list_translation_mean": [
+    {
+      "translate_mean": "tăng lên",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thêm",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tăng gia",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm nhiều thêm",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lớn thêm",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "sự lên giá",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự tăng thêm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự thêm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tăng thêm tốc lực",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "become or make greater in size, amount, intensity, or degree.",
+      "definitions_ex_en": "car use is increasing at an alarming rate",
+      "definitions_ex_vn": "Sử dụng xe hơi đang gia tăng với tốc độ đáng báo động",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "an instance of growing or making greater.",
+      "definitions_ex_en": "some increase in inflation",
+      "definitions_ex_vn": "một số tăng lạm phát",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809318686_b1a4898715_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809318686_afbf10fcc3_o.png",
+      "id_image": "increase_1011586"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809673519_fd31d41305_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809673519_28f2544314_o.png",
+      "id_image": "increase_1190358"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809673444_150a667d4a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809673444_a189b61c8b_o.png",
+      "id_image": "increase_2350508"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809318596_75865b8a09_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809318596_0648e71d8d_o.png",
+      "id_image": "increase_2586022"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808363157_376632007b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808363157_78af4cca92_o.png",
+      "id_image": "increase_4328843"
+    }
+  ]
+}

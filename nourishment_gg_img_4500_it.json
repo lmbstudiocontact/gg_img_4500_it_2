@@ -1,0 +1,28 @@
+{
+  "english": "nourishment",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự nuôi dưỡng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thực phẩm",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the food or other substances necessary for growth, health, and good condition.",
+      "definitions_ex_en": "tubers from which plants obtain nourishment",
+      "definitions_ex_vn": "củ từ đó thực vật có được nuôi dưỡng",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809435303_b4df9f5a5a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809435303_1ec84950fe_o.png",
+      "id_image": "nourishment_5101271"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "english": "marker",
+  "list_translation_mean": [
+    {
+      "translate_mean": "người chấm điểm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người đánh dấu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người đánh dấu làm chứng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người để ý",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người ghi điểm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người hay rình mò",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người dò xét",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an object used to indicate a position, place, or route.",
+      "definitions_ex_en": "they erected a granite marker at the crash site",
+      "definitions_ex_vn": "Họ dựng một điểm đánh dấu đá granit tại trang bị tai nạn",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a felt-tip pen with a broad tip.",
+      "definitions_ex_en": "a heavy line drawn by a marker",
+      "definitions_ex_vn": "một đường nặng được vẽ bởi một điểm đánh dấu",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809678289_a9b7322ceb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809678289_9907aea943_o.png",
+      "id_image": "marker_4287379"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809323111_afe328bb4d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809323111_b6cd63f31b_o.png",
+      "id_image": "marker_6301141"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809678184_6648b01745_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809678184_9de0759c85_o.png",
+      "id_image": "marker_6396748"
+    }
+  ]
+}

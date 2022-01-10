@@ -1,0 +1,97 @@
+{
+  "english": "pan",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cái chảo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cái dĩa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lá trầu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cái xoong",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đĩa cân",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "làm hạ xuống",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a container made of metal and used for cooking food in.",
+      "definitions_ex_en": "heat the olive oil in a heavy pan",
+      "definitions_ex_vn": "Đun nóng dầu ô liu trong một cái chảo nặng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a hard stratum of compacted soil.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a hollow in the ground in which water may collect or in which a deposit of salt remains after water has evaporated.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a panning movement.",
+      "definitions_ex_en": "that slow pan over Los Angeles",
+      "definitions_ex_vn": "chảo chậm trên Los Angeles",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "variant spelling of paan.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "criticize (someone or something) severely.",
+      "definitions_ex_en": "the movie was panned by the critics",
+      "definitions_ex_vn": "Bộ phim đã bị các nhà phê bình panced",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "wash gravel in a pan to separate out (gold).",
+      "definitions_ex_en": "the old-timers panned gold",
+      "definitions_ex_vn": "Các bộ đếm thời gian cũ pán lại vàng",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "swing (a video or movie camera) in a horizontal or vertical plane, typically to give a panoramic effect or follow a subject.",
+      "definitions_ex_en": "he was panning the camera over everything in sight",
+      "definitions_ex_vn": "Anh ta đang xoay chiếc máy ảnh trên tất cả mọi thứ trong tầm nhìn",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "all-inclusive, especially in relation to the whole of a continent, racial group, religion, etc.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "combining form"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808380697_54e1a6c093_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808380697_23e416046a_o.png",
+      "id_image": "pan_3822157"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808380662_45300ff7f2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808380662_5933a88124_o.png",
+      "id_image": "pan_3843660"
+    }
+  ]
+}

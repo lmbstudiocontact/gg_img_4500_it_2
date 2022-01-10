@@ -1,0 +1,24 @@
+{
+  "english": "listener",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thính giả",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person who listens, especially someone who does so in an attentive manner.",
+      "definitions_ex_en": "he's understanding and a good listener",
+      "definitions_ex_vn": "Anh ấy hiểu và một người lắng nghe tốt",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810077245_7066cbf776_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810077245_67a7d5530c_o.png",
+      "id_image": "listener_4643239"
+    }
+  ]
+}

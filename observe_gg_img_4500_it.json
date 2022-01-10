@@ -1,0 +1,78 @@
+{
+  "english": "observe",
+  "list_translation_mean": [
+    {
+      "translate_mean": "tuân theo",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "giữ lể tiết",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "giữ theo",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nhận ra",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nhìn ra",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "dọ thám",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "quan sát",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "rình",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "xem xét",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "notice or perceive (something) and register it as being significant.",
+      "definitions_ex_en": "young people observe that decisions are made by others",
+      "definitions_ex_vn": "Những người trẻ tuổi quan sát rằng các quyết định được thực hiện bởi những người khác",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "make a remark.",
+      "definitions_ex_en": "“It's chilly,” she observed",
+      "definitions_ex_vn": "\"Nó lạnh\", cô quan sát",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "fulfill or comply with (a social, legal, ethical, or religious obligation).",
+      "definitions_ex_en": "a tribunal must observe the principles of natural justice",
+      "definitions_ex_vn": "Một tòa án phải tuân thủ các nguyên tắc của công lý tự nhiên",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809464088_226614edbd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809464088_0e9aa69351_o.png",
+      "id_image": "observe_2598750"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809704164_a7b49b8f50_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809704164_c63ea58ab1_o.png",
+      "id_image": "observe_470979"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809349421_7e046df65f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809349421_c4f0cbf334_o.png",
+      "id_image": "observe_6041392"
+    }
+  ]
+}

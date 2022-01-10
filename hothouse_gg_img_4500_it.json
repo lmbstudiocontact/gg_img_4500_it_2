@@ -1,0 +1,42 @@
+{
+  "english": "hothouse",
+  "list_translation_mean": [
+    {
+      "translate_mean": "nhà để trồng kiển",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhà kiến",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhà kiến để trồng cây",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ôn thất",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a heated building, typically made largely of glass, for rearing plants out of season or in a climate colder than is natural for them.",
+      "definitions_ex_en": "hothouse plants",
+      "definitions_ex_vn": "nhà máy hothouse",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "educate (a child) to a high level at an earlier age than is usual.",
+      "definitions_ex_en": "a school that had a reputation for hothousing its girls",
+      "definitions_ex_vn": "một trường có tiếng uy tín để trang bị những cô gái của nó",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809444758_aa37b57425_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809444758_94519870de_o.png",
+      "id_image": "hothouse_1345387"
+    }
+  ]
+}

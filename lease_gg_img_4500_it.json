@@ -1,0 +1,82 @@
+{
+  "english": "lease",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cho thuê",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cho mướn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "mướn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "giao kèo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tờ cho mướn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giấy thuê nhà",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hợp đồng cho mướn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hợp đồng mướn xe",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khế ước",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a contract by which one party conveys land, property, services, etc. to another for a specified time, usually in return for a periodic payment.",
+      "definitions_ex_en": "a six-month lease on a shop",
+      "definitions_ex_vn": "hợp đồng thuê sáu tháng trên một cửa hàng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "grant (property) on lease; let.",
+      "definitions_ex_en": "she leased the site to a local company",
+      "definitions_ex_vn": "Cô cho thuê trang web đến một công ty địa phương",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809462718_ce57ed9e6b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809462718_d0e5ded91a_o.png",
+      "id_image": "lease_1965904"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809347866_27a362bc84_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809347866_647e02c8cd_o.png",
+      "id_image": "lease_2558072"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808392742_bd07457538_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808392742_d3f465aebf_o.png",
+      "id_image": "lease_5235522"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809347816_6cf7286341_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809347816_2a2fa027b5_o.png",
+      "id_image": "lease_5235570"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809702509_300a599e6a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809702509_9514c5034f_o.png",
+      "id_image": "lease_5235616"
+    }
+  ]
+}

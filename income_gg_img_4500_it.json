@@ -1,0 +1,47 @@
+{
+  "english": "income",
+  "list_translation_mean": [
+    {
+      "translate_mean": "huê lợi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lợi tức",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiền lời",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "money received, especially on a regular basis, for work or through investments.",
+      "definitions_ex_en": "he has a nice home and an adequate income",
+      "definitions_ex_vn": "anh ấy có một ngôi nhà đẹp và thu nhập đầy đủ",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809673924_f464eb52ee_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809673924_8d83272c8d_o.png",
+      "id_image": "income_1322208"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809318996_686e908bd8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809318996_aecb364874_o.png",
+      "id_image": "income_2503467"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808363582_475755a81e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808363582_b615b9a4e7_o.png",
+      "id_image": "income_4695210"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808363677_fa4fb7c5bc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808363677_1970e50e08_o.png",
+      "id_image": "income_950576"
+    }
+  ]
+}

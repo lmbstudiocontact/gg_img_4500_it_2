@@ -1,0 +1,24 @@
+{
+  "english": "interstellar",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ở khoảng giữa các sao",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "occurring or situated between stars.",
+      "definitions_ex_en": "interstellar travel",
+      "definitions_ex_vn": "du lịch giữa các vì sao",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808385927_d28f42480c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808385927_f30fd34f99_o.png",
+      "id_image": "interstellar_2205397"
+    }
+  ]
+}

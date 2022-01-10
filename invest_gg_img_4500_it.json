@@ -1,0 +1,94 @@
+{
+  "english": "invest",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bao vây",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "bận quần áo",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "bỏ tiền lấy lời",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "bỏ vốn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "bổ nhiệm",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đặt tiền",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "mặc quần áo",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ủy thác",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "xuất vốn",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "expend money with the expectation of achieving a profit or material result by putting it into financial plans, shares, or property, or by using it to develop a commercial venture.",
+      "definitions_ex_en": "the company is to invest $12 million in its new manufacturing site",
+      "definitions_ex_vn": "Công ty đang đầu tư 12 triệu đô la vào trang web sản xuất mới của mình",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "provide or endow someone or something with (a particular quality or attribute).",
+      "definitions_ex_en": "the passage of time has invested the words with an unintended humor",
+      "definitions_ex_vn": "Thời gian trôi qua đã đầu tư những từ với một sự hài hước ngoài ý muốn",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "clothe or cover with a garment.",
+      "definitions_ex_en": "he stands before you invested in the full canonicals of his calling",
+      "definitions_ex_vn": "Anh ta đứng trước khi bạn đầu tư vào những chính tu đầy đủ của cuộc gọi của mình",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "surround (a place) in order to besiege or blockade it.",
+      "definitions_ex_en": "Fort Pulaski was invested and captured",
+      "definitions_ex_vn": "Fort Pulaski đã được đầu tư và bắt giữ",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809454248_3ef77c039e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809454248_744a62f083_o.png",
+      "id_image": "invest_1987379"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810076590_6033367032_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810076590_d86837b165_o.png",
+      "id_image": "invest_393787"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809694544_cb9b12c3d2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809694544_1d648711fd_o.png",
+      "id_image": "invest_421712"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809339296_23d5373fd4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809339296_80697f240d_o.png",
+      "id_image": "invest_4465682"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808384302_8e36737462_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808384302_2f5db8d0b3_o.png",
+      "id_image": "invest_648420"
+    }
+  ]
+}

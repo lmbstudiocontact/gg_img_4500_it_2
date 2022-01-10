@@ -1,0 +1,95 @@
+{
+  "english": "mint",
+  "list_translation_mean": [
+    {
+      "translate_mean": "nguyên do",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "căn nguyên",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "căn do",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nguồn góc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sở đúc tiền",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cây bạc hà",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đặt ra một câu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đặt ra một chữ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đúc tiền",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an aromatic plant native to temperate regions of the Old World, several kinds of which are used as culinary herbs.",
+      "definitions_ex_en": "plant mint in a large pot with drainage holes",
+      "definitions_ex_vn": "MINT thực vật trong một nồi lớn có lỗ thoát nước",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a peppermint candy.",
+      "definitions_ex_en": "Dickie pulled out a packet of mints from his pocket",
+      "definitions_ex_vn": "Dickie rút ra một gói bạc hà từ túi của mình",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a place where money is coined, especially under state authority.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(of an object) in pristine condition; as new.",
+      "definitions_ex_en": "a pair of speakers including stands, mint, $160",
+      "definitions_ex_vn": "Một cặp loa bao gồm đứng, bạc hà, $ 160",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "make (a coin) by stamping metal.",
+      "definitions_ex_en": "only coins of a relatively high denomination were minted",
+      "definitions_ex_vn": "chỉ có đồng xu của một mệnh giá tương đối cao đã được đúc",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809696974_bc57743e77_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809696974_a5ec5d4476_o.png",
+      "id_image": "mint_1407838"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810079115_02c64ebcf9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810079115_95892730e9_o.png",
+      "id_image": "mint_1918892"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810079100_7bf84e2103_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810079100_2060cded81_o.png",
+      "id_image": "mint_4264701"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809456458_3dace02a4c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809456458_89902e2a90_o.png",
+      "id_image": "mint_5389307"
+    }
+  ]
+}

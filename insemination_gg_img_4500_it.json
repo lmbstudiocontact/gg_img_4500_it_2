@@ -1,0 +1,29 @@
+{
+  "english": "insemination",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự thụ thai nhân tạo",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the introduction of semen into a woman or a female animal by natural or artificial means.",
+      "definitions_ex_en": "children conceived through donor insemination",
+      "definitions_ex_vn": "Trẻ em thụ thai thông qua sự thụ tinh của người hiến",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809345586_16b1a2549e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809345586_59db4e149d_o.png",
+      "id_image": "insemination_3830397"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809345536_9d6a75d3a9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809345536_ddb8d7fc05_o.png",
+      "id_image": "insemination_5448034"
+    }
+  ]
+}

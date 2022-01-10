@@ -1,0 +1,89 @@
+{
+  "english": "nerve",
+  "list_translation_mean": [
+    {
+      "translate_mean": "gân",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "gân cánh côn trùng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nỗi bực",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thần kinh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "gân lá",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "gân lưng sách",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khí lực",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khí phách",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khó chịu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "làm cho mạnh thêm",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "(in the body) a whitish fiber or bundle of fibers that transmits impulses of sensation to the brain or spinal cord, and impulses from these to the muscles and organs.",
+      "definitions_ex_en": "the optic nerve",
+      "definitions_ex_vn": "dây thần kinh thị giác",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a person's steadiness, courage, and sense of purpose when facing a demanding situation.",
+      "definitions_ex_en": "an amazing journey that tested her nerves to the full",
+      "definitions_ex_vn": "một hành trình tuyệt vời đã kiểm tra thần kinh của cô ấy đầy",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "nervousness or anxiety.",
+      "definitions_ex_en": "his first-night nerves soon disappeared",
+      "definitions_ex_vn": "Dây thần kinh đêm đầu tiên của anh sớm biến mất",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a prominent unbranched rib in a leaf, especially in the midrib of the leaf of a moss.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "brace oneself mentally to face a demanding situation.",
+      "definitions_ex_en": "she nerved herself to enter the room",
+      "definitions_ex_vn": "Cô ấy đã lo lắng để vào phòng",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808369612_81bdff6a6f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808369612_c36863d631_o.png",
+      "id_image": "nerve_5730174"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810061655_8b19bf15cc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810061655_856c6f40e7_o.png",
+      "id_image": "nerve_5746696"
+    }
+  ]
+}

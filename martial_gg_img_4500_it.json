@@ -1,0 +1,28 @@
+{
+  "english": "martial",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thuộc về chiến tranh",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thuộc về hỏa tinh",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "of or appropriate to war; warlike.",
+      "definitions_ex_en": "martial bravery",
+      "definitions_ex_vn": "võ thuật",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809321876_5dfdcb9b90_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809321876_c9c39b31b9_o.png",
+      "id_image": "martial_2822365"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "english": "horticulture",
+  "list_translation_mean": [
+    {
+      "translate_mean": "nghề làm vườn",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the art or practice of garden cultivation and management.",
+      "definitions_ex_en": "maize and manioc horticulture",
+      "definitions_ex_vn": "Trồng trọt ngô và maniooc",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809446193_3b3ee37ee5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809446193_e414398b42_o.png",
+      "id_image": "horticulture_6349041"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686199_6e37bcff5e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686199_cd944c8725_o.png",
+      "id_image": "horticulture_6349161"
+    }
+  ]
+}

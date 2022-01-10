@@ -1,0 +1,72 @@
+{
+  "english": "overcast",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bị che",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "mờ tối",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "u ám",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "mũi may vắt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "che khuất",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm mờ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tối",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "(of the sky or weather) marked by a covering of gray clouds; dull.",
+      "definitions_ex_en": "a chilly, overcast day",
+      "definitions_ex_vn": "Một ngày lạnh lẽo, u ám",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(in sewing) edged with stitching to prevent fraying.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "clouds covering a large part of the sky.",
+      "definitions_ex_en": "the sky was leaden with overcast",
+      "definitions_ex_vn": "bầu trời dẫn dắt với u ám",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "cover with clouds or shade.",
+      "definitions_ex_en": "the pebbled beach, overcast with the shadows of the high cliffs",
+      "definitions_ex_vn": "Bãi biển sỏi, u ám với những cái bóng của những vách đá cao",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "stitch over (an unfinished edge) to prevent fraying.",
+      "definitions_ex_en": "finish off the raw edge of the hem by overcasting it",
+      "definitions_ex_vn": "kết thúc rìa thô của viền bằng cách u ám nó",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809340626_2ea8a1350e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809340626_f25110cbd4_o.png",
+      "id_image": "overcast_5493138"
+    }
+  ]
+}

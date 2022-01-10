@@ -1,0 +1,103 @@
+{
+  "english": "mess",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đám người ăn chung nhau",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hỗn độn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "món đồ ăn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhớp nhúa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dơ bẩn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hỗn tạp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dĩa đồ ăn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự bẩn thỉu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "không có thứ tự",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự lộn xộn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "làm bẫn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm dơ",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a dirty or untidy state of things or of a place.",
+      "definitions_ex_en": "she made a mess of the kitchen",
+      "definitions_ex_vn": "Cô ấy làm một mớ hỗn độn của nhà bếp",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a situation or state of affairs that is confused or full of difficulties.",
+      "definitions_ex_en": "the economy is still in a terrible mess",
+      "definitions_ex_vn": "nền kinh tế vẫn còn trong một mớ hỗn độn khủng khiếp",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a portion of semisolid or pulpy food, especially one that looks unappetizing.",
+      "definitions_ex_en": "a mess of mashed black beans and rice",
+      "definitions_ex_vn": "một mớ hỗn độn của đậu đen nghiền và gạo",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a building or room in which members of the armed forces take their meals; mess hall.",
+      "definitions_ex_en": "the sergeants' mess",
+      "definitions_ex_vn": "Mess lộn xộn của Trung sĩ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "make untidy or dirty.",
+      "definitions_ex_en": "she scratched her head, messing her hair still further",
+      "definitions_ex_vn": "Cô gãi đầu, làm rối tóc vẫn còn nữa",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "take one's meals in a particular place or with a particular person, especially in an armed forces' mess.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808391007_d734c31491_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808391007_5b75275e95_o.png",
+      "id_image": "mess_4776022"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809345996_cfc66dce87_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809345996_882863d7f9_o.png",
+      "id_image": "mess_4797083"
+    }
+  ]
+}

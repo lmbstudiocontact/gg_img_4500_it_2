@@ -1,0 +1,77 @@
+{
+  "english": "knight",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bào chế sư",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hiệp sĩ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người chế thuốc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người đi chào hàng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người đi lang thang",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người gian hùng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "(in the Middle Ages) a man who served his sovereign or lord as a mounted soldier in armor.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(in the UK) a man awarded a nonhereditary title by the sovereign in recognition of merit or service and entitled to use the honorific “Sir” in front of his name.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a chess piece, typically with its top shaped like a horse's head, that moves by jumping to the opposite corner of a rectangle two squares by three.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "invest (someone) with the title of knight.",
+      "definitions_ex_en": "he was knighted for his services to industry",
+      "definitions_ex_vn": "Ông đã được hiệp sĩ cho các dịch vụ của mình cho ngành công nghiệp",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810062340_710d6037bf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810062340_378dfe48ec_o.png",
+      "id_image": "knight_1680373"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809440573_0103573b76_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809440573_e84130ae60_o.png",
+      "id_image": "knight_169888"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809680579_14ce489c61_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809680579_d6a5dc100f_o.png",
+      "id_image": "knight_1835043"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810062240_85b50e7d2e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810062240_1b9443482d_o.png",
+      "id_image": "knight_5050406"
+    }
+  ]
+}

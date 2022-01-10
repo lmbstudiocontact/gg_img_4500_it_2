@@ -1,0 +1,28 @@
+{
+  "english": "litigation",
+  "list_translation_mean": [
+    {
+      "translate_mean": "mối tranh chấp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự tranh tụng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the process of taking legal action.",
+      "definitions_ex_en": "the company wishes to avoid litigation",
+      "definitions_ex_vn": "Công ty muốn tránh kiện tụng",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809694799_2b9fd495e0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809694799_c9940c489c_o.png",
+      "id_image": "litigation_2419705"
+    }
+  ]
+}

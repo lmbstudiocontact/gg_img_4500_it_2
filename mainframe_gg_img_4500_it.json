@@ -1,0 +1,35 @@
+{
+  "english": "mainframe",
+  "list_translation_mean": [
+    {
+      "translate_mean": "khung chánh",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a large high-speed computer, especially one supporting numerous workstations or peripherals.",
+      "definitions_ex_en": "cumbersome mainframe systems",
+      "definitions_ex_vn": "Hệ thống máy tính lớn cồng kềnh",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the central processing unit and primary memory of a computer.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809443623_11f037f34a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809443623_3a55036ded_o.png",
+      "id_image": "mainframe_2649726"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328606_efa3929521_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328606_503f891094_o.png",
+      "id_image": "mainframe_5512718"
+    }
+  ]
+}

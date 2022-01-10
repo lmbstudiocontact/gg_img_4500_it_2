@@ -1,0 +1,81 @@
+{
+  "english": "middle",
+  "list_translation_mean": [
+    {
+      "translate_mean": "trung tâm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trung ương",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chính giữa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khoảng giữa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khoảng trung",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ngay chính giữa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ở giữa",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "ở giữa",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the point or position at an equal distance from the sides, edges, or ends of something.",
+      "definitions_ex_en": "she stood alone in the middle of the street",
+      "definitions_ex_vn": "Cô đứng một mình ở giữa đường",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the form or voice of a verb expressing reflexive or reciprocal action, or a passive sense for a transitive or intransitive verb.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "short for middle term.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "at an equal distance from the extremities of something; central.",
+      "definitions_ex_en": "the early and middle part of life",
+      "definitions_ex_vn": "phần đầu và giữa của cuộc sống",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "denoting a voice of verbs in some languages, such as Greek, which expresses reciprocal or reflexive action.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809699279_b79fd4cc35_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809699279_9073dd32b2_o.png",
+      "id_image": "middle_3528030"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809344116_177dda3b94_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809344116_9836f9d198_o.png",
+      "id_image": "middle_3603595"
+    }
+  ]
+}

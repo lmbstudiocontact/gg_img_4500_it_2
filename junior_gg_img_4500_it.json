@@ -1,0 +1,70 @@
+{
+  "english": "junior",
+  "list_translation_mean": [
+    {
+      "translate_mean": "em",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "con",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "trẻ tuổi hơn",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "người ít tuổi hơn",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "of, for, or denoting young or younger people.",
+      "definitions_ex_en": "junior tennis",
+      "definitions_ex_vn": "Tennis Junior.",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "low or lower in rank or status.",
+      "definitions_ex_en": "part of my function is to supervise those junior to me",
+      "definitions_ex_vn": "một phần chức năng của tôi là giám sát những người đàn em với tôi",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a person who is a specified number of years younger than someone else.",
+      "definitions_ex_en": "he's five years her junior",
+      "definitions_ex_vn": "Anh ấy năm tuổi",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a person with low rank or status compared with others.",
+      "definitions_ex_en": "an office junior",
+      "definitions_ex_vn": "một cơ sở văn phòng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a size of clothing for teenagers or slender women.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809685454_37faf175db_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809685454_42dcff1346_o.png",
+      "id_image": "junior_6413819"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328061_aa4cd0c27e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328061_dbd8b270a7_o.png",
+      "id_image": "kid_5333174"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808372937_ec55b19a8c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808372937_1456b08860_o.png",
+      "id_image": "kid_616027"
+    }
+  ]
+}

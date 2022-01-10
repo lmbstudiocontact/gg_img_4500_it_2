@@ -1,0 +1,39 @@
+{
+  "english": "mineral",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thuộc về khoáng vật",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "khoáng vật",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a solid inorganic substance of natural occurrence.",
+      "definitions_ex_en": "it identifies the mineral or compound present",
+      "definitions_ex_vn": "nó xác định khoáng chất hoặc hợp chất",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "of or denoting a mineral.",
+      "definitions_ex_en": "mineral ingredients such as zinc oxide",
+      "definitions_ex_vn": "Thành phần khoáng chất như kẽm oxit",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808387437_ee66d4fb8c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808387437_6b13939f00_o.png",
+      "id_image": "mineral_3075083"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810079970_941fe04409_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810079970_d0cd34b0c0_o.png",
+      "id_image": "mineral_649076"
+    }
+  ]
+}

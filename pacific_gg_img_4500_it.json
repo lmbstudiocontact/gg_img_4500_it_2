@@ -1,0 +1,62 @@
+{
+  "english": "pacific",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bình yên",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "hòa bình",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "hòa hiếu",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thái bình",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "ưa hòa bình",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "ưa yên tỉnh",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "peaceful in character or intent.",
+      "definitions_ex_en": "a pacific gesture",
+      "definitions_ex_vn": "Một cử chỉ Thái Bình Dương",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "relating to the Pacific Ocean.",
+      "definitions_ex_en": "the Pacific War",
+      "definitions_ex_vn": "Chiến tranh Thái Bình Dương",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "short for Pacific Ocean.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a steam locomotive of 4-6-2 wheel arrangement.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809693994_b2d96879c9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809693994_71289192e2_o.png",
+      "id_image": "pacific_2243616"
+    }
+  ]
+}

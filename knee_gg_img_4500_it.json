@@ -1,0 +1,64 @@
+{
+  "english": "knee",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chịu khuất phục",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đầu gối",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hạ mình",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khớp để xoay",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vật hình giống đầu gối",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đẩy bằng đầu gối",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đụng bằng đầu gối",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the joint between the thigh and the lower leg in humans.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "hit (someone) with one's knee.",
+      "definitions_ex_en": "she kneed him in the groin",
+      "definitions_ex_vn": "Cô ấy đi sâu vào háng",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325876_241b0d7bcd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325876_0dfc5e7220_o.png",
+      "id_image": "knee_2417976"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325801_3911da8050_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325801_31b84fba27_o.png",
+      "id_image": "knee_5726993"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325766_d19cd6ef6e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325766_2a93792562_o.png",
+      "id_image": "knee_6147417"
+    }
+  ]
+}

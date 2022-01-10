@@ -1,0 +1,38 @@
+{
+  "english": "immigrant",
+  "list_translation_mean": [
+    {
+      "translate_mean": "di trú",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "người vào ở một nước nào",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person who comes to live permanently in a foreign country.",
+      "definitions_ex_en": "they found it difficult to expel illegal immigrants",
+      "definitions_ex_vn": "họ thấy khó khăn để trục xuất những người nhập cư bất hợp pháp",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810059140_85b3f3187d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810059140_5aa1636ba2_o.png",
+      "id_image": "immigrant_2061482"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809677394_a5728d221f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809677394_791c900658_o.png",
+      "id_image": "immigrant_3382522"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810058960_080d3bd94d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810058960_3145462c3b_o.png",
+      "id_image": "immigration_5965823"
+    }
+  ]
+}

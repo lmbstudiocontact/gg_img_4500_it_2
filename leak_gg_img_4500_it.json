@@ -1,0 +1,77 @@
+{
+  "english": "leak",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự chảy ra",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự dò ra",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự rịn ra",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự thấm vào",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chảy nước",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "rỉ nước",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "(of a container or covering) accidentally lose or admit contents, especially liquid or gas, through a hole or crack.",
+      "definitions_ex_en": "the roof leaked",
+      "definitions_ex_vn": "mái nhà bị rò rỉ",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "intentionally disclose (something private or secret).",
+      "definitions_ex_en": "who had a motive to leak the story?",
+      "definitions_ex_vn": "Ai đã có một động cơ để rò rỉ câu chuyện?",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a hole in a container or covering through which contents, especially liquid or gas, may accidentally pass.",
+      "definitions_ex_en": "I checked all of the pipes for leaks",
+      "definitions_ex_vn": "Tôi đã kiểm tra tất cả các đường ống cho rò rỉ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an intentional disclosure of something secret or private.",
+      "definitions_ex_en": "one of the employees was responsible for the leak",
+      "definitions_ex_vn": "Một trong những nhân viên chịu trách nhiệm về rò rỉ",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809672139_07fa0dac6a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809672139_ea45fc5bed_o.png",
+      "id_image": "leak_3071605"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808361722_7c1b168f77_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808361722_84773e6b5a_o.png",
+      "id_image": "leak_4845888"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809432548_caf0abf32b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809432548_a345e30ef3_o.png",
+      "id_image": "leak_900630"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810053895_c1838500e4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810053895_9dbac1d0ed_o.png",
+      "id_image": "leak_900631"
+    }
+  ]
+}

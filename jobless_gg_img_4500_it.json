@@ -1,0 +1,38 @@
+{
+  "english": "jobless",
+  "list_translation_mean": [
+    {
+      "translate_mean": "không có công ăn việc làm",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "không có việc làm",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "unemployed.",
+      "definitions_ex_en": "thousands of jobless youngsters",
+      "definitions_ex_vn": "hàng ngàn thanh niên thất nghiệp",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810070445_bac91fd0d0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810070445_cdeb471266_o.png",
+      "id_image": "jobless_3154661"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688584_e9a8e9e6e2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688584_b6d5d4474d_o.png",
+      "id_image": "jobless_3154669"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688554_7d41725817_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688554_7a7bd624bf_o.png",
+      "id_image": "jobless_6333413"
+    }
+  ]
+}

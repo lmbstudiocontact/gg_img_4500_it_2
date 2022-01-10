@@ -1,0 +1,57 @@
+{
+  "english": "ornament",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đồ để trang hoàng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đồ để trang sức",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trang hoàng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trang trí",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a thing used to make something look more attractive but usually having no practical purpose, especially a small object such as a figurine.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "make (something) look more attractive by adding decorative items.",
+      "definitions_ex_en": "the men and women in the Stone Age ornamented their caves",
+      "definitions_ex_vn": "Những người đàn ông và phụ nữ trong thời kỳ đồ đá trang trí hang động của họ",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810080310_0fecd2755c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810080310_c60f995170_o.png",
+      "id_image": "ornament_1172850"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810080270_e098a3ca31_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810080270_73d31f6fac_o.png",
+      "id_image": "ornament_5493046"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809342791_3019842c87_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809342791_5e8a9bac22_o.png",
+      "id_image": "ornament_5830253"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809342746_77be6e64ed_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809342746_3b5275013f_o.png",
+      "id_image": "ornament_6240758"
+    }
+  ]
+}

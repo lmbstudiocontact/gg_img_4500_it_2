@@ -1,0 +1,33 @@
+{
+  "english": "intervention",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự can thiệp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự xen vào",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the action or process of intervening.",
+      "definitions_ex_en": "they are plants that grow naturally without human intervention",
+      "definitions_ex_vn": "Chúng là những cây mọc tự nhiên mà không cần sự can thiệp của con người",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808385872_582c2fd407_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808385872_46f26b46c6_o.png",
+      "id_image": "intervention_4144455"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809455708_65419983d5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809455708_7a671ae0be_o.png",
+      "id_image": "intervention_5605851"
+    }
+  ]
+}

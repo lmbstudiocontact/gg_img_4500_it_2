@@ -1,0 +1,58 @@
+{
+  "english": "laundry",
+  "list_translation_mean": [
+    {
+      "translate_mean": "giặt ủi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nơi giặt quần áo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiệm giặt",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "clothes and linens that need to be washed or that have been newly washed.",
+      "definitions_ex_en": "she went outside to hang some laundry on the line",
+      "definitions_ex_vn": "Cô đi ra ngoài để treo một ít đồ giặt trên đường dây",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a room in a house, hotel, or institution where clothes and linens can be washed and ironed.",
+      "definitions_ex_en": "the pathology department was in the hospital basement, next to the laundry",
+      "definitions_ex_vn": "Bộ bệnh lý nằm trong tầng hầm bệnh viện, bên cạnh tiệm giặt ủi",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808363607_6e0fdd528e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808363607_1bf5c1218b_o.png",
+      "id_image": "laundry_4636715"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809434198_3881222bdb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809434198_5f245ce613_o.png",
+      "id_image": "laundry_5390433"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809318931_64840a6267_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809318931_1a327c64e3_o.png",
+      "id_image": "laundry_6040430"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809673789_3dc4526406_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809673789_c54545c6b9_o.png",
+      "id_image": "laundry_6135594"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808363637_dba55c5815_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808363637_32778be6c2_o.png",
+      "id_image": "laundry_769656"
+    }
+  ]
+}

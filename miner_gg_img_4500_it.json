@@ -1,0 +1,66 @@
+{
+  "english": "miner",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chôn địa lôi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lính đặt mìn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thợ mỏ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person who works in a mine.",
+      "definitions_ex_en": "the miners were freed after spending four days trapped underground",
+      "definitions_ex_vn": "Những người khai thác đã được giải thoát sau khi dành bốn ngày bị mắc kẹt dưới lòng đất",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a person who digs tunnels in order to destroy an enemy position with explosives.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a small South American bird of the ovenbird family, which excavates a long burrow for breeding.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "short for leaf miner.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an Australian bird of the honeyeater family, having a loud call and typically nesting colonially.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809697754_9175677d25_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809697754_1b7035e1b0_o.png",
+      "id_image": "miner_2278628"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809342546_fd5dbc80fd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809342546_4aaa4ef4c3_o.png",
+      "id_image": "miner_307945"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809697799_413a533937_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809697799_37c5fa8a17_o.png",
+      "id_image": "miner_360466"
+    }
+  ]
+}

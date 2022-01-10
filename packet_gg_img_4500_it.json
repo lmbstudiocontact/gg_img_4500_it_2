@@ -1,0 +1,69 @@
+{
+  "english": "packet",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bó",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "gói",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tàu chở hàng hóa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trà gói",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a paper or cardboard container, typically one in which goods are packed to be sold.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a block of data transmitted across a network.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a ship traveling at regular intervals between two ports, originally for the conveyance of mail.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "make up into or wrap up in a packet.",
+      "definitions_ex_en": "I grew my own sunflowers and packeted the seeds",
+      "definitions_ex_vn": "Tôi đã trồng hoa hướng dương của riêng mình và gói hạt giống",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809452993_9ca3212792_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809452993_650c30b66a_o.png",
+      "id_image": "packet_1849662"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809338041_4deb60284b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809338041_86a3928d49_o.png",
+      "id_image": "packet_2421563"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810075040_40dd217665_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810075040_d973a53555_o.png",
+      "id_image": "packet_4142990"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809452883_29fce16321_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809452883_2662b941c9_o.png",
+      "id_image": "packet_6302065"
+    }
+  ]
+}

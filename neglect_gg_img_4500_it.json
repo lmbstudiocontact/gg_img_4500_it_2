@@ -1,0 +1,59 @@
+{
+  "english": "neglect",
+  "list_translation_mean": [
+    {
+      "translate_mean": "không nhìn đến",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "không săn sóc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự bỏ lơ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự bỏ mặc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự không lo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bỏ lơ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "bỏ mặc",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "fail to care for properly.",
+      "definitions_ex_en": "the old churchyard has been sadly neglected",
+      "definitions_ex_vn": "Nhà thờ cũ đã bị bỏ bê đáng buồn",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "the state or fact of being uncared for.",
+      "definitions_ex_en": "animals dying through disease or neglect",
+      "definitions_ex_vn": "động vật chết qua bệnh hoặc bỏ bê",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810062115_a59e64bb3f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810062115_6538f7f194_o.png",
+      "id_image": "neglect_6306497"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809440413_f52f43ab04_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809440413_42fee9fa4a_o.png",
+      "id_image": "neglect_708679"
+    }
+  ]
+}

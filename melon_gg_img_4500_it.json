@@ -1,0 +1,55 @@
+{
+  "english": "melon",
+  "list_translation_mean": [
+    {
+      "translate_mean": "dưa gang",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dưa bở",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiền lời nhiều đem chia ra",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the large round fruit of a plant of the gourd family, with sweet pulpy flesh and many seeds.",
+      "definitions_ex_en": "a ripe melon will smell sweet",
+      "definitions_ex_vn": "một dưa chín sẽ có mùi ngọt ngào",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the Old World plant which yields the melon.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a mass of waxy material in the head of dolphins and other toothed whales, thought to focus acoustic signals.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a large profit, especially a stock dividend, to be divided among a number of people.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809348231_cda5f03d7b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809348231_35087cf30e_o.png",
+      "id_image": "melon_3944173"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809702924_9a66f8a755_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809702924_df47e6eabd_o.png",
+      "id_image": "melon_4480823"
+    }
+  ]
+}

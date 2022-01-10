@@ -1,0 +1,48 @@
+{
+  "english": "intermediary",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đứng trung gian",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "ở giữa trung gian",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "người trung gian",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person who acts as a link between people in order to try to bring about an agreement or reconciliation; a mediator.",
+      "definitions_ex_en": "intermediaries between lenders and borrowers",
+      "definitions_ex_vn": "trung gian giữa người cho vay và người vay",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "intermediate.",
+      "definitions_ex_en": "an intermediary stage",
+      "definitions_ex_vn": "một giai đoạn trung gian",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809456653_92ee760ba0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809456653_64e31f8beb_o.png",
+      "id_image": "intermediary_4813607"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809696994_1a6f7365f1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809696994_85443861c8_o.png",
+      "id_image": "intermediary_4814006"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810079155_f72ef7ffb9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810079155_6153b17218_o.png",
+      "id_image": "intermediary_4827332"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "english": "mobility",
+  "list_translation_mean": [
+    {
+      "translate_mean": "dân hèn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tính hay biến đổi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tính hay di động",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the ability to move or be moved freely and easily.",
+      "definitions_ex_en": "this exercise helps retain mobility in the damaged joints",
+      "definitions_ex_vn": "Bài tập này giúp duy trì khả năng di động trong các khớp bị hư hỏng",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810077290_90fc5f8ed1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810077290_1b9a88f444_o.png",
+      "id_image": "mobility_1998584"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808384862_903c4dfd9a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808384862_b482a748de_o.png",
+      "id_image": "mobility_2037129"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809695204_922e7e9eb3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809695204_88366b4380_o.png",
+      "id_image": "mobility_5398205"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "english": "nightmare",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ác mộng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mộng dữ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a frightening or unpleasant dream.",
+      "definitions_ex_en": "I had nightmares after watching the horror movie",
+      "definitions_ex_vn": "Tôi đã gặp ác mộng sau khi xem bộ phim kinh dị",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809677559_092334d50a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809677559_72cfa87069_o.png",
+      "id_image": "nightmare_1601227"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810059225_259cdc3e7c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810059225_4908903c8f_o.png",
+      "id_image": "nightmare_3527365"
+    }
+  ]
+}

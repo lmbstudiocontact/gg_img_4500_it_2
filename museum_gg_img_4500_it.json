@@ -1,0 +1,34 @@
+{
+  "english": "museum",
+  "list_translation_mean": [
+    {
+      "translate_mean": "viện bảo tàng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a building in which objects of historical, scientific, artistic, or cultural interest are stored and exhibited.",
+      "definitions_ex_en": "the Museum of Modern Art",
+      "definitions_ex_vn": "Bảo tàng nghệ thuật hiện đại",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686149_967c30051d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686149_99da1df1b4_o.png",
+      "id_image": "museum_224561"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067840_0bb3abc55c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067840_517c3f1d8d_o.png",
+      "id_image": "museum_382246"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686094_eba3c2c3dd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686094_ff0283f129_o.png",
+      "id_image": "museum_827094"
+    }
+  ]
+}

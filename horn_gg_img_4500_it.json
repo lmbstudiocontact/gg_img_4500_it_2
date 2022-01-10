@@ -1,0 +1,114 @@
+{
+  "english": "horn",
+  "list_translation_mean": [
+    {
+      "translate_mean": "râu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "còi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đồ vật làm bằng sừng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhánh sông",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trăng lưỡi liềm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sừng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sừng bò",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sừng trâu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đánh gảy sừng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "gắn sừng vào",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tra sừng vào",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a hard permanent outgrowth, often curved and pointed, found in pairs on the heads of cattle, sheep, goats, giraffes, etc. and consisting of a core of bone encased in keratinized skin.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the substance of which horns are composed.",
+      "definitions_ex_en": "powdered rhino horn",
+      "definitions_ex_vn": "sừng tê giác",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a horn-shaped projection.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a wind instrument, conical in shape or wound into a spiral, originally made from an animal horn (now typically brass) and played by lip vibration.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an instrument sounding a warning or other signal.",
+      "definitions_ex_en": "a car horn",
+      "definitions_ex_vn": "một chiếc sừng xe hơi",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(of an animal) butt or gore (someone or something) with the horns.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810068750_7babf1a6d4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810068750_0c00ac4393_o.png",
+      "id_image": "horn_280078"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810068690_44528258a9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810068690_8d1f82012d_o.png",
+      "id_image": "horn_4082400"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809331951_a0906070e2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809331951_c63c7499e9_o.png",
+      "id_image": "horn_4330817"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809446938_44ed49d803_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809446938_e567c4283c_o.png",
+      "id_image": "horn_6255117"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809687044_128638c173_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809687044_73a138f102_o.png",
+      "id_image": "horn_788087"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "english": "paid",
+  "list_translation_mean": [
+    {
+      "translate_mean": "trả rồi",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "past and past participle of pay1.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of work or leave) for or during which one receives pay.",
+      "definitions_ex_en": "a one-month paid vacation",
+      "definitions_ex_vn": "một kỳ nghỉ một tháng",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809337106_053bb4dec5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809337106_fd0d0d3f7c_o.png",
+      "id_image": "paid_267354"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809337066_b12cfacbd0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809337066_d7f4980bc4_o.png",
+      "id_image": "paid_782085"
+    }
+  ]
+}

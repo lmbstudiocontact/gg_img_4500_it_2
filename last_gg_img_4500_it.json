@@ -1,0 +1,158 @@
+{
+  "english": "last",
+  "list_translation_mean": [
+    {
+      "translate_mean": "lâu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đặt mũi giày dưới khuôn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "kéo dài",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tồn tại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chót hết",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "cuối cùng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "kết cuộc",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "rốt cuộc",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "sau cùng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "tột bực",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thấp",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "cực độ",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "lần chót",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "lần cuối cùng",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "đến cùng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đến giờ chót",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khuôn bằng gổ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lần sau cùng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lúc chết",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người đến sau hết",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vật sau cùng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "coming after all others in time or order; final.",
+      "definitions_ex_en": "they caught the last bus",
+      "definitions_ex_vn": "Họ bắt xe buýt cuối cùng",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "most recent in time; latest.",
+      "definitions_ex_en": "last year",
+      "definitions_ex_vn": "năm ngoái",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "only remaining.",
+      "definitions_ex_en": "it's our last hope",
+      "definitions_ex_vn": "Đó là hy vọng cuối cùng của chúng tôi",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "on the last occasion before the present; previously.",
+      "definitions_ex_en": "he looked much older than when I'd last seen him",
+      "definitions_ex_vn": "anh ấy trông già hơn nhiều so với lần cuối tôi nhìn thấy anh ấy",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "after all others in order or sequence.",
+      "definitions_ex_en": "the two last-mentioned classes",
+      "definitions_ex_vn": "hai lớp được đề cập cuối cùng",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "(especially in enumerating points) finally; in conclusion.",
+      "definitions_ex_en": "and last, I'd like to thank you all for coming",
+      "definitions_ex_vn": "và cuối cùng, tôi muốn cảm ơn tất cả các bạn đã đến",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "the last person or thing; the one occurring, mentioned, or acting after all others.",
+      "definitions_ex_en": "the last of their guests had gone",
+      "definitions_ex_vn": "người cuối cùng của khách đã đi",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a shoemaker's model for shaping or repairing a shoe or boot.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(of a process, activity, or state of things) continue for a specified period of time.",
+      "definitions_ex_en": "the guitar solo lasted for twenty minutes",
+      "definitions_ex_vn": "Solo guitar kéo dài trong hai mươi phút",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "continue to function well or to be in good condition for a considerable or specified length of time.",
+      "definitions_ex_en": "the car is built to last",
+      "definitions_ex_vn": "Chiếc xe được xây dựng để cuối cùng",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808364722_f351c071dc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808364722_b58bc4b452_o.png",
+      "id_image": "last_5375438"
+    }
+  ]
+}

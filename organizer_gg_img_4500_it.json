@@ -1,0 +1,35 @@
+{
+  "english": "organizer",
+  "list_translation_mean": [
+    {
+      "translate_mean": "người tổ chức",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person who organizes.",
+      "definitions_ex_en": "the organizers of the demonstration",
+      "definitions_ex_vn": "Ban tổ chức trình diễn",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a thing used for organizing.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809736094_e521d72009_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809736094_ffc346f428_o.png",
+      "id_image": "organizer_1622552"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809698439_2b08d5251f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809698439_59885657e5_o.png",
+      "id_image": "organizer_2389243"
+    }
+  ]
+}

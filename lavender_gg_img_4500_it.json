@@ -1,0 +1,63 @@
+{
+  "english": "lavender",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cây oải hương",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chất dầu thơm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "được nuông chiều",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sắc xanh lợt có vết đỏ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a small aromatic evergreen shrub of the mint family, with narrow leaves and bluish-purple flowers. Lavender has been widely used in perfumery and medicine since ancient times.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a pale blue color with a trace of mauve.",
+      "definitions_ex_en": "romantic designs in old-fashioned tones of primrose, lavender, and rose",
+      "definitions_ex_vn": "Thiết kế lãng mạn trong tông màu cũ của hoa anh thảo, hoa oải hương và hoa hồng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "perfume with lavender.",
+      "definitions_ex_en": "lavendered sheets",
+      "definitions_ex_vn": "Tấm hoa oải hương",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809673509_bd6515be06_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809673509_dca37ec960_o.png",
+      "id_image": "lavender_3006170"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809318696_4961877f71_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809318696_d1f30596d4_o.png",
+      "id_image": "lavender_436625"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810055255_333da3433c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810055255_3b6c887fa9_o.png",
+      "id_image": "lavender_4383982"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809673419_5b5b1385c4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809673419_a05cbc4331_o.png",
+      "id_image": "lavender_5389265"
+    }
+  ]
+}

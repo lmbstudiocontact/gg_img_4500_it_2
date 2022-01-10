@@ -1,0 +1,47 @@
+{
+  "english": "intrusion",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đút mạnh vào",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự thỏa thuận",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự xen vào",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dự vào chổ nào",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the action of intruding.",
+      "definitions_ex_en": "he was furious about this intrusion into his private life",
+      "definitions_ex_vn": "Anh ta tức giận về sự xâm nhập này vào cuộc sống riêng tư của mình",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the action or process of forcing a body of igneous rock between or through existing formations, without reaching the surface.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808384837_22c9d65030_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808384837_1c25f08c7b_o.png",
+      "id_image": "intrusion_1995742"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808384812_6fd10d073d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808384812_e460e9249d_o.png",
+      "id_image": "intrusion_4728877"
+    }
+  ]
+}

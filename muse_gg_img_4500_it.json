@@ -1,0 +1,63 @@
+{
+  "english": "muse",
+  "list_translation_mean": [
+    {
+      "translate_mean": "nghĩ ngợi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự suy nghĩ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thi tài",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thi thần",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ngẫm nghĩ",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "(in Greek and Roman mythology) each of nine goddesses, the daughters of Zeus and Mnemosyne, who preside over the arts and sciences.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a person or personified force who is the source of inspiration for a creative artist.",
+      "definitions_ex_en": "Yeats' muse, Maud Gonne",
+      "definitions_ex_vn": "Nàng thơ của Yeats, Maud Gonne",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an instance or period of reflection.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "be absorbed in thought.",
+      "definitions_ex_en": "he was musing on the problems he faced",
+      "definitions_ex_vn": "Anh ấy đang suy nghĩ về những vấn đề anh phải đối mặt",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809446118_2ce159c16f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809446118_bc92f5edf5_o.png",
+      "id_image": "muse_3571361"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809331231_6860a1ebf7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809331231_b364756d8a_o.png",
+      "id_image": "muse_647668"
+    }
+  ]
+}

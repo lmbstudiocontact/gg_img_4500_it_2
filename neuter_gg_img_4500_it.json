@@ -1,0 +1,96 @@
+{
+  "english": "neuter",
+  "list_translation_mean": [
+    {
+      "translate_mean": "động vật bị thiến",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "giữ thái độ trung lập",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "tự động từ",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "trung lập",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "loại vô tính",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "vô tính",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "sinh vô tính",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "vô tính danh từ",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "sự bị thiến",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự trung lập",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự vô tính",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hoạn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thiến",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "of or denoting a gender of nouns in some languages, typically contrasting with masculine and feminine or common.",
+      "definitions_ex_en": "it is a neuter word in Greek",
+      "definitions_ex_vn": "Đó là một từ trung tính trong tiếng Hy Lạp",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of an animal) lacking developed sexual organs, or having had them removed.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a neuter word.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a nonfertile caste of social insect, especially a worker bee or ant.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "castrate or spay (a domestic animal).",
+      "definitions_ex_en": "a neutered tomcat",
+      "definitions_ex_vn": "một tomcat trung tính",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809678789_5bafc5041d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809678789_8975392c7f_o.png",
+      "id_image": "neuter_2935070"
+    }
+  ]
+}

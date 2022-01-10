@@ -1,0 +1,262 @@
+{
+  "english": "out",
+  "list_translation_mean": [
+    {
+      "translate_mean": "trương ra",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "bày ra",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "bị tiết lộ",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "lộ ra",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "đến cùng",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "ngoài",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "ở ngoài",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "chữ thợ in sắp sót",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "loại ra",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vật bỏ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phía ngoài",
+      "type_word": "preposition"
+    },
+    {
+      "translate_mean": "bên ngoài",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "khác thường",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ngoài",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ở ngoài",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "phía ngoài",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "moving or appearing to move away from a particular place, especially one that is enclosed or hidden.",
+      "definitions_ex_en": "he walked out into the street",
+      "definitions_ex_vn": "Anh bước ra đường",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "situated far or at a particular distance from somewhere.",
+      "definitions_ex_en": "an old farmhouse right out in the middle of nowhere",
+      "definitions_ex_vn": "một trang trại cũ ngay giữa hư không",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "away from home.",
+      "definitions_ex_en": "he's gone out",
+      "definitions_ex_vn": "anh ấy đã đi ra ngoài",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "so as to be revealed or known.",
+      "definitions_ex_en": "find out what you can",
+      "definitions_ex_vn": "Tìm hiểu những gì bạn có thể",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "at or to an end.",
+      "definitions_ex_en": "the romance fizzled out",
+      "definitions_ex_vn": "Sự lãng mạn đã xì hơi ra",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "(of a light or fire) so as to be extinguished or no longer burning.",
+      "definitions_ex_en": "at ten o'clock the lights went out",
+      "definitions_ex_vn": "lúc mười giờ đèn tắt",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "(of a jury) considering its verdict in secrecy.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "indicating a specified distance away from the goal line or finishing line.",
+      "definitions_ex_en": "he scored from 70 meters out",
+      "definitions_ex_vn": "anh ấy đã ghi từ 70 mét",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "(of a party, politician, etc.) not in office.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "through to the outside.",
+      "definitions_ex_en": "he ran out the door",
+      "definitions_ex_vn": "Anh chạy ra khỏi cửa",
+      "definitions_type_word": "preposition"
+    },
+    {
+      "definitions_word_en": "not at home or at one's place of work.",
+      "definitions_ex_en": "if he called, she'd pretend to be out",
+      "definitions_ex_vn": "Nếu anh ta gọi, cô ấy giả vờ ra ngoài",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "revealed or made public.",
+      "definitions_ex_en": "the secret was soon out",
+      "definitions_ex_vn": "Bí mật đã sớm ra ngoài",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a flower) in bloom; open.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "no longer alight; extinguished.",
+      "definitions_ex_en": "the fire was nearly out",
+      "definitions_ex_vn": "Ngọn lửa đã gần như ra",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "at an end.",
+      "definitions_ex_en": "school was out for the summer",
+      "definitions_ex_vn": "Trường học đã ra ngoài cho mùa hè",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "not possible or worth considering.",
+      "definitions_ex_en": "a trip to the seaside is out",
+      "definitions_ex_vn": "Một chuyến đi đến bờ biển là ra",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "in a state of unconsciousness.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "mistaken; in error.",
+      "definitions_ex_en": "he was slightly out in his calculations",
+      "definitions_ex_vn": "Anh hơi ra trong tính toán của mình",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of the ball in tennis and similar games) outside the designated playing area.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "no longer batting or on base, having had one's turn ended by the team in the field.",
+      "definitions_ex_en": "the Yankees are out in the ninth",
+      "definitions_ex_vn": "Yankees đã ra ngoài vào thứ chín",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a way of escaping from a problem or dilemma.",
+      "definitions_ex_en": "he was desperately looking for an out",
+      "definitions_ex_vn": "anh ấy đang tuyệt vọng tìm kiếm một",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an act of putting a player out.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the political party or politicians not in office.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "reveal the sexual or gender identity of (a person).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "expel, reject, or dismiss.",
+      "definitions_ex_en": "they had outed Asquith quite easily",
+      "definitions_ex_vn": "Họ đã vượt ra ALQUITH khá dễ dàng",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "become known; emerge.",
+      "definitions_ex_en": "the truth will out",
+      "definitions_ex_vn": "Sự thật sẽ ra",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "to the point of surpassing or exceeding.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "prefix"
+    },
+    {
+      "definitions_word_en": "external; separate; from outside.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "prefix"
+    },
+    {
+      "definitions_word_en": "away from; outward.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "prefix"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808387117_3a85251494_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808387117_0f0e63cbf5_o.png",
+      "id_image": "out_1250267"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809342131_a3152d29f5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809342131_3dea7e8c99_o.png",
+      "id_image": "out_1666286"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810079470_a426f7059f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810079470_774476e89e_o.png",
+      "id_image": "out_3557810"
+    }
+  ]
+}

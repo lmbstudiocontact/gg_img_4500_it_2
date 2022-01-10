@@ -1,0 +1,33 @@
+{
+  "english": "metamorphosis",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự biến hình",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự hóa thân",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "(in an insect or amphibian) the process of transformation from an immature form to an adult form in two or more distinct stages.",
+      "definitions_ex_en": "the persistence of the larval tail during metamorphosis",
+      "definitions_ex_vn": "sự kiên trì của đuôi ấu trùng trong quá trình biến thái",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809460293_7304629f36_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809460293_4f883dd28b_o.png",
+      "id_image": "metamorphosis_4178843"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809345476_57a57a4111_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809345476_8cc7747bac_o.png",
+      "id_image": "metamorphosis_5969090"
+    }
+  ]
+}

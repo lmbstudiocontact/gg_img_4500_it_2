@@ -1,0 +1,46 @@
+{
+  "english": "media",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bì mạc",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the main means of mass communication (broadcasting, publishing, and the internet) regarded collectively.",
+      "definitions_ex_en": "their demands were publicized by the media",
+      "definitions_ex_vn": "Nhu cầu của họ đã được công bố bởi các phương tiện truyền thông",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "plural form of medium.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an intermediate layer in the wall of a blood vessel or lymphatic vessel.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808362822_20ea84a20c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808362822_d63bfb9a2d_o.png",
+      "id_image": "media_1674954"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808362812_7aa5e61780_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808362812_d3f6a58709_o.png",
+      "id_image": "media_2303901"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810054850_a6ee89d856_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810054850_24d60eafde_o.png",
+      "id_image": "media_4660823"
+    }
+  ]
+}

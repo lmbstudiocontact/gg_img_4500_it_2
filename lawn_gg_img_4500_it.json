@@ -1,0 +1,53 @@
+{
+  "english": "lawn",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bải cỏ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vải ba tít",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vải ni lông",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an area of short, mown grass in a yard, garden, or park.",
+      "definitions_ex_en": "she was sitting in a deckchair on the lawn",
+      "definitions_ex_vn": "Cô đang ngồi trong một bàn trên bãi cỏ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a fine linen or cotton fabric used for making clothes.",
+      "definitions_ex_en": "a white lawn shirt",
+      "definitions_ex_vn": "một chiếc áo cỏ trắng",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809318411_c589edf2ec_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809318411_d8d968405d_o.png",
+      "id_image": "lawn_1283668"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809318381_8a4501586a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809318381_4eed120b2d_o.png",
+      "id_image": "lawn_1620092"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810055065_66e4213df1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810055065_a5be850dc9_o.png",
+      "id_image": "lawn_684101"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808362977_1535dfab8b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808362977_cf306ed952_o.png",
+      "id_image": "lawn_765860"
+    }
+  ]
+}

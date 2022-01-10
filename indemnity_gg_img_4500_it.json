@@ -1,0 +1,36 @@
+{
+  "english": "indemnity",
+  "list_translation_mean": [
+    {
+      "translate_mean": "số tiền bồi thường",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự bảo kê",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự đền bù",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự tha",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "security or protection against a loss or other financial burden.",
+      "definitions_ex_en": "no indemnity will be given for loss of cash",
+      "definitions_ex_vn": "Không bồi thường sẽ được đưa ra để mất tiền mặt",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810055005_5d56a21ed8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810055005_88d03f3aaa_o.png",
+      "id_image": "indemnity_1833846"
+    }
+  ]
+}

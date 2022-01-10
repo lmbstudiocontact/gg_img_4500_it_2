@@ -1,0 +1,30 @@
+{
+  "english": "infinity",
+  "list_translation_mean": [
+    {
+      "translate_mean": "vô cực",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the state or quality of being infinite.",
+      "definitions_ex_en": "the infinity of space",
+      "definitions_ex_vn": "vô cùng của không gian",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a number greater than any assignable quantity or countable number (symbol ∞).",
+      "definitions_ex_en": "the transmission approaches 100% as the frequency tends to infinity",
+      "definitions_ex_vn": "% 20 tính 20% 20 approtoaches% 20100 %% 20AS% 20% 20FRequency% 20tends% 20 đến% 20infinity",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809316951_a69826a1bf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809316951_e541ed81d6_o.png",
+      "id_image": "infinity_4020021"
+    }
+  ]
+}

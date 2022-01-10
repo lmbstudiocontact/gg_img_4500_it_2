@@ -1,0 +1,100 @@
+{
+  "english": "paint",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sơn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "họa",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tả ra",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "vẽ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tô điểm",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "hộp sơn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "màu sơn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thuốc sơn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nước sơn",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a colored substance which is spread over a surface and dries to leave a thin decorative or protective coating.",
+      "definitions_ex_en": "a can of paint",
+      "definitions_ex_vn": "một lon sơn",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the rectangular area marked near the basket at each end of the court; the foul lane.",
+      "definitions_ex_en": "the two players jostled in the paint",
+      "definitions_ex_vn": "Hai người chơi đã đẩy lửng trong sơn",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "cover the surface of (something) with paint, as decoration or protection.",
+      "definitions_ex_en": "the ceiling was painted dark gray",
+      "definitions_ex_vn": "Trần nhà được sơn màu xám đen",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "depict (someone or something) or produce (a picture) with paint.",
+      "definitions_ex_en": "I painted a woman sitting next to a table lamp",
+      "definitions_ex_vn": "Tôi vẽ một người phụ nữ ngồi cạnh đèn bàn",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "display a mark representing (an aircraft or vehicle) on a radar screen.",
+      "definitions_ex_en": "flying behind hills lessens the enemy's ability to paint you with radar",
+      "definitions_ex_vn": "Bay phía sau những ngọn đồi làm giảm khả năng vẽ bạn bằng radar của kẻ thù",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809691849_10f261c628_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809691849_fe3569b32e_o.png",
+      "id_image": "paint_1076298"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809336666_40a5ef9415_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809336666_1be83d6156_o.png",
+      "id_image": "paint_164355"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809691954_4512b14b63_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809691954_deac33e04d_o.png",
+      "id_image": "paint_448098"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809691909_49e36bc6c1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809691909_bd4cb5d394_o.png",
+      "id_image": "paint_791657"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809336556_472a939b85_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809336556_326b256851_o.png",
+      "id_image": "paint_995451"
+    }
+  ]
+}

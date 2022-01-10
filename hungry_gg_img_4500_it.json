@@ -1,0 +1,47 @@
+{
+  "english": "hungry",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đói",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "đói bụng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "ham muốn",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "feeling or displaying the need for food.",
+      "definitions_ex_en": "I was feeling ravenously hungry",
+      "definitions_ex_vn": "Tôi đang cảm thấy đói khát",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809327566_21ee51bdf1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809327566_61a3432c89_o.png",
+      "id_image": "hungry_3220703"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809442538_bcc7ba94fe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809442538_ab318a3d1e_o.png",
+      "id_image": "hungry_3255702"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809442483_57ca38081c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809442483_d411e0ab5f_o.png",
+      "id_image": "hungry_4138780"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809682569_44fcc7b7c8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809682569_bf62b6f2af_o.png",
+      "id_image": "hungry_5046973"
+    }
+  ]
+}

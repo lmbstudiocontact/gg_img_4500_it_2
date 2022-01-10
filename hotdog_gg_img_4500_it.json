@@ -1,0 +1,29 @@
+{
+  "english": "hotdog",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bánh mì kẹp xúc xích",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a frankfurter, especially one served hot in a long, soft roll and topped with various condiments.",
+      "definitions_ex_en": "he's ordering a hot dog",
+      "definitions_ex_vn": "anh ấy đang gọi một con chó nóng",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809444913_b2dce95177_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809444913_29f9d48c72_o.png",
+      "id_image": "hotdog_5426524"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809329981_35515415a8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809329981_24c7df535b_o.png",
+      "id_image": "hotdog_648796"
+    }
+  ]
+}

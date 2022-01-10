@@ -1,0 +1,40 @@
+{
+  "english": "international",
+  "list_translation_mean": [
+    {
+      "translate_mean": "quốc tế",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "existing, occurring, or carried on between two or more nations.",
+      "definitions_ex_en": "international trade",
+      "definitions_ex_vn": "thương mại quốc tế",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "any of four associations founded (1864–1936) to promote socialist or communist action.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809456453_6249506598_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809456453_78d85736a2_o.png",
+      "id_image": "international_1424768"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809341566_f375257478_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809341566_1a721880e0_o.png",
+      "id_image": "international_2090519"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809696759_823da832e8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809696759_e9a33bbbcf_o.png",
+      "id_image": "international_4459318"
+    }
+  ]
+}

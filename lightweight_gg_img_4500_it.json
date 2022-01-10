@@ -1,0 +1,47 @@
+{
+  "english": "lightweight",
+  "list_translation_mean": [
+    {
+      "translate_mean": "nhẹ cân",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a weight in boxing and other sports intermediate between featherweight and welterweight. In the amateur boxing scale it ranges from 125 to 132 pounds (57 to 60 kg).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a person or thing that is lightly built or constructed.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "of thin material or build and weighing less than average.",
+      "definitions_ex_en": "a lightweight gray suit",
+      "definitions_ex_vn": "một bộ đồ màu xám nhẹ",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "containing little serious matter.",
+      "definitions_ex_en": "the newspaper is lightweight and trivial",
+      "definitions_ex_vn": "tờ báo nhẹ và tầm thường",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810079480_444754c1f2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810079480_7d155eed5e_o.png",
+      "id_image": "lightweight_5660388"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808387082_12a8b745ed_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808387082_f0078c3330_o.png",
+      "id_image": "lightweight_5675398"
+    }
+  ]
+}

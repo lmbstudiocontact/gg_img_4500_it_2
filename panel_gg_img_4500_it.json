@@ -1,0 +1,75 @@
+{
+  "english": "panel",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bản danh sách",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bồi thẫm danh biểu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mặt của máy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phòng ngăn riêng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ván bịt ở trên cửa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "yên ngựa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bịt ván",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chia ngăn bằng ván",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a flat or curved component, typically rectangular, that forms or is set into the surface of a door, wall, or ceiling.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a flat board on which instruments or controls are fixed.",
+      "definitions_ex_en": "a control panel",
+      "definitions_ex_vn": "một bảng điều khiển",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a small group of people brought together to discuss, investigate, or decide on a particular matter, especially in the context of business or government.",
+      "definitions_ex_en": "we assembled a panel of experts",
+      "definitions_ex_vn": "Chúng tôi tập hợp một hội đồng chuyên gia",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "cover (a wall or other surface) with panels.",
+      "definitions_ex_en": "we paneled the wall around the window",
+      "definitions_ex_vn": "Chúng tôi vách bức tường xung quanh cửa sổ",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809690569_1ca6fcfc3e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809690569_d2542207f8_o.png",
+      "id_image": "panel_1719612"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809450383_b48d338810_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809450383_3f2954bc24_o.png",
+      "id_image": "panel_209203"
+    }
+  ]
+}

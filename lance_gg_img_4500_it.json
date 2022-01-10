@@ -1,0 +1,67 @@
+{
+  "english": "lance",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thương",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cây thương",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cây lao",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giáo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đâm bằng thương",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "mổ bằng dao mổ",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a long weapon for thrusting, having a wooden shaft and a pointed steel head, formerly used by a horseman in charging.",
+      "definitions_ex_en": "the warriors bore lances tipped with iron or steel",
+      "definitions_ex_vn": "Các chiến binh mang đất liền bằng sắt hoặc thép",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a metal pipe supplying a jet of oxygen to a furnace or to a hot flame for cutting.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a rigid tube at the end of a hose for pumping or spraying liquid.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "prick or cut open with a lancet or other sharp instrument.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809677009_45abb0abb5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809677009_b3414d250d_o.png",
+      "id_image": "lance_2858928"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810058665_40332efcc1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810058665_5eb5d75d9f_o.png",
+      "id_image": "lance_3557040"
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "english": "nest",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bộ đồ vật",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chổ ẩn núp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "một lứa chim đẻ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "một ổ chim",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ổ chuột",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sào huyệt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tổ chim",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ẩn núp",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chim làm ổ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lập ổ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lồng",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a structure or place made or chosen by a bird for laying eggs and sheltering its young.",
+      "definitions_ex_en": "two sparrows frantically building a nest",
+      "definitions_ex_vn": "Hai con chim sẻ điên cuồng xây dựng một tổ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a place filled with or frequented by undesirable people or things.",
+      "definitions_ex_en": "a nest of spies",
+      "definitions_ex_vn": "một tổ của gián điệp",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a set of similar objects of graduated sizes, made so that each smaller one fits into the next in size for storage.",
+      "definitions_ex_en": "a nest of tables",
+      "definitions_ex_vn": "một tổ của bàn",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(of a bird or other animal) use or build a nest.",
+      "definitions_ex_en": "the owls often nest in barns",
+      "definitions_ex_vn": "Những con cú thường làm tổ trong chuồng",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "fit (an object or objects) inside a larger one.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809439393_0483b6d649_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809439393_a6c53152d0_o.png",
+      "id_image": "nest_1809034"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808369292_85b592823c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808369292_1be490eb59_o.png",
+      "id_image": "nest_183958"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809439358_80f1664592_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809439358_193d5b0cd3_o.png",
+      "id_image": "nest_2851878"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809324381_a87759d5b2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809324381_1b57405267_o.png",
+      "id_image": "nest_427432"
+    }
+  ]
+}

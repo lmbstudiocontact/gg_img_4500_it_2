@@ -1,0 +1,47 @@
+{
+  "english": "hygienic",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thuộc về vệ sinh",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "vệ sinh",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "vệ sinh học",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "conducive to maintaining health and preventing disease, especially by being clean; sanitary.",
+      "definitions_ex_en": "hygienic conditions",
+      "definitions_ex_vn": "Điều kiện vệ sinh",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325646_2fbeae5f90_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325646_39a3c48380_o.png",
+      "id_image": "hygienic_247592"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809440638_6a7c1199fb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809440638_e7c421656e_o.png",
+      "id_image": "hygienic_339976"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810062380_7b9a8f328f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810062380_5a820ef23d_o.png",
+      "id_image": "hygienic_343815"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810062355_8cb67f14ac_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810062355_aaa2fef861_o.png",
+      "id_image": "hygienic_3663434"
+    }
+  ]
+}

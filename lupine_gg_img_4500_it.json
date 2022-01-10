@@ -1,0 +1,42 @@
+{
+  "english": "lupine",
+  "list_translation_mean": [
+    {
+      "translate_mean": "một giống đậu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "một loại đậu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chó sói",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thuộc về chó sói",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a plant of the pea family with deeply divided leaves and tall colorful tapering spikes of flowers.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "of, like, or relating to a wolf or wolves.",
+      "definitions_ex_en": "a lupine howl",
+      "definitions_ex_vn": "một lupine howl.",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810068875_284fb06376_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810068875_3d5ab49d2f_o.png",
+      "id_image": "lupine_6201909"
+    }
+  ]
+}

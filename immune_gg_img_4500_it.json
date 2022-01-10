@@ -1,0 +1,37 @@
+{
+  "english": "immune",
+  "list_translation_mean": [
+    {
+      "translate_mean": "miển dịch",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "sự miểm thuế",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "sự tha",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "resistant to a particular infection or toxin owing to the presence of specific antibodies or sensitized white blood cells.",
+      "definitions_ex_en": "they were naturally immune to hepatitis B",
+      "definitions_ex_vn": "Chúng được miễn dịch tự nhiên với viêm gan B",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809437318_6607383528_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809437318_f426ae5279_o.png",
+      "id_image": "immune_5730167"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809322051_cbf6cf045e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809322051_bb8c42c649_o.png",
+      "id_image": "immune_6181888"
+    }
+  ]
+}

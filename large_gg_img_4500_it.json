@@ -1,0 +1,87 @@
+{
+  "english": "large",
+  "list_translation_mean": [
+    {
+      "translate_mean": "to",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "khoan hồng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "lớn",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "nhiều",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "quyền hành rộng rải",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "rộng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "rộng rải",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "tư tưởng rộng rải",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "lớn",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "nhiều",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "rộng",
+      "type_word": "adverb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "of considerable or relatively great size, extent, or capacity.",
+      "definitions_ex_en": "add a large clove of garlic",
+      "definitions_ex_vn": "Thêm một tép tỏi lớn",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "of wide range or scope.",
+      "definitions_ex_en": "we can afford to take a larger view of the situation",
+      "definitions_ex_vn": "Chúng tôi có thể đủ khả năng để có một cái nhìn lớn hơn về tình huống",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "another term for free (sense 8 of the adjective).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "another term for free (sense 2 of the adverb).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adverb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809320366_b899a9416b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809320366_093e96f42b_o.png",
+      "id_image": "large_2036393"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365207_cc6becaef9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365207_bdcb7c0d73_o.png",
+      "id_image": "large_2103636"
+    }
+  ]
+}

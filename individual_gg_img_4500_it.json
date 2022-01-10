@@ -1,0 +1,83 @@
+{
+  "english": "individual",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cá nhân",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "có tính đặc biệt",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "đời tư",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "riêng biệt",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thuộc về cá nhân",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "cá nhân",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đời sống riêng tư",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "một người",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "single; separate.",
+      "definitions_ex_en": "individual tiny flowers",
+      "definitions_ex_vn": "hoa nhỏ cá nhân",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "of or for a particular person.",
+      "definitions_ex_en": "the individual needs of the children",
+      "definitions_ex_vn": "nhu cầu cá nhân của trẻ em",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a single human being as distinct from a group, class, or family.",
+      "definitions_ex_en": "boat trips for parties and individuals",
+      "definitions_ex_vn": "Chuyến đi thuyền cho các bữa tiệc và cá nhân",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809672629_1ca8f17761_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809672629_ed3a544dd4_o.png",
+      "id_image": "individual_1460027"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809432948_b6f204c70a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809432948_a9023b3ff7_o.png",
+      "id_image": "individual_2909994"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809672534_4bab6f3a71_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809672534_b6f3dce2bc_o.png",
+      "id_image": "individual_3046267"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809432913_8d841dabec_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809432913_30f0b3c6f6_o.png",
+      "id_image": "individual_4412876"
+    }
+  ]
+}

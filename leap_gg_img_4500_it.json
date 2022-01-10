@@ -1,0 +1,66 @@
+{
+  "english": "leap",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hành động mù quáng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "liều mạng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhảy vọt lên",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự nhảy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vật trở ngại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mạo hiểm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhảy",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nhảy qua",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nhảy vọt lên",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "vùng lên",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "jump or spring a long way, to a great height, or with great force.",
+      "definitions_ex_en": "I leaped across the threshold",
+      "definitions_ex_vn": "Tôi nhảy qua ngưỡng cửa",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a forceful jump or quick movement.",
+      "definitions_ex_en": "she came downstairs in a series of flying leaps",
+      "definitions_ex_vn": "Cô ấy đã xuống cầu thang trong một loạt những bước nhảy vọt",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809672044_868cf57709_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809672044_4b1fca1b62_o.png",
+      "id_image": "leap_2586978"
+    }
+  ]
+}

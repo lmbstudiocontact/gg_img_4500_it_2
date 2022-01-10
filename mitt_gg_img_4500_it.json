@@ -1,0 +1,35 @@
+{
+  "english": "mitt",
+  "list_translation_mean": [
+    {
+      "translate_mean": "găng quyền thuật",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a mitten.",
+      "definitions_ex_en": "woolly mitts",
+      "definitions_ex_vn": "Găng tay len",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a protective glove, especially one worn by a catcher and having one section for the thumb and another for all four fingers.",
+      "definitions_ex_en": "he sent the ball hurtling into the catcher's mitt",
+      "definitions_ex_vn": "Anh ấy đã gửi bóng vào Mít của người bắt bóng",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809340551_85938427da_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809340551_f379b62c2e_o.png",
+      "id_image": "mitt_1529219"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809695884_ac9168495e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809695884_2173ddb98f_o.png",
+      "id_image": "mitt_447189"
+    }
+  ]
+}

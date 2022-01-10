@@ -1,0 +1,129 @@
+{
+  "english": "mill",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cối xay",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cối xay bột",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "máy phi cơ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "máy xay",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trận đánh lộn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "xưởng chế tạo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đánh nhau",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đánh nhừ tử",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nghiền",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tán",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "xay bột",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đánh túi bụi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "giã",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a building equipped with machinery for grinding grain into flour.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a building fitted with machinery for a manufacturing process.",
+      "definitions_ex_en": "a steel mill",
+      "definitions_ex_vn": "một nhà máy thép",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an engine.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a boxing match or a fistfight.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "grind or crush (something) in a mill.",
+      "definitions_ex_en": "hard wheats are easily milled into white flour",
+      "definitions_ex_vn": "Lúa mì cứng dễ dàng được xay vào bột trắng",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "cut or shape (metal) with a rotating tool.",
+      "definitions_ex_en": "in the machine shop we mill and grind the castings",
+      "definitions_ex_vn": "Trong cửa hàng máy, chúng tôi nghiền và xay các vật đúc",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of people or animals) move around in a confused mass.",
+      "definitions_ex_en": "people milled about the room, shaking hands",
+      "definitions_ex_vn": "người ta xay về căn phòng, bắt tay",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "thicken (wool or another animal fiber) by fulling it.",
+      "definitions_ex_en": "ordinary wool blankets are made by milling a woven wool fabric",
+      "definitions_ex_vn": "Chăn len thông thường được thực hiện bằng cách phay vải len dệt",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809698434_a931931972_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809698434_c30c00af4a_o.png",
+      "id_image": "mill_1111098"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809343221_8555da6a4f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809343221_878a327761_o.png",
+      "id_image": "mill_123944"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809457913_efa41f746a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809457913_8463a23e51_o.png",
+      "id_image": "mill_2245016"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809343131_f897320d73_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809343131_1359851754_o.png",
+      "id_image": "mill_6092381"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "english": "lane",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đường đi giữa hai người",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đường hàng thẳng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đường hẻm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đường nhỏ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hương lộ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a narrow road, especially in a rural area.",
+      "definitions_ex_en": "she drove along the winding lane",
+      "definitions_ex_vn": "Cô lái xe dọc theo làn đường quanh co",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a division of a road marked off with painted lines and intended to separate single lines of traffic according to speed or direction.",
+      "definitions_ex_en": "the car accelerated and moved into the outside lane",
+      "definitions_ex_vn": "Chiếc xe tăng tốc và di chuyển vào làn đường bên ngoài",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809675949_5b3d1ce02c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809675949_967b9fde57_o.png",
+      "id_image": "lane_1810850"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809675909_7829836a55_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809675909_ca9c117111_o.png",
+      "id_image": "lane_3393640"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809320831_fbc0802f14_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809320831_33488f9796_o.png",
+      "id_image": "lane_5664489"
+    }
+  ]
+}

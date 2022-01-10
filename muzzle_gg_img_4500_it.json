@@ -1,0 +1,78 @@
+{
+  "english": "muzzle",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đai bịt mỏm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "họng súng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "miệng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mỏ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mỏm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "rọ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bịt",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đóng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "khóa mỏm",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the projecting part of the face, including the nose and mouth, of an animal such as a dog or horse.",
+      "definitions_ex_en": "she patted the horse's velvety muzzle",
+      "definitions_ex_vn": "Cô vỗ nhẹ mõm mõm mõm ngựa",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the open end of the barrel of a firearm.",
+      "definitions_ex_en": "Devlin jammed the muzzle of the gun into the man's neck",
+      "definitions_ex_vn": "Devlin gây nhiễu mõm của khẩu súng vào cổ của người đàn ông",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "put a muzzle on (an animal).",
+      "definitions_ex_en": "the dog should have been muzzled",
+      "definitions_ex_vn": "Con chó nên bị mõm",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809684939_17fc6aac0a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809684939_a079a4402a_o.png",
+      "id_image": "muzzle_1581641"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810066685_3b1c819d8e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810066685_e0b23c023b_o.png",
+      "id_image": "muzzle_1830512"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810066670_aeb1536723_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810066670_a1da2628d0_o.png",
+      "id_image": "muzzle_3629028"
+    }
+  ]
+}

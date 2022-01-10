@@ -1,0 +1,60 @@
+{
+  "english": "impression",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cãm tưởng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dấu in",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự đóng dấu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự in",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an idea, feeling, or opinion about something or someone, especially one formed without conscious thought or on the basis of little evidence.",
+      "definitions_ex_en": "his first impressions of Manchester were very positive",
+      "definitions_ex_vn": "Ấn tượng đầu tiên của anh ấy về Manchester rất tích cực",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an imitation of a person or thing, especially one done to entertain.",
+      "definitions_ex_en": "he did an impression of Frank Sinatra",
+      "definitions_ex_vn": "Ông đã tạo ấn tượng về Frank Sinatra",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a mark impressed on a surface by something.",
+      "definitions_ex_en": "the impression of his body on the leaves",
+      "definitions_ex_vn": "ấn tượng về cơ thể của mình trên lá",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the printing of a number of copies of a book, periodical, or picture for issue at one time.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an instance of a pop-up or other online advertisement being seen on an internet user's monitor.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810057335_fb41a7eeb7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810057335_471c92f718_o.png",
+      "id_image": "impression_3703284"
+    }
+  ]
+}

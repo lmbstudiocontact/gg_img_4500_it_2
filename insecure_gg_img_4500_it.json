@@ -1,0 +1,42 @@
+{
+  "english": "insecure",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bấp bênh",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "không an toàn",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "không chắc chắn",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "không vững chắc",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "not firmly fixed; liable to give way or break.",
+      "definitions_ex_en": "an insecure footbridge",
+      "definitions_ex_vn": "một footbridge bất an",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a person) not confident or assured; uncertain and anxious.",
+      "definitions_ex_en": "a rather gauche, insecure young man",
+      "definitions_ex_vn": "Một chàng trai khá, không an toàn",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808390622_5108d62b8b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808390622_3961359771_o.png",
+      "id_image": "insecure_5526255"
+    }
+  ]
+}

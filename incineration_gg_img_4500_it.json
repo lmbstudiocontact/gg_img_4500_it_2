@@ -1,0 +1,34 @@
+{
+  "english": "incineration",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thiêu ra tro",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the destruction of something, especially waste material, by burning.",
+      "definitions_ex_en": "waste disposal by incineration",
+      "definitions_ex_vn": "xử lý chất thải bằng cách đốt",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810056140_9d103e2afd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810056140_22c45ceee1_o.png",
+      "id_image": "incineration_1286138"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809674449_b285aeeca5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809674449_7f9418ec6a_o.png",
+      "id_image": "incineration_2911696"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810056060_78ca27d3ae_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810056060_06e703097e_o.png",
+      "id_image": "incineration_4465750"
+    }
+  ]
+}

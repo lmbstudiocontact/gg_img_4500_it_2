@@ -1,0 +1,75 @@
+{
+  "english": "moral",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hợp",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "hợp với luân lý",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thích hợp",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thuộc về đạo đức",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thuộc về luân lý",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thuộc về tâm linh",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thuộc về tinh thần",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "luân lý",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "concerned with the principles of right and wrong behavior and the goodness or badness of human character.",
+      "definitions_ex_en": "the moral dimensions of medical intervention",
+      "definitions_ex_vn": "kích thước đạo đức của can thiệp y tế",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "holding or manifesting high principles for proper conduct.",
+      "definitions_ex_en": "he prides himself on being a highly moral and ethical person",
+      "definitions_ex_vn": "Anh ấy tự hào là một người có đạo đức và đạo đức cao",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a lesson, especially one concerning what is right or prudent, that can be derived from a story, a piece of information, or an experience.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a person's standards of behavior or beliefs concerning what is and is not acceptable for them to do.",
+      "definitions_ex_en": "the corruption of public morals",
+      "definitions_ex_vn": "tham nhũng của đạo đức công cộng",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808381532_63f4ee2940_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808381532_e0de6813f8_o.png",
+      "id_image": "moral_2464149"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809451408_e1e3662a65_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809451408_c5cec87daa_o.png",
+      "id_image": "moral_6352978"
+    }
+  ]
+}

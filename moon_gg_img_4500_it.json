@@ -1,0 +1,62 @@
+{
+  "english": "moon",
+  "list_translation_mean": [
+    {
+      "translate_mean": "mặt trăng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tuần trăng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tháng trăng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đi lêu lỏng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "vơ vẫn làm mất thì giờ",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the natural satellite of the earth, visible (chiefly at night) by reflected light from the sun.",
+      "definitions_ex_en": "there was no moon, but a sky sparkling with brilliant stars",
+      "definitions_ex_vn": "Không có mặt trăng, nhưng một bầu trời lấp lánh với những ngôi sao rực rỡ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "behave or move in a listless and aimless manner.",
+      "definitions_ex_en": "lying in bed eating candy, mooning around",
+      "definitions_ex_vn": "Nằm trên giường ăn kẹo, trăng tròn",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "expose one's buttocks to (someone) in order to insult or amuse them.",
+      "definitions_ex_en": "Dan had whipped around, bent over, and mooned the crowd",
+      "definitions_ex_vn": "Dan đã quất quanh, cúi xuống, và Mooned đám đông",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810073810_7daf68106f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810073810_a6e17ac590_o.png",
+      "id_image": "moon_167317"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810073770_20b4c80fee_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810073770_9958765725_o.png",
+      "id_image": "moon_178534"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809692014_fb4eedb2c8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809692014_d31425abdf_o.png",
+      "id_image": "moon_433842"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "english": "paddle",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bơi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chèo",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chèo thong thả",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "dầm bùn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lội dưới nước",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đánh vào đít trẻ con",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cách chèo thong thả",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cẳng vịt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dáng chèo nhẹ nhàng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giầm bơi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự dầm bùn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự lội dưới nước",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vãy cá mập",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a short pole with a broad blade at one or both ends, used without an oarlock to move a small boat or canoe through the water.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "move through the water in a boat using a paddle or paddles.",
+      "definitions_ex_en": "he paddled along the coast",
+      "definitions_ex_vn": "Anh chèo thuyền dọc bờ biển",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "walk with bare feet in shallow water.",
+      "definitions_ex_en": "the children paddled at the water's edge",
+      "definitions_ex_vn": "Những đứa trẻ đang chèo ở rìa của nước",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809452558_4ded2f3b2e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809452558_9323898d2c_o.png",
+      "id_image": "paddle_178097"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808382602_feb76ce18b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808382602_c4c2203aaa_o.png",
+      "id_image": "paddle_3254554"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809692964_ea6c77acbe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809692964_8509d317ed_o.png",
+      "id_image": "paddle_486390"
+    }
+  ]
+}

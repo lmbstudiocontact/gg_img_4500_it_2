@@ -1,0 +1,43 @@
+{
+  "english": "orientation",
+  "list_translation_mean": [
+    {
+      "translate_mean": "phép nhắm hướng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự định hướng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the determination of the relative position of something or someone (especially oneself).",
+      "definitions_ex_en": "the child's surroundings provide clues to help in orientation",
+      "definitions_ex_vn": "môi trường xung quanh trẻ em cung cấp manh mối để giúp định hướng",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808388017_0e95af606e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808388017_164d53bd32_o.png",
+      "id_image": "orientation_124785"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809343036_470ffeccf3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809343036_98817e620b_o.png",
+      "id_image": "orientation_1783650"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809698204_cdb459302b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809698204_055e753c31_o.png",
+      "id_image": "orientation_1783676"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808387912_ce1647471d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808387912_9bcd352450_o.png",
+      "id_image": "orientation_4001163"
+    }
+  ]
+}

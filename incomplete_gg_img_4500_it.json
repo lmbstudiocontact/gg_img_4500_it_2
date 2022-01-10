@@ -1,0 +1,36 @@
+{
+  "english": "incomplete",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chưa hoàn thành",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "không đủ",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "dở dang",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thiếu",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "not having all the necessary or appropriate parts.",
+      "definitions_ex_en": "the records are patchy and incomplete",
+      "definitions_ex_vn": "Các hồ sơ là loang lổ và không đầy đủ",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809673699_3554b7eb82_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809673699_f5027beb40_o.png",
+      "id_image": "incomplete_5387073"
+    }
+  ]
+}

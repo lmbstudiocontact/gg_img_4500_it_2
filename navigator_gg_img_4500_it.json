@@ -1,0 +1,37 @@
+{
+  "english": "navigator",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hoa tiêu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người đi biển",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người theo nghề hàng hải",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person who directs the route or course of a ship, aircraft, or other form of transportation, especially by using instruments and maps.",
+      "definitions_ex_en": "the starry sky was a navigator's dream",
+      "definitions_ex_vn": "bầu trời đầy sao là giấc mơ của hoa tiêu",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809682014_a8f8540d6a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809682014_72135fd3d5_o.png",
+      "id_image": "navigator_1982540"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809326941_74e4a3e5e7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809326941_f23a5d038d_o.png",
+      "id_image": "navigator_648445"
+    }
+  ]
+}

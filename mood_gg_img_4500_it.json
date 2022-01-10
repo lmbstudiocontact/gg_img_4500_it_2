@@ -1,0 +1,68 @@
+{
+  "english": "mood",
+  "list_translation_mean": [
+    {
+      "translate_mean": "âm thể",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cách của động từ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khí sắc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhạc thể",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tánh tình",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a temporary state of mind or feeling.",
+      "definitions_ex_en": "he appeared to be in a very good mood about something",
+      "definitions_ex_vn": "anh ta dường như đang ở trong một tâm trạng rất tốt về một cái gì đó",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a category or form which indicates whether a verb expresses fact (indicative mood), command (imperative mood), question (interrogative mood), wish (optative mood), or conditionality (subjunctive mood).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "any of the valid forms into which each of the figures of a categorical syllogism may occur.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(especially of music) inducing or suggestive of a particular feeling or state of mind.",
+      "definitions_ex_en": "mood music",
+      "definitions_ex_vn": "âm nhạc tâm trạng",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809336876_e6bd62385f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809336876_47eb034549_o.png",
+      "id_image": "mood_4516967"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810073895_906d626347_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810073895_e81bded2e7_o.png",
+      "id_image": "mood_5266110"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809451718_7e2cbb7cc0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809451718_2692d7b3d1_o.png",
+      "id_image": "mood_6134059"
+    }
+  ]
+}

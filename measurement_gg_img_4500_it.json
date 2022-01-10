@@ -1,0 +1,47 @@
+{
+  "english": "measurement",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cách đo lường",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phép đo lường",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự đo lường",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the action of measuring something.",
+      "definitions_ex_en": "accurate measurement is essential",
+      "definitions_ex_vn": "Đo lường chính xác là điều cần thiết",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810055260_db1ce4b6ca_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810055260_f1e83de56c_o.png",
+      "id_image": "measurement_2637622"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809318666_c49658e6c2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809318666_69d51f7c4b_o.png",
+      "id_image": "measurement_3773044"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808363237_9696bd49f9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808363237_48cacdd26d_o.png",
+      "id_image": "measurement_532036"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810055265_1fa02a8051_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810055265_647bba845b_o.png",
+      "id_image": "measurement_927856"
+    }
+  ]
+}

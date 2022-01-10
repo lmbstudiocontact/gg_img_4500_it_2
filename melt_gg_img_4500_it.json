@@ -1,0 +1,79 @@
+{
+  "english": "melt",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đang chảy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "kim khí nấu chảy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự nấu chảy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cảm động",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chảy vì sức nóng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm cảm động",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm tan",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "xúc động",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nấu chảy",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "make or become liquefied by heat.",
+      "definitions_ex_en": "the hot metal melted the wax",
+      "definitions_ex_vn": "Kim loại nóng tan chảy sáp",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "make or become more tender or loving.",
+      "definitions_ex_en": "Richard gave her a smile that melted her heart",
+      "definitions_ex_vn": "Richard nở một nụ cười làm tan chảy trái tim mình",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "leave or disappear unobtrusively.",
+      "definitions_ex_en": "the compromise was accepted and the opposition melted away",
+      "definitions_ex_vn": "sự thỏa hiệp đã được chấp nhận và sự phản đối tan chảy",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "an act or period of melting.",
+      "definitions_ex_en": "the precipitation falls as snow and is released during the spring melt",
+      "definitions_ex_vn": "Lượng mưa rơi như tuyết và được phát hành trong mùa xuân tan chảy",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809702904_f8ac25fa7e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809702904_3fba9beb7b_o.png",
+      "id_image": "melt_1999845"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809702859_d9b7526105_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809702859_ee2cda7391_o.png",
+      "id_image": "melt_3690282"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "english": "meditation",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự nghĩ ngợi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự suy nghĩ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trù tính",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the action or practice of meditating.",
+      "definitions_ex_en": "a life of meditation",
+      "definitions_ex_vn": "một cuộc sống thiền định",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809348851_ef5be40874_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809348851_4e5a376dbb_o.png",
+      "id_image": "meditation_203770"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809463553_15b090808b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809463553_dfa651c918_o.png",
+      "id_image": "meditation_3048374"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809348751_039d19fff1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809348751_8613773b98_o.png",
+      "id_image": "meditation_3632602"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810086120_658e3ffbed_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810086120_20c94d7ae5_o.png",
+      "id_image": "meditation_412596"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810086030_d40674a239_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810086030_e4bbe98691_o.png",
+      "id_image": "meditation_4288960"
+    }
+  ]
+}

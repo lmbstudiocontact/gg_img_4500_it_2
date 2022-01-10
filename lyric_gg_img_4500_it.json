@@ -1,0 +1,51 @@
+{
+  "english": "lyric",
+  "list_translation_mean": [
+    {
+      "translate_mean": "nhạc kịch",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "bài thơ tình",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "(of poetry) expressing the writer's emotions, usually briefly and in stanzas or recognized forms.",
+      "definitions_ex_en": "lyric poems of extraordinary beauty",
+      "definitions_ex_vn": "thơ trữ tình của vẻ đẹp phi thường",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a singing voice) using a light register.",
+      "definitions_ex_en": "a lyric soprano with a light, clear timber",
+      "definitions_ex_vn": "một soprano lyric với một ánh sáng, gỗ rõ ràng",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a lyric poem or verse.",
+      "definitions_ex_en": "an edition of Horace's Lyrics",
+      "definitions_ex_vn": "một phiên bản lời bài hát của Horace",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the words of a song.",
+      "definitions_ex_en": "she has published both music and lyrics for a number of songs",
+      "definitions_ex_vn": "Cô đã xuất bản cả nhạc và lời bài hát cho một số bài hát",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809446688_9d3c2a1bf7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809446688_8137c56c5b_o.png",
+      "id_image": "lyrics_5439947"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809446713_ac6fd77399_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809446713_c4b0c8d621_o.png",
+      "id_image": "lyric_5093639"
+    }
+  ]
+}

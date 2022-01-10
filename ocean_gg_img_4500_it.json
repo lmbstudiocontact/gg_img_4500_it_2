@@ -1,0 +1,41 @@
+{
+  "english": "ocean",
+  "list_translation_mean": [
+    {
+      "translate_mean": "biển lớn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đại dương",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khoảng rộng mênh mông",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự có rất nhiều",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a very large expanse of sea, in particular each of the main areas into which the sea is divided geographically.",
+      "definitions_ex_en": "the Atlantic Ocean",
+      "definitions_ex_vn": "đại Tây Dương",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809463823_f7d7df6c91_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809463823_a1291c415a_o.png",
+      "id_image": "ocean_1566595"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810086350_57b5e7407c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810086350_48ff93f039_o.png",
+      "id_image": "ocean_3254422"
+    }
+  ]
+}

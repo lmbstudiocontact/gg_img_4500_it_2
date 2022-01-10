@@ -1,0 +1,106 @@
+{
+  "english": "mass",
+  "list_translation_mean": [
+    {
+      "translate_mean": "số đông",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "đoàn đông",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lể mi sa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "số nhiều",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lể tế của công giáo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "một đống",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "một khối",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "quần chúng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chất thành đống",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tập trung",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tựu hợp",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a coherent, typically large body of matter with no definite shape.",
+      "definitions_ex_en": "a mass of curly hair",
+      "definitions_ex_vn": "một khối tóc xoăn",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a large number of people or objects crowded together.",
+      "definitions_ex_en": "a mass of cyclists",
+      "definitions_ex_vn": "một khối người đi xe đạp",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the majority of.",
+      "definitions_ex_en": "the great mass of the population had little interest in the project",
+      "definitions_ex_vn": "Khối lượng lớn của dân số ít quan tâm đến dự án",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the quantity of matter which a body contains, as measured by its acceleration under a given force or by the force exerted on it by a gravitational field.",
+      "definitions_ex_en": "stellar objects of intermediate mass",
+      "definitions_ex_vn": "Đối tượng Stellar của khối lượng trung gian",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the Christian Eucharist or Holy Communion, especially in the Roman Catholic Church.",
+      "definitions_ex_en": "we went to Mass",
+      "definitions_ex_vn": "Chúng tôi đã đi đến hàng loạt",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "relating to, done by, or affecting large numbers of people or things.",
+      "definitions_ex_en": "the movie has mass appeal",
+      "definitions_ex_vn": "Bộ phim có sự hấp dẫn hàng loạt",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "assemble or cause to assemble into a mass or as one body.",
+      "definitions_ex_en": "both countries began massing troops in the region",
+      "definitions_ex_vn": "Cả hai nước bắt đầu massing quân đội trong khu vực",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "Massachusetts.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "abbreviation"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809321211_dcb674f121_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809321211_7f108f8204_o.png",
+      "id_image": "mass_1534157"
+    }
+  ]
+}

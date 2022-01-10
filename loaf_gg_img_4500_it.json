@@ -1,0 +1,72 @@
+{
+  "english": "loaf",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đi lang thang",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đi lượn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ở không",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đi vơ vẩn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lười biếng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "bánh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ổ bánh mì",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự đi lượn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự đi vơ vẩn",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a quantity of bread that is shaped and baked in one piece and usually sliced before being eaten.",
+      "definitions_ex_en": "a loaf of bread",
+      "definitions_ex_vn": "một ổ bánh mì",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "idle one's time away, typically by aimless wandering or loitering.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809693714_3fd0d11458_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809693714_082a803e87_o.png",
+      "id_image": "loaf_1725727"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809338496_607bce89b0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809338496_f2fa0c3ec2_o.png",
+      "id_image": "loaf_1919096"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809338461_6e03917247_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809338461_0a703255c0_o.png",
+      "id_image": "loaf_3280310"
+    }
+  ]
+}

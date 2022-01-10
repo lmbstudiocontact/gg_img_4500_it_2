@@ -1,0 +1,44 @@
+{
+  "english": "inmate",
+  "list_translation_mean": [
+    {
+      "translate_mean": "mọi người trong nhà",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người cùng chung nhà",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người ở",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người ở chung nhà",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người ở trọ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người trú ngụ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person confined to an institution such as a prison or hospital.",
+      "definitions_ex_en": "inmates of the Louisiana State Penitentiary",
+      "definitions_ex_vn": "Các tù nhân của Nhà nước Louisiana",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809701359_2a662a53d6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809701359_2349491fa2_o.png",
+      "id_image": "inmate_5484287"
+    }
+  ]
+}

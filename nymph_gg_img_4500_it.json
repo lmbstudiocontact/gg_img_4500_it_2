@@ -1,0 +1,49 @@
+{
+  "english": "nymph",
+  "list_translation_mean": [
+    {
+      "translate_mean": "con nhộng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mỹ nhân",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nữ thần ở sông",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a mythological spirit of nature imagined as a beautiful maiden inhabiting rivers, woods, or other locations.",
+      "definitions_ex_en": "the idyllic world of nymphs and shepherds",
+      "definitions_ex_vn": "thế giới bình dị của các nữ thần và người chăn cừu",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an immature form of an insect that does not change greatly as it grows, e.g. a dragonfly, mayfly, or locust.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a mainly brown butterfly that frequents woods and forest glades.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809319371_d072302839_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809319371_963844ec4d_o.png",
+      "id_image": "nymph_2210167"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809319346_8e4085e8a1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809319346_bd36f284b7_o.png",
+      "id_image": "nymph_2463622"
+    }
+  ]
+}

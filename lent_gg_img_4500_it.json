@@ -1,0 +1,40 @@
+{
+  "english": "lent",
+  "list_translation_mean": [
+    {
+      "translate_mean": "mùa chay",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tuần chay",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "past and past participle of lend.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(forming adjectives) full of; characterized by.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "suffix"
+    },
+    {
+      "definitions_word_en": "the period preceding Easter that in the Christian Church is devoted to fasting, abstinence, and penitence in commemoration of Christ's fasting in the wilderness. In the Western Church it runs from Ash Wednesday to Holy Saturday and so includes forty weekdays.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809700599_ab97dce8b6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809700599_2037d2fcce_o.png",
+      "id_image": "lent_688456"
+    }
+  ]
+}

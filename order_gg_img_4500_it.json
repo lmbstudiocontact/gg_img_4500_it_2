@@ -1,0 +1,185 @@
+{
+  "english": "order",
+  "list_translation_mean": [
+    {
+      "translate_mean": "huy chương",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ngay",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cách ăn mặc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chế độ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giai cấp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tức thì",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thần phẩm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thức",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thứ tự",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "kiểu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trật tự",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lập tức",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mục đích để",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phẩm chức",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phiếu đặt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phong chức",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cho toa",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đặc hàng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "sắp đặc",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thu xếp",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "gọi món",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the arrangement or disposition of people or things in relation to each other according to a particular sequence, pattern, or method.",
+      "definitions_ex_en": "I filed the cards in alphabetical order",
+      "definitions_ex_vn": "Tôi đã nộp các thẻ theo thứ tự bảng chữ cái",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an authoritative command, direction, or instruction.",
+      "definitions_ex_en": "he was not going to take orders from a mere administrator",
+      "definitions_ex_vn": "anh ta sẽ không nhận đơn đặt hàng từ một quản trị viên đơn thuần",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a particular social, political, or economic system.",
+      "definitions_ex_en": "if only the peasantry would rise up against the established order",
+      "definitions_ex_vn": "Nếu chỉ những người nông dân sẽ tăng lên so với trật tự được thiết lập",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a society of monks, priests, nuns, etc., living according to certain religious and social regulations and discipline and at least some of whose members take solemn vows.",
+      "definitions_ex_en": "the Franciscan Order",
+      "definitions_ex_vn": "thứ tự franciscan",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the quality, nature, or importance of something.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a principal taxonomic category that ranks below class and above family.",
+      "definitions_ex_en": "the higher orders of insects",
+      "definitions_ex_vn": "các đơn đặt hàng cao hơn của côn trùng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "any of the five classical styles of architecture (Doric, Ionic, Corinthian, Tuscan, and Composite) based on the proportions of columns, amount of decoration, etc.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "equipment or uniform for a specified purpose or of a specified type.",
+      "definitions_ex_en": "drill order",
+      "definitions_ex_vn": "Lệnh khoan",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the degree of complexity of an equation, expression, etc., as denoted by an ordinal number.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "give an authoritative direction or instruction to do something.",
+      "definitions_ex_en": "she ordered me to leave",
+      "definitions_ex_vn": "Cô ra lệnh cho tôi rời đi",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "request (something) to be made, supplied, or served.",
+      "definitions_ex_en": "my friend ordered the tickets last week",
+      "definitions_ex_vn": "bạn tôi đã đặt vé tuần trước",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "arrange (something) in a methodical or appropriate way.",
+      "definitions_ex_en": "all entries are ordered by date",
+      "definitions_ex_vn": "Tất cả các mục được sắp xếp theo ngày",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810081660_44103c7338_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810081660_070227e129_o.png",
+      "id_image": "order_2082194"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809699314_89420fb95f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809699314_5768e87b21_o.png",
+      "id_image": "order_4645439"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809458918_97df653f0b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809458918_062d29563b_o.png",
+      "id_image": "order_4829979"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808389197_74e47755dc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808389197_bb1b7bcf62_o.png",
+      "id_image": "order_804665"
+    }
+  ]
+}

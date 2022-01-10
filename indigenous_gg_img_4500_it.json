@@ -1,0 +1,37 @@
+{
+  "english": "indigenous",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bản quốc",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "bổn xứ",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thuộc về bổn quốc",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "originating or occurring naturally in a particular place; native.",
+      "definitions_ex_en": "the indigenous peoples of Siberia",
+      "definitions_ex_vn": "những người bản địa Siberia",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808362317_d56f42f47a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808362317_dc3135fe66_o.png",
+      "id_image": "indigenous_6043639"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809433018_8b6d7e5416_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809433018_f28f7a2caa_o.png",
+      "id_image": "indigenous_6043655"
+    }
+  ]
+}

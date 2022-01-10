@@ -1,0 +1,68 @@
+{
+  "english": "instruction",
+  "list_translation_mean": [
+    {
+      "translate_mean": "lời chỉ thị",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự dạy dổ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự giáo huấn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự giáo dục",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a direction or order.",
+      "definitions_ex_en": "he issued instructions to the sheriff",
+      "definitions_ex_vn": "Ông đã ban hành hướng dẫn cho cảnh sát trưởng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "detailed information telling how something should be done, operated, or assembled.",
+      "definitions_ex_en": "always study the instructions supplied",
+      "definitions_ex_vn": "Luôn luôn nghiên cứu các hướng dẫn được cung cấp",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "teaching; education.",
+      "definitions_ex_en": "the school offers personalized instruction in a variety of skills",
+      "definitions_ex_vn": "Trường cung cấp hướng dẫn cá nhân trong nhiều kỹ năng",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809699379_bdf0f8df56_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809699379_8ca2935595_o.png",
+      "id_image": "instructions_1245762"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809458993_fac3a0f642_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809458993_466f93ca22_o.png",
+      "id_image": "instructions_2544231"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809699319_4c0c62959f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809699319_2f49cd6433_o.png",
+      "id_image": "instructions_4627956"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809459118_d978e19b6b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809459118_84b90b78f7_o.png",
+      "id_image": "instruction_3468362"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809459078_7cbf1c7533_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809459078_6b9e11c5f4_o.png",
+      "id_image": "instruction_4834019"
+    }
+  ]
+}

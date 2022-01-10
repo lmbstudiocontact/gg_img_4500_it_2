@@ -1,0 +1,52 @@
+{
+  "english": "intersect",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cắt giao điểm với nhau",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cắt giao nhau",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cắt tréo nhau",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "divide (something) by passing or lying across it.",
+      "definitions_ex_en": "the area is intersected only by minor roads",
+      "definitions_ex_vn": "Khu vực này chỉ được giao nhau bởi những con đường nhỏ",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810078430_0d239bd6f8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810078430_da9eeb5836_o.png",
+      "id_image": "intersection_3058436"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809455823_c1d3e93cf5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809455823_495cb91fc0_o.png",
+      "id_image": "intersection_3393544"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809455803_c17c170656_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809455803_974258aa74_o.png",
+      "id_image": "intersection_3680632"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810078535_011c9ecb6f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810078535_c4c9e953a0_o.png",
+      "id_image": "intersect_1850055"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810078510_3d93e1ca92_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810078510_89e226a8ef_o.png",
+      "id_image": "intersect_5488461"
+    }
+  ]
+}

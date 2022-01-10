@@ -1,0 +1,37 @@
+{
+  "english": "monumental",
+  "list_translation_mean": [
+    {
+      "translate_mean": "có vẻ to lớn",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "phi thường",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "vỉ đại",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "great in importance, extent, or size.",
+      "definitions_ex_en": "it's been a monumental effort",
+      "definitions_ex_vn": "Đó là một nỗ lực hoành tráng",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809692404_c2047ea5f9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809692404_d0c47b5ee8_o.png",
+      "id_image": "monumental_353326"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808382057_3afc70e86c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808382057_7be8e7dd33_o.png",
+      "id_image": "monumental_422038"
+    }
+  ]
+}

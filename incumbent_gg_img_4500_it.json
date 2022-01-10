@@ -1,0 +1,56 @@
+{
+  "english": "incumbent",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đè lên",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "để nằm lên",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thuộc về phần",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "phận sự",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "sự ân hưởng lộc thánh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự hưởng lợi ở giáo hội",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "necessary for (someone) as a duty or responsibility.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of an official or regime) currently holding office.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "the holder of an office or post.",
+      "definitions_ex_en": "the present incumbent will soon be retiring",
+      "definitions_ex_vn": "Người đương nhiệm hiện tại sẽ sớm nghỉ hưu",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808363032_d782fe5614_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808363032_373df8bd68_o.png",
+      "id_image": "incumbent_2473093"
+    }
+  ]
+}

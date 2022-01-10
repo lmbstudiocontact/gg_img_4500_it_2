@@ -1,0 +1,38 @@
+{
+  "english": "lipstick",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cây son",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thỏi son",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "colored cosmetic applied to the lips from a small solid stick.",
+      "definitions_ex_en": "her lipstick was smudged",
+      "definitions_ex_vn": "son môi của cô bị nhòe",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809340641_f797ed67ca_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809340641_c761982e05_o.png",
+      "id_image": "lipstick_120701"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809455488_eb065e0d07_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809455488_dbbe6c590a_o.png",
+      "id_image": "lipstick_4335030"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809340611_9f09c837ac_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809340611_7aba85d9ca_o.png",
+      "id_image": "lipstick_545072"
+    }
+  ]
+}

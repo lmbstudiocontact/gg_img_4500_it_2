@@ -1,0 +1,29 @@
+{
+  "english": "logarithm",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đối số",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a quantity representing the power to which a fixed number (the base) must be raised to produce a given number.",
+      "definitions_ex_en": "proportional to the logarithm to the base 10 of the concentration",
+      "definitions_ex_vn": "tỷ lệ thuận với logarit đến cơ sở 10 của nồng độ",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809451903_d1d6ecab0c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809451903_4d99897e54_o.png",
+      "id_image": "logarithm_2106605"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809692354_bd302b5fcb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809692354_c544a9455d_o.png",
+      "id_image": "logarithm_2620556"
+    }
+  ]
+}

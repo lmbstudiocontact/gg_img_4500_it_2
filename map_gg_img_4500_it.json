@@ -1,0 +1,60 @@
+{
+  "english": "map",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bản đồ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "địa đồ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vẽ bản đồ",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a diagrammatic representation of an area of land or sea showing physical features, cities, roads, etc.",
+      "definitions_ex_en": "a street map",
+      "definitions_ex_vn": "một bản đồ đường phố",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a person's face.",
+      "definitions_ex_en": "you ought to know my map by now",
+      "definitions_ex_vn": "Bây giờ bạn nên biết bản đồ của mình",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "represent (an area) on a map; make a map of.",
+      "definitions_ex_en": "inaccessible parts will be mapped from the air",
+      "definitions_ex_vn": "Các bộ phận không thể tiếp cận sẽ được ánh xạ từ không khí",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "modified American plan.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "abbreviation"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809439288_21d42c39d2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809439288_110bf68dd0_o.png",
+      "id_image": "map_123642"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809439243_b0f39af19b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809439243_3f8f3d9cc8_o.png",
+      "id_image": "map_207320"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810061055_2290219b5c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810061055_e90073908d_o.png",
+      "id_image": "map_683836"
+    }
+  ]
+}

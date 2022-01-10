@@ -1,0 +1,43 @@
+{
+  "english": "opportunity",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cơ hội",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dịp tốt",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a set of circumstances that makes it possible to do something.",
+      "definitions_ex_en": "we may see increased opportunities for export",
+      "definitions_ex_vn": "Chúng tôi có thể thấy sự gia tăng cơ hội để xuất khẩu",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809345516_452e2c734e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809345516_a5d718e3da_o.png",
+      "id_image": "opportunity_1900254"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809460253_823c6b2164_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809460253_882d86a4e8_o.png",
+      "id_image": "opportunity_1900267"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810082885_3ebd973a26_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810082885_2165d0ca5d_o.png",
+      "id_image": "opportunity_3447933"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809700559_53a22d9bc9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809700559_66366353be_o.png",
+      "id_image": "opportunity_6064806"
+    }
+  ]
+}

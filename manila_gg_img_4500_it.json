@@ -1,0 +1,30 @@
+{
+  "english": "manila",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thủ đô nước Phi luật tân",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the strong fiber of a Philippine plant, used for rope, matting, paper, etc.",
+      "definitions_ex_en": "Manila rope",
+      "definitions_ex_vn": "Manila Rope.",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a cigar or cheroot made in Manila.",
+      "definitions_ex_en": "her favorite Manila stogies",
+      "definitions_ex_vn": "Stogies Manila yêu thích của cô ấy",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810062280_4c0446525f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810062280_4ee951e41b_o.png",
+      "id_image": "manila_4418606"
+    }
+  ]
+}

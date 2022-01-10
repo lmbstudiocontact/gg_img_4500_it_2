@@ -1,0 +1,44 @@
+{
+  "english": "lute",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đờn tỳ bà",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "một thứ nhựa để tháp cây",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trám bằng nhựa",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a plucked stringed instrument with a long neck bearing frets and a rounded body with a flat front that is shaped like a halved egg.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "liquid clay or cement used to seal a joint, coat a crucible, or protect a graft.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "seal, join, or coat with lute.",
+      "definitions_ex_en": "they were luted with a heavy coating of calcined chalk and eggshells",
+      "definitions_ex_vn": "Chúng bị chằng với một lớp phấn nén và vỏ trứng nặng",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809332096_16e4a30089_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809332096_0da5f889ac_o.png",
+      "id_image": "lute_5003225"
+    }
+  ]
+}

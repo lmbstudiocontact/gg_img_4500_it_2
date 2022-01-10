@@ -1,0 +1,67 @@
+{
+  "english": "impact",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự chạm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự đụng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đụng chạm",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đụng vật gì",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "va chạm",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the action of one object coming forcibly into contact with another.",
+      "definitions_ex_en": "there was the sound of a third impact",
+      "definitions_ex_vn": "Có âm thanh của tác động thứ ba",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "come into forcible contact with another object.",
+      "definitions_ex_en": "the shell impacted twenty yards away",
+      "definitions_ex_vn": "vỏ bị ảnh hưởng hai mươi thước",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "have a strong effect on someone or something.",
+      "definitions_ex_en": "high interest rates have impacted on retail spending",
+      "definitions_ex_vn": "Lãi suất cao đã tác động đến chi tiêu bán lẻ",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810058475_219f6b0536_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810058475_bea7e955cd_o.png",
+      "id_image": "impact_1794486"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810058415_6a8613cf74_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810058415_fb66f5766d_o.png",
+      "id_image": "impact_3391182"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809436808_677beaa80b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809436808_4f66c484c7_o.png",
+      "id_image": "impact_4637159"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809436893_e264ca599e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809436893_afe8124999_o.png",
+      "id_image": "impact_826561"
+    }
+  ]
+}

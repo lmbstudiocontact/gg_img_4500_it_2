@@ -1,0 +1,57 @@
+{
+  "english": "mosaic",
+  "list_translation_mean": [
+    {
+      "translate_mean": "khảm",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "đồ khảm",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a picture or pattern produced by arranging together small colored pieces of hard material, such as stone, tile, or glass.",
+      "definitions_ex_en": "the walls and vaults are decorated by marble and mosaic",
+      "definitions_ex_vn": "Các bức tường và hầm được trang trí bằng đá cẩm thạch và khảm",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an individual (especially an animal) composed of cells of two genetically different types.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a viral disease that results in leaf variegation in tobacco, corn, sugar cane, and other plants.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "decorate with a mosaic.",
+      "definitions_ex_en": "he mosaicked the walls, ceilings, and floors",
+      "definitions_ex_vn": "Anh khập khể với những bức tường, trần nhà và sàn nhà",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "of or associated with Moses.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809450763_9b8bb56dfd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809450763_e053a627d3_o.png",
+      "id_image": "mosaic_2133982"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809690989_d4d7abbb41_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809690989_74d65f4ac6_o.png",
+      "id_image": "mosaic_3723461"
+    }
+  ]
+}

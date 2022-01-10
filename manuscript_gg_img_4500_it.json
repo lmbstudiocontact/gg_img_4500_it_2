@@ -1,0 +1,38 @@
+{
+  "english": "manuscript",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bản viết tay",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "viết bằng tay",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a book, document, or piece of music written by hand rather than typed or printed.",
+      "definitions_ex_en": "an illuminated manuscript",
+      "definitions_ex_vn": "một bản thảo được chiếu sáng",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808369147_59b9452352_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808369147_b3f921b33f_o.png",
+      "id_image": "manuscript_1017975"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809679504_6f0325a0ec_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809679504_96d92578ee_o.png",
+      "id_image": "manuscript_349014"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809439323_b90fbc13ec_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809439323_7f6cf163e2_o.png",
+      "id_image": "manuscript_5146366"
+    }
+  ]
+}

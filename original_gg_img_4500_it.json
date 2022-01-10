@@ -1,0 +1,81 @@
+{
+  "english": "original",
+  "list_translation_mean": [
+    {
+      "translate_mean": "nguyên",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "chánh",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "đầu tiên",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thuộc về căn nguyên",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "khởi đầu",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "nguyên văn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bản chánh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nguyên thủy",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "present or existing from the beginning; first or earliest.",
+      "definitions_ex_en": "the original owner of the house",
+      "definitions_ex_vn": "chủ sở hữu ban đầu của ngôi nhà",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "created directly and personally by a particular artist; not a copy or imitation.",
+      "definitions_ex_en": "original Rembrandts",
+      "definitions_ex_vn": "Rembrandts gốc.",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "not dependent on other people's ideas; inventive and unusual.",
+      "definitions_ex_en": "a subtle and original thinker",
+      "definitions_ex_vn": "một nhà tư tưởng tinh tế và ban đầu",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "something serving as a model or basis for imitations or copies.",
+      "definitions_ex_en": "the portrait may be a copy of the original",
+      "definitions_ex_vn": "Chân dung có thể là một bản sao của bản gốc",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an eccentric or unusual person.",
+      "definitions_ex_en": "he was one of the true originals",
+      "definitions_ex_vn": "Ông là một trong những bản gốc thực sự",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808427357_929529c209_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808427357_21087b8d0e_o.png",
+      "id_image": "original_5110929"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809496678_d027c3625f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809496678_1db216b626_o.png",
+      "id_image": "original_5278643"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "english": "lobby",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hành lang",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhà trước",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phòng ở phía trước",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phòng trước",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trước cửa nhà",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trước mái hiên",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a room providing a space out of which one or more other rooms or corridors lead, typically one near the entrance of a public building.",
+      "definitions_ex_en": "they went into the hotel lobby",
+      "definitions_ex_vn": "Họ đã đi vào sảnh khách sạn",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a group of people seeking to influence politicians or public officials on a particular issue.",
+      "definitions_ex_en": "members of the anti-abortion lobby",
+      "definitions_ex_vn": "Thành viên của sảnh chống phá thai",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "seek to influence (a politician or public official) on an issue.",
+      "definitions_ex_en": "it is recommending that booksellers lobby their representatives",
+      "definitions_ex_vn": "Nó đang khuyến nghị rằng những người bán sách sảnh đại diện của họ",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810075370_b412110999_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810075370_7a2ae9309f_o.png",
+      "id_image": "lobby_2473110"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808383227_04a39feedf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808383227_bc3a251855_o.png",
+      "id_image": "lobby_5569268"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "english": "melody",
+  "list_translation_mean": [
+    {
+      "translate_mean": "âm thanh êm ái",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhịp điệu hài hòa",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a sequence of single notes that is musically satisfying.",
+      "definitions_ex_en": "he picked out an intricate melody on his guitar",
+      "definitions_ex_vn": "Anh ấy đã chọn một giai điệu phức tạp trên cây đàn guitar của mình",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809703014_17d69b15e4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809703014_ccfed72657_o.png",
+      "id_image": "melody_6324754"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809463098_d27cff6a51_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809463098_1bbe1fe3e4_o.png",
+      "id_image": "melody_6325127"
+    }
+  ]
+}

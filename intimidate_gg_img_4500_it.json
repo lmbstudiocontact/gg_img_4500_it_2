@@ -1,0 +1,28 @@
+{
+  "english": "intimidate",
+  "list_translation_mean": [
+    {
+      "translate_mean": "dọa nạt",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thị oai",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "frighten or overawe (someone), especially in order to make them do what one wants.",
+      "definitions_ex_en": "he tries to intimidate his rivals",
+      "definitions_ex_vn": "Anh ta cố gắng đe dọa đối thủ của mình",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808385262_db3ba05754_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808385262_bf2572472f_o.png",
+      "id_image": "intimidate_4576621"
+    }
+  ]
+}

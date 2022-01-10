@@ -1,0 +1,50 @@
+{
+  "english": "noose",
+  "list_translation_mean": [
+    {
+      "translate_mean": "dây tơ hồng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hôn nhân quan hệ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mối thắt buộc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mối thòng lọng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mối thòng lọng làm bẩy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thắt mối thòng lọng",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a loop with a running knot, tightening as the rope or wire is pulled and typically used to hang people or trap animals.",
+      "definitions_ex_en": "he began to choke as the noose tightened about his throat",
+      "definitions_ex_vn": "Anh bắt đầu nghẹt thở khi thòng lọng siết chặt về cổ họng anh.",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "put a noose on (someone).",
+      "definitions_ex_en": "she was noosed and hooded, then strangled by the executioner",
+      "definitions_ex_vn": "Cô ấy bị tản nhiệt và trùm đầu, sau đó siết cổ bởi người thực thi",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810058310_bfb648f1be_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810058310_8bdcb0e89a_o.png",
+      "id_image": "noose_2851862"
+    }
+  ]
+}

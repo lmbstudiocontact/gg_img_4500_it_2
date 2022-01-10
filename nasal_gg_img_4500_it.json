@@ -1,0 +1,46 @@
+{
+  "english": "nasal",
+  "list_translation_mean": [
+    {
+      "translate_mean": "nói giọng mũi",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thuộc về mũi",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "of, for, or relating to the nose.",
+      "definitions_ex_en": "the nasal passages",
+      "definitions_ex_vn": "đường mũi",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a speech sound) pronounced by the voice resonating in the nose, e.g., m, n, ng.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a nasal speech sound.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a nosepiece on a helmet.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683144_85aef67273_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683144_5b2c3abe32_o.png",
+      "id_image": "nasal_4118545"
+    }
+  ]
+}

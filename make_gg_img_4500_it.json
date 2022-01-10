@@ -1,0 +1,184 @@
+{
+  "english": "make",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cho tiếp xúc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dấu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dấu hiệu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hình vóc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự đóng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bề cao",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cách cắt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cách làm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chế tạo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ăn cắp",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chế tạo",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đạt được mục đích",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đi đến",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "kiếm chát chút ít",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "kiếm được tiền",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thành công",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "xoáy vật gì",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đi tới một nơi nào",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "giả bộ làm việc gì",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm bộ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm giàu cho người nào",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm ra",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "may quần áo",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nắn một cái bình",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "sản xuất",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "form (something) by putting parts together or combining substances; construct; create.",
+      "definitions_ex_en": "my grandmother made a dress for me",
+      "definitions_ex_vn": "Bà tôi làm một chiếc váy cho tôi",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "cause (something) to exist or come about; bring about.",
+      "definitions_ex_en": "the drips had made a pool on the floor",
+      "definitions_ex_vn": "Những giọt nước nhỏ đã tạo ra một hồ bơi trên sàn nhà",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "compel (someone) to do something.",
+      "definitions_ex_en": "she bought me a brandy and made me drink it",
+      "definitions_ex_vn": "Cô ấy đã mua cho tôi một brandy và khiến tôi uống nó",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "constitute; amount to.",
+      "definitions_ex_en": "they made an unusual duo",
+      "definitions_ex_vn": "họ đã làm một bộ đôi bất thường",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "gain or earn (money or profit).",
+      "definitions_ex_en": "he'd made a lot of money out of hardware",
+      "definitions_ex_vn": "Anh ấy đã kiếm được rất nhiều tiền từ phần cứng",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "arrive at (a place) within a specified time or in time for (a train or other transport).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "go or prepare to go in a particular direction.",
+      "definitions_ex_en": "he struggled to his feet and made toward the car",
+      "definitions_ex_vn": "Anh ta vật lộn xuống chân anh ta và làm về phía xe",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(in bridge, whist, and similar games) win (a trick).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of the tide) begin to flow or ebb.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "the manufacturer or trade name of a particular product.",
+      "definitions_ex_en": "the make, model, and year of his car",
+      "definitions_ex_vn": "tạo nên, mô hình và năm xe của anh ấy",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the making of electrical contact.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683359_22df950ccd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683359_a67d42d812_o.png",
+      "id_image": "make_339986"
+    }
+  ]
+}

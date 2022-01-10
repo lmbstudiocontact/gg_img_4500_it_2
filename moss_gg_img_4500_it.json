@@ -1,0 +1,58 @@
+{
+  "english": "moss",
+  "list_translation_mean": [
+    {
+      "translate_mean": "rêu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "rong rêu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đầm lầy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mỏ than bùn",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a small flowerless green plant that lacks true roots, growing in damp habitats and reproducing by means of spores released from stalked capsules.",
+      "definitions_ex_en": "the trees are overgrown with vines and moss",
+      "definitions_ex_vn": "Cây cối phát triển quá mức với dây leo và rêu",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a green color like that of moss.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "cover with moss.",
+      "definitions_ex_en": "nature has mossed the gravel walks and roads",
+      "definitions_ex_vn": "Thiên nhiên đã rêu lên những chuyến đi bộ sỏi và đường bộ",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809690874_873bea350e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809690874_735454174a_o.png",
+      "id_image": "moss_2036769"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808380652_45f7dc5eed_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808380652_3dd9f10226_o.png",
+      "id_image": "moss_3196058"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335601_049f73f12e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335601_b53686ee2c_o.png",
+      "id_image": "moss_3968223"
+    }
+  ]
+}

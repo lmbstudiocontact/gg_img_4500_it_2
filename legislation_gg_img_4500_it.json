@@ -1,0 +1,47 @@
+{
+  "english": "legislation",
+  "list_translation_mean": [
+    {
+      "translate_mean": "quyền lập pháp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự làm luật",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự lập pháp",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "laws, considered collectively.",
+      "definitions_ex_en": "tax legislation",
+      "definitions_ex_vn": "Luật thuế",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808391307_c5382aa770_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808391307_40e73e41b5_o.png",
+      "id_image": "legislation_3883150"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809346371_b1f109f56a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809346371_96b8b7d038_o.png",
+      "id_image": "legislation_3900034"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809701214_6f27b42e04_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809701214_3a95aeb51f_o.png",
+      "id_image": "legislation_5605971"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809346271_db335550c4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809346271_008eeb3aea_o.png",
+      "id_image": "legislation_6174541"
+    }
+  ]
+}

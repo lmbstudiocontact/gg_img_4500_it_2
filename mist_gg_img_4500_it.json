@@ -1,0 +1,43 @@
+{
+  "english": "mist",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hơi nước",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sương mù",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phủ hơi nước",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a cloud of tiny water droplets suspended in the atmosphere at or near the earth's surface limiting visibility, but to a lesser extent than fog; strictly, with visibility remaining above 1.5 miles (1 km).",
+      "definitions_ex_en": "the peaks were shrouded in mist",
+      "definitions_ex_vn": "Các đỉnh được che khuất trong sương mù",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "cover or become covered with mist.",
+      "definitions_ex_en": "the windows were misted up with condensation",
+      "definitions_ex_vn": "Các cửa sổ đã bị phun sương với sự ngưng tụ",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809696029_5207cca01c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809696029_19e6e73efb_o.png",
+      "id_image": "mist_2910067"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809340726_8a7ea306a3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809340726_a5cc26028e_o.png",
+      "id_image": "mist_5756826"
+    }
+  ]
+}

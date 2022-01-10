@@ -1,0 +1,34 @@
+{
+  "english": "mediation",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự điều đình",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "intervention in a dispute in order to resolve it; arbitration.",
+      "definitions_ex_en": "the parties have sought mediation and it has failed",
+      "definitions_ex_vn": "Các bên đã tìm kiếm hòa giải và nó đã thất bại",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810054820_47632b7ae1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810054820_6a1d294850_o.png",
+      "id_image": "mediation_4144545"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809318186_30c5cfc633_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809318186_c6afc0b211_o.png",
+      "id_image": "mediation_4525505"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809433393_a817455140_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809433393_906254d015_o.png",
+      "id_image": "mediation_5437971"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "english": "implementation",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đầy đủ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hoàn thành",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự hoàn tất",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thêm vào",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the process of putting a decision or plan into effect; execution.",
+      "definitions_ex_en": "she was responsible for the implementation of the plan",
+      "definitions_ex_vn": "cô ấy chịu trách nhiệm thực hiện kế hoạch",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809436293_f1b130942f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809436293_819d3d4a80_o.png",
+      "id_image": "implementation_3057918"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809676114_3129e45e20_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809676114_c03c3f4c63_o.png",
+      "id_image": "implementation_4129447"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810057780_ac096f8727_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810057780_08c4c83ac8_o.png",
+      "id_image": "implementation_4702986"
+    }
+  ]
+}

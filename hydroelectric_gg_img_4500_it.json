@@ -1,0 +1,24 @@
+{
+  "english": "hydroelectric",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thủy điện",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "relating to or denoting the generation of electricity using flowing water (typically from a reservoir held behind a dam or other barrier) to drive a turbine that powers a generator.",
+      "definitions_ex_en": "economic and environmental aspect of the hydroelectric scheme",
+      "definitions_ex_vn": "khía cạnh kinh tế và môi trường của sơ đồ thủy điện",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810062660_c952385601_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810062660_10466bb444_o.png",
+      "id_image": "hydroelectric_5762583"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "english": "infinite",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bất định cách",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "không bờ bến",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "rất nhiều",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "số vô cực",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "vô cùng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "vô cực",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "vô hạn",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "limitless or endless in space, extent, or size; impossible to measure or calculate.",
+      "definitions_ex_en": "the infinite mercy of God",
+      "definitions_ex_vn": "sự thương xót vô hạn của Thiên Chúa",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "another term for nonfinite.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a space or quantity that is infinite.",
+      "definitions_ex_en": "beyond the infinite, the space traveler is transformed",
+      "definitions_ex_vn": "Ngoài vô hạn, du khách không gian được chuyển đổi",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809316961_dcb1608d8a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809316961_46a677b8d9_o.png",
+      "id_image": "infinite_2964647"
+    }
+  ]
+}

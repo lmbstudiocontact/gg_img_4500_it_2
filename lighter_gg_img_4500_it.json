@@ -1,0 +1,61 @@
+{
+  "english": "lighter",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cái bật lửa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "máy để đốt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người đốt đèn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tàu nhỏ chở hàng hóa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "xà lan",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chở hàng hóa bằng xà lan",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a device that produces a small flame, typically used to light cigarettes.",
+      "definitions_ex_en": "he lit a cigarette with his gold lighter",
+      "definitions_ex_vn": "Anh châm một điếu thuốc với cái bật lửa vàng của mình",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a flat-bottomed barge or other unpowered boat used to transfer cargo to and from ships in harbor.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "transport (goods) in a lighter.",
+      "definitions_ex_en": "they lightered their cargo ashore",
+      "definitions_ex_vn": "Họ nhẹ nhàng lên bờ hàng hóa của họ lên bờ",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810079835_316d2d43d6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810079835_a17379c991_o.png",
+      "id_image": "lighter_1020546"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809697649_43079d5d90_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809697649_8a9c16995c_o.png",
+      "id_image": "lighter_356996"
+    }
+  ]
+}

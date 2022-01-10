@@ -1,0 +1,36 @@
+{
+  "english": "notorious",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ai cũng biết cả",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "hiển nhiên",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "rõ ràng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "sờ sờ",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "famous or well known, typically for some bad quality or deed.",
+      "definitions_ex_en": "Los Angeles is notorious for its smog",
+      "definitions_ex_vn": "Los Angeles khét tiếng với khói bụi của nó",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365132_e9b5621d9e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365132_e305b36669_o.png",
+      "id_image": "notorious_4060736"
+    }
+  ]
+}

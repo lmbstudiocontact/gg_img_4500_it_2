@@ -1,0 +1,38 @@
+{
+  "english": "onion",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cọng hành",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "củ hành",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hành",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an edible bulb with a pungent taste and smell, composed of several concentric layers, used in cooking.",
+      "definitions_ex_en": "cook the onion in the oil until lightly colored",
+      "definitions_ex_vn": "Nấu hành tây trong dầu cho đến khi có màu nhẹ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the plant that produces the onion, with long rolled or straplike leaves and spherical heads of greenish-white flowers.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809346871_c92024b3e6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809346871_75d0eef43c_o.png",
+      "id_image": "onion_952021"
+    }
+  ]
+}

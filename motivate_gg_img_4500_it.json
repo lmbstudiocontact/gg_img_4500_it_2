@@ -1,0 +1,48 @@
+{
+  "english": "motivate",
+  "list_translation_mean": [
+    {
+      "translate_mean": "giải bày",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trình bày",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "provide (someone) with a motive for doing something.",
+      "definitions_ex_en": "he was primarily motivated by the desire for profit",
+      "definitions_ex_vn": "Ông chủ yếu được thúc đẩy bởi mong muốn lợi nhuận",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808380227_dcf25b75f2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808380227_2842f5a738_o.png",
+      "id_image": "motivate_1006627"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808380197_a6fa741b53_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808380197_a691d08d50_o.png",
+      "id_image": "motivate_2587003"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809690279_3fc76c44ec_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809690279_c2d7282541_o.png",
+      "id_image": "motivate_4133537"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808380157_d87028be0f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808380157_9b0bd97a80_o.png",
+      "id_image": "motivate_6001038"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808380117_285dc637d6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808380117_0a563063f8_o.png",
+      "id_image": "motivate_6002895"
+    }
+  ]
+}

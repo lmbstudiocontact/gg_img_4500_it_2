@@ -1,0 +1,116 @@
+{
+  "english": "hot",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cay",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "dâm dục",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "dâm đãng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "nêm gia vị",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "nóng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "nóng nải",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "động cởn",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "nồng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "hăng hái",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "nồng nhiệt",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "kịch liệt",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "nứng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "sắc tươi quá",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "nấu",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "having a high degree of heat or a high temperature.",
+      "definitions_ex_en": "it was hot inside the hall",
+      "definitions_ex_vn": "nó nóng trong hội trường",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of food) containing or consisting of pungent spices or peppers which produce a burning sensation when tasted.",
+      "definitions_ex_en": "a very hot dish cooked with green chili",
+      "definitions_ex_vn": "Một món ăn rất nóng nấu với ớt xanh",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "passionately enthusiastic, eager, or excited.",
+      "definitions_ex_en": "the idea had been nurtured in his hot imagination",
+      "definitions_ex_vn": "Ý tưởng đã được nuôi dưỡng trong trí tưởng tượng nóng bỏng của mình",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "involving much activity, debate, or intense feeling.",
+      "definitions_ex_en": "the environment has become a very hot issue",
+      "definitions_ex_vn": "Môi trường đã trở thành một vấn đề rất nóng",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "knowledgeable or skillful.",
+      "definitions_ex_en": "Tony is very hot on local history",
+      "definitions_ex_vn": "Tony rất nóng về lịch sử địa phương",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "difficult to deal with.",
+      "definitions_ex_en": "he found my story simply too hot to handle",
+      "definitions_ex_vn": "Anh tìm thấy câu chuyện của tôi đơn giản quá nóng để xử lý",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809685009_e4dd25141e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809685009_6fd6c1ea24_o.png",
+      "id_image": "hot_1553034"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808374687_296103e006_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808374687_89cc6e39e0_o.png",
+      "id_image": "hot_2188140"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809330071_d1c3a91b46_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809330071_44f5806648_o.png",
+      "id_image": "hot_645711"
+    }
+  ]
+}

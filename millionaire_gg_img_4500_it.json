@@ -1,0 +1,34 @@
+{
+  "english": "millionaire",
+  "list_translation_mean": [
+    {
+      "translate_mean": "nhà triệu phú",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person whose assets are worth one million dollars or more.",
+      "definitions_ex_en": "he is now a millionaire several times over",
+      "definitions_ex_vn": "Bây giờ anh ấy là một triệu phú nhiều lần",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809343096_0c6157f229_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809343096_c9198ef680_o.png",
+      "id_image": "millionaire_2072722"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809698304_a7a887c8e7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809698304_68b72ab230_o.png",
+      "id_image": "millionaire_3839662"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810080480_a6c703977b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810080480_2eb46cae66_o.png",
+      "id_image": "millionaire_4576277"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "english": "invite",
+  "list_translation_mean": [
+    {
+      "translate_mean": "gây ra",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "mời",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "rủ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thỉnh",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "sự mời",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự thỉnh cầu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự thỉnh mời",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "make a polite, formal, or friendly request to (someone) to go somewhere or to do something.",
+      "definitions_ex_en": "we were invited to a dinner at the Embassy",
+      "definitions_ex_vn": "Chúng tôi đã được mời đến một bữa ăn tối tại Đại sứ quán",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "an invitation.",
+      "definitions_ex_en": "no one turns down an invite to one of Mickey's parties",
+      "definitions_ex_vn": "Không ai quay lại lời mời đến một trong những bữa tiệc của Mickey",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809693349_d338de6190_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809693349_2a077aea04_o.png",
+      "id_image": "invite_2488415"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809338036_bacee62118_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809338036_bfdf96d329_o.png",
+      "id_image": "invite_5766413"
+    }
+  ]
+}

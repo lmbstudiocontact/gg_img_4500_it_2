@@ -1,0 +1,116 @@
+{
+  "english": "mix",
+  "list_translation_mean": [
+    {
+      "translate_mean": "pha",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đầu óc rối xòe",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự hòa lộn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự pha trộn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trộn nhiều thứ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự trộn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự trộn lộn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tư tưởng lộn xộn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trộn lẫn lộn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hòa lộn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lộn với việc khác",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "pha lộn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "pha trộn kim thuộc",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trộn lộn",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "combine or put together to form one substance or mass.",
+      "definitions_ex_en": "peppercorns are sometimes mixed with other spices for a table condiment",
+      "definitions_ex_vn": "Peppercorns đôi khi được trộn với các loại gia vị khác cho một gia vị bàn",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of a person) associate with others socially.",
+      "definitions_ex_en": "the people he mixed with were nothing to do with show business",
+      "definitions_ex_vn": "Những người anh ấy hỗn hợp không liên quan gì đến việc kinh doanh thể hiện",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(especially in sound recording) combine (two or more signals or soundtracks) into one.",
+      "definitions_ex_en": "up to eight tracks can be mixed simultaneously",
+      "definitions_ex_vn": "Tối đa tám bài hát có thể được trộn đồng thời",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "two or more different qualities, things, or people placed, combined, or considered together.",
+      "definitions_ex_en": "the decor is a mix of antique and modern",
+      "definitions_ex_vn": "trang trí là một sự pha trộn của đồ cổ và hiện đại",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a commercially prepared mixture of ingredients for making a particular type of food or a product such as concrete.",
+      "definitions_ex_en": "cake mixes have made cooking easier",
+      "definitions_ex_vn": "hỗn hợp bánh đã làm cho nấu ăn dễ dàng hơn",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a version of a recording in which the component tracks are mixed in a different way from the original.",
+      "definitions_ex_en": "a dance mix version of “This Charming Man.”",
+      "definitions_ex_vn": "Một phiên bản mix mix của \"Người đàn ông quyến rũ này\".",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808385347_8b40deefdf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808385347_89cc1a20b1_o.png",
+      "id_image": "mixed_1214379"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809340426_b4786917d1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809340426_06aa7bd790_o.png",
+      "id_image": "mix_2289953"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810077720_1477f43738_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810077720_2ed8443dfe_o.png",
+      "id_image": "mix_5376878"
+    }
+  ]
+}

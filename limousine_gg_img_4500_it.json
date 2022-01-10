@@ -1,0 +1,33 @@
+{
+  "english": "limousine",
+  "list_translation_mean": [
+    {
+      "translate_mean": "xe hòm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "xe hơi có nhiều chổ ngồi",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a large, luxurious automobile, especially one driven by a chauffeur who is separated from the passengers by a partition.",
+      "definitions_ex_en": "the Prince was whisked away in a black limousine",
+      "definitions_ex_vn": "Hoàng tử đã được rì nhẹ trong một chiếc limousine đen",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810078805_08c340a4b6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810078805_6e4a7eb049_o.png",
+      "id_image": "limousine_4579067"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809341406_0cdba6509f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809341406_b9d0e44464_o.png",
+      "id_image": "limousine_545095"
+    }
+  ]
+}

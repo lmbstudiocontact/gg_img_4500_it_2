@@ -1,0 +1,43 @@
+{
+  "english": "mandatory",
+  "list_translation_mean": [
+    {
+      "translate_mean": "có tánh cách ra lịnh",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "ra lịnh",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "bắt buộc",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "required by law or rules; compulsory.",
+      "definitions_ex_en": "wearing helmets was made mandatory for cyclists",
+      "definitions_ex_vn": "đội mũ bảo hiểm đã được thực hiện bắt buộc đối với người đi xe đạp",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "variant spelling of mandatary.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809326401_0815d8a467_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809326401_efd02ec90f_o.png",
+      "id_image": "mandatory_1118368"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809326366_72c177a5d9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809326366_c429ccbd23_o.png",
+      "id_image": "mandatory_2752873"
+    }
+  ]
+}

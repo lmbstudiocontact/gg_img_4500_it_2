@@ -1,0 +1,75 @@
+{
+  "english": "mode",
+  "list_translation_mean": [
+    {
+      "translate_mean": "âm pháp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cách ăn ở",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cách của động từ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cách thức",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thói quen",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thời thức",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thường thức",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "truyền pháp",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a way or manner in which something occurs or is experienced, expressed, or done.",
+      "definitions_ex_en": "his preferred mode of travel was a kayak",
+      "definitions_ex_vn": "Chế độ du lịch ưa thích của anh ấy là một chiếc thuyền kayak",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a fashion or style in clothes, art, literature, etc.",
+      "definitions_ex_en": "in the Seventies, the mode for activewear took hold",
+      "definitions_ex_vn": "Trong những năm bảy mươi, chế độ cho hoạt động đã giữ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the value that occurs most frequently in a given set of data.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a set of musical notes forming a scale and from which melodies and harmonies are constructed.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809339651_ef33b82fde_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809339651_c6cde929d4_o.png",
+      "id_image": "mode_1248154"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810076840_0bfae4cde7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810076840_afe61ee83e_o.png",
+      "id_image": "mode_3653321"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "english": "layout",
+  "list_translation_mean": [
+    {
+      "translate_mean": "dọn hàng ra",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đánh ngã người nào",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đặt nằm xuống",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sắp đặt ra",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vẻ việc gì",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "xài tiền",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đặt nằm xuống",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "liệm người",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "sắp đặt",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the way in which the parts of something are arranged or laid out.",
+      "definitions_ex_en": "changing the layout of the ground floor",
+      "definitions_ex_vn": "Thay đổi bố cục của tầng trệt",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809433013_f366880e30_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809433013_bc5de71cb7_o.png",
+      "id_image": "layout_1589569"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809432983_fb4e51a7c6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809432983_4c12156e3e_o.png",
+      "id_image": "layout_4356317"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809672569_df43ca71fe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809672569_7de8e06389_o.png",
+      "id_image": "layout_4507786"
+    }
+  ]
+}

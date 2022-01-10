@@ -1,0 +1,96 @@
+{
+  "english": "notice",
+  "list_translation_mean": [
+    {
+      "translate_mean": "biểu thị",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cáo thị",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lời báo trước",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lời cáo thị",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự chú ý",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "yết thị",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chỉ thị",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lời cáo trị",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chú ý đến",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "để ý",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nhận ra",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nhận thấy",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the fact of observing or paying attention to something.",
+      "definitions_ex_en": "their silence did not escape my notice",
+      "definitions_ex_vn": "sự im lặng của họ đã không thoát khỏi thông báo của tôi",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "notification or warning of something, especially to allow preparations to be made.",
+      "definitions_ex_en": "interest rates are subject to fluctuation without notice",
+      "definitions_ex_vn": "Lãi suất có thể biến động mà không cần thông báo trước",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a displayed sheet or placard giving news or information.",
+      "definitions_ex_en": "the jobs were advertised in a notice posted in the common room",
+      "definitions_ex_vn": "Các công việc đã được quảng cáo trong một thông báo được đăng trong phòng chung",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "become aware of.",
+      "definitions_ex_en": "he noticed the youths behaving suspiciously",
+      "definitions_ex_vn": "Anh nhận thấy những thanh niên cư xử nghi ngờ",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810057470_7873d2922b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810057470_530086069f_o.png",
+      "id_image": "notice_3154616"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810057415_848cafdf52_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810057415_507420d1f1_o.png",
+      "id_image": "notice_4807723"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365557_be0f3dda66_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365557_385265cc98_o.png",
+      "id_image": "notice_6000874"
+    }
+  ]
+}

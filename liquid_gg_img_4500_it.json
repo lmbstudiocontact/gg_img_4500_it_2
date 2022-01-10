@@ -1,0 +1,93 @@
+{
+  "english": "liquid",
+  "list_translation_mean": [
+    {
+      "translate_mean": "trong",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "êm ái",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "trong suốt",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "hay thay đổi",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "chất lõng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chất nước",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nước",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a substance that flows freely but is of constant volume, having a consistency like that of water or oil.",
+      "definitions_ex_en": "drink plenty of liquids",
+      "definitions_ex_vn": "Uống nhiều chất lỏng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a consonant produced by allowing the airstream to flow over the sides of the tongue, and able to be prolonged like a vowel (typically l and r ).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "having a consistency like that of water or oil, i.e., flowing freely but of constant volume.",
+      "definitions_ex_en": "liquid fertilizer",
+      "definitions_ex_vn": "Phân bón lỏng",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a sound) clear, pure, and flowing; harmonious.",
+      "definitions_ex_en": "the liquid song of the birds",
+      "definitions_ex_vn": "bài hát lỏng của những con chim",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of assets) held in cash or easily converted into cash.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a consonant, typically l and r ) produced by allowing the airstream to flow over the sides of the tongue, and able to be prolonged like a vowel.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809695879_e26bbd3814_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809695879_248d6f61ae_o.png",
+      "id_image": "liquid_2421543"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809455443_020fc140a4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809455443_2ba745764d_o.png",
+      "id_image": "liquid_3335567"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809340441_54b18c2098_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809340441_59762147cc_o.png",
+      "id_image": "liquid_4636015"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809455358_1ae416b3e2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809455358_a92218ddb6_o.png",
+      "id_image": "liquid_6192469"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "english": "hose",
+  "list_translation_mean": [
+    {
+      "translate_mean": "tất",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vòi nước bằng cao su",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vớ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a flexible tube conveying water, used chiefly for watering plants and in firefighting.",
+      "definitions_ex_en": "a sprinkler hose",
+      "definitions_ex_vn": "một vòi phun nước",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "stockings, socks, and tights (especially in commercial use).",
+      "definitions_ex_en": "a chorus girl's fishnet hose",
+      "definitions_ex_vn": "một cái vòi fishnet của cô gái hợp xướng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "water, spray, or drench with a hose.",
+      "definitions_ex_en": "he was hosing down the driveway",
+      "definitions_ex_vn": "Anh ta đang nhìn xuống đường lái xe",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809331146_935dbc5c7e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809331146_b718f4e795_o.png",
+      "id_image": "hose_256878"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375712_3a99453e45_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375712_d2bf9631ea_o.png",
+      "id_image": "hose_2674349"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375742_aa869036df_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375742_841c8481e0_o.png",
+      "id_image": "hose_356989"
+    }
+  ]
+}

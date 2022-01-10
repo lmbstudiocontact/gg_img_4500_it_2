@@ -1,0 +1,60 @@
+{
+  "english": "indentation",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chộ lồi lõm ở bờ biển",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dấu in bánh xe",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đường viền hình răng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lô đục khoét",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự cắt chung quanh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự đâu bằng mộng cưa",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the action of indenting or the state of being indented.",
+      "definitions_ex_en": "paragraphs are marked off by indentation",
+      "definitions_ex_vn": "Các đoạn được đánh dấu bằng cách thụt lề",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a deep recess or notch on the edge or surface of something.",
+      "definitions_ex_en": "the indentation between the upper lip and the nose",
+      "definitions_ex_vn": "vết lõm giữa môi trên và mũi",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809318301_c5572469f1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809318301_e052f8e657_o.png",
+      "id_image": "indentation_4598338"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808362802_5b02b4ebaa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808362802_e30811d475_o.png",
+      "id_image": "indentation_4598343"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809433488_ce6ea4c8d5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809433488_b7fdc8d345_o.png",
+      "id_image": "indentation_4598348"
+    }
+  ]
+}

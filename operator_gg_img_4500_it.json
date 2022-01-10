@@ -1,0 +1,80 @@
+{
+  "english": "operator",
+  "list_translation_mean": [
+    {
+      "translate_mean": "điện tín viên",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người lái xe",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người quay máy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người thợ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhà giải phẩu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhà mổ xẻ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sử dụng máy móc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tổng đài viên",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person who operates equipment or a machine.",
+      "definitions_ex_en": "a radio operator",
+      "definitions_ex_vn": "một nhà điều hành đài phát thanh.",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a person or company that engages in or runs a business or enterprise.",
+      "definitions_ex_en": "a tour operator",
+      "definitions_ex_vn": "một nhà điều hành tour du lịch",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a person who acts in a specified, especially a manipulative, way.",
+      "definitions_ex_en": "her reputation as a cool, clever operator",
+      "definitions_ex_vn": "danh tiếng của cô là một nhà điều hành thông minh, mát mẻ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a symbol or function denoting an operation (e.g. ×, +).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810083405_ee65e7e19b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810083405_f9d407c7a4_o.png",
+      "id_image": "operator_1042076"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810083365_37469fb262_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810083365_06d9a2aaea_o.png",
+      "id_image": "operator_3768443"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810083315_66e70657e6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810083315_2bee27353c_o.png",
+      "id_image": "operator_6083035"
+    }
+  ]
+}

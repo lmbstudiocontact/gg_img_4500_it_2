@@ -1,0 +1,32 @@
+{
+  "english": "muscular",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thuộc về bắp thịt",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thuộc về cơ",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thuộc về gân",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "relating to or affecting the muscles.",
+      "definitions_ex_en": "energy is needed for muscular activity",
+      "definitions_ex_vn": "Năng lượng là cần thiết cho hoạt động cơ bắp",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809446218_8ebb957946_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809446218_a0f32dffcd_o.png",
+      "id_image": "muscular_2307843"
+    }
+  ]
+}

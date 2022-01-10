@@ -1,0 +1,56 @@
+{
+  "english": "multiply",
+  "list_translation_mean": [
+    {
+      "translate_mean": "làm bội lên",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm cho sanh sản",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm tăng gia",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "sanh nở ra nhiều",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "truyền chủng",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "obtain from (a number) another that contains the first number a specified number of times.",
+      "definitions_ex_en": "I asked you to multiply fourteen by nineteen",
+      "definitions_ex_vn": "Tôi yêu cầu bạn nhân mười bốn lần bởi mười chín",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "in several different ways or respects.",
+      "definitions_ex_en": "multiply injured patients",
+      "definitions_ex_vn": "bội số bệnh nhân bị thương",
+      "definitions_type_word": "adverb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810068710_d2e06484a0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810068710_c9674a5cf6_o.png",
+      "id_image": "multiply_2845023"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808376752_3cec0bd080_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808376752_00e349e6d0_o.png",
+      "id_image": "multiply_3058490"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809331966_88c8d36ae5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809331966_bc58d1edac_o.png",
+      "id_image": "multiply_5558675"
+    }
+  ]
+}

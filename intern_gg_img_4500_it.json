@@ -1,0 +1,38 @@
+{
+  "english": "intern",
+  "list_translation_mean": [
+    {
+      "translate_mean": "giử lại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nhốt",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "quản thúc",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a student or trainee who works, sometimes without pay, at a trade or occupation in order to gain work experience.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "confine (someone) as a prisoner, especially for political or military reasons.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809456538_a23f56487f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809456538_a4b0421ec8_o.png",
+      "id_image": "intern_6159648"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "english": "inspection",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cuộc duyệt binh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự kiểm tra",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự kiểm duyệt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự khám xét",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự thanh tra",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự xem xét",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "careful examination or scrutiny.",
+      "definitions_ex_en": "on closer inspection it looked like a fossil",
+      "definitions_ex_vn": "Khi kiểm tra kỹ hơn, nó trông giống như một hóa thạch",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809344786_bdbd31eb73_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809344786_ae0ece5947_o.png",
+      "id_image": "inspection_2928852"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809699859_a8d6a910ac_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809699859_70974e0440_o.png",
+      "id_image": "inspection_3445760"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808389667_60efa48a3a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808389667_3b05131e78_o.png",
+      "id_image": "inspection_4846000"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809699819_6d52733fc5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809699819_664a6133c6_o.png",
+      "id_image": "inspection_4867120"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809459598_fc28d8d978_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809459598_83f552a3ef_o.png",
+      "id_image": "inspection_642461"
+    }
+  ]
+}

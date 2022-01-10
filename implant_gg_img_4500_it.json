@@ -1,0 +1,61 @@
+{
+  "english": "implant",
+  "list_translation_mean": [
+    {
+      "translate_mean": "in sâu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cắm vào",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đâm vào",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "gắn vào",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "khắc vào",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "insert or fix (tissue or an artificial object) in a person's body, especially by surgery.",
+      "definitions_ex_en": "electrodes had been implanted in his brain",
+      "definitions_ex_vn": "Các điện cực đã được cấy vào não của anh ấy",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a thing implanted in something else, especially a piece of tissue, prosthetic device, or other object implanted in the body.",
+      "definitions_ex_en": "a silicone breast implant",
+      "definitions_ex_vn": "cấy ghép vú silicon",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809436593_ab17cb9d48_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809436593_c34e198109_o.png",
+      "id_image": "implant_1328992"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810058075_faff872aae_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810058075_702933695c_o.png",
+      "id_image": "implant_2905880"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809436518_b9481b7942_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809436518_63c0887ddd_o.png",
+      "id_image": "implant_4529992"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810057965_a60959262b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810057965_fb562a20f3_o.png",
+      "id_image": "implant_6408821"
+    }
+  ]
+}

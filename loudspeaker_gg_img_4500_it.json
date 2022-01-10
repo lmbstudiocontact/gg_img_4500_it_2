@@ -1,0 +1,34 @@
+{
+  "english": "loudspeaker",
+  "list_translation_mean": [
+    {
+      "translate_mean": "máy phát thanh",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an apparatus that converts electrical impulses into sound, typically as part of a public address system or stereo equipment.",
+      "definitions_ex_en": "a muffled announcement is made over the loudspeaker",
+      "definitions_ex_vn": "một thông báo bị bóp nghẹt được thực hiện trên loa",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810071375_922172a887_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810071375_a746b2c767_o.png",
+      "id_image": "loudspeaker_1370357"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808379257_22111931dc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808379257_e42ddf4df3_o.png",
+      "id_image": "loudspeaker_2419975"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808379342_09ae38aae8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808379342_6b62ee8f3c_o.png",
+      "id_image": "loudspeaker_404677"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "english": "internet",
+  "list_translation_mean": [
+    {
+      "translate_mean": "internet",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a global computer network providing a variety of information and communication facilities, consisting of interconnected networks using standardized communication protocols.",
+      "definitions_ex_en": "the guide is also available on the internet",
+      "definitions_ex_vn": "Hướng dẫn cũng có sẵn trên Internet",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809696729_a0d7988222_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809696729_f28589f511_o.png",
+      "id_image": "internet_287509"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808386502_e7a45c6e1d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808386502_12a26f76d4_o.png",
+      "id_image": "internet_364138"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808386477_e7fdb720ab_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808386477_c93f1ef1f9_o.png",
+      "id_image": "internet_646462"
+    }
+  ]
+}

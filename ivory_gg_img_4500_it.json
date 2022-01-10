@@ -1,0 +1,35 @@
+{
+  "english": "ivory",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ngà voi",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a hard creamy-white substance composing the main part of the tusks of an elephant, walrus, or narwhal, often (especially formerly) used to make ornaments and other articles.",
+      "definitions_ex_en": "a knife with an ivory handle",
+      "definitions_ex_vn": "một con dao với một tay cầm ngà",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a creamy-white color.",
+      "definitions_ex_en": "an ivory silk blouse",
+      "definitions_ex_vn": "một chiếc áo lụa ngà",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809451568_2e39a219c4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809451568_78a581920e_o.png",
+      "id_image": "ivory_3770434"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809691919_44987d53c3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809691919_a64bc0e7c1_o.png",
+      "id_image": "ivory_5238315"
+    }
+  ]
+}

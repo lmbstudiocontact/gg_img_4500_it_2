@@ -1,0 +1,61 @@
+{
+  "english": "marble",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đồ chạm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "làm có vân như cẩm thạch",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a hard crystalline metamorphic form of limestone, typically white with mottlings or streaks of color, that is capable of taking a polish and is used in sculpture and architecture.",
+      "definitions_ex_en": "the spotless white marble of the Taj Mahal",
+      "definitions_ex_vn": "Đá cẩm thạch trắng không tì vết của Taj Mahal",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a small ball of colored glass or similar material used as a toy.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "one's mental faculties.",
+      "definitions_ex_en": "I thought she'd lost her marbles, asking a question like that",
+      "definitions_ex_vn": "Tôi nghĩ rằng cô ấy đã mất những viên bi của mình, đặt câu hỏi như thế",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "stain or streak (something) so that it looks like variegated marble.",
+      "definitions_ex_en": "the low stone walls were marbled with moss and lichen",
+      "definitions_ex_vn": "Những bức tường đá thấp được cẩm thạch với rêu và địa y",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810060695_88ca3c7822_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810060695_8c4b724f3d_o.png",
+      "id_image": "marble_4455509"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809438853_ffd5b36109_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809438853_5a19779892_o.png",
+      "id_image": "marble_4776074"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808368642_b998155a99_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808368642_ea64ab7bef_o.png",
+      "id_image": "marble_4785406"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810060545_f52fe42dc5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810060545_f07f20cf58_o.png",
+      "id_image": "marble_6365793"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "english": "juggler",
+  "list_translation_mean": [
+    {
+      "translate_mean": "kẻ lừa bịp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "kẻ lừa gạt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nghệ sĩ chuyên tung hứng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nghệ sĩ múa rối",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an entertainer who continuously tosses into the air and catches a number of objects so as to keep at least one in the air while handling the others.",
+      "definitions_ex_en": "a circus juggler",
+      "definitions_ex_vn": "Một tung hứng xiếc",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808376002_116feb197b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808376002_faed0f7311_o.png",
+      "id_image": "juggler_2445303"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809446253_590f8fa775_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809446253_9f5423a8ba_o.png",
+      "id_image": "juggler_4576091"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686269_c6aea14b9e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686269_1f5721b848_o.png",
+      "id_image": "juggler_5257669"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808376052_905b81ab26_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808376052_24553eca1c_o.png",
+      "id_image": "juggler_722853"
+    }
+  ]
+}

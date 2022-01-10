@@ -1,0 +1,112 @@
+{
+  "english": "mould",
+  "list_translation_mean": [
+    {
+      "translate_mean": "khuôn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dể cày",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đất phân",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đất tốt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đường chỉ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lổ khuôn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vun đất xốp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đất xốp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "kiểu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khuôn đúc gang",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đúc",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lấy kiểu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lấy khuôn",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a hollow container used to give shape to molten or hot liquid material (such as wax or metal) when it cools and hardens.",
+      "definitions_ex_en": "the smith would pour the molten metal into the shaped mold",
+      "definitions_ex_vn": "Smith sẽ đổ kim loại nóng chảy vào khuôn hình",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a distinctive and typical style, form, or character.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a frame or template for producing moldings.",
+      "definitions_ex_en": "all the molds, masters or originals, had been kept for reference",
+      "definitions_ex_vn": "tất cả các khuôn mẫu, thạc sĩ hoặc bản gốc, đã được giữ để tham khảo",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a furry growth of minute fungal hyphae occurring typically in moist warm conditions, especially on food or other organic matter.",
+      "definitions_ex_en": "mold may flourish unhindered",
+      "definitions_ex_vn": "khuôn có thể phát triển mạnh mẽ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "form (an object) out of malleable material.",
+      "definitions_ex_en": "a Connecticut inventor molded a catamaran out of polystyrene foam",
+      "definitions_ex_vn": "Một nhà phát minh Connecticut đúc một catamaran ra khỏi bọt polystyrene",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "influence the formation or development of.",
+      "definitions_ex_en": "he was instrumental in molding the policy and ideals of the journal",
+      "definitions_ex_vn": "Ông là công cụ đúc các chính sách và lý tưởng của tạp chí",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809334461_7a97f15fbb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809334461_55e6b76faf_o.png",
+      "id_image": "mould_2614619"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809689589_299a3bb846_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809689589_4e4f91bd4e_o.png",
+      "id_image": "mould_455325"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809334491_24b429582d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809334491_5edf9156c6_o.png",
+      "id_image": "mould_817327"
+    }
+  ]
+}

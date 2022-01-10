@@ -1,0 +1,33 @@
+{
+  "english": "innovate",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cải cách",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đổi mới",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "make changes in something established, especially by introducing new methods, ideas, or products.",
+      "definitions_ex_en": "the company's failure to diversify and innovate competitively",
+      "definitions_ex_vn": "Công ty không đa dạng hóa và đổi mới cạnh tranh",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808391302_92f19cc44a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808391302_993a29de14_o.png",
+      "id_image": "innovate_2586972"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810083765_a625b8c8e9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810083765_e6ec4ab5f3_o.png",
+      "id_image": "innovate_2643499"
+    }
+  ]
+}

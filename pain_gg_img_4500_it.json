@@ -1,0 +1,88 @@
+{
+  "english": "pain",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đau",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cơn đau",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hình phạt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nổi khổ đau",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự đau đớn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự đau về xác thịt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đau đớn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "khổ sở",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm đau",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "physical suffering or discomfort caused by illness or injury.",
+      "definitions_ex_en": "she's in great pain",
+      "definitions_ex_vn": "Cô ấy đau đớn",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "careful effort; great care or trouble.",
+      "definitions_ex_en": "she took pains to see that everyone ate well",
+      "definitions_ex_vn": "Cô đau đớn để thấy rằng mọi người đã ăn tốt",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "cause mental or physical pain to.",
+      "definitions_ex_en": "it pains me to say this",
+      "definitions_ex_vn": "Nó làm tôi đau đớn để nói điều này",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808382067_436292692f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808382067_82895e9420_o.png",
+      "id_image": "pain_1488181"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808382042_792324d773_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808382042_8483966e10_o.png",
+      "id_image": "pain_1683154"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810073970_e885529a75_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810073970_dce9c7883a_o.png",
+      "id_image": "pain_2037321"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809451768_f48bea1367_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809451768_d7b7183573_o.png",
+      "id_image": "pain_4844001"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808381947_2e025f95a0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808381947_001f1e709b_o.png",
+      "id_image": "pain_6257658"
+    }
+  ]
+}

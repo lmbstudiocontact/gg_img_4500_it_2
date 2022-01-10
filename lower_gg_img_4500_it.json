@@ -1,0 +1,104 @@
+{
+  "english": "lower",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bớt bề cao của vật gì",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cúi xuống",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "giãm bớt",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "giãm giá",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "hạ cờ xuống",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "hạ xuống",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "kéo xuống",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm nhục",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm xấu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thấp xuống",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "xuống giọng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "xụp xuống",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "less high in position.",
+      "definitions_ex_en": "the lower levels of the building",
+      "definitions_ex_vn": "mức độ thấp hơn của tòa nhà",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "denoting an older (and hence usually deeper) part of a stratigraphic division or archaeological deposit or the period in which it was formed or deposited.",
+      "definitions_ex_en": "Lower Cretaceous",
+      "definitions_ex_vn": "Hạ tù điểm",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "situated to the south.",
+      "definitions_ex_en": "the Lower East Side",
+      "definitions_ex_vn": "phía đông dưới",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "in or into a lower position.",
+      "definitions_ex_en": "the sun sank lower",
+      "definitions_ex_vn": "Mặt trời chìm xuống thấp hơn",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "move (someone or something) in a downward direction.",
+      "definitions_ex_en": "he watched the coffin being lowered into the ground",
+      "definitions_ex_vn": "Anh nhìn quan tài bị hạ xuống đất",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "look angry or sullen; frown.",
+      "definitions_ex_en": "the lofty statue lowers at patients in the infirmary",
+      "definitions_ex_vn": "bức tượng cao cả thấp ở bệnh nhân ở bệnh xá",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a scowl.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808378587_700a33041a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808378587_27251e527d_o.png",
+      "id_image": "lower_1617773"
+    }
+  ]
+}

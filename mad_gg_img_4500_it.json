@@ -1,0 +1,112 @@
+{
+  "english": "mad",
+  "list_translation_mean": [
+    {
+      "translate_mean": "điên",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "khôn",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "dại",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "điên cuồng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "điên quá",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "giận dữ",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "mất trí",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "nổi xung",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "phát cuồng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "phát điên",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "phẫn nộ",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "rất điên",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "very angry.",
+      "definitions_ex_en": "they were mad at each other",
+      "definitions_ex_vn": "Họ giận nhau",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "very enthusiastic about someone or something.",
+      "definitions_ex_en": "I wasn't mad about mountain bikes",
+      "definitions_ex_vn": "Tôi đã không điên về xe đạp leo núi",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "make mad or insane.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "mutual (or mutually) assured destruction.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "abbreviation"
+    },
+    {
+      "definitions_word_en": "Moroccan dirham(s).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "abbreviation"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809685709_027695f8de_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809685709_a33e30e3cf_o.png",
+      "id_image": "mad_2366540"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375272_78745c5bc4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375272_e609b88889_o.png",
+      "id_image": "mad_4126695"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375242_ab32684c53_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375242_927b0383d1_o.png",
+      "id_image": "mad_5747320"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809445493_e8fd66aafd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809445493_7cb5d722ae_o.png",
+      "id_image": "mad_6066498"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809330426_c1287f6a41_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809330426_d66a227ddf_o.png",
+      "id_image": "mad_6300341"
+    }
+  ]
+}

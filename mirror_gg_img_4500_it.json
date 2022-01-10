@@ -1,0 +1,48 @@
+{
+  "english": "mirror",
+  "list_translation_mean": [
+    {
+      "translate_mean": "gương",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "kiến",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phản chiếu",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a reflective surface, now typically of glass coated with a metal amalgam, that reflects a clear image.",
+      "definitions_ex_en": "he checked his appearance in the mirror",
+      "definitions_ex_vn": "Anh ấy đã kiểm tra sự xuất hiện của anh ấy trong gương",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(of a reflective surface) show a reflection of.",
+      "definitions_ex_en": "the clear water mirrored the sky",
+      "definitions_ex_vn": "Nước sạch sẽ nhân đôi bầu trời",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809696589_4b4452f9d9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809696589_55c6a96b2e_o.png",
+      "id_image": "mirror_1043200"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809696564_90dccf46c3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809696564_709925f72b_o.png",
+      "id_image": "mirror_1202537"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809341411_a2739a032e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809341411_dd52222163_o.png",
+      "id_image": "mirror_699316"
+    }
+  ]
+}

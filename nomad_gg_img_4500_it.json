@@ -1,0 +1,43 @@
+{
+  "english": "nomad",
+  "list_translation_mean": [
+    {
+      "translate_mean": "nay đây mai đó",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "vô định",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a member of a people having no permanent abode, and who travel from place to place to find fresh pasture for their livestock.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809437408_e4fd02ee6d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809437408_76a5019a83_o.png",
+      "id_image": "nomad_4664892"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809437348_7b69500ce0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809437348_e060bd6d53_o.png",
+      "id_image": "nomad_5779011"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809437298_b07f2bcca0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809437298_aaa5131d4a_o.png",
+      "id_image": "nomad_5999270"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809322056_02e18854b2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809322056_b81fdf3e49_o.png",
+      "id_image": "nomad_5999337"
+    }
+  ]
+}

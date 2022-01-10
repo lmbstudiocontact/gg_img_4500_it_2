@@ -1,0 +1,129 @@
+{
+  "english": "off",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ra khơi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "bổ trợ",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "phụ thuộc",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "ở xa",
+      "type_word": "preposition"
+    },
+    {
+      "translate_mean": "từ",
+      "type_word": "preposition"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "away from the place in question; to or at a distance.",
+      "definitions_ex_en": "the man ran off",
+      "definitions_ex_vn": "Người đàn ông chạy ra",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "so as to be removed or separated.",
+      "definitions_ex_en": "he whipped off his coat",
+      "definitions_ex_vn": "Anh ta quất ra khỏi áo khoác",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "starting a journey or race; leaving.",
+      "definitions_ex_en": "the gunmen made off on foot",
+      "definitions_ex_vn": "Các tay súng làm bằng chân",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "so as to bring to an end or be discontinued.",
+      "definitions_ex_en": "the Christmas party rounded off a hugely successful year",
+      "definitions_ex_vn": "Bữa tiệc Giáng sinh đã làm tròn một năm hoàn toàn thành công",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "(of an electrical appliance or power supply) not functioning or so as to cease to function.",
+      "definitions_ex_en": "switch the TV off",
+      "definitions_ex_vn": "tắt TV",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "having access to or possession of material goods or wealth to the extent specified.",
+      "definitions_ex_en": "we'd been rather badly off for books",
+      "definitions_ex_vn": "Chúng tôi đã khá tệ cho những cuốn sách",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "moving away and often down from.",
+      "definitions_ex_en": "he rolled off the bed",
+      "definitions_ex_vn": "Anh lăn ra khỏi giường",
+      "definitions_type_word": "preposition"
+    },
+    {
+      "definitions_word_en": "situated or leading in a direction away from (a main route or intersection).",
+      "definitions_ex_en": "single wires leading off the main lines",
+      "definitions_ex_vn": "Dây đơn dẫn đầu các dòng chính",
+      "definitions_type_word": "preposition"
+    },
+    {
+      "definitions_word_en": "so as to be removed or separated from.",
+      "definitions_ex_en": "threatening to tear it off its hinges",
+      "definitions_ex_vn": "đe dọa xé nó ra khỏi bản lề của nó",
+      "definitions_type_word": "preposition"
+    },
+    {
+      "definitions_word_en": "characterized by performing or feeling worse than usual; unsatisfactory or inadequate.",
+      "definitions_ex_en": "even the greatest athletes have off days",
+      "definitions_ex_vn": "Ngay cả các vận động viên vĩ đại nhất cũng có những ngày",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of food) no longer fresh.",
+      "definitions_ex_en": "the fish was a bit off",
+      "definitions_ex_vn": "Cá đã tắt một chút",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "located on the side of a vehicle that is normally furthest from the curb; offside.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "the half of the field (as divided lengthways through the pitch) toward which the batsman's feet are pointed when standing to receive the ball.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "Office.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "abbreviation"
+    },
+    {
+      "definitions_word_en": "Officer.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "abbreviation"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809703494_de0c4ecac6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809703494_15135b36b9_o.png",
+      "id_image": "off_1744264"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810086025_f26013f4b7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810086025_aa4af4e775_o.png",
+      "id_image": "off_4752777"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "english": "lawsuit",
+  "list_translation_mean": [
+    {
+      "translate_mean": "việc kiện cáo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "việc tố tụng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "việc tranh tụng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a claim or dispute brought to a court of law for adjudication.",
+      "definitions_ex_en": "his lawyer filed a lawsuit against Los Angeles city",
+      "definitions_ex_vn": "Luật sư của ông đã đệ đơn kiện thành phố Los Angeles",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809433498_d6df251511_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809433498_e4d90b18d8_o.png",
+      "id_image": "lawsuit_2035020"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809318216_dbbafff0b0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809318216_9c452b4412_o.png",
+      "id_image": "lawsuit_6333153"
+    }
+  ]
+}

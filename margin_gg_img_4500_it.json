@@ -1,0 +1,76 @@
+{
+  "english": "margin",
+  "list_translation_mean": [
+    {
+      "translate_mean": "lề trang sách",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phần ngày giờ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "số tiền bảo chứng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "số dư dùng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chừa lề trang sách",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đóng tiền bảo chứng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "viết trên lề sách",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the edge or border of something.",
+      "definitions_ex_en": "the eastern margin of the Indian Ocean",
+      "definitions_ex_vn": "Biên độ phía đông của Ấn Độ Dương",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an amount by which a thing is won or falls short.",
+      "definitions_ex_en": "they won by a convincing 17-point margin",
+      "definitions_ex_vn": "họ đã giành được bởi một biên độ 17 điểm thuyết phục",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "provide with an edge or border.",
+      "definitions_ex_en": "its leaves are margined with yellow",
+      "definitions_ex_vn": "Lá của nó được kết hợp với màu vàng",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "deposit an amount of money with a broker as security for (an account or transaction).",
+      "definitions_ex_en": "new contracts are margined with the winnings of previously held contracts",
+      "definitions_ex_vn": "Hợp đồng mới được kết hợp với số tiền thắng của các hợp đồng được tổ chức trước đó",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809323416_4cfbc05f84_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809323416_4e49b594ed_o.png",
+      "id_image": "margin_2640831"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810060220_184fde253b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810060220_a3ba8f86d8_o.png",
+      "id_image": "margin_3063570"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810060290_bc84f1bddb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810060290_e68ae7b28c_o.png",
+      "id_image": "margin_893415"
+    }
+  ]
+}

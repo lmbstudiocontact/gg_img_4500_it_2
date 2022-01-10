@@ -1,0 +1,24 @@
+{
+  "english": "oversleep",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ngủ quá giờ thức dậy",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "sleep longer or later than one intended.",
+      "definitions_ex_en": "we talked until the early hours and consequently I overslept",
+      "definitions_ex_vn": "chúng tôi đã nói chuyện cho đến đầu giờ và do đó tôi ngủ quên",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810077265_feaa315a1b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810077265_349264b0a6_o.png",
+      "id_image": "oversleep_6164676"
+    }
+  ]
+}

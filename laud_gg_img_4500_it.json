@@ -1,0 +1,42 @@
+{
+  "english": "laud",
+  "list_translation_mean": [
+    {
+      "translate_mean": "lời tán dương",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tán tụng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khen ngợi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tán tụng",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "praise (a person or their achievements) highly, especially in a public context.",
+      "definitions_ex_en": "the obituary lauded him as a great statesman and soldier",
+      "definitions_ex_vn": "Cáo phó ca ngợi anh ta là một tiểu bang vĩ đại và người lính",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "praise.",
+      "definitions_ex_en": "all glory, laud, and honor to Thee",
+      "definitions_ex_vn": "tất cả vinh quang, laud, và vinh dự với bạn",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810056280_f63c2ace25_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810056280_a7e92462d8_o.png",
+      "id_image": "laud_4366567"
+    }
+  ]
+}

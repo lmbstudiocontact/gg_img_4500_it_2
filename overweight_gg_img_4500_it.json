@@ -1,0 +1,64 @@
+{
+  "english": "overweight",
+  "list_translation_mean": [
+    {
+      "translate_mean": "quá sức nặng hợp lệ",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "số nặng quá",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sức nặng quá",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chở quá nặng",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "above a weight considered normal or desirable.",
+      "definitions_ex_en": "he's forty pounds overweight",
+      "definitions_ex_vn": "Anh thừa cân bốn mươi bảng",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "having more investment in a particular area than is normal or desirable.",
+      "definitions_ex_en": "two of the top three overweight sectors in the US market",
+      "definitions_ex_vn": "hai trong số ba lĩnh vực thừa cân hàng đầu tại thị trường Mỹ",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "excessive or extra weight.",
+      "definitions_ex_en": "surgical procedures for overweight",
+      "definitions_ex_vn": "Thủ tục phẫu thuật thừa cân",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "put too much weight on; overload.",
+      "definitions_ex_en": "try not to overweight the boxes",
+      "definitions_ex_vn": "Cố gắng không thừa cân các hộp",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810076910_bbe8ecd8da_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810076910_3ca4f85e2c_o.png",
+      "id_image": "overweight_1240806"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808384587_83ec62bf4e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808384587_1935a096fd_o.png",
+      "id_image": "overweight_2860856"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810076850_bf9218e5d1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810076850_4b13360966_o.png",
+      "id_image": "overweight_6207854"
+    }
+  ]
+}

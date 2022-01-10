@@ -1,0 +1,138 @@
+{
+  "english": "measure",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đo",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đong",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đo kích tất",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lường",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trắc lượng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đo kích thước",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cách đo lường",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đồ dùng để đo lường",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đơn vị đo lường",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phép đo lường",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự đo lường",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tầm đường kiếm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thước để đo cất nhà cửa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thước đo cắt quần áo",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "ascertain the size, amount, or degree of (something) by using an instrument or device marked in standard units or by comparing it with an object of known size.",
+      "definitions_ex_en": "the amount of water collected is measured in pints",
+      "definitions_ex_vn": "Lượng nước thu được được đo bằng pint",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "estimate or assess the extent, quality, value, or effect of (something).",
+      "definitions_ex_en": "it is hard to measure teaching ability",
+      "definitions_ex_vn": "Thật khó để đo lường khả năng giảng dạy",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "travel over (a certain distance or area).",
+      "definitions_ex_en": "we must measure twenty miles today",
+      "definitions_ex_vn": "chúng ta phải đo hai mươi dặm ngày hôm nay",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a plan or course of action taken to achieve a particular purpose.",
+      "definitions_ex_en": "cost-cutting measures",
+      "definitions_ex_vn": "biện pháp cắt chi phí",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a standard unit used to express the size, amount, or degree of something.",
+      "definitions_ex_en": "a furlong is an obsolete measure of length",
+      "definitions_ex_vn": "một furlong là một thước đo dài lỗi thời",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a certain quantity or degree of something.",
+      "definitions_ex_en": "the states retain a large measure of independence",
+      "definitions_ex_vn": "Các quốc gia giữ lại một biện pháp độc lập lớn",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the rhythm of a piece of poetry or a piece of music.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a group of rock strata.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808363297_7667704df4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808363297_233b1411ab_o.png",
+      "id_image": "measure_3690278"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810055305_8008fb8ec4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810055305_b064412f22_o.png",
+      "id_image": "measure_4220237"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809433908_4309f4e1bd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809433908_8801a9e8d4_o.png",
+      "id_image": "measure_4271182"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809318741_66e964a9d6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809318741_4af190b33f_o.png",
+      "id_image": "measure_448764"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809673534_23a0e7bf74_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809673534_5ec97c56e3_o.png",
+      "id_image": "measure_5181894"
+    }
+  ]
+}

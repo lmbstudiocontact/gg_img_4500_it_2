@@ -1,0 +1,47 @@
+{
+  "english": "illustration",
+  "list_translation_mean": [
+    {
+      "translate_mean": "giải nghĩa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thí dụ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thuật vẽ tranh ảnh",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a picture illustrating a book, newspaper, etc.",
+      "definitions_ex_en": "an illustration of a yacht",
+      "definitions_ex_vn": "Một minh họa của một du thuyền",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809678234_feeacda5a0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809678234_c1d0b00c72_o.png",
+      "id_image": "illustration_1688378"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809323046_3781248c16_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809323046_09a4433fbd_o.png",
+      "id_image": "illustration_2301794"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810059720_bfbe8ca73a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810059720_50cf8b7493_o.png",
+      "id_image": "illustration_4359629"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809678299_093d00d94e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809678299_45a807539a_o.png",
+      "id_image": "illustration_538091"
+    }
+  ]
+}

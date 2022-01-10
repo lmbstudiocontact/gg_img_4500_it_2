@@ -1,0 +1,40 @@
+{
+  "english": "modify",
+  "list_translation_mean": [
+    {
+      "translate_mean": "canh cải",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đổi nghĩa",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm giảm bớt",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "sửa",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "sửa đổi",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "make partial or minor changes to (something), typically so as to improve it or to make it less extreme.",
+      "definitions_ex_en": "she may be prepared to modify her views",
+      "definitions_ex_vn": "cô ấy có thể chuẩn bị để sửa đổi quan điểm của mình",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809453778_3acce5486d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809453778_8031287382_o.png",
+      "id_image": "modify_2196224"
+    }
+  ]
+}

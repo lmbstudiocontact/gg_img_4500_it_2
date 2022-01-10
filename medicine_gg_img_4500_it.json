@@ -1,0 +1,67 @@
+{
+  "english": "medicine",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thuốc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thuốc xổ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dược phẩm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "y học",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "y thuật",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the science or practice of the diagnosis, treatment, and prevention of disease (in technical use often taken to exclude surgery).",
+      "definitions_ex_en": "he made distinguished contributions to pathology and medicine",
+      "definitions_ex_vn": "Ông đã thực hiện những đóng góp nổi bật với bệnh lý và y học",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a compound or preparation used for the treatment or prevention of disease, especially a drug or drugs taken by mouth.",
+      "definitions_ex_en": "give her some medicine",
+      "definitions_ex_vn": "cho cô ấy một ít thuốc",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(especially among some North American Indian peoples) a spell, charm, or fetish believed to have healing, protective, or other power.",
+      "definitions_ex_en": "Fleur was murdering him by use of bad medicine",
+      "definitions_ex_vn": "Fleur đã giết anh ta bằng cách sử dụng thuốc xấu",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809349141_e5af1b0078_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809349141_458f7c13f2_o.png",
+      "id_image": "medicine_171795"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809463843_44d3c4a53e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809463843_32a5d67c4a_o.png",
+      "id_image": "medicine_203137"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810086365_8f721bafaa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810086365_55632af17c_o.png",
+      "id_image": "medicine_549131"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810086345_ab192b152c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810086345_2a0e434469_o.png",
+      "id_image": "medicine_807123"
+    }
+  ]
+}

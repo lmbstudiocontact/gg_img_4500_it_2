@@ -1,0 +1,29 @@
+{
+  "english": "notebook",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sổ tập ký",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a small book with blank or ruled pages for writing notes in.",
+      "definitions_ex_en": "he copied the number into his notebook",
+      "definitions_ex_vn": "Anh ấy đã sao chép số vào máy tính xách tay của anh ấy",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809436223_9fabfd2023_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809436223_1a5811747c_o.png",
+      "id_image": "notebook_123793"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809436173_d53e2a9e7a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809436173_9f0ec44313_o.png",
+      "id_image": "notebook_200434"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "english": "jug",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cái bình",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiếng hót của chim sơn ca",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hót",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "prison.",
+      "definitions_ex_en": "three months in the jug",
+      "definitions_ex_vn": "ba tháng trong bình",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a secure hold that is cut into rock for climbing.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "stew or boil (a hare or rabbit) in a covered container.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686484_62e4e831f0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686484_a0c44a82ba_o.png",
+      "id_image": "jug_1356988"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686514_6cf1eaa7ab_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686514_600d447abf_o.png",
+      "id_image": "jug_205048"
+    }
+  ]
+}

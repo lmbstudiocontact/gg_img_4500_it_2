@@ -1,0 +1,44 @@
+{
+  "english": "medication",
+  "list_translation_mean": [
+    {
+      "translate_mean": "phép trị liệu",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a substance used for medical treatment, especially a medicine or drug.",
+      "definitions_ex_en": "certain medications can cause dizziness",
+      "definitions_ex_vn": "một số loại thuốc có thể gây chóng mặt",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809318076_83976cd71f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809318076_56620cf7fc_o.png",
+      "id_image": "medication_1098069"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809433308_26ba3f1922_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809433308_10b88985b7_o.png",
+      "id_image": "medication_2621577"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809318071_55c13aca4f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809318071_0b8658e846_o.png",
+      "id_image": "medication_2621814"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809433273_1132d0aefe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809433273_e88bc8f6ce_o.png",
+      "id_image": "medication_4514486"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809672949_a996c6874b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809672949_b10442e854_o.png",
+      "id_image": "medication_552437"
+    }
+  ]
+}

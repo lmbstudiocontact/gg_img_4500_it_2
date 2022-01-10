@@ -1,0 +1,24 @@
+{
+  "english": "letterhead",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bìa thơ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a printed heading on stationery stating a person's or organization's name and address.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808389912_3eb0f68afe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808389912_7ee4ca3f4f_o.png",
+      "id_image": "letterhead_5977899"
+    }
+  ]
+}

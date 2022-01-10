@@ -1,0 +1,56 @@
+{
+  "english": "horizontal",
+  "list_translation_mean": [
+    {
+      "translate_mean": "nằm ngang",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thuộc về chân trời",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "parallel to the plane of the horizon; at right angles to the vertical.",
+      "definitions_ex_en": "a horizontal line",
+      "definitions_ex_vn": "một đường ngang",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "involving social groups of equal status.",
+      "definitions_ex_en": "horizontal class loyalties",
+      "definitions_ex_vn": "Lớp học nằm ngang trung thành",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "of or at the horizon.",
+      "definitions_ex_en": "the horizontal moon",
+      "definitions_ex_vn": "Mặt trăng ngang",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a horizontal line, plane, etc.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809332196_9b3b7fbb15_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809332196_75135abdd8_o.png",
+      "id_image": "horizontal_1484599"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809332166_1a90f4e813_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809332166_e1907de091_o.png",
+      "id_image": "horizontal_2280396"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810068820_eee8f9eaa4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810068820_1a929af93c_o.png",
+      "id_image": "horizontal_4598313"
+    }
+  ]
+}

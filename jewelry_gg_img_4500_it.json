@@ -1,0 +1,68 @@
+{
+  "english": "jewelry",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đồ châu báu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đồ kim hoàn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đồ nữ trang",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nữ trang",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nghề bán đồ châu báu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nghề bán đồ kim hoàn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nghệ thuật làm đồ kim hoàn",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "personal ornaments, such as necklaces, rings, or bracelets, that are typically made from or contain jewels and precious metal.",
+      "definitions_ex_en": "she had silver hair and chunky gold jewelry",
+      "definitions_ex_vn": "Cô có mái tóc bạc và trang sức vàng chunky",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809449263_64b0295573_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809449263_740d05cdc8_o.png",
+      "id_image": "jewelry_2722303"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808379157_cc673cbbfc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808379157_f340b0d66c_o.png",
+      "id_image": "jewelry_452683"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810071220_1dbd218c9b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810071220_82eb9b4e22_o.png",
+      "id_image": "jewelry_5825558"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809449193_f274b4054c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809449193_763985271e_o.png",
+      "id_image": "jewelry_6192431"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809449173_2b6bb52592_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809449173_54f3c63cd7_o.png",
+      "id_image": "jewelry_6258768"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "english": "motivation",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự giải bày",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự trình bày",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the reason or reasons one has for acting or behaving in a particular way.",
+      "definitions_ex_en": "escape can be a strong motivation for travel",
+      "definitions_ex_vn": "thoát có thể là một động lực mạnh mẽ để đi du lịch",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808380002_596837c907_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808380002_7d47048f61_o.png",
+      "id_image": "motivation_3989540"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808379952_69fc211283_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808379952_3b03d2b6ea_o.png",
+      "id_image": "motivation_3989546"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808380057_9be4904257_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808380057_db41142b55_o.png",
+      "id_image": "motivation_418812"
+    }
+  ]
+}

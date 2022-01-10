@@ -1,0 +1,54 @@
+{
+  "english": "ignition",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bộ phận đánh lửa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự bật lửa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự bốc lửa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự châm ngòi lửa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự sanh tia điện ở trong máy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự xẹt lửa ở điện",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the action of setting something on fire or starting to burn.",
+      "definitions_ex_en": "three minutes after ignition, the flames were still growing",
+      "definitions_ex_vn": "ba phút sau khi đánh lửa, ngọn lửa vẫn đang phát triển",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810060585_186f1178bc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810060585_a5a3954f42_o.png",
+      "id_image": "ignition_2422786"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808368612_bd2464778a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808368612_a64a44cdd8_o.png",
+      "id_image": "ignition_5457883"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809323646_327173e3bd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809323646_71c553b8c9_o.png",
+      "id_image": "ignition_5823332"
+    }
+  ]
+}

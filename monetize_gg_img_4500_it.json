@@ -1,0 +1,44 @@
+{
+  "english": "monetize",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cho lưu hành làm tiền tệ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đúc thành tiền tệ",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "earn revenue from (an asset, business, etc.).",
+      "definitions_ex_en": "the company has not said how it expects to monetize the game",
+      "definitions_ex_vn": "Công ty chưa nói cách nó mong đợi để kiếm tiền từ trò chơi",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "convert into or express in the form of currency.",
+      "definitions_ex_en": "Hamilton had monetized the entire federal and state war debts",
+      "definitions_ex_vn": "Hamilton đã kiếm tiền cho toàn bộ các khoản nợ chiến tranh liên bang và tiểu bang",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809337911_4f5b25ef2c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809337911_a769b89dd5_o.png",
+      "id_image": "monetize_2542472"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809337881_3569fc9611_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809337881_a181c57f7a_o.png",
+      "id_image": "monetize_4277576"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809452743_8d69b6a0f9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809452743_b4e32e3d0f_o.png",
+      "id_image": "monetize_6433522"
+    }
+  ]
+}

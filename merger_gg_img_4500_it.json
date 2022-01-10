@@ -1,0 +1,38 @@
+{
+  "english": "merger",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự hòa hợp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự hỗn hợp",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a combination of two things, especially companies, into one.",
+      "definitions_ex_en": "a merger between two supermarket chains",
+      "definitions_ex_vn": "một sự hợp nhất giữa hai chuỗi siêu thị",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809701209_932f69839d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809701209_c79e428807_o.png",
+      "id_image": "merger_1832064"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810083700_5e189c6831_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810083700_12aacfe857_o.png",
+      "id_image": "merger_5184308"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809346226_368fca0d5f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809346226_4063d453d3_o.png",
+      "id_image": "merger_5271102"
+    }
+  ]
+}

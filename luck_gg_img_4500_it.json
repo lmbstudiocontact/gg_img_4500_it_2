@@ -1,0 +1,46 @@
+{
+  "english": "luck",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự hạnh phúc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự may mắn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự may rủi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vận may",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "success or failure apparently brought by chance rather than through one's own actions.",
+      "definitions_ex_en": "it was just luck that the first kick went in",
+      "definitions_ex_vn": "Đó chỉ là may mắn khi cú đá đầu tiên đã đi vào",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688379_5344ecc716_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688379_bf661254d6_o.png",
+      "id_image": "luck_1409022"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688409_551cb3fa84_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688409_548ea8b058_o.png",
+      "id_image": "luck_305496"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810070165_2c340ecaf7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810070165_f66dbb7c02_o.png",
+      "id_image": "luck_3159017"
+    }
+  ]
+}

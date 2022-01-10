@@ -1,0 +1,52 @@
+{
+  "english": "maze",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đường rắc rối",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mê lộ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "làm bối rối",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm lạc lối",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a network of paths and hedges designed as a puzzle through which one has to find a way.",
+      "definitions_ex_en": "the house has a maze and a walled Italian garden",
+      "definitions_ex_vn": "Ngôi nhà có một Mê cung và một khu vườn Ý có tường",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "be dazed and confused.",
+      "definitions_ex_en": "she was still mazed with the drug she had taken",
+      "definitions_ex_vn": "Cô vẫn bị mê cung với thuốc mà cô đã lấy",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809319266_4f856d416a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809319266_9a94d86c95_o.png",
+      "id_image": "maze_377116"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808363902_90492005f2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808363902_8c7ecf79b4_o.png",
+      "id_image": "maze_676310"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809319201_7e981c55b2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809319201_08c13032b1_o.png",
+      "id_image": "maze_951781"
+    }
+  ]
+}

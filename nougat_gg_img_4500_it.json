@@ -1,0 +1,29 @@
+{
+  "english": "nougat",
+  "list_translation_mean": [
+    {
+      "translate_mean": "kẹo hạnh phúc",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a candy made from sugar or honey, nuts, and egg white.",
+      "definitions_ex_en": "a box of nougat",
+      "definitions_ex_vn": "một hộp nougat",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810056865_6e76f9d953_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810056865_2bca726df7_o.png",
+      "id_image": "nougat_3714119"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809320221_7bc844fb02_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809320221_a116cc3807_o.png",
+      "id_image": "nougat_842717"
+    }
+  ]
+}

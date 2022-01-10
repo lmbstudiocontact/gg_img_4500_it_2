@@ -1,0 +1,39 @@
+{
+  "english": "microwave",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hâm nóng bằng máy",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "máy hâm nóng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an electromagnetic wave with a wavelength in the range 0.001–0.3 m, shorter than that of a normal radio wave but longer than those of infrared radiation. Microwaves are used in radar, in communications, and for heating in microwave ovens and in various industrial processes.",
+      "definitions_ex_en": "microwave radiation",
+      "definitions_ex_vn": "Bức xạ vi sóng.",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "cook (food) in a microwave oven.",
+      "definitions_ex_en": "he microwaved some steak out of the freezer",
+      "definitions_ex_vn": "Anh ta vi sóng một ít bít tết ra khỏi tủ đông",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809458983_5a5597ee7b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809458983_4e47d9900b_o.png",
+      "id_image": "microwave_1143125"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809699394_74754f0966_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809699394_7e5b9e97a5_o.png",
+      "id_image": "microwave_298341"
+    }
+  ]
+}

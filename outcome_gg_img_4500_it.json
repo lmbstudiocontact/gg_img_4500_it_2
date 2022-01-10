@@ -1,0 +1,32 @@
+{
+  "english": "outcome",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chung cuộc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "kết cuộc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "kết quả",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the way a thing turns out; a consequence.",
+      "definitions_ex_en": "it is the outcome of the vote that counts",
+      "definitions_ex_vn": "Đó là kết quả của phiếu bầu đếm",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809341926_a8ef27f0e8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809341926_aabc5b54af_o.png",
+      "id_image": "outcome_1547383"
+    }
+  ]
+}

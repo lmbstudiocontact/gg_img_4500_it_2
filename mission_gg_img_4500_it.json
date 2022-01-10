@@ -1,0 +1,83 @@
+{
+  "english": "mission",
+  "list_translation_mean": [
+    {
+      "translate_mean": "công tác",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đi công tác",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhiệm vụ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự đi công cán",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sứ mạng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sứ quán",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cầm đầu một phái đoàn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "gởi người nào đi công cán",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "phát người nào đi công cán",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an important assignment carried out for political, religious, or commercial purposes, typically involving travel.",
+      "definitions_ex_en": "a trade mission to Mexico",
+      "definitions_ex_vn": "Một nhiệm vụ thương mại đến Mexico",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the vocation or calling of a religious organization, especially a Christian one, to go out into the world and spread its faith.",
+      "definitions_ex_en": "the Christian mission",
+      "definitions_ex_vn": "Nhiệm vụ Kitô giáo",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a strongly felt aim, ambition, or calling.",
+      "definitions_ex_en": "his main mission in life has been to cut unemployment",
+      "definitions_ex_vn": "Nhiệm vụ chính của anh ấy trong cuộc sống đã được cắt bỏ thất nghiệp",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809340901_ca042c89a7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809340901_eb13c30f17_o.png",
+      "id_image": "mission_1485075"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809340861_c9a266b720_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809340861_dcc628e98c_o.png",
+      "id_image": "mission_3775347"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808385767_910905b856_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808385767_ec4dc68922_o.png",
+      "id_image": "mission_4577418"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809455733_7e586e20ae_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809455733_dfa36fdb35_o.png",
+      "id_image": "mission_780578"
+    }
+  ]
+}

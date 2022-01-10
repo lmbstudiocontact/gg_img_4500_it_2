@@ -1,0 +1,41 @@
+{
+  "english": "interruption",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chổ đứt đoạn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chổ gián đoạn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự cúp điện",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiếng để chận lời",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the action of interrupting or being interrupted.",
+      "definitions_ex_en": "a chance to study without interruption",
+      "definitions_ex_vn": "một cơ hội để học mà không bị gián đoạn",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808386212_b94c9a4f3c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808386212_275c5ec8ee_o.png",
+      "id_image": "interruption_5361926"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809341206_d3b6fccfce_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809341206_9550da5888_o.png",
+      "id_image": "interruption_6314899"
+    }
+  ]
+}

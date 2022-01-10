@@ -1,0 +1,90 @@
+{
+  "english": "object",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cứu cánh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đồ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mục đích",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mục tiêu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người có vẻ buồn cười",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người đáng thương hại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vật",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vật thể",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vật hừu tình",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a material thing that can be seen and touched.",
+      "definitions_ex_en": "he was dragging a large object",
+      "definitions_ex_vn": "Anh ta đang kéo một vật lớn",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a person or thing to which a specified action or feeling is directed.",
+      "definitions_ex_en": "disease became the object of investigation",
+      "definitions_ex_vn": "Bệnh trở thành đối tượng điều tra",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a noun or noun phrase governed by an active transitive verb or by a preposition.",
+      "definitions_ex_en": "in Gaelic the word order is verb, subject, object",
+      "definitions_ex_vn": "Trong Gaelic, trật tự từ là động từ, chủ đề, đối tượng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a data construct that provides a description of something that may be used by a computer (such as a processor, a peripheral, a document, or a data set) and defines its status, its method of operation, and how it interacts with other objects.",
+      "definitions_ex_en": "the interface treats most items, including cells, graphs, and buttons, as objects",
+      "definitions_ex_vn": "Giao diện xử lý hầu hết các mặt hàng, bao gồm các ô, biểu đồ và nút, như các đối tượng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "say something to express one's disapproval of or disagreement with something.",
+      "definitions_ex_en": "residents object to the volume of traffic",
+      "definitions_ex_vn": "Cư dân đối tượng với khối lượng giao thông",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808394662_d15c290ee1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808394662_dec28bf558_o.png",
+      "id_image": "object_1690980"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809704469_80467fdba6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809704469_765203aaa5_o.png",
+      "id_image": "object_2181355"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809464468_41e54374fc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809464468_3d726d8f64_o.png",
+      "id_image": "object_4882941"
+    }
+  ]
+}

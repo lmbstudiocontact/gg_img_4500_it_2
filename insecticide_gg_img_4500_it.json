@@ -1,0 +1,38 @@
+{
+  "english": "insecticide",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sát trùng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thuốc sát trùng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a substance used for killing insects.",
+      "definitions_ex_en": "the use of chemical insecticides",
+      "definitions_ex_vn": "việc sử dụng thuốc trừ sâu hóa học",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809700874_975832f290_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809700874_d884b7f57f_o.png",
+      "id_image": "insecticide_1571453"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808390762_fe75ce1b42_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808390762_ffcb9896c8_o.png",
+      "id_image": "insecticide_1600602"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810083185_b834cf98a2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810083185_2991143b99_o.png",
+      "id_image": "insecticide_2674355"
+    }
+  ]
+}

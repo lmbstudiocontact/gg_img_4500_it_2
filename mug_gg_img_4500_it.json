@@ -1,0 +1,100 @@
+{
+  "english": "mug",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cốc tròn có quai",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dể bị phỉnh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mặt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "miệng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người học trò chăm học",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người khờ dại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người ngu ngốc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vật đựng trong cốc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ăn cướp",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chăm học",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "học gạo để đi thi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "học riết",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chụp hình người nào",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a large cup, typically cylindrical with a handle and used without a saucer.",
+      "definitions_ex_en": "she picked up her coffee mug",
+      "definitions_ex_vn": "Cô nhặt cốc cà phê của mình lên",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a person's face.",
+      "definitions_ex_en": "I don't want to see Barry's ugly mug when I get home",
+      "definitions_ex_vn": "Tôi không muốn nhìn thấy cốc xấu xí của Barry khi tôi về nhà",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "attack and rob (someone) in a public place.",
+      "definitions_ex_en": "he was mugged by three men who stole his bike",
+      "definitions_ex_vn": "Anh ta bị giết bởi ba người đàn ông đã đánh cắp xe đạp của mình",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "make faces, especially silly or exaggerated ones, before an audience or a camera.",
+      "definitions_ex_en": "he mugged for the camera",
+      "definitions_ex_vn": "Anh ấy đã uống rượu cho máy ảnh",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809687649_428ac65ef0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809687649_903d538a32_o.png",
+      "id_image": "mug_263780"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808377422_fdb1ff5a10_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808377422_8e5fa4577b_o.png",
+      "id_image": "mug_5507941"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809687574_5df3420a8a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809687574_0d71991108_o.png",
+      "id_image": "mug_6255844"
+    }
+  ]
+}

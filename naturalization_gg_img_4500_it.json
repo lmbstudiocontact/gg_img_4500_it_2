@@ -1,0 +1,59 @@
+{
+  "english": "naturalization",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hái góp cây cỏ nghiên cứu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nghiên cứu bác vật học",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự phục thủy thổ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự quen thủy thổ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the admittance of a foreigner to the citizenship of a country.",
+      "definitions_ex_en": "an application for naturalization as a British citizen",
+      "definitions_ex_vn": "một ứng dụng để nhập tịch như một công dân Anh",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the introduction of a plant or animal to a region where it is not indigenous.",
+      "definitions_ex_en": "the first report of naturalization of this species in the United States",
+      "definitions_ex_vn": "Báo cáo nhập hóa đầu tiên của loài này ở Hoa Kỳ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the alteration of an adopted foreign word so that it conforms more closely to the phonology or orthography of the adopting language.",
+      "definitions_ex_en": "French naturalization of Creole words or phrases",
+      "definitions_ex_vn": "Nhập tịch Pháp của các từ hoặc cụm từ Creole",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the act of causing something to appear natural.",
+      "definitions_ex_en": "trailers have contributed to the naturalization of a variety of social desires",
+      "definitions_ex_vn": "Rơ moóc đã đóng góp vào việc nhập tịch một loạt các mong muốn xã hội",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809442658_f9cc2438be_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809442658_dac722187f_o.png",
+      "id_image": "naturalization_4697312"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809442618_5976a08975_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809442618_88de69a736_o.png",
+      "id_image": "naturalization_4819379"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "english": "hypnotize",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thôi miên",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "produce a state of hypnosis in (someone).",
+      "definitions_ex_en": "a witness had been hypnotized to enhance his memory",
+      "definitions_ex_vn": "Một nhân chứng đã bị thôi miên để tăng cường trí nhớ của mình",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810062075_a92102794e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810062075_5333124932_o.png",
+      "id_image": "hypnotize_3834110"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "english": "mince",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chả thịt bằm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cắt thịt",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đi với vẻ không tự nhiên",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm bộ ỏng ẹo",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "sống sượng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "sửa bộ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thái mỏng thịt",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "cut up or grind (food, especially meat) into very small pieces, typically in a machine with revolving blades.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "walk with short quick steps in an affectedly dainty manner.",
+      "definitions_ex_en": "there were plenty of secretaries mincing about",
+      "definitions_ex_vn": "Có rất nhiều thư ký băm về",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808387867_ecf6a60266_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808387867_336359576c_o.png",
+      "id_image": "mince_3690250"
+    }
+  ]
+}

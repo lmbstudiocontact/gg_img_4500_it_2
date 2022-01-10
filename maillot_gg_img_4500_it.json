@@ -1,0 +1,34 @@
+{
+  "english": "maillot",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hàng xấp thơ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "kệ sắp thơ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a pair of tights worn for dancing or gymnastics.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a jersey or top, especially one worn in sports such as cycling.",
+      "definitions_ex_en": "the maillot jaune is the yellow jersey worn by the leader",
+      "definitions_ex_vn": "The Maillot Jaune là chiếc áo vàng mặc bởi nhà lãnh đạo",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809443678_86c618b61d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809443678_2b8b772bb4_o.png",
+      "id_image": "maillot_5267506"
+    }
+  ]
+}

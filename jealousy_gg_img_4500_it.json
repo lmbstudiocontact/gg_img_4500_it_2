@@ -1,0 +1,60 @@
+{
+  "english": "jealousy",
+  "list_translation_mean": [
+    {
+      "translate_mean": "lòng ghen tị",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lòng ghen ghét",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "máu ghen",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự bo bo giữ chặt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự cảnh giác vì ngờ vực",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự hết sức giữ gìn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tính đố kỵ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thái độ ghen tị",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thái độ ghen tuông",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thái độ ghen ghét",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the state or feeling of being jealous.",
+      "definitions_ex_en": "a sharp pang of jealousy",
+      "definitions_ex_vn": "một pang sắc nét của sự ghen tuông",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808380237_fecce210b2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808380237_d727b0f060_o.png",
+      "id_image": "jealousy_708660"
+    }
+  ]
+}

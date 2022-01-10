@@ -1,0 +1,73 @@
+{
+  "english": "judge",
+  "list_translation_mean": [
+    {
+      "translate_mean": "quan toà",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thẩm phán",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đánh giá",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "phán đoán",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "xét",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "xét đoán",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "phân xử",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "xét xử",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a public official appointed to decide cases in a court of law.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "form an opinion or conclusion about.",
+      "definitions_ex_en": "it is hard to judge whether such opposition is justified",
+      "definitions_ex_vn": "Thật khó để đánh giá xem sự phản đối đó có hợp lý không",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810068465_8636a56306_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810068465_f8b072aa60_o.png",
+      "id_image": "judge_1781197"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810068440_dcd2002a07_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810068440_e5142d46b1_o.png",
+      "id_image": "judge_2307583"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809446733_0673855879_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809446733_a3edbbebd3_o.png",
+      "id_image": "judge_2365130"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808376592_bd19295b10_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808376592_b0aa89c41d_o.png",
+      "id_image": "judge_843339"
+    }
+  ]
+}

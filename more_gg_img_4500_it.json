@@ -1,0 +1,55 @@
+{
+  "english": "more",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hơn",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "hơn nhiều",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "hơn",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "thêm",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "hơn nữa",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "thêm nữa",
+      "type_word": "adverb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a greater or additional amount or degree of.",
+      "definitions_ex_en": "she poured herself more coffee",
+      "definitions_ex_vn": "Cô ấy rót thêm cà phê",
+      "definitions_type_word": "article"
+    },
+    {
+      "definitions_word_en": "a greater or additional amount of something.",
+      "definitions_ex_en": "tell me more",
+      "definitions_ex_vn": "Nói cho tôi biết thêm",
+      "definitions_type_word": "pronoun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809451318_ab815318a1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809451318_f0f815ee0e_o.png",
+      "id_image": "more_324867"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809451288_0268033be3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809451288_96d538ddcf_o.png",
+      "id_image": "more_455902"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "english": "incentive",
+  "list_translation_mean": [
+    {
+      "translate_mean": "kích thích",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "khêu gợi",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "khuyến khích",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a thing that motivates or encourages one to do something.",
+      "definitions_ex_en": "there is no incentive for customers to conserve water",
+      "definitions_ex_vn": "Không có động lực cho khách hàng để bảo tồn nước",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809434878_3218ba0d80_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809434878_c7660b0824_o.png",
+      "id_image": "incentive_2037769"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809674624_a57196ef38_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809674624_b676a79de0_o.png",
+      "id_image": "incentive_2586963"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809434833_90c3226976_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809434833_b213f889b2_o.png",
+      "id_image": "incentive_2631422"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809319686_21052a237d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809319686_86a9481f6c_o.png",
+      "id_image": "incentive_4577002"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810056380_7ca3c9bce3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810056380_1cc45cd27d_o.png",
+      "id_image": "incentive_992628"
+    }
+  ]
+}
